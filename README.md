@@ -1,33 +1,39 @@
-# Website
+<div style="text-align: center" align="center">
+  <img alt="Open Sauced" src="https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width="300px" />
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+# docs.opensauced.pizza
+> The path to your next Open Source contribution
 
-## Installation
+[![Commits](https://img.shields.io/github/commit-activity/w/open-sauced/explore.opensauced.pizza?style=flat)](https://github.com/open-sauced/explore.opensauced.pizza/pulse)
+[![Issues](https://img.shields.io/github/issues/open-sauced/explore.opensauced.pizza.svg?style=flat)](https://github.com/open-sauced/explore.opensauced.pizza/issues)
+[![Releases](https://img.shields.io/github/v/release/open-sauced/explore.opensauced.pizza.svg?style=flat)](https://github.com/open-sauced/explore.opensauced.pizza/releases)
+[![Discord](https://img.shields.io/discord/714698561081704529.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/U2peSNf23P)
+[![Twitter](https://img.shields.io/twitter/follow/saucedopen?label=Follow&style=social)](https://twitter.com/saucedopen)
 
-```console
-yarn install
+</div>
+
+## 🧪 Built for Experimenting
+
+This tool is meant to accelerate development on [Open Sauced](https://opensauced.pizza) by giving contributors a way to access [Docusaurus 2](https://docusaurus.io/) powered developer documentation available at [docs.opensauced.pizza](https://docs.opensauced.pizza).
+
+## 🤝 Contributing
+
+We encourage you to contribute to Open Sauced! Please check out the [Contributing guide](CONTRIBUTING.md) for guidelines about how to proceed.
+
+<img align="right" src="https://i.ibb.co/CJfW18H/ship.gif" width="200"/>
+
+## 🖥️ Development
+
+```sh
+npm ci
+npm start
 ```
 
-## Local Development
+## 🍕 Community
 
-```console
-yarn start
-```
+Got Questions? Join the conversation in our [Discord](https://discord.gg/U2peSNf23P).  
+Find Open Sauced videos and release overviews on our [YouTube Channel](https://www.youtube.com/channel/UCklWxKrTti61ZCROE1e5-MQ).
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## ⚖️ LICENSE
 
-## Build
-
-```console
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+MIT © [Open Sauced](LICENSE)

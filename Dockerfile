@@ -8,8 +8,11 @@ COPY .npmrc ./
 
 RUN npm ci
 
-COPY public ./public
+COPY docs ./docs
 COPY src ./src
+COPY static ./static
+COPY docusaurus.config.js ./
+COPY sidebars.js ./
 
 CMD [ "npm", "start"]
 
