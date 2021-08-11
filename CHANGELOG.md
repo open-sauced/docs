@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.0.0...v1.1.0) (2021-08-11)
+
+
+### Features
+
+* re-add algolia search ([#9](https://github.com/open-sauced/docs.opensauced.pizza/issues/9)) ([0d8baae](https://github.com/open-sauced/docs.opensauced.pizza/commit/0d8baaeebd89f5a3090c260ccbb7c9594654c6a9)), closes [#2](https://github.com/open-sauced/docs.opensauced.pizza/issues/2)
+
 ## 1.0.0 (2021-08-03)
 
 
