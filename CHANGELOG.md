@@ -1,3 +1,10 @@
+### [1.1.1](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.1.0...v1.1.1) (2021-08-11)
+
+
+### Continuous Integration
+
+* add open-sauced triage wonkflows ([#10](https://github.com/open-sauced/docs.opensauced.pizza/issues/10)) ([dfb508a](https://github.com/open-sauced/docs.opensauced.pizza/commit/dfb508a0254ee7cc5f83e453f8d33332f68eba11))
+
 ## [1.1.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.0.0...v1.1.0) (2021-08-11)
 
 
