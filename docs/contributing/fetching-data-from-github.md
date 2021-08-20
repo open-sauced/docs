@@ -24,6 +24,13 @@ Each Open Sauced user leverages their own GitHub repository as a database. The r
 
 The repo [open-sauced/goals-template](https://github.com/open-sauced/goals-template) is used as a template repo to generate the user's `open-sauced-goals` repo.
 
+**data.json**
+The Open Sauced goal data in this list is populatated using the [goals-caching.yml](https://github.com/open-sauced/actions/blob/main/goals-caching/update-open-sauced-goals-cache.js). Each opened issue in the goals repo full name is stored along with star, forks, and issues count. This is needed for rendering the user's open sauced dashboard. 
+
+**stars.json**
+The Open Sauced recommendation data is stored using the logged in user's starred repositories. This data is accessible via the GitHub API and stored publically in goals repo for easy rendering. The list is populatated using the [goals-caching.yml](https://github.com/open-sauced/actions/blob/main/goals-caching/update-open-sauced-goals-cache.js). _Plans are being developed to power platform wide recommendations using this data, this is pending the reviewing of the GitHub TOCs_.
+
+
 ## Use of API in Components
 
 The following table shows which components (`src/components/*.js`) use which API functions (`src/lib/apiGraphQL.js', 'src/lib/persistedGraphQL.js`), and what they do.
