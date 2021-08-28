@@ -21,7 +21,8 @@ module.exports = {
         'contributing/code-of-conduct',
         'contributing/triage-guide',
         'contributing/resolve-merge-conflicts',
-        'contributing/fetching-data-from-github'
+        'contributing/fetching-data-from-github',
+        'contributing/maintainers'
       ],
     },
     {
