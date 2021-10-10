@@ -17,6 +17,7 @@
         "react-dom": "^17.0.2"
       },
       "devDependencies": {
+        "@open-sauced/check-engines": "^1.0.0",
         "@open-sauced/semantic-release-conventional-config": "^1.2.0",
         "@svgr/webpack": "^5.5.0",
         "clsx": "^1.1.1",
@@ -2778,6 +2779,22 @@
       "dev": true,
       "dependencies": {
         "@octokit/openapi-types": "^9.5.0"
+      }
+    },
+    "node_modules/@open-sauced/check-engines": {
+      "version": "1.0.0",
+      "resolved": "https://registry.npmjs.org/@open-sauced/check-engines/-/check-engines-1.0.0.tgz",
+      "integrity": "sha512-J9kkeAZGFxFWEPstke0rlT5vN7KU6CVPHr29dTKvjT3iOgJmfDK4eFM+uSy2BWoZ4GK9kC+tans3sqfYmf+zNA==",
+      "dev": true,
+      "dependencies": {
+        "npm-install-checks": "^4.0.0"
+      },
+      "bin": {
+        "check-engines": "index.js"
+      },
+      "engines": {
+        "node": ">=10",
+        "npm": ">=3"
       }
     },
     "node_modules/@open-sauced/semantic-release-conventional-config": {
@@ -11274,6 +11291,18 @@
       "bin": {
         "npm": "bin/npm-cli.js",
         "npx": "bin/npx-cli.js"
+      },
+      "engines": {
+        "node": ">=10"
+      }
+    },
+    "node_modules/npm-install-checks": {
+      "version": "4.0.0",
+      "resolved": "https://registry.npmjs.org/npm-install-checks/-/npm-install-checks-4.0.0.tgz",
+      "integrity": "sha512-09OmyDkNLYwqKPOnbI8exiOZU2GVVmQp7tgez2BPi5OZC8M82elDAps7sxC4l//uSUtotWqoEIDwjRvWH4qz8w==",
+      "dev": true,
+      "dependencies": {
+        "semver": "^7.1.1"
       },
       "engines": {
         "node": ">=10"
@@ -23187,6 +23216,15 @@
         "@octokit/openapi-types": "^9.5.0"
       }
     },
+    "@open-sauced/check-engines": {
+      "version": "1.0.0",
+      "resolved": "https://registry.npmjs.org/@open-sauced/check-engines/-/check-engines-1.0.0.tgz",
+      "integrity": "sha512-J9kkeAZGFxFWEPstke0rlT5vN7KU6CVPHr29dTKvjT3iOgJmfDK4eFM+uSy2BWoZ4GK9kC+tans3sqfYmf+zNA==",
+      "dev": true,
+      "requires": {
+        "npm-install-checks": "^4.0.0"
+      }
+    },
     "@open-sauced/semantic-release-conventional-config": {
       "version": "1.2.0",
       "resolved": "https://registry.npmjs.org/@open-sauced/semantic-release-conventional-config/-/semantic-release-conventional-config-1.2.0.tgz",
@@ -31643,6 +31681,15 @@
           "bundled": true,
           "dev": true
         }
+      }
+    },
+    "npm-install-checks": {
+      "version": "4.0.0",
+      "resolved": "https://registry.npmjs.org/npm-install-checks/-/npm-install-checks-4.0.0.tgz",
+      "integrity": "sha512-09OmyDkNLYwqKPOnbI8exiOZU2GVVmQp7tgez2BPi5OZC8M82elDAps7sxC4l//uSUtotWqoEIDwjRvWH4qz8w==",
+      "dev": true,
+      "requires": {
+        "semver": "^7.1.1"
       }
     },
     "npm-run-path": {
