@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.1.1...v1.2.0) (2021-10-10)
+
+
+### Features
+
+* add maintainer docs ([#12](https://github.com/open-sauced/docs.opensauced.pizza/issues/12)) ([d215c75](https://github.com/open-sauced/docs.opensauced.pizza/commit/d215c75b0326f21a186c54df130d89234ca4f6cc)), closes [#5](https://github.com/open-sauced/docs.opensauced.pizza/issues/5)
+
 ### [1.1.1](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.1.0...v1.1.1) (2021-08-11)
 
 

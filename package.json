@@ -1,6 +1,6 @@
 {
   "name": "@open-sauced/docs.opensauced.pizza",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
