@@ -3,6 +3,8 @@
   "version": "1.2.0",
   "private": true,
   "scripts": {
+    "preinstall": "npx @open-sauced/check-engines",
+    "prestart": "npx @open-sauced/check-engines",
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",
@@ -25,6 +27,7 @@
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
+    "@open-sauced/check-engines": "^1.0.0",
     "@open-sauced/semantic-release-conventional-config": "^1.2.0",
     "@svgr/webpack": "^5.5.0",
     "clsx": "^1.1.1",
