@@ -16,22 +16,22 @@
     "semantic-release": "semantic-release"
   },
   "dependencies": {
-    "@docusaurus/core": "2.0.0-beta.4",
-    "@docusaurus/preset-classic": "2.0.0-beta.4",
-    "@docusaurus/theme-search-algolia": "^2.0.0-beta.4",
+    "@docusaurus/core": "2.0.0-beta.5",
+    "@docusaurus/preset-classic": "2.0.0-beta.5",
+    "@docusaurus/theme-search-algolia": "^2.0.0-beta.5",
     "@mdx-js/react": "^1.6.22",
     "prism-react-renderer": "^1.2.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@open-sauced/semantic-release-conventional-config": "^1.1.0",
+    "@open-sauced/semantic-release-conventional-config": "^1.2.0",
     "@svgr/webpack": "^5.5.0",
     "clsx": "^1.1.1",
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
     "file-loader": "^6.2.0",
-    "semantic-release": "^17.4.4",
+    "semantic-release": "^17.4.7",
     "url-loader": "^4.1.1"
   },
   "browserslist": {
