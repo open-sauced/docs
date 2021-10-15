@@ -1,3 +1,10 @@
+### [1.3.1](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.3.0...v1.3.1) (2021-10-15)
+
+
+### Bug Fixes
+
+* update dead contributing link in readme ([#15](https://github.com/open-sauced/docs.opensauced.pizza/issues/15)) ([dd11c65](https://github.com/open-sauced/docs.opensauced.pizza/commit/dd11c65ff064289f240dccf0c1d437163f3298ba)), closes [#13](https://github.com/open-sauced/docs.opensauced.pizza/issues/13)
+
 ## [1.3.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.2.0...v1.3.0) (2021-10-10)
 
 
