@@ -19,7 +19,7 @@
       },
       "devDependencies": {
         "@open-sauced/check-engines": "^1.0.0",
-        "@open-sauced/semantic-release-conventional-config": "^2.0.0",
+        "@open-sauced/semantic-release-conventional-config": "^2.0.1",
         "@svgr/webpack": "^5.5.0",
         "clsx": "^1.1.1",
         "commitizen": "^4.2.4",
@@ -2800,9 +2800,9 @@
       }
     },
     "node_modules/@open-sauced/semantic-release-conventional-config": {
-      "version": "2.0.0",
-      "resolved": "https://registry.npmjs.org/@open-sauced/semantic-release-conventional-config/-/semantic-release-conventional-config-2.0.0.tgz",
-      "integrity": "sha512-3eZ3rehct1YPhRN8m2XEgzMkco8H3uti0AB1fJCL32yZOI0o76BrHemdj+BeOL6AA2w+g0K3K/kAFre7eSo3yg==",
+      "version": "2.0.1",
+      "resolved": "https://registry.npmjs.org/@open-sauced/semantic-release-conventional-config/-/semantic-release-conventional-config-2.0.1.tgz",
+      "integrity": "sha512-pCxYQm3mEa2yU8G0unSbi6FpzpkURBwC/KEKncpqOsiPCKlrNlQXcKz9fl+ZD5i7TJTfNLulbnlkq/lujw8NYg==",
       "dev": true,
       "hasInstallScript": true,
       "dependencies": {
@@ -23647,9 +23647,9 @@
       }
     },
     "@open-sauced/semantic-release-conventional-config": {
-      "version": "2.0.0",
-      "resolved": "https://registry.npmjs.org/@open-sauced/semantic-release-conventional-config/-/semantic-release-conventional-config-2.0.0.tgz",
-      "integrity": "sha512-3eZ3rehct1YPhRN8m2XEgzMkco8H3uti0AB1fJCL32yZOI0o76BrHemdj+BeOL6AA2w+g0K3K/kAFre7eSo3yg==",
+      "version": "2.0.1",
+      "resolved": "https://registry.npmjs.org/@open-sauced/semantic-release-conventional-config/-/semantic-release-conventional-config-2.0.1.tgz",
+      "integrity": "sha512-pCxYQm3mEa2yU8G0unSbi6FpzpkURBwC/KEKncpqOsiPCKlrNlQXcKz9fl+ZD5i7TJTfNLulbnlkq/lujw8NYg==",
       "dev": true,
       "requires": {
         "@semantic-release-plus/docker": "^3.0.1",
