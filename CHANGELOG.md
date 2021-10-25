@@ -1,3 +1,10 @@
+### [1.4.2](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.4.1...v1.4.2) (2021-10-25)
+
+
+### Bug Fixes
+
+* add missing config minor ([#19](https://github.com/open-sauced/docs.opensauced.pizza/issues/19)) ([8fb7a03](https://github.com/open-sauced/docs.opensauced.pizza/commit/8fb7a03677ae5e4955c66004de2ea01170ff3366))
+
 ### [1.4.1](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.4.0...v1.4.1) (2021-10-25)
 
 
