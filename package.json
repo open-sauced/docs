@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@open-sauced/check-engines": "^1.0.0",
-    "@open-sauced/semantic-release-conventional-config": "^2.0.0",
+    "@open-sauced/semantic-release-conventional-config": "^2.0.1",
     "@svgr/webpack": "^5.5.0",
     "clsx": "^1.1.1",
     "commitizen": "^4.2.4",
