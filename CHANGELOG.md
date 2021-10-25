@@ -1,3 +1,10 @@
+### [1.4.1](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.4.0...v1.4.1) (2021-10-25)
+
+
+### Continuous Integration
+
+* correct docker deploy variables ([#18](https://github.com/open-sauced/docs.opensauced.pizza/issues/18)) ([71caaa1](https://github.com/open-sauced/docs.opensauced.pizza/commit/71caaa1b08ed91f5544f5f27c38067fc481ce293))
+
 ## [1.4.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.3.1...v1.4.0) (2021-10-25)
 
 
