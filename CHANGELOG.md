@@ -1,3 +1,15 @@
+## [1.4.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.3.1...v1.4.0) (2021-10-25)
+
+
+### Bug Fixes
+
+* correct docker deploy variables ([#17](https://github.com/open-sauced/docs.opensauced.pizza/issues/17)) ([db0b965](https://github.com/open-sauced/docs.opensauced.pizza/commit/db0b96579e201cb1c94edbb6bfb55247126823f2))
+
+
+### Build System
+
+* add dependabot missing minors ([#16](https://github.com/open-sauced/docs.opensauced.pizza/issues/16)) ([338a418](https://github.com/open-sauced/docs.opensauced.pizza/commit/338a418e50cb9cab2cbf66fb56ba54edef198287))
+
 ### [1.3.1](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.3.0...v1.3.1) (2021-10-15)
 
 
