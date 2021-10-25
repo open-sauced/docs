@@ -14,8 +14,8 @@
     "serve": "npm run docusaurus -- serve",
     "write-translations": "npm run docusaurus -- write-translations",
     "write-heading-ids": "npm run docusaurus -- write-heading-ids",
-    "push": "cz",
-    "semantic-release": "semantic-release"
+    "push": "npx cz",
+    "semantic-release": "npx semantic-release"
   },
   "dependencies": {
     "@docusaurus/core": "2.0.0-beta.8",
@@ -28,13 +28,12 @@
   },
   "devDependencies": {
     "@open-sauced/check-engines": "^1.0.0",
-    "@open-sauced/semantic-release-conventional-config": "^1.4.0",
+    "@open-sauced/semantic-release-conventional-config": "^2.0.0",
     "@svgr/webpack": "^5.5.0",
     "clsx": "^1.1.1",
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
     "file-loader": "^6.2.0",
-    "semantic-release": "^17.4.7",
     "url-loader": "^4.1.1"
   },
   "browserslist": {
