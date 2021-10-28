@@ -128,7 +128,7 @@ jobs:
           GIT_COMMITTER_EMAIL: ${{ secrets.GIT_COMMITTER_EMAIL }}
         run: |
           cp -R /tmp/build ./build
-          npx semantic-release
+          npm run semantic-release
           echo "::set-output name=version::$(cat package.json | jq -r '.version')"
 
   deploy:
