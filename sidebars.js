@@ -29,7 +29,8 @@ module.exports = {
       label: `Maintainer's guide`,
       collapsed: true,
       items: [
-        'maintainers/setup'
+        'maintainers/setup',
+        'maintainers/check-engines',
       ]
     },
     {
