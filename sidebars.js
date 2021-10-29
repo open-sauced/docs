@@ -22,8 +22,15 @@ module.exports = {
         'contributing/triage-guide',
         'contributing/resolve-merge-conflicts',
         'contributing/fetching-data-from-github',
-        'contributing/maintainers'
       ],
+    },
+    {
+      type: 'category',
+      label: `Maintainer's guide`,
+      collapsed: true,
+      items: [
+        'maintainers/setup'
+      ]
     },
     {
       type: 'category',

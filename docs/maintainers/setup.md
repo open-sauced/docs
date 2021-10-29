@@ -1,4 +1,4 @@
-# Maintainers Guide
+# Creating a new project 
 
 ## How do I Join the Maintainers Team?
 
