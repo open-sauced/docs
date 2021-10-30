@@ -18,7 +18,7 @@ npm install --save-dev @open-sauced/check-engines
 
 Add the verification scripts to your `scripts` section in the `package.json` file:
 
-```shell
+```json
 {
   "scripts": {
     "preinstall": "npx @open-sauced/check-engines"
@@ -32,7 +32,7 @@ The reason why we provide `npx` in the `scripts` section is for the people using
 
 Use your favourite package manager to install dependencies in your project or, if you set it as global verification system:
 
-```shell
+```json
 {
   "scripts": {
     "check-engines": "npx @open-sauced/check-engines"
@@ -46,7 +46,7 @@ Use your favourite package manager to install dependencies in your project or, i
 
 If you have an API or any other non-library type of application, you can decouple this package from any install scripts and just use it as a verification:
 
-```shell
+```json
 {
   "scripts": {
     "check-engines": "npx @open-sauced/check-engines"
@@ -57,7 +57,7 @@ If you have an API or any other non-library type of application, you can decoupl
 
 A more traditional approach not using `pre` or `post` scripts, this example enables the check only for local machine development:
 
-```shell
+```json
 {
   "scripts": {
     "check-engines": "npx @open-sauced/check-engines"

@@ -31,6 +31,7 @@ module.exports = {
       items: [
         'maintainers/setup',
         'maintainers/check-engines',
+        'maintainers/semantic-release',
       ]
     },
     {
