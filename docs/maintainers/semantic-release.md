@@ -4,6 +4,8 @@
 
 The `npm` package `@open-sauced/semantic-release-conventional-config` is designed to help `npm` packages auto-release to `npm` or `ghcr` registries while generating github releases and changelog using conventional commit convention.
 
+Version 2 supports alpha and beta pre-releases using coresponding branches.
+
 ## Dependencies
 
 This package uses the following modules:
@@ -73,6 +75,8 @@ A few less inter dependent configurations will be described in the next section.
 
 ### Node application
 
+This example requires `"private": true,` in your `package.json` and simplifies the workflow to lightning fast deployment:
+
 ```yaml
 release:
     environment:
@@ -122,7 +126,7 @@ release:
 
 ### Npm library
 
-For `npm` libraries we need to set the environment URL manually and set a `NPM_TOKEN` environment variable.
+For `npm` libraries we need to set the environment URL manually and set a `NPM_TOKEN` environment variable. This also disables docker builds:
 
 ```yaml
 name: "Release"
@@ -180,6 +184,8 @@ jobs:
 An up-to-date version of the example above is available at [@open-sauced/semantic-release-conventional-config](https://github.com/open-sauced/semantic-release-conventional-config/blob/main/.github/workflows/release.yml).
 
 ### Docker image
+
+For docker builds it's best to build your node application in parallel with the container and re-use the artifact at a later stage:
 
 ```yaml
 name: "Release"
@@ -338,7 +344,128 @@ jobs:
 
 An up-to-date version of the example above is available at [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced/blob/main/.github/workflows/release.yml).
 
+### Pre-releases
+
+This workflow requires the creation of `alpha` and `beta` protected branches while templating every commit to be conventional. It does not support squashing without creating extremely complex conflict resolution: 
+
+```yaml
+name: "Release"
+
+on:
+  push:
+    branches:
+      - main
+      - beta
+      - alpha
+
+jobs:
+  release:
+    environment:
+      name: npm
+      url: https://www.npmjs.com/package/open-sauced-semantic-config-test/v/${{ steps.release.outputs.version }}
+    name: Semantic release
+    runs-on: ubuntu-latest
+    steps:
+      - name: "☁️ checkout repository"
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: "🔧 setup node"
+        uses: actions/setup-node@v2.1.5
+        with:
+          node-version: 14
+
+      - name: "🔧 setup cache"
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: "🔧 install npm@7"
+        run: npm i -g npm@7
+
+      - name: "📦 install dependencies"
+        run: npm ci
+
+      - name: "🚀 release"
+        id: release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          DISABLE_DOCKER: true
+          GIT_AUTHOR_NAME: ${{ github.event.commits[0].author.username }}
+          GIT_AUTHOR_EMAIL: ${{ github.event.commits[0].author.email }}
+        run: |
+          npm run semantic-release
+          echo "::set-output name=version::$(cat package.json | jq -r '.version')"
+```
+
 ## FAQ
+
+### Which assets are pushed to git
+
+The following assets are added to git using `@semantic-release/git`:
+
+```json
+{
+  "assets": [
+      "CHANGELOG.md",
+      "package.json",
+      "package-lock.json",
+      "npm-shrinkwrap.json",
+      "public/diagram.svg"
+  ]
+}
+```
+
+### What is the commit convention
+
+The following commit rules are enforced by `@semantic-release/commit-analyzer`:
+
+```json
+{
+  "preset": "conventionalcommits",
+  "releaseRules": [
+    {"type": "build", "release": "minor"},
+    {"type": "ci", "release": "patch"},
+    {"type": "docs", "release": "minor"},
+    {"type": "style", "release": "patch"},
+    {"type": "refactor", "release": "patch"},
+    {"type": "test", "release": "patch"},
+    {"type": "revert", "release": "patch"},
+    {"type": "chore", "release": false}
+  ],
+  "parserOpts": {
+    "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "BREAKING"]
+  }
+}
+```
+
+### How to enrich the static distribution
+
+The following assets are packed into the github release download using `@semantic-release/github`:
+
+```json
+{
+  "assets": [
+    {
+      "path": "pack/*.tgz",
+      "label": "Static distribution"
+    }
+  ]
+}
+```
+
+### How to start using pre-releases
+
+Create the `alpha` and/or `beta` branches and protect them from being deleted or pushed to directly by non-administrators.
+
+Switch your branching strategy to `merge` and enable conventional commits checking.
+
+You will have to resolve merge conflicts between `alpha`, `beta` and `main` branches as described in the [semantic-releases recipes](https://github.com/semantic-release/semantic-release/tree/master/docs/recipes). 
 
 ## Contributing
 
