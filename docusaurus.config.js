@@ -56,6 +56,11 @@ module.exports = {
         },
       ],
     },
+    colorMode: {
+      defaultMode: 'light',
+      disableSwitch: false,
+      respectPrefersColorScheme: true,
+    },
     footer: {
       style: 'dark',
       links: [
@@ -120,9 +125,17 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/open-sauced/docs.opensauced.pizza/edit/main/',
+          lastVersion: 'current',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+        },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          trailingSlash: false,
         },
       },
     ],
