@@ -140,4 +140,65 @@ module.exports = {
       },
     ],
   ],
+  plugins: [
+    [
+      '@docusaurus/plugin-pwa',
+      {
+        debug: true,
+        offlineModeActivationStrategies: [
+          'appInstalled',
+          'standalone',
+          'queryString',
+        ],
+        pwaHead: [
+          {
+            tagName: 'link',
+            rel: 'icon',
+            href: '/img/logo.svg',
+          },
+          {
+            tagName: 'link',
+            rel: 'manifest',
+            href: '/manifest.json', // your PWA manifest
+          },
+          {
+            tagName: 'meta',
+            name: 'theme-color',
+            content: '#313d3e',
+          },
+          {
+            tagName: 'meta',
+            name: 'apple-mobile-web-app-capable',
+            content: 'yes',
+          },
+          {
+            tagName: 'meta',
+            name: 'apple-mobile-web-app-status-bar-style',
+            content: '#000',
+          },
+          {
+            tagName: 'link',
+            rel: 'apple-touch-icon',
+            href: '/apple-touch-icon.png',
+          },
+          {
+            tagName: 'link',
+            rel: 'mask-icon',
+            href: '/img/logo.svg',
+            color: 'rgb(37, 194, 160)',
+          },
+          {
+            tagName: 'meta',
+            name: 'msapplication-TileImage',
+            content: '/img/logo.svg',
+          },
+          {
+            tagName: 'meta',
+            name: 'msapplication-TileColor',
+            content: '#000',
+          },
+        ],
+      },
+    ],
+  ],
 };
