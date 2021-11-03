@@ -6,6 +6,7 @@ COPY package.json ./
 COPY npm-shrinkwrap.json ./
 COPY .npmrc ./
 
+RUN npm i -g npm@latest
 RUN npm ci
 
 COPY docs ./docs
