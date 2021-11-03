@@ -1,11 +1,11 @@
-# Triage Guide
+# Triage guide
 
-## How do I Join the Triage Team?
+## How do I join the triage team?
 
 1. Sign up for [opensauced.pizza](https://opensauced.pizza)
 2. Leave a reply in the [invite discussion](https://github.com/open-sauced/open-sauced/discussions/638).
 
-## Issue Triage Process
+## Issue triage process
 
 When a new issue or pull request is opened the issue will be labeled with `needs triage`. If a triage team member is available they can help make sure all the required information is provided. Depending on the issue or PR there are several next labels they can add for further classification:
 
@@ -18,7 +18,7 @@ When a new issue or pull request is opened the issue will be labeled with `needs
 
 In all cases, issues may be closed by maintainers if they don't receive a timely response when further information is sought, or when additional questions are asked.
 
-## Approaches and Best Practices for getting into triage contributions
+## Approaches and best practices for getting into triage contributions
 
 Review the project's contribution guideline if present. In a nutshell, commit to the community's standards and values. Review the documentation, for most of the projects it is just the README.md, and make sure you understand the key APIs, semantics, configurations, and use cases.
 
@@ -33,17 +33,17 @@ Issues labeled as `good first issue` represent a curated list of easy contributi
 - Issues that `needs triage` cannot be labeled as `good first issues`.
 - It is better to have no `good first issue` labeled issues than to have a `good first issue` confusing enough to deter a contributor from contributing. 
 
-## Removal of Triage Role
+## Removal of triage role
 
 There are a few cases where members can be removed as triagers:
 
-- Breaking the [CoC](./contributing/code-of-conduct.md) or [project contributor guidelines](./getting-started.md)
+- Breaking the [CoC](./code-of-conduct.md) or [project contributor guidelines](./introduction-to-contributing.md)
 - Abuse or misuse of the role as deemed by the TC
 - Lack of participation for more than 6 months
 
 If any of these happen we will discuss as a part of the triage portion of the regular TC meetings. If you have questions feel free to reach out to any of the TC members.
 
-## Other Helpful Hints:
+## Other helpful hints:
 
 - When reviewing the list of open issues there are some common types and suggested actions:
   - New/unattended issues or simple questions: A good place to start

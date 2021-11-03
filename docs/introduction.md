@@ -2,7 +2,7 @@
 slug: /
 ---
 
-# What is Open Sauced ?
+# Introduction to Open Sauced
 
 ![Example banner](../static/img/what-is-opensauced.png)
 

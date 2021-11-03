@@ -2,6 +2,10 @@
   "name": "@open-sauced/docs.opensauced.pizza",
   "version": "1.4.2",
   "private": true,
+  "engines": {
+    "node": ">=14",
+    "npm": ">=7"
+  },
   "scripts": {
     "preinstall": "npx @open-sauced/check-engines",
     "prestart": "npx @open-sauced/check-engines",
@@ -18,17 +22,18 @@
     "semantic-release": "npx semantic-release"
   },
   "dependencies": {
-    "@docusaurus/core": "2.0.0-beta.8",
-    "@docusaurus/preset-classic": "2.0.0-beta.8",
-    "@docusaurus/theme-search-algolia": "^2.0.0-beta.8",
+    "@docusaurus/core": "2.0.0-beta.9",
+    "@docusaurus/plugin-pwa": "^2.0.0-beta.9",
+    "@docusaurus/preset-classic": "2.0.0-beta.9",
+    "@docusaurus/theme-search-algolia": "^2.0.0-beta.9",
     "@mdx-js/react": "^1.6.22",
     "prism-react-renderer": "^1.2.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@open-sauced/check-engines": "^1.0.0",
-    "@open-sauced/semantic-release-conventional-config": "^2.0.1",
+    "@open-sauced/check-engines": "^1.1.0",
+    "@open-sauced/semantic-release-conventional-config": "^2.0.3",
     "@svgr/webpack": "^5.5.0",
     "clsx": "^1.1.1",
     "commitizen": "^4.2.4",

@@ -1,4 +1,4 @@
-# Getting started
+# Introduction to storybook
 
 Storybook is being leveraged to mock out visual React components. The latest version of the design system can be found at this [URL](https://sauced-components.netlify.app/).
 
@@ -8,7 +8,7 @@ To run storybook, use this command:
 npm run storybook
 ```
 
-## UI Categories
+## UI categories
 
 Storybook is broken into several categories:
 
@@ -22,7 +22,7 @@ Storybook is broken into several categories:
 <li><b>Miscellaneous:</b> These are components that currently don't fit neatly into the above categories.</li>
 </ul>
 
-## Making changes to Storybook
+## Making changes to storybook
 
 This section details how to make changes to Storybook, mainly creating new categories or UI elements.
 

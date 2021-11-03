@@ -1,8 +1,8 @@
-# Fetching Data from the GitHub GraphQL API
+# Fetching data from the GitHub graphql API
 
 Over the past few years, GitHub has been enabling developers to build on our platform as 3rd party integrators. This enablement does not come without limitations such as rate-limiting and token access. Open Sauced originally started as a way to try out the GitHub GraphQL API with a production-ready application.
 
-## Implementation Approach
+## Implementation approach
 
 Open Sauced is exclusively powered by the public data from open source repos. Not only is the data drawn from open sourced repos, the onboarding flow for Open Sauced walks the user through creating their own open sourced repo in order to track their own contributions. 
 
@@ -10,7 +10,7 @@ Open Sauced is exclusively powered by the public data from open source repos. No
 
 [OneGraph](https://www.onegraph.com/) is the tool used to consume the GitHub GraphQL API through one consistent GraphQL interface.
 
-## Persisted Queries
+## Persisted queries
 
 Persisted queries are an advanced GraphQL feature that allow clients to pre-register queries with the server. In a typical workflow, the client will send the query to the server as part of a build process and the server will send back an id for the query. When the client wants to run the query, it sends the id instead of the full query string.
 
@@ -18,7 +18,7 @@ Developers use persisted queries because they reduce the amount of bandwidth sen
 
 OneGraph makes this all easy to do, and you can read up more on that in [their documentation](https://www.onegraph.com/docs/persisted_queries.html). 
 
-## Goals Repository
+## Goals repository
 
 Each Open Sauced user leverages their own GitHub repository as a database. The repository is generated during sign up and is the companion for finding open source contributions to make. All data in this repository is a mirror of the data you see on the opensauced.pizza dashboard.
 
@@ -31,7 +31,7 @@ The Open Sauced goal data in this list is populatated using the [goals-caching.y
 The Open Sauced recommendation data is stored using the logged in user's starred repositories. This data is accessible via the GitHub API and stored publically in goals repo for easy rendering. The list is populatated using the [goals-caching.yml](https://github.com/open-sauced/actions/blob/main/goals-caching/update-open-sauced-goals-cache.js). _Plans are being developed to power platform wide recommendations using this data, this is pending the reviewing of the GitHub TOCs_.
 
 
-## Use of API in Components
+## Use of API in components
 
 The following table shows which components (`src/components/*.js`) use which API functions (`src/lib/apiGraphQL.js', 'src/lib/persistedGraphQL.js`), and what they do.
 

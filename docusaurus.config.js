@@ -56,6 +56,11 @@ module.exports = {
         },
       ],
     },
+    colorMode: {
+      defaultMode: 'light',
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
+    },
     footer: {
       style: 'dark',
       links: [
@@ -63,16 +68,16 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Contributing',
-              to: '/contributing/getting-started/',
+              label: 'Contributing guide',
+              to: '/contributing/introduction-to-contributing/',
             },
             {
-              label: 'Styling',
-              to: '/styling/dark-mode/',
+              label: 'Technical guide',
+              to: '/technical/dark-mode-explained/',
             },
             {
-              label: 'Storybook',
-              to: '/storybook/getting-started/',
+              label: 'Maintainer guide',
+              to: '/maintainers/setting-up-a-new-repository/',
             },
           ],
         },
@@ -120,10 +125,78 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/open-sauced/docs.opensauced.pizza/edit/main/',
+          lastVersion: 'current',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+        },
+      },
+    ],
+  ],
+  plugins: [
+    [
+      '@docusaurus/plugin-pwa',
+      {
+        debug: true,
+        offlineModeActivationStrategies: [
+          'appInstalled',
+          'standalone',
+          'queryString',
+        ],
+        pwaHead: [
+          {
+            tagName: 'link',
+            rel: 'icon',
+            href: '/img/logo.svg',
+          },
+          {
+            tagName: 'link',
+            rel: 'manifest',
+            href: '/manifest.json', // your PWA manifest
+          },
+          {
+            tagName: 'meta',
+            name: 'theme-color',
+            content: '#313d3e',
+          },
+          {
+            tagName: 'meta',
+            name: 'apple-mobile-web-app-capable',
+            content: 'yes',
+          },
+          {
+            tagName: 'meta',
+            name: 'apple-mobile-web-app-status-bar-style',
+            content: '#000',
+          },
+          {
+            tagName: 'link',
+            rel: 'apple-touch-icon',
+            href: '/apple-touch-icon.png',
+          },
+          {
+            tagName: 'link',
+            rel: 'mask-icon',
+            href: '/img/logo.svg',
+            color: 'rgb(37, 194, 160)',
+          },
+          {
+            tagName: 'meta',
+            name: 'msapplication-TileImage',
+            content: '/img/logo.svg',
+          },
+          {
+            tagName: 'meta',
+            name: 'msapplication-TileColor',
+            content: '#000',
+          },
+        ],
       },
     ],
   ],
