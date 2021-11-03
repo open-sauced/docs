@@ -1,3 +1,16 @@
+## [1.5.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.4.2...v1.5.0) (2021-11-03)
+
+
+### Features
+
+* add missing contributing docs ([#20](https://github.com/open-sauced/docs.opensauced.pizza/issues/20)) ([a4465e6](https://github.com/open-sauced/docs.opensauced.pizza/commit/a4465e6f44c1bf95624333cdc7f1de912a0b4808)), closes [#11](https://github.com/open-sauced/docs.opensauced.pizza/issues/11)
+* explore plugin ecosystem ([#22](https://github.com/open-sauced/docs.opensauced.pizza/issues/22)) ([8e14b13](https://github.com/open-sauced/docs.opensauced.pizza/commit/8e14b13896a93d32ad6cb2e2b094f10b431886de)), closes [#8](https://github.com/open-sauced/docs.opensauced.pizza/issues/8)
+
+
+### Bug Fixes
+
+* correct npm install in docker container ([#23](https://github.com/open-sauced/docs.opensauced.pizza/issues/23)) ([7d08e18](https://github.com/open-sauced/docs.opensauced.pizza/commit/7d08e183d16e1687e12dfeeaa4b4bc654e044f13))
+
 ### [1.4.2](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.4.1...v1.4.2) (2021-10-25)
 
 
