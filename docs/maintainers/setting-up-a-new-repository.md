@@ -1,4 +1,4 @@
-# Creating a new project 
+# Setting up a new repository 
 
 ## How do I Join the Maintainers Team?
 

@@ -27,6 +27,10 @@
         "cz-conventional-changelog": "^3.3.0",
         "file-loader": "^6.2.0",
         "url-loader": "^4.1.1"
+      },
+      "engines": {
+        "node": ">=14",
+        "npm": ">=7"
       }
     },
     "node_modules/@algolia/autocomplete-core": {

@@ -14,41 +14,34 @@ module.exports = {
     'introduction',
     {
       type: 'category',
-      label: 'Contributing',
+      label: 'Contributing guide',
       collapsed: false,
       items: [
-        'contributing/getting-started',
+        'contributing/introduction-to-contributing',
         'contributing/code-of-conduct',
         'contributing/triage-guide',
-        'contributing/resolve-merge-conflicts',
-        'contributing/fetching-data-from-github',
       ],
     },
     {
       type: 'category',
-      label: `Maintainer's guide`,
+      label: 'Technical guide',
+      collapsed: false,
+      items: [
+        'technical/introduction-to-storybook',
+        'technical/dark-mode-explained',
+        'technical/fetching-data-from-github',
+        'technical/resolve-merge-conflicts',
+      ],
+    },
+    {
+      type: 'category',
+      label: `Maintainer guide`,
       collapsed: true,
       items: [
-        'maintainers/setup',
+        'maintainers/setting-up-a-new-repository',
         'maintainers/check-engines',
         'maintainers/semantic-release',
       ]
-    },
-    {
-      type: 'category',
-      label: 'Styling',
-      collapsed: false,
-      items: [
-        'styling/dark-mode'
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Storybook',
-      collapsed: false,
-      items: [
-        'storybook/getting-started'
-      ],
     },
   ],
 };

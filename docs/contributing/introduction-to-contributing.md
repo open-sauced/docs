@@ -1,18 +1,20 @@
-# Getting started
+# Introduction to contributing
 
 Contributions are always welcome, no matter how large or small. Before contributing,
 please read the [code of conduct](./code-of-conduct.md).
 
 Some thoughts to help you contribute to this project
 
-## Recommended Communication Style
+## Recommended communication style
 
 1. Always leave screenshots for visuals changes
 1. Always leave a detailed description in the Pull Request. Leave nothing ambiguous for the reviewer.
 1. Always review your code first. Do this by leaving comments in your coding noting questions, or interesting things for the reviewer.
 1. Always communicate. Whether it is in the issue or the pull request, keeping the lines of communication helps everyone around you.
 
-## Setup (forks are preferred).
+## Setup
+
+TL;DR: forks are preferred.
 
 ```shell
 git clone https://github.com/<your-name>/open-sauced
@@ -35,7 +37,7 @@ For running the test suite, use the following command. Since the tests run in wa
 npm test
 ```
 
-## Pull Requests
+## Pull requests
 
 ___We actively welcome your pull requests, however linking your work to an existing issue is preferred.___
 
@@ -52,7 +54,7 @@ ___We actively welcome your pull requests, however linking your work to an exist
 
 *note for maintainers: All pull requests need a label to assist automation. See the [template](https://github.com/open-sauced/open-sauced/blob/HEAD/.github/release-drafter.yml) to guide which labels to use.*
 
-### PR Validation
+### PR validation
 
 Examples for valid PR titles:
 
@@ -84,7 +86,7 @@ If you would like to contribute to the project for the first time, please consid
 
 Also, all questions are welcomed.
 
-## Triage Team
+## Triage team
 
 The Triage team is inspired by [expressjs/express](https://github.com/expressjs/express/blob/HEAD/Triager-Guide.md). This team exists to create a path for making contributions to this project and open source. All Triage Team members are expected to follow this guide: [TRIAGE_GUIDE.md](./triage-guide.md)
 
@@ -100,7 +102,7 @@ Open Sauced is a part of GitHub Sponsors. If you would like to contribute, pleas
 
 Do you have questions? Join the conversation in our [Discord](https://discord.gg/U2peSNf23P).
 
-## Coding Tips
+## Coding tips
 
 - Ask questions if you are stuck.
 - Use [CSS variables](https://github.com/open-sauced/open-sauced/blob/HEAD/src/styles/variables.js)

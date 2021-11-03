@@ -59,7 +59,7 @@ module.exports = {
     colorMode: {
       defaultMode: 'light',
       disableSwitch: false,
-      respectPrefersColorScheme: true,
+      respectPrefersColorScheme: false,
     },
     footer: {
       style: 'dark',
@@ -68,16 +68,16 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Contributing',
-              to: '/contributing/getting-started/',
+              label: 'Contributing guide',
+              to: '/contributing/introduction-to-contributing/',
             },
             {
-              label: 'Styling',
-              to: '/styling/dark-mode/',
+              label: 'Technical guide',
+              to: '/technical/dark-mode-explained/',
             },
             {
-              label: 'Storybook',
-              to: '/storybook/getting-started/',
+              label: 'Maintainer guide',
+              to: '/maintainers/setting-up-a-new-repository/',
             },
           ],
         },
@@ -135,7 +135,6 @@ module.exports = {
         sitemap: {
           changefreq: 'weekly',
           priority: 0.5,
-          trailingSlash: false,
         },
       },
     ],

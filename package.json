@@ -2,6 +2,10 @@
   "name": "@open-sauced/docs.opensauced.pizza",
   "version": "1.4.2",
   "private": true,
+  "engines": {
+    "node": ">=14",
+    "npm": ">=7"
+  },
   "scripts": {
     "preinstall": "npx @open-sauced/check-engines",
     "prestart": "npx @open-sauced/check-engines",
