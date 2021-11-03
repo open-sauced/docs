@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Open Sauced',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'The path to your next Open Source contribution',
   url: 'https://docs.opensauced.pizza',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -31,17 +31,27 @@ module.exports = {
         {
           type: 'doc',
           docId: 'introduction',
-          position: 'left',
           label: 'Docs',
+          position: 'left',
         },
         {
-          href: 'https://opensauced.pizza/',
-          label: 'Home',
-          position: 'right',
+          href: 'https://dev.to/opensauced',
+          label: 'Blog',
+          position: 'left',
         },
         {
           href: 'https://github.com/open-sauced/docs.opensauced.pizza',
           label: 'GitHub',
+          position: 'left',
+        },
+        {
+          href: 'https://discord.gg/U2peSNf23P',
+          label: 'Discord',
+          position: 'left',
+        },
+        {
+          href: 'https://opensauced.pizza/',
+          label: 'Open Sauced',
           position: 'right',
         },
       ],
@@ -109,7 +119,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/open-sauced/docs.opensauced.pizza/edit/main/docs/',
+            'https://github.com/open-sauced/docs.opensauced.pizza/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
