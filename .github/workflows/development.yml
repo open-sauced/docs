@@ -42,9 +42,6 @@ jobs:
       - name: "🚀 static app"
         run: npm run build
 
-      - name: "🚀 serve app"
-        run: npm run serve
-
       - name: "🚀 generate pdf"
         run: npm run pdf
 
