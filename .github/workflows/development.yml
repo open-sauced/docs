@@ -26,13 +26,6 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - name: Install Prince
-        run: |
-          curl https://www.princexml.com/download/prince-14.2-linux-generic-x86_64.tar.gz -O
-          tar zxf prince-14.2-linux-generic-x86_64.tar.gz
-          cd prince-14.2-linux-generic-x86_64
-          yes "" | sudo ./install.sh
-
       - name: "🔧 install npm@latest"
         run: npm i -g npm@latest
 
@@ -41,13 +34,3 @@ jobs:
 
       - name: "🚀 static app"
         run: npm run build
-
-      - name: "🚀 generate pdf"
-        run: npm run pdf
-
-      - name: Upload results
-        uses: actions/upload-artifact@v2
-        with:
-          name: result
-          path: static/open-sauced-docs.pdf
-          if-no-files-found: error

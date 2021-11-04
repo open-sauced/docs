@@ -59,6 +59,16 @@ jobs:
       - name: "🚀 static app"
         run: npm run build
 
+      - name: Install Prince
+        run: |
+          curl https://www.princexml.com/download/prince-14.2-linux-generic-x86_64.tar.gz -O
+          tar zxf prince-14.2-linux-generic-x86_64.tar.gz
+          cd prince-14.2-linux-generic-x86_64
+          yes "" | sudo ./install.sh
+
+      - name: "🚀 generate pdf"
+        run: npm run pdf
+
       - name: "📂 production artifacts"
         uses: actions/upload-artifact@v2
         with:

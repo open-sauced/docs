@@ -20,7 +20,7 @@
     "write-heading-ids": "npm run docusaurus -- write-heading-ids",
     "push": "npx cz",
     "semantic-release": "npx semantic-release",
-    "pdf": "npx docusaurus-prince-pdf -u https://docs.opensauced.pizza --output static/open-sauced-docs.pdf"
+    "pdf": "npx docusaurus-prince-pdf -u https://docs.opensauced.pizza --output build/open-sauced-docs.pdf"
   },
   "dependencies": {
     "@docusaurus/core": "2.0.0-beta.9",
