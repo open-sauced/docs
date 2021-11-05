@@ -1,3 +1,10 @@
+### [1.5.1](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.5.0...v1.5.1) (2021-11-05)
+
+
+### Continuous Integration
+
+* add docusaurus-prince-pdf generation ([#24](https://github.com/open-sauced/docs.opensauced.pizza/issues/24)) ([8d4bacf](https://github.com/open-sauced/docs.opensauced.pizza/commit/8d4bacfed0300352b86bfd2cde17464b5682cd79))
+
 ## [1.5.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.4.2...v1.5.0) (2021-11-03)
 
 
