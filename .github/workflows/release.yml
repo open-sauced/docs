@@ -59,16 +59,6 @@ jobs:
       - name: "🚀 static app"
         run: npm run build
 
-      - name: Install Prince
-        run: |
-          curl https://www.princexml.com/download/prince-14.2-linux-generic-x86_64.tar.gz -O
-          tar zxf prince-14.2-linux-generic-x86_64.tar.gz
-          cd prince-14.2-linux-generic-x86_64
-          yes "" | sudo ./install.sh
-
-      - name: "🚀 generate pdf"
-        run: npm run pdf
-
       - name: "📂 production artifacts"
         uses: actions/upload-artifact@v2
         with:
@@ -147,6 +137,11 @@ jobs:
       - build
       - release
     runs-on: ubuntu-latest
+    services:
+      docs:
+        image: ghcr.io/${{ github.repository }}:latest
+        ports:
+          - 8080:80
     steps:
       - name: "☁️ checkout repository"
         uses: actions/checkout@v2
@@ -157,10 +152,37 @@ jobs:
           name: build
           path: /home/runner/build
 
-      - name: "📂 copy artifacts"
+      - name: Install Prince
         run: |
-          cp -R /home/runner/build .
-          ls -lahH ./build
+          curl https://www.princexml.com/download/prince-14.2-linux-generic-x86_64.tar.gz -O
+          tar zxf prince-14.2-linux-generic-x86_64.tar.gz
+          cd prince-14.2-linux-generic-x86_64
+          yes "" | sudo ./install.sh
+
+      - name: "🔧 setup node"
+        uses: actions/setup-node@v2.1.5
+        with:
+          node-version: 14
+
+      - name: "🔧 setup cache"
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/npm-shrinkwrap.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: "🔧 install npm@latest"
+        run: npm i -g npm@latest
+
+      - name: "📦 install dependencies"
+        run: npm ci
+
+      - name: "📂 copy artifacts"
+        run: cp -R /home/runner/build .
+
+      - name: "🚀 generate pdf"
+        run: npm run pdf
 
       - name: "🚀 deploy static"
         uses: peaceiris/actions-gh-pages@v3
