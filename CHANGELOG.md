@@ -1,3 +1,10 @@
+## [1.6.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.5.1...v1.6.0) (2021-11-10)
+
+
+### Features
+
+* implement @open-sauced/conventional commit ([#28](https://github.com/open-sauced/docs.opensauced.pizza/issues/28)) ([b79ddee](https://github.com/open-sauced/docs.opensauced.pizza/commit/b79ddee3cb2a6f63a463c2ce5ccdafb5b72f2ff0)), closes [#25](https://github.com/open-sauced/docs.opensauced.pizza/issues/25)
+
 ### [1.5.1](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.5.0...v1.5.1) (2021-11-05)
 
 
