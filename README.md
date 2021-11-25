@@ -12,14 +12,13 @@
 
 </div>
 
-
 ## 🧪 Built for Experimenting
 
 This tool is meant to accelerate development on [Open Sauced](https://opensauced.pizza) by giving contributors a way to access [Docusaurus 2](https://docusaurus.io/) powered developer documentation available at [docs.opensauced.pizza](https://docs.opensauced.pizza).
 
 ## 🤝 Contributing
 
-We encourage you to contribute to Open Sauced! Please check out the [Contributing guide](https://docs.opensauced.pizza/contributing/getting-started/) for guidelines about how to proceed.
+We encourage you to contribute to Open Sauced! Please check out the [Contributing guide](https://docs.opensauced.pizza/contributing/introduction-to-contributing/) for guidelines about how to proceed.
 
 <img align="right" src="https://i.ibb.co/CJfW18H/ship.gif" width="200"/>
 
