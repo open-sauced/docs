@@ -33,9 +33,9 @@
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@open-sauced/check-engines": "^1.1.1",
+    "@open-sauced/check-engines": "^1.2.0",
     "@open-sauced/conventional-commit": "^1.0.1",
-    "@open-sauced/semantic-release-conventional-config": "^2.0.4",
+    "@open-sauced/semantic-release-conventional-config": "^2.1.0",
     "@svgr/webpack": "^5.5.0",
     "clsx": "^1.1.1",
     "docusaurus-prince-pdf": "^1.0.6",
