@@ -40,6 +40,7 @@ module.exports = {
       items: [
         'maintainers/setting-up-a-new-repository',
         'maintainers/check-engines',
+        'maintainers/conventional-commit',
         'maintainers/semantic-release',
       ]
     },
