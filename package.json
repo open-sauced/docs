@@ -9,6 +9,7 @@
   "scripts": {
     "preinstall": "npx @open-sauced/check-engines",
     "prestart": "npx @open-sauced/check-engines",
+    "push": "npx @open-sauced/conventional-commit",
     "docusaurus": "npx docusaurus",
     "start": "npm run docusaurus -- start",
     "build": "npm run docusaurus -- build",
@@ -18,8 +19,6 @@
     "serve": "npm run docusaurus -- serve",
     "write-translations": "npm run docusaurus -- write-translations",
     "write-heading-ids": "npm run docusaurus -- write-heading-ids",
-    "push": "npx cz",
-    "semantic-release": "npx semantic-release",
     "pdf": "npx docusaurus-prince-pdf -u http://127.0.0.1:8080 -d ./build -o ./build/open-sauced-docs.pdf -f ./open-sauced-docs.txt --include-index"
   },
   "dependencies": {
@@ -33,12 +32,9 @@
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@open-sauced/check-engines": "^1.1.0",
-    "@open-sauced/semantic-release-conventional-config": "^2.0.3",
+    "@open-sauced/check-engines": "^1.2.0",
     "@svgr/webpack": "^5.5.0",
     "clsx": "^1.1.1",
-    "commitizen": "^4.2.4",
-    "cz-conventional-changelog": "^3.3.0",
     "docusaurus-prince-pdf": "^1.0.6",
     "file-loader": "^6.2.0",
     "url-loader": "^4.1.1"
