@@ -1,3 +1,22 @@
+# 📦 open-sauced/docs.opensauced.pizza changelog
+
+[![conventional commits](https://img.shields.io/badge/conventional%20commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+[![semantic versioning](https://img.shields.io/badge/semantic%20versioning-2.0.0-green.svg)](https://semver.org)
+
+> All notable changes to this project will be documented in this file
+
+## [1.8.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.7.0...v1.8.0) (2021-12-04)
+
+
+### Bug Fixes
+
+* workaround license check by adding license ([#35](https://github.com/open-sauced/docs.opensauced.pizza/issues/35)) ([f0abac6](https://github.com/open-sauced/docs.opensauced.pizza/commit/f0abac63fd257e1b588ad285e3b628c055f73326))
+
+
+### Documentation
+
+* add release docs for open-sauced/conventional-commit ([#27](https://github.com/open-sauced/docs.opensauced.pizza/issues/27)) ([0937830](https://github.com/open-sauced/docs.opensauced.pizza/commit/09378306f3a0c2d7d63a60fd9fd0164917a70801)), closes [#26](https://github.com/open-sauced/docs.opensauced.pizza/issues/26) [#30](https://github.com/open-sauced/docs.opensauced.pizza/issues/30) [#31](https://github.com/open-sauced/docs.opensauced.pizza/issues/31)
+
 ## [1.7.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.6.0...v1.7.0) (2021-11-25)
 
 
