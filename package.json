@@ -1,6 +1,6 @@
 {
   "name": "@open-sauced/docs.opensauced.pizza",
-  "version": "1.5.1",
+  "version": "1.7.0",
   "private": true,
   "engines": {
     "node": ">=14",
@@ -33,6 +33,7 @@
   },
   "devDependencies": {
     "@open-sauced/check-engines": "^1.2.0",
+    "@open-sauced/conventional-commit": "^1.0.1",
     "@svgr/webpack": "^5.5.0",
     "clsx": "^1.1.1",
     "docusaurus-prince-pdf": "^1.0.6",
