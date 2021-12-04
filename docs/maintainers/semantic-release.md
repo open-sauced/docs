@@ -194,7 +194,7 @@ This example requires `"private": true,` in your `package.json` and simplifies t
 release:
     environment:
       name: production
-      url: https://github.com/${{ github.repository }}/releases/tag/v${{ steps.release.outputs.version }}
+      url: https://github.com/${{ github.repository }}/releases/tag/${{ env.RELEASE_TAG }}
     name: Semantic release
     runs-on: ubuntu-latest
     steps:
@@ -206,35 +206,22 @@ release:
       - name: "🔧 setup node"
         uses: actions/setup-node@v2.1.5
         with:
-          node-version: 14
-
-      - name: "🔧 setup cache"
-        uses: actions/cache@v2
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/npm-shrinkwrap.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
+          node-version: 16
 
       - name: "🔧 install npm@latest"
         run: npm i -g npm@latest
 
       - name: "📦 install dependencies"
-        run: npm ci
+        uses: bahmutov/npm-install@v1
 
       - name: "🚀 static app"
         run: npm run build
 
       - name: "🚀 release"
-        id: release
+        id: semantic-release
+        uses: docker://ghcr.io/open-sauced/semantic-release-conventional-config:3.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          DISABLE_DOCKER: true
-          GIT_AUTHOR_NAME: ${{ github.event.commits[0].author.username }}
-          GIT_AUTHOR_EMAIL: ${{ github.event.commits[0].author.email }}
-        run: |
-          npm run semantic-release
-          echo "::set-output name=version::$(cat package.json | jq -r '.version')"
 ```
 
 ### Npm library
@@ -253,7 +240,7 @@ jobs:
   release:
     environment:
       name: npm
-      url: https://www.npmjs.com/package/@open-sauced/semantic-release-conventional-config/v/${{ steps.release.outputs.version }}
+      url: https://www.npmjs.com/package/@open-sauced/semantic-release-conventional-config/v/${{ env.RELEASE_VERSION }}
     name: Semantic release
     runs-on: ubuntu-latest
     steps:
@@ -265,33 +252,20 @@ jobs:
       - name: "🔧 setup node"
         uses: actions/setup-node@v2.1.5
         with:
-          node-version: 14
-
-      - name: "🔧 setup cache"
-        uses: actions/cache@v2
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-
+          node-version: 16
+          
       - name: "🔧 install npm@latest"
         run: npm i -g npm@latest
 
       - name: "📦 install dependencies"
-        run: npm ci
+        uses: bahmutov/npm-install@v1
 
       - name: "🚀 release"
-        id: release
+        id: semantic-release
+        uses: docker://ghcr.io/open-sauced/semantic-release-conventional-config:3.0.0
         env:
-          DISABLE_DOCKER: true
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-          GIT_AUTHOR_NAME: ${{ github.event.commits[0].author.username }}
-          GIT_AUTHOR_EMAIL: ${{ github.event.commits[0].author.email }}
-        run: |
-          npm run semantic-release
-          echo "::set-output name=version::$(cat package.json | jq -r '.version')"
 ```
 
 An up-to-date version of the example above is available at [@open-sauced/semantic-release-conventional-config](https://github.com/open-sauced/semantic-release-conventional-config/blob/main/.github/workflows/release.yml).
@@ -319,13 +293,31 @@ jobs:
       - name: "🔧 setup buildx"
         uses: docker/setup-buildx-action@v1
 
+      - name: "🔧 cache docker layers"
+        uses: actions/cache@v2
+        with:
+          path: /tmp/.buildx-cache
+          key: ${{ runner.os }}-buildx-${{ github.sha }}
+          restore-keys: |
+            ${{ runner.os }}-buildx-
+
+      - name: "🔧 docker meta"
+        id: meta
+        uses: docker/metadata-action@v3
+        with:
+          images: ${{ github.repository }}
+          tags: latest
+
       - name: "📦 docker build"
         uses: docker/build-push-action@v2
         with:
           context: .
-          tags: ${{ github.repository }}:latest
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
           outputs: type=docker,dest=/tmp/docker.tar
           push: false
+          cache-from: type=gha, scope=${{ github.workflow }}
+          cache-to: type=gha, scope=${{ github.workflow }}
 
       - name: "📂 docker artifacts"
         uses: actions/upload-artifact@v2
@@ -343,21 +335,13 @@ jobs:
       - name: "🔧 setup node"
         uses: actions/setup-node@v2.1.5
         with:
-          node-version: 14
-
-      - name: "🔧 setup cache"
-        uses: actions/cache@v2
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/npm-shrinkwrap.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-
+          node-version: 16
+          
       - name: "🔧 install npm@latest"
         run: npm i -g npm@latest
 
       - name: "📦 install dependencies"
-        run: npm ci
+        uses: bahmutov/npm-install@v1
 
       - name: "📊 repository visualizer"
         id: diagram
@@ -380,7 +364,7 @@ jobs:
   release:
     environment:
       name: production
-      url: https://github.com/${{ github.repository }}/releases/tag/v${{ steps.release.outputs.version }}
+      url: https://github.com/${{ github.repository }}/releases/tag/${{ env.RELEASE_TAG }}
     name: Semantic release
     needs:
       - docker
@@ -391,25 +375,6 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
-
-      - name: "🔧 setup node"
-        uses: actions/setup-node@v2.1.5
-        with:
-          node-version: 14
-
-      - name: "🔧 setup cache"
-        uses: actions/cache@v2
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/npm-shrinkwrap.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-
-      - name: "🔧 install npm@latest"
-        run: npm i -g npm@latest
-
-      - name: "📦 install dependencies"
-        run: npm ci
 
       - name: "📂 download docker artifacts"
         uses: actions/download-artifact@v2
@@ -429,17 +394,10 @@ jobs:
           path: /tmp/build
 
       - name: "🚀 release"
-        id: release
+        id: semantic-release
+        uses: docker://ghcr.io/open-sauced/semantic-release-conventional-config:3.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          DOCKER_USERNAME: ${{ github.repository_owner }}
-          DOCKER_PASSWORD: ${{ secrets.GITHUB_TOKEN }}
-          GIT_AUTHOR_NAME: ${{ github.event.commits[0].author.username }}
-          GIT_AUTHOR_EMAIL: ${{ github.event.commits[0].author.email }}
-        run: |
-          cp -R /tmp/build ./build
-          npm run semantic-release
-          echo "::set-output name=version::$(cat package.json | jq -r '.version')"
 
   cleanup:
     name: Cleanup actions
@@ -484,36 +442,12 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: "🔧 setup node"
-        uses: actions/setup-node@v2.1.5
-        with:
-          node-version: 14
-
-      - name: "🔧 setup cache"
-        uses: actions/cache@v2
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-
-      - name: "🔧 install npm@7"
-        run: npm i -g npm@7
-
-      - name: "📦 install dependencies"
-        run: npm ci
-
       - name: "🚀 release"
-        id: release
+        id: semantic-release
+        uses: docker://ghcr.io/open-sauced/semantic-release-conventional-config:3.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-          DISABLE_DOCKER: true
-          GIT_AUTHOR_NAME: ${{ github.event.commits[0].author.username }}
-          GIT_AUTHOR_EMAIL: ${{ github.event.commits[0].author.email }}
-        run: |
-          npm run semantic-release
-          echo "::set-output name=version::$(cat package.json | jq -r '.version')"
 ```
 
 ## FAQ
