@@ -36,6 +36,7 @@ For running the test suite, use the following command. Since the tests run in wa
 # the tests will run in watch mode by default
 npm test
 ```
+For more info on testing React and JavaScript, check out this course [Testing JavaScript](https://testingjavascript.com/)
 
 ## Pull requests
 
