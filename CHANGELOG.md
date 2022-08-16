@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.9.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.8.0...v1.9.0) (2022-08-16)
+
+
+### Documentation
+
+* Adding Testing JavaScript link ([#40](https://github.com/open-sauced/docs.opensauced.pizza/issues/40)) ([3055bcb](https://github.com/open-sauced/docs.opensauced.pizza/commit/3055bcb6ddab0a16b3f49793187f6f3c6cf7ff0d)), closes [#37](https://github.com/open-sauced/docs.opensauced.pizza/issues/37)
+
 ## [1.8.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.7.0...v1.8.0) (2021-12-04)
 
 
