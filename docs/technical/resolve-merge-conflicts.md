@@ -49,6 +49,7 @@ git remote add upstream git@github.com:open-sauced/open-sauced.git
 ## Update 
 
 First get the `main` branch changes:
+**NOTE: open-sauced/hot uses the `beta` branch — substitute `beta` for `main` when following these commands.**
 
 ```shell
 git fetch origin --recurse-submodules=no --progress --prune
@@ -60,6 +61,7 @@ git merge upstream/main --no-stat -v
 ## Merge with upstream
 
 Then merge with the forked up-to-date `main` branch:
+**NOTE: open-sauced/hot uses the `beta` branch — substitute `beta` for `main` when following these commands.**
 
 ```shell
 git merge origin/main --no-ff -v
@@ -84,6 +86,7 @@ It will look like this:
 ## Resolve conflicts
 
 Since this pull request does not modify the `package.json` file it is safe to fast forward the changes from `origin/main`:
+**NOTE: open-sauced/hot uses the `beta` branch — substitute `beta` for `main` when following these commands.**
 
 ```shell
 # overwrite with origin/main changes 
