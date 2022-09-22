@@ -48,9 +48,8 @@ git remote add upstream git@github.com:open-sauced/open-sauced.git
 
 ## Update 
 
-First get the `main` branch changes:
+First get the default branch changes:
 
-**NOTE: open-sauced/hot uses the `beta` branch — substitute `beta` for `main` when following these commands.**
 
 ```shell
 git fetch origin --recurse-submodules=no --progress --prune
@@ -61,9 +60,8 @@ git merge upstream/main --no-stat -v
 
 ## Merge with upstream
 
-Then merge with the forked up-to-date `main` branch:
+Then merge with the forked up-to-date default branch:
 
-**NOTE: open-sauced/hot uses the `beta` branch — substitute `beta` for `main` when following these commands.**
 
 ```shell
 git merge origin/main --no-ff -v
@@ -87,9 +85,8 @@ It will look like this:
 
 ## Resolve conflicts
 
-Since this pull request does not modify the `package.json` file it is safe to fast forward the changes from `origin/main`:
+Since this pull request does not modify the `package.json` file it is safe to fast forward the changes from `origin/insert-default-branch`:
 
-**NOTE: open-sauced/hot uses the `beta` branch — substitute `beta` for `main` when following these commands.**
 
 ```shell
 # overwrite with origin/main changes 
@@ -151,9 +148,9 @@ When dealing with dependency and lock file updates there are multiple use cases 
 
 However when that happens, it is advised to:
 - fast-forward `npm-shrinkwrap.json` 
-- fast-forward deleted and modified `upstream/main` changes to `package.json` 
+- fast-forward deleted and modified `upstream/insert-default-branch` changes to `package.json` 
 - fast-forward your added lines to `package.json`
-- run `npm ci` to delete local modules and create dependency resolution from `upstream/main`
+- run `npm ci` to delete local modules and create dependency resolution from `upstream/insert-default-branch`
 
 Visual diffing is advised however not following the git commit history procedure will result in a rogue pull request that scope creeps into dependency updates. 
 
