@@ -42,7 +42,7 @@ For more info on testing React and JavaScript, check out this course [Testing Ja
 
 ___We actively welcome your pull requests, however linking your work to an existing issue is preferred.___
 
-1. Fork the repo and create your branch from `beta`.
+1. Fork the repo and create your branch from the default branch.
 1. Name your branch something that is descriptive to the work you are doing. i.e. adds-new-thing or fixes-mobile
 1. If you've added code that should be tested, add tests.
 1. If you've changed APIs, update the documentation.
