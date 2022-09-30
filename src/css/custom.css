@@ -27,3 +27,34 @@
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+.footer__title {
+  position: relative;
+}
+
+.footer__col > .footer__title::after {
+  content: '';
+  display: inline-block;
+  width: 28px;
+  height: 23px;
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  background-repeat: no-repeat;
+}
+
+.footer__col:nth-child(1) > .footer__title::after {
+  background-image: url('../../static/favicon-32x32.png');
+  left: 40px;
+}
+
+.footer__col:nth-child(2) > .footer__title::after {
+  background-image: url('../../static/img/openSauced-icon.png');
+}
+
+.footer__col:nth-child(3) > .footer__title::after {
+  background-image: url('../../static/img/mustard.png');
+  top: -2px;
+  left: 45px;
+}
+
