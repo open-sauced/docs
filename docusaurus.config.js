@@ -35,6 +35,11 @@ module.exports = {
           position: 'left',
         },
         {
+          alt: 'Open Sauced Logo',
+          src: 'img/logo.svg',
+          href: 'https://opensauced.pizza/'
+        },
+        {
           href: 'https://dev.to/opensauced',
           label: 'Blog',
           position: 'left',
@@ -62,6 +67,11 @@ module.exports = {
       respectPrefersColorScheme: false,
     },
     footer: {
+      logo: {
+        alt: 'Open Sauced Logo',
+        src: 'img/logo.svg',
+        href: 'https://opensauced.pizza/'
+      },
       style: 'dark',
       links: [
         {

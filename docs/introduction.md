@@ -1,8 +1,10 @@
 ---
 slug: /
+title: Introduction to Open Sauced
+sidebar_label: Introduction to Open Sauced 🍕
 ---
 
-# Introduction to Open Sauced
+# Introduction to Open Sauced ![img](../static/favicon.ico)
 
 ![Example banner](../static/img/what-is-opensauced.png)
 
