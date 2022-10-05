@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.11.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.10.0...v1.11.0) (2022-10-05)
+
+
+### Features
+
+* add better open sauced asset branding ([#46](https://github.com/open-sauced/docs.opensauced.pizza/issues/46)) ([2902366](https://github.com/open-sauced/docs.opensauced.pizza/commit/290236662e31ec2ffbdd2ab7016845ab8ba67f04)), closes [#32](https://github.com/open-sauced/docs.opensauced.pizza/issues/32)
+
 ## [1.10.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.9.0...v1.10.0) (2022-10-05)
 
 
