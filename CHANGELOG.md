@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.10.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.9.0...v1.10.0) (2022-10-05)
+
+
+### Documentation
+
+* Typo fix in the Contribution docs ([#41](https://github.com/open-sauced/docs.opensauced.pizza/issues/41)) ([56db201](https://github.com/open-sauced/docs.opensauced.pizza/commit/56db2014de0d7abc77f61758196bcd3e3cc9bf65)), closes [#42](https://github.com/open-sauced/docs.opensauced.pizza/issues/42)
+
 ## [1.9.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.8.0...v1.9.0) (2022-08-16)
 
 
