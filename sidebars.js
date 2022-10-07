@@ -27,10 +27,10 @@ module.exports = {
       label: 'app.opensauced.pizza',
       collapsed: false,
       items: [
-        'technical/introduction-to-storybook',
-        'technical/dark-mode-explained',
-        'technical/fetching-data-from-github',
-        'technical/resolve-merge-conflicts',
+        'AppOpensauce/introduction-to-storybook',
+        'AppOpensauce/dark-mode-explained',
+        'AppOpensauce/fetching-data-from-github',
+        'AppOpensauce/resolve-merge-conflicts',
       ],
     },
     {
