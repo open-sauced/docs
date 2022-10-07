@@ -24,7 +24,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Technical guide',
+      label: 'app.opensauced.pizza',
       collapsed: false,
       items: [
         'technical/introduction-to-storybook',
