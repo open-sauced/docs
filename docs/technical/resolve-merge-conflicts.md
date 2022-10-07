@@ -148,7 +148,7 @@ When dealing with dependency and lock file updates there are multiple use cases 
 
 However when that happens, it is advised to:
 - fast-forward `npm-shrinkwrap.json` 
-- fast-forward deleted and modified `upstream/insert-default-branch` changes to `package.json` 
+- fast-forward deleted and modified `upstream/HEAD` changes to `package.json` 
 - fast-forward your added lines to `package.json`
 - run `npm ci` to delete local modules and create dependency resolution from `upstream/HEAD`
 
