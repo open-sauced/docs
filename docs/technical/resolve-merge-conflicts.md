@@ -60,7 +60,7 @@ git merge upstream/main --no-stat -v
 
 ## Merge with upstream
 
-Then merge with the forked up-to-date default branch:
+Then merge with the forked up-to-date `HEAD` (default branch):
 
 
 ```shell
