@@ -85,7 +85,7 @@ It will look like this:
 
 ## Resolve conflicts
 
-Since this pull request does not modify the `package.json` file it is safe to fast forward the changes from `origin/insert-default-branch`:
+Since this pull request does not modify the `package.json` file it is safe to fast forward the changes from `origin/main`:
 
 
 ```shell
