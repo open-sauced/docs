@@ -24,7 +24,7 @@ module.exports = {
     navbar: {
       logo: {
         alt: 'Open Sauced Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
         href: 'https://opensauced.pizza/'
       },
       items: [
