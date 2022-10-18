@@ -60,7 +60,7 @@ git merge upstream/main --no-stat -v
 
 ## Merge with upstream
 
-Then merge with the forked up-to-date `HEAD` (default branch):
+Then merge with the forked up-to-date `beta` (default branch):
 
 
 ```shell
@@ -148,9 +148,9 @@ When dealing with dependency and lock file updates there are multiple use cases 
 
 However when that happens, it is advised to:
 - fast-forward `npm-shrinkwrap.json` 
-- fast-forward deleted and modified `upstream/HEAD` changes to `package.json` 
+- fast-forward deleted and modified `upstream/beta` changes to `package.json` 
 - fast-forward your added lines to `package.json`
-- run `npm ci` to delete local modules and create dependency resolution from `upstream/HEAD`
+- run `npm ci` to delete local modules and create dependency resolution from `upstream/beta`
 
 Visual diffing is advised however not following the git commit history procedure will result in a rogue pull request that scope creeps into dependency updates. 
 
