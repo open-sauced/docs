@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.12.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.11.0...v1.12.0) (2022-10-18)
+
+
+### Features
+
+* Update logo in header nav to new logo ([#55](https://github.com/open-sauced/docs.opensauced.pizza/issues/55)) ([1c75731](https://github.com/open-sauced/docs.opensauced.pizza/commit/1c75731337c1d7357c689539fd9a2f28ad8a2f44))
+
 ## [1.11.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.10.0...v1.11.0) (2022-10-05)
 
 
