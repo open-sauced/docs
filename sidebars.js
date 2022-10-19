@@ -28,16 +28,9 @@ module.exports = {
       label: 'app.opensauced.pizza',
       collapsed: false,
       items: [
-<<<<<<< HEAD
-        'AppOpensauce/introduction-to-storybook',
-        'AppOpensauce/dark-mode-explained',
-        'AppOpensauce/fetching-data-from-github',
-        'AppOpensauce/resolve-merge-conflicts',
-=======
-        'appopensauce/introduction-to-storybook',
-        'appopensauce/dark-mode-explained',
-        'appopensauce/fetching-data-from-github',
->>>>>>> 012a579 (fix: Move resolve-merge-conflicts to contributing and rename Appopensauce)
+        'appOpensauced/introduction-to-storybook',
+        'appOpensauced/dark-mode-explained',
+        'appOpensauced/fetching-data-from-github',
       ],
     },
     {
