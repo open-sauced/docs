@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.12.1](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.12.0...v1.12.1) (2022-10-19)
+
+
+### Bug Fixes
+
+* logo swap between light mode and dark mode ([#57](https://github.com/open-sauced/docs.opensauced.pizza/issues/57)) ([ad3af5d](https://github.com/open-sauced/docs.opensauced.pizza/commit/ad3af5db0df633ccea52aa992bfed25883df4093))
+
 ## [1.12.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.11.0...v1.12.0) (2022-10-18)
 
 
