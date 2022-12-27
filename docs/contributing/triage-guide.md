@@ -1,4 +1,10 @@
-# Triage guide
+---
+id: triage-guide
+title: Triage guide
+sidebar_label: Triage guide
+keywords:
+  - triage guide
+---
 
 ## How do I join the triage team?
 
@@ -28,10 +34,10 @@ It might be helpful to write your own test apps to re-affirm your understanding 
 
 Issues labeled as `good first issue` represent a curated list of easy contributions for new contributors. These issues are meant to help folks make their first contribution to open-source and should not require an excessive amount of research or triaging on the contributor's part.
 
-*All good first issues should include one or more of the following: a solution, a suggestion for a solution, links to components, or in which issue occurs.*
+_All good first issues should include one or more of the following: a solution, a suggestion for a solution, links to components, or in which issue occurs._
 
 - Issues that `needs triage` cannot be labeled as `good first issues`.
-- It is better to have no `good first issue` labeled issues than to have a `good first issue` confusing enough to deter a contributor from contributing. 
+- It is better to have no `good first issue` labeled issues than to have a `good first issue` confusing enough to deter a contributor from contributing.
 
 ## Removal of triage role
 

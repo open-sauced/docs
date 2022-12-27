@@ -1,4 +1,10 @@
-# @open-sauced/conventional-commit
+---
+id: conventional-commit
+title: "@open-sauced/conventional-commit"
+sidebar_label: "@open-sauced/conventional-commit"
+keywords:
+  - "@open-sauced/conventional-commit"
+---
 
 ## Description
 
@@ -27,7 +33,7 @@ Add the verification scripts to your `scripts` section in the `package.json` fil
 }
 ```
 
-The reason why we provide `npx` in the `scripts` section is for the people using this as a development enhancement, interactive configurations or trimmed dependency trees, where using `npx` is preferred over installing all the dependencies at once. 
+The reason why we provide `npx` in the `scripts` section is for the people using this as a development enhancement, interactive configurations or trimmed dependency trees, where using `npx` is preferred over installing all the dependencies at once.
 
 ## Usage
 

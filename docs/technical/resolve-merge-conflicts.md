@@ -1,4 +1,10 @@
-# Resolve merge conflicts
+---
+id: resolve-merge-conflicts
+title: Resolve merge conflicts
+sidebar_label: Resolve merge conflicts
+keywords:
+  - Resolve merge conflicts
+---
 
 Pretty often when opening a pull request it is very likely to run into merge conflicts as the release process is generally updating `npm-shriknwrap.json`.
 
@@ -46,7 +52,7 @@ As an additional step for this tutorial we need to add the `upstream` remote:
 git remote add upstream git@github.com:open-sauced/open-sauced.git
 ```
 
-## Update 
+## Update
 
 First get the `main` branch changes:
 
@@ -86,7 +92,7 @@ It will look like this:
 Since this pull request does not modify the `package.json` file it is safe to fast forward the changes from `origin/main`:
 
 ```shell
-# overwrite with origin/main changes 
+# overwrite with origin/main changes
 git show :3:package.json > package.json
 ```
 
@@ -94,7 +100,7 @@ A more traditional way of doing the same thing is:
 
 ```shell
 # make a local copy of all changes and use --theirs
-# --theirs strategy overwrite with origin/main changes 
+# --theirs strategy overwrite with origin/main changes
 git show :1:package.json > base.package.json
 git show :2:package.json > branch.package.json
 git show :3:package.json > head.package.json
@@ -144,11 +150,12 @@ And it's ready to merge:
 When dealing with dependency and lock file updates there are multiple use cases to consider, however as a baseline, the open sauced triage team will not prioritize parallel main features as seen in the roadmap.
 
 However when that happens, it is advised to:
-- fast-forward `npm-shrinkwrap.json` 
-- fast-forward deleted and modified `upstream/main` changes to `package.json` 
+
+- fast-forward `npm-shrinkwrap.json`
+- fast-forward deleted and modified `upstream/main` changes to `package.json`
 - fast-forward your added lines to `package.json`
 - run `npm ci` to delete local modules and create dependency resolution from `upstream/main`
 
-Visual diffing is advised however not following the git commit history procedure will result in a rogue pull request that scope creeps into dependency updates. 
+Visual diffing is advised however not following the git commit history procedure will result in a rogue pull request that scope creeps into dependency updates.
 
 Generally speaking, just adding things to a lockfile will not be troublesome and since this is a licensed project, we should be careful when adding dependencies.

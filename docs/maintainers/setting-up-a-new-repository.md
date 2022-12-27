@@ -1,9 +1,15 @@
-# Setting up a new repository 
+---
+id: setting-up-a-new-repository
+title: Setting up a new repository
+sidebar_label: Setting up a new repository
+keywords:
+  - setting up a new repository
+---
 
 ## How do I Join the Maintainers Team?
 
 1. Sign up for [opensauced.pizza](https://opensauced.pizza)
-1. Join [discord](https://discord.gg/gZMKK5q). 
+1. Join [discord](https://discord.gg/gZMKK5q).
 1. Prove your pizza worth!
 
 ## Requirements
@@ -49,10 +55,11 @@ The default labels have some missing emojis. Copy the rest with:
 npx octoherd-script-copy-labels \
   --template "open-sauced/open-sauced" \
   -T $GH_TOKEN \
-  -R "open-sauced/check-engines" 
+  -R "open-sauced/check-engines"
 ```
 
 Then go back to your repository and delete:
+
 - documentation
 - 👀 needs-triage (green background one)
 - other potential duplicates if the above race condition is different
@@ -83,7 +90,7 @@ Pull requests require [triage](https://github.com/open-sauced/open-sauced/blob/m
 
 Most `node` projects will require [release automation](https://github.com/open-sauced/open-sauced/blob/main/.github/workflows/release.yml) powered by [@open-sauced/semantic-release-conventional-config](https://github.com/open-sauced/semantic-release-conventional-config).
 
-Other [development workflows](https://github.com/open-sauced/open-sauced/tree/main/.github/workflows) are less common and opinionated towards decentralised collaboration. Use these as example backbones for your new repository. 
+Other [development workflows](https://github.com/open-sauced/open-sauced/tree/main/.github/workflows) are less common and opinionated towards decentralised collaboration. Use these as example backbones for your new repository.
 
 ## Setting up environments and secrets
 

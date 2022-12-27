@@ -1,6 +1,5 @@
 ---
 slug: /
-title: Introduction to Open Sauced
 sidebar_label: Introduction to Open Sauced 🍕
 ---
 

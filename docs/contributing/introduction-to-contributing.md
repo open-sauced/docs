@@ -1,4 +1,10 @@
-# Introduction to contributing
+---
+id: introduction-to-contributing
+title: Introduction to contributing
+sidebar_label: Introduction to contributing
+keywords:
+  - introduction to contributing
+---
 
 Contributions are always welcome, no matter how large or small. Before contributing,
 please read the [code of conduct](./code-of-conduct.md).
@@ -36,11 +42,12 @@ For running the test suite, use the following command. Since the tests run in wa
 # the tests will run in watch mode by default
 npm test
 ```
+
 For more info on testing React and JavaScript, check out this course [Testing JavaScript](https://testingjavascript.com/)
 
 ## Pull requests
 
-___We actively welcome your pull requests, however linking your work to an existing issue is preferred.___
+**_We actively welcome your pull requests, however linking your work to an existing issue is preferred._**
 
 1. Fork the repo and create your branch from `main`.
 1. Name your branch something that is descriptive to the work you are doing. i.e. adds-new-thing or fixes-mobile
@@ -53,7 +60,7 @@ ___We actively welcome your pull requests, however linking your work to an exist
 1. A PR description and title are required. The title is required to begin with: "feat:" or "fix:"
 1. [Link to an issue](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls) in the project. Unsolicited code is welcomed, but an issue is required for an announcement your intentions. PR's without a linked issue will be marked invalid and closed.
 
-*note for maintainers: All pull requests need a label to assist automation. See the [template](https://github.com/open-sauced/open-sauced/blob/HEAD/.github/release-drafter.yml) to guide which labels to use.*
+_note for maintainers: All pull requests need a label to assist automation. See the [template](https://github.com/open-sauced/open-sauced/blob/HEAD/.github/release-drafter.yml) to guide which labels to use._
 
 ### PR validation
 
@@ -107,7 +114,7 @@ Do you have questions? Join the conversation in our [Discord](https://discord.gg
 
 - Ask questions if you are stuck.
 - Use [CSS variables](https://github.com/open-sauced/open-sauced/blob/HEAD/src/styles/variables.js)
-- Always use [rel="noreferrer" on all target="_blank" links](https://web.dev/external-anchors-use-rel-noopener/).
+- Always use [rel="noreferrer" on all target="\_blank" links](https://web.dev/external-anchors-use-rel-noopener/).
 
 ## License
 
