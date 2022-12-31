@@ -1,4 +1,10 @@
-# @open-sauced/semantic-release-conventional-config
+---
+id: semantic-release
+title: "@open-sauced/semantic-release-conventional-config"
+sidebar_label: "@open-sauced/semantic-release-conventional-config"
+keywords:
+  - "@open-sauced/semantic-release-conventional-config"
+---
 
 ## Description
 
@@ -26,6 +32,7 @@ This package uses the following modules:
 ## 🖥️ Requirements
 
 Most important limitations are:
+
 - `GITHUB_TOKEN` for everything
 - `NPM_TOKEN` for public `npm` library
 - `docker` containers need to be built beforehand
@@ -33,6 +40,7 @@ Most important limitations are:
 You can skip here if you are using elevated [Private Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token), however we don't recommend going down that path.
 
 No force push or admin cherries branch protections for the following branches:
+
 - `main` - required
 - `alpha` - optional, pre-release branch
 - `beta` - optional, pre-release branch
@@ -79,7 +87,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
-      - name: '♻️ cleanup'
+      - name: "♻️ cleanup"
         run: |
           echo ${{ env.RELEASE_TAG }}
           echo ${{ env.RELEASE_VERSION }}
@@ -117,7 +125,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
-      - name: '♻️ cleanup'
+      - name: "♻️ cleanup"
         run: |
           echo ${{ steps.semantic-release.outputs.release-tag }}
           echo ${{ steps.semantic-release.outputs.release-version }}
@@ -192,36 +200,36 @@ This example requires `"private": true,` in your `package.json` and simplifies t
 
 ```yaml
 release:
-    environment:
-      name: production
-      url: https://github.com/${{ github.repository }}/releases/tag/${{ env.RELEASE_TAG }}
-    name: Semantic release
-    runs-on: ubuntu-latest
-    steps:
-      - name: "☁️ checkout repository"
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
+  environment:
+    name: production
+    url: https://github.com/${{ github.repository }}/releases/tag/${{ env.RELEASE_TAG }}
+  name: Semantic release
+  runs-on: ubuntu-latest
+  steps:
+    - name: "☁️ checkout repository"
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
 
-      - name: "🔧 setup node"
-        uses: actions/setup-node@v2.1.5
-        with:
-          node-version: 16
+    - name: "🔧 setup node"
+      uses: actions/setup-node@v2.1.5
+      with:
+        node-version: 16
 
-      - name: "🔧 install npm@latest"
-        run: npm i -g npm@latest
+    - name: "🔧 install npm@latest"
+      run: npm i -g npm@latest
 
-      - name: "📦 install dependencies"
-        uses: bahmutov/npm-install@v1
+    - name: "📦 install dependencies"
+      uses: bahmutov/npm-install@v1
 
-      - name: "🚀 static app"
-        run: npm run build
+    - name: "🚀 static app"
+      run: npm run build
 
-      - name: "🚀 release"
-        id: semantic-release
-        uses: docker://ghcr.io/open-sauced/semantic-release-conventional-config:3.0.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: "🚀 release"
+      id: semantic-release
+      uses: docker://ghcr.io/open-sauced/semantic-release-conventional-config:3.0.0
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
 ### Npm library
@@ -253,7 +261,7 @@ jobs:
         uses: actions/setup-node@v2.1.5
         with:
           node-version: 16
-          
+
       - name: "🔧 install npm@latest"
         run: npm i -g npm@latest
 
@@ -336,7 +344,7 @@ jobs:
         uses: actions/setup-node@v2.1.5
         with:
           node-version: 16
-          
+
       - name: "🔧 install npm@latest"
         run: npm i -g npm@latest
 
@@ -417,7 +425,7 @@ An up-to-date version of the example above is available at [open-sauced/open-sau
 
 ### Pre-releases
 
-This workflow requires the creation of `alpha` and `beta` protected branches while templating every commit to be conventional. It does not support squashing without creating extremely complex conflict resolution: 
+This workflow requires the creation of `alpha` and `beta` protected branches while templating every commit to be conventional. It does not support squashing without creating extremely complex conflict resolution:
 
 ```yaml
 name: "Release"
@@ -481,14 +489,14 @@ The following commit rules are enforced by `@semantic-release/commit-analyzer`:
 {
   "preset": "conventionalcommits",
   "releaseRules": [
-    {"type": "build", "release": "minor"},
-    {"type": "ci", "release": "patch"},
-    {"type": "docs", "release": "minor"},
-    {"type": "style", "release": "patch"},
-    {"type": "refactor", "release": "patch"},
-    {"type": "test", "release": "patch"},
-    {"type": "revert", "release": "patch"},
-    {"type": "chore", "release": false}
+    { "type": "build", "release": "minor" },
+    { "type": "ci", "release": "patch" },
+    { "type": "docs", "release": "minor" },
+    { "type": "style", "release": "patch" },
+    { "type": "refactor", "release": "patch" },
+    { "type": "test", "release": "patch" },
+    { "type": "revert", "release": "patch" },
+    { "type": "chore", "release": false }
   ],
   "parserOpts": {
     "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "BREAKING"]
@@ -517,7 +525,7 @@ Create the `alpha` and/or `beta` branches and protect them from being deleted or
 
 Switch your branching strategy to `merge` and enable conventional commits checking.
 
-You will have to resolve merge conflicts between `alpha`, `beta` and `main` branches as described in the [semantic-releases recipes](https://github.com/semantic-release/semantic-release/tree/master/docs/recipes). 
+You will have to resolve merge conflicts between `alpha`, `beta` and `main` branches as described in the [semantic-releases recipes](https://github.com/semantic-release/semantic-release/tree/master/docs/recipes).
 
 ## Contributing
 

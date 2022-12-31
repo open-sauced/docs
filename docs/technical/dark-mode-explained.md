@@ -1,3 +1,11 @@
+---
+id: dark-mode-explained
+title: Dark mode explained
+sidebar_label: Dark mode explained
+keywords:
+  - dark mode explained
+---
+
 # Dark mode explained
 
 This project supports "dark mode" styling, and by default it will follow the color preference on your device. It also allows for overriding this using buttons at the top right of the screen, which will persist the preference to local storage on your device. More info about color preference web API's can be found here in the [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme).
@@ -5,16 +13,17 @@ This project supports "dark mode" styling, and by default it will follow the col
 ## Implementation approach
 
 The implementation is done in 4 steps.
-- The functional component in `src/containers/App.js` has a `useEffect` hook that checks the user's `localStorage` for a stored entry of `theme`.  This value should be either "dark", "light", no entry at all. The hook runs only on initial page load, and if no local storage entry is found, it uses a default value of "system". It applies this value to the `ThemeContext` defined in `src/ThemeContext.js`.
+
+- The functional component in `src/containers/App.js` has a `useEffect` hook that checks the user's `localStorage` for a stored entry of `theme`. This value should be either "dark", "light", no entry at all. The hook runs only on initial page load, and if no local storage entry is found, it uses a default value of "system". It applies this value to the `ThemeContext` defined in `src/ThemeContext.js`.
 - Also found in `src/containers/App.js` is a function called `systemIsDark` that can look at the user's device color preference to determine whether or not the system would prefer dark mode.
 - Also found in `src/containers/App.js` is a function called `applyTheme` that checks the theme value and decides whether to include or remove the CSS classname "dark" to the `document.body` element. This determination would be made according to this table.
 
-| Value of `theme`  | Result of `systemIsDark` | Apply `body.dark`? |
-| --- | --- | --- |
-| system | true | include |
-| system | false | remove |
-| dark | N/A | include |
-| light | N/A | remove |
+| Value of `theme` | Result of `systemIsDark` | Apply `body.dark`? |
+| ---------------- | ------------------------ | ------------------ |
+| system           | true                     | include            |
+| system           | false                    | remove             |
+| dark             | N/A                      | include            |
+| light            | N/A                      | remove             |
 
 - Found in `src/components/ThemeButtonGroup.js` is a component with three buttons, each of which can be used to change the `ThemeContext` value.
 
@@ -25,7 +34,8 @@ There are more specific impacts for components that extend `styled-components` (
 
 ## SVG images
 
-SVG images can have their coloring controlled by a few different means, depending on the way they're rendered. This project has some mix in its use of SVG files for icons/images. 
+SVG images can have their coloring controlled by a few different means, depending on the way they're rendered. This project has some mix in its use of SVG files for icons/images.
+
 - In the case of its use of the library `@primer/octicons-react`, these SVG files are rendered directly into markup rather than as the `src` attribute of an `<img>` tag, and so the `fill` CSS property is controlled by `src/index.css`.
 - In the case of its use of SVG files in the repository, these are rendered as the `src` attribute of an `<img>` tag, and therefore the `filter` CSS property is controlled by `src/index.css`.
 - In the case of an SVG used as a background-image for a form element (`src/styles/Search.js`), we use an alternate SVG file for dark mode whose `fill` property has been adjusted, since this use case doesn't allow for controlling the SVG colors separately from the form element's background colors.
@@ -40,7 +50,7 @@ For future work, components with coloring aspects should make use of the `styled
 
 ```js
 import styled from "styled-components";
-import {margin, size, borderRadius, colors, fontSize} from "./variables";
+import { margin, size, borderRadius, colors, fontSize } from "./variables";
 const Container = styled.textarea`
   margin-bottom: 12px;
   border-radius: ${borderRadius};

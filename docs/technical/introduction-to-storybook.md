@@ -1,4 +1,10 @@
-# Introduction to storybook
+---
+id: introduction-to-storybook
+title: Introduction to storybook
+sidebar_label: Introduction to storybook
+keywords:
+  - Introduction to storybook
+---
 
 Storybook is being leveraged to mock out visual React components. The latest version of the design system can be found at this [URL](https://sauced-components.netlify.app/).
 
@@ -42,6 +48,6 @@ To add a new UI element to to an existing category, add the following code to th
 
 ```
 export const *Name of UI Element* = () => (
-    
+
 );
 ```

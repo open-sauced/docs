@@ -1,4 +1,10 @@
-# @open-sauced/check-engines
+---
+id: check-engines
+title: "@open-sauced/check-engines"
+sidebar_label: "@open-sauced/check-engines"
+keywords:
+  - "@open-sauced/check-engines"
+---
 
 ## Description
 
@@ -26,7 +32,7 @@ Add the verification scripts to your `scripts` section in the `package.json` fil
 }
 ```
 
-The reason why we provide `npx` in the `scripts` section is for the people using this as a development enhancement, interactive configurations or trimmed dependency trees, where using `npx` is preferred over installing all the dependencies at once. 
+The reason why we provide `npx` in the `scripts` section is for the people using this as a development enhancement, interactive configurations or trimmed dependency trees, where using `npx` is preferred over installing all the dependencies at once.
 
 ## Usage
 
@@ -73,11 +79,11 @@ A more traditional approach not using `pre` or `post` scripts, this example enab
 
 Older `node` and `npm` versions won't be able to run this package, depending on versions the scripts section could be ignored completely.
 
-If you have that use case, this package is only worth enabling for progressive contributors frequently missing the legacy support of the respective module and forcefully upgrading dependencies - them running newer versions will force the error message and explicitly disable.   
+If you have that use case, this package is only worth enabling for progressive contributors frequently missing the legacy support of the respective module and forcefully upgrading dependencies - them running newer versions will force the error message and explicitly disable.
 
 ### Why not use `check-engines` or `engine-strict`
 
-As described in the `npm@6` [engine-strict docs](https://docs.npmjs.com/cli/v6/configuring-npm/package-json#enginestrict): 
+As described in the `npm@6` [engine-strict docs](https://docs.npmjs.com/cli/v6/configuring-npm/package-json#enginestrict):
 
 > Prior to npm 3.0.0, this feature was used to treat this package as if the user had set engine-strict. It is no longer used.
 
