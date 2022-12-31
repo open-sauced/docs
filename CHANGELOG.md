@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.14.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.13.0...v1.14.0) (2022-12-31)
+
+
+### Documentation
+
+* add head metadata ([#59](https://github.com/open-sauced/docs.opensauced.pizza/issues/59)) ([df4b7e0](https://github.com/open-sauced/docs.opensauced.pizza/commit/df4b7e0410c7df5021c980c04050c5571c37d25a)), closes [#45](https://github.com/open-sauced/docs.opensauced.pizza/issues/45)
+
 ## [1.13.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.12.1...v1.13.0) (2022-10-28)
 
 
