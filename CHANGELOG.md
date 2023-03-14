@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.15.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.14.0...v1.15.0) (2023-03-14)
+
+
+### Documentation
+
+* add authentication section ([#62](https://github.com/open-sauced/docs.opensauced.pizza/issues/62)) ([26f8511](https://github.com/open-sauced/docs.opensauced.pizza/commit/26f8511db772be3a9bb16887d46b3daf27537d6c))
+
 ## [1.14.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.13.0...v1.14.0) (2022-12-31)
 
 
