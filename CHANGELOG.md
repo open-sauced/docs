@@ -5,6 +5,48 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.14.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.13.0...v1.14.0) (2022-12-31)
+
+
+### Documentation
+
+* add head metadata ([#59](https://github.com/open-sauced/docs.opensauced.pizza/issues/59)) ([df4b7e0](https://github.com/open-sauced/docs.opensauced.pizza/commit/df4b7e0410c7df5021c980c04050c5571c37d25a)), closes [#45](https://github.com/open-sauced/docs.opensauced.pizza/issues/45)
+
+## [1.13.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.12.1...v1.13.0) (2022-10-28)
+
+
+### Features
+
+* adds new favicons ([#58](https://github.com/open-sauced/docs.opensauced.pizza/issues/58)) ([3bec3fe](https://github.com/open-sauced/docs.opensauced.pizza/commit/3bec3fefe1e43f1bfe5e7e1f0fb99703edb27883)), closes [#47](https://github.com/open-sauced/docs.opensauced.pizza/issues/47)
+
+### [1.12.1](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.12.0...v1.12.1) (2022-10-19)
+
+
+### Bug Fixes
+
+* logo swap between light mode and dark mode ([#57](https://github.com/open-sauced/docs.opensauced.pizza/issues/57)) ([ad3af5d](https://github.com/open-sauced/docs.opensauced.pizza/commit/ad3af5db0df633ccea52aa992bfed25883df4093))
+
+## [1.12.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.11.0...v1.12.0) (2022-10-18)
+
+
+### Features
+
+* Update logo in header nav to new logo ([#55](https://github.com/open-sauced/docs.opensauced.pizza/issues/55)) ([1c75731](https://github.com/open-sauced/docs.opensauced.pizza/commit/1c75731337c1d7357c689539fd9a2f28ad8a2f44))
+
+## [1.11.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.10.0...v1.11.0) (2022-10-05)
+
+
+### Features
+
+* add better open sauced asset branding ([#46](https://github.com/open-sauced/docs.opensauced.pizza/issues/46)) ([2902366](https://github.com/open-sauced/docs.opensauced.pizza/commit/290236662e31ec2ffbdd2ab7016845ab8ba67f04)), closes [#32](https://github.com/open-sauced/docs.opensauced.pizza/issues/32)
+
+## [1.10.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.9.0...v1.10.0) (2022-10-05)
+
+
+### Documentation
+
+* Typo fix in the Contribution docs ([#41](https://github.com/open-sauced/docs.opensauced.pizza/issues/41)) ([56db201](https://github.com/open-sauced/docs.opensauced.pizza/commit/56db2014de0d7abc77f61758196bcd3e3cc9bf65)), closes [#42](https://github.com/open-sauced/docs.opensauced.pizza/issues/42)
+
 ## [1.9.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.8.0...v1.9.0) (2022-08-16)
 
 

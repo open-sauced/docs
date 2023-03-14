@@ -24,7 +24,8 @@ module.exports = {
     navbar: {
       logo: {
         alt: 'Open Sauced Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo_lightmode.png',
+        srcDark: 'img/logo_darkmode.png',
         href: 'https://opensauced.pizza/'
       },
       items: [
@@ -33,6 +34,11 @@ module.exports = {
           docId: 'introduction',
           label: 'Docs',
           position: 'left',
+        },
+        {
+          alt: 'Open Sauced Logo',
+          src: 'img/logo.svg',
+          href: 'https://opensauced.pizza/'
         },
         {
           href: 'https://dev.to/opensauced',
@@ -62,6 +68,11 @@ module.exports = {
       respectPrefersColorScheme: false,
     },
     footer: {
+      logo: {
+        alt: 'Open Sauced Logo',
+        src: 'img/logo.svg',
+        href: 'https://opensauced.pizza/'
+      },
       style: 'dark',
       links: [
         {
