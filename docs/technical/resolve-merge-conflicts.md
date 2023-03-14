@@ -54,7 +54,8 @@ git remote add upstream git@github.com:open-sauced/open-sauced.git
 
 ## Update
 
-First get the `main` branch changes:
+First get the default branch changes:
+
 
 ```shell
 git fetch origin --recurse-submodules=no --progress --prune
@@ -65,7 +66,8 @@ git merge upstream/main --no-stat -v
 
 ## Merge with upstream
 
-Then merge with the forked up-to-date `main` branch:
+Then merge with the forked up-to-date `beta` (default branch):
+
 
 ```shell
 git merge origin/main --no-ff -v
@@ -90,6 +92,7 @@ It will look like this:
 ## Resolve conflicts
 
 Since this pull request does not modify the `package.json` file it is safe to fast forward the changes from `origin/main`:
+
 
 ```shell
 # overwrite with origin/main changes
@@ -150,11 +153,10 @@ And it's ready to merge:
 When dealing with dependency and lock file updates there are multiple use cases to consider, however as a baseline, the open sauced triage team will not prioritize parallel main features as seen in the roadmap.
 
 However when that happens, it is advised to:
-
-- fast-forward `npm-shrinkwrap.json`
-- fast-forward deleted and modified `upstream/main` changes to `package.json`
+- fast-forward `npm-shrinkwrap.json` 
+- fast-forward deleted and modified `upstream/beta` changes to `package.json` 
 - fast-forward your added lines to `package.json`
-- run `npm ci` to delete local modules and create dependency resolution from `upstream/main`
+- run `npm ci` to delete local modules and create dependency resolution from `upstream/beta`
 
 Visual diffing is advised however not following the git commit history procedure will result in a rogue pull request that scope creeps into dependency updates.
 
