@@ -20,6 +20,7 @@ module.exports = {
         'contributing/introduction-to-contributing',
         'contributing/code-of-conduct',
         'contributing/triage-guide',
+        'contributing/set-up-authentication'
       ],
     },
     {
