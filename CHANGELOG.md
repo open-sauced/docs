@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.16.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.15.0...v1.16.0) (2023-03-14)
+
+
+### Documentation
+
+* Updates docs to add mentions of `beta` ([#44](https://github.com/open-sauced/docs.opensauced.pizza/issues/44)) ([97c699c](https://github.com/open-sauced/docs.opensauced.pizza/commit/97c699c6a3cabef58fcdaa301ce6326fa7f0f8c2))
+
 ## [1.15.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.14.0...v1.15.0) (2023-03-14)
 
 
