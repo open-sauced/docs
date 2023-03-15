@@ -20,9 +20,9 @@ Some thoughts to help you contribute to this project
 
 ## Setup
 
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the main repository at [open-sauced/insights](https://github.com/open-sauced/insights) to your own GitHub account.
-1. Clone the forked repository to your local machine.
-1. Run `npm ci` to install the dependencies and set up the project.
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) one of the repositories from [github/open-sauced](https://github.com/open-sauced) to your own GitHub account.
+2. Clone the forked repository to your local machine.
+3. Run `npm ci` to install the dependencies and set up the project.
 
 You can also use the shell commands below to get started once you have forked the repository.
 Make sure to replace `<your-name>` with your GitHub username.
