@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.16.1](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.16.0...v1.16.1) (2023-03-18)
+
+
+### Bug Fixes
+
+* improve intro to contributing ([#63](https://github.com/open-sauced/docs.opensauced.pizza/issues/63)) ([356b6ee](https://github.com/open-sauced/docs.opensauced.pizza/commit/356b6ee8244088f7e2d165bd597bb6e43b4bc76a))
+
 ## [1.16.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.15.0...v1.16.0) (2023-03-14)
 
 
