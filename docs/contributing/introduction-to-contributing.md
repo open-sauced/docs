@@ -20,7 +20,12 @@ Some thoughts to help you contribute to this project
 
 ## Setup
 
-TL;DR: forks are preferred.
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) one of the repositories from [github/open-sauced](https://github.com/open-sauced) to your own GitHub account.
+2. Clone the forked repository to your local machine.
+3. Run `npm ci` to install the dependencies and set up the project.
+
+You can also use the shell commands below to get started once you have forked the repository.
+Make sure to replace `<your-name>` with your GitHub username.
 
 ```shell
 git clone https://github.com/<your-name>/open-sauced
@@ -88,11 +93,14 @@ GitHub has support for draft pull requests, which will disable the merge button 
 
 ## Issues
 
-If you plan to contribute a change based on an open issue, please assign yourself by commenting on the following word `.take`. Issues that are not assigned are assumed open, and to avoid conflicts, please assign yourself before beginning work on any issues.
+If you wish to work on an open issue, please comment on the issue with `.take` and it will be assigned to you. If an issue is not assigned, it is assumed to be open for anyone to work on. Please assign yourself to an issue before beginning work on it to avoid conflicts.
+ 
+If you are contributing to the project for the first time, please consider checking the [bug](https://github.com/open-sauced/hot/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+bug%22) or [good first issue](https://github.com/open-sauced/hot/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) labels.
 
-If you would like to contribute to the project for the first time, please consider joining checking the [bug](https://github.com/open-sauced/open-sauced/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+bug%22) or [good first issue](https://github.com/open-sauced/open-sauced/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) labels.
+In case you get stuck, please feel free to ask for help in the [Discord](https://discord.gg/U2peSNf23P) server or GitHub Discussions.
 
-Also, all questions are welcomed.
+Please note that we have a [code of conduct](./code-of-conduct.md), please follow it in all your interactions with the project and it's contributors.
+
 
 ## Triage team
 
@@ -104,7 +112,7 @@ For those interested in getting involved in the project or just open source in g
 
 ## Funding
 
-Open Sauced is a part of GitHub Sponsors. If you would like to contribute, please note the [sponsor page](https://github.com/sponsors/open-sauced) for details on how funds are distributed. If you have made any contributions to the projectd directly or indirectly, please consider adding your profile to the [funding.yml](https://github.com/open-sauced/open-sauced/blob/main/.github/funding.yml).
+Open Sauced is a part of GitHub Sponsors. If you would like to contribute, please note the [sponsor page](https://github.com/sponsors/open-sauced) for details on how funds are distributed. If you have made any contributions to the projectd directly or indirectly, please consider adding your profile to the [FUNDING.yml](https://github.com/open-sauced/.github/blob/main/FUNDING.yml).
 
 ## Community
 
