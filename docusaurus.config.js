@@ -90,6 +90,10 @@ module.exports = {
               label: 'Maintainer guide',
               to: '/maintainers/setting-up-a-new-repository/',
             },
+            {
+              label: 'The OpenSauced API',
+              to: '/api/introduction-to-the-api',
+            }
           ],
         },
         {

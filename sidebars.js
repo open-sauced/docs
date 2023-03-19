@@ -45,5 +45,13 @@ module.exports = {
         'maintainers/semantic-release',
       ]
     },
+    {
+      type: 'category',
+      label: 'The OpenSauced API',
+      collapsed: true,
+      items: [
+        'api/introduction-to-the-api',
+      ]
+    }
   ],
 };
