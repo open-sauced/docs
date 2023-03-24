@@ -50,6 +50,26 @@ npm test
 
 For more info on testing React and JavaScript, check out this course [Testing JavaScript](https://testingjavascript.com/)
 
+## Applying Lint Styleguide
+
+To check the code for formatting and linting errors, run the following command:
+
+```shell
+npm run lint
+```
+
+These errors will also be displayed during development, but won't prevent the code from compiling.
+
+To fix the formatting and linting errors, run the following command instead:
+
+```shell
+npm run format
+```
+
+These commands use [ESLint](https://eslint.org/) to check and fix the code.
+
+The automated PR checks will also run these commands, and the PR will be blocked if there are any errors, so it's a good idea to run them before submitting a PR.
+
 ## Pull requests
 
 **_We actively welcome your pull requests, however linking your work to an existing issue is preferred._**
