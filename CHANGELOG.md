@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.17.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.16.2...v1.17.0) (2023-03-24)
+
+
+### Documentation
+
+* add lint section to intro to contributing ([#66](https://github.com/open-sauced/docs.opensauced.pizza/issues/66)) ([b427242](https://github.com/open-sauced/docs.opensauced.pizza/commit/b4272424c11ad9456a4710a369b70a00a9ef65f0))
+
 ### [1.16.2](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.16.1...v1.16.2) (2023-03-24)
 
 
