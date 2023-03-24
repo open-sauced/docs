@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.16.2](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.16.1...v1.16.2) (2023-03-24)
+
+
+### Bug Fixes
+
+* triage.yml ([#67](https://github.com/open-sauced/docs.opensauced.pizza/issues/67)) ([b23cbf0](https://github.com/open-sauced/docs.opensauced.pizza/commit/b23cbf04b8640ad2f543af7731dba974e94edba1))
+
 ### [1.16.1](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.16.0...v1.16.1) (2023-03-18)
 
 
