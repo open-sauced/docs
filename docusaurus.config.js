@@ -15,6 +15,7 @@ module.exports = {
   trailingSlash: true,
   themeConfig: {
     algolia: {
+      appId: 'bh4d9od16a',
       apiKey: '1691a4a5b06166984397aa30153f663c',
       indexName: 'opensauced',
       algoliaOptions: { 'facetFilters': ["type:$TYPE"] },
