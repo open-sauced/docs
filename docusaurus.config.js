@@ -9,7 +9,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/logo.svg',
+  favicon: 'img/favicon.ico',
   organizationName: 'open-sauced', // Usually your GitHub org/user name.
   projectName: 'docs.opensauced.pizza', // Usually your repo name.
   trailingSlash: true,
