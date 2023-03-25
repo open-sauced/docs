@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.18.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.17.0...v1.18.0) (2023-03-25)
+
+
+### Features
+
+* replace intro image and link ([#73](https://github.com/open-sauced/docs.opensauced.pizza/issues/73)) ([b7b1e30](https://github.com/open-sauced/docs.opensauced.pizza/commit/b7b1e30e5bfbdbd410f4b20a268d4c2b71dd9819))
+
 ## [1.17.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.16.2...v1.17.0) (2023-03-24)
 
 
