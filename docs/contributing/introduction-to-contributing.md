@@ -106,7 +106,7 @@ You can also experiment with conventional commits by doing:
 ```shell
 npm run push
 ```
-Using the `npm run push` command is a critical step in the release process. It allows developers to push their code changes to GitHub, which then triggers the build and deployment process. Without using the npm run push command, the release process can become disorganized and prone to errors. Therefore, it's highly recommended that developers use this command as part of their release process to ensure that the product is consistently built, tested, and deployed to a high standard of quality and reliability
+
 
 ### Work in progress
 
