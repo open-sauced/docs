@@ -5,6 +5,19 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.18.1](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.18.0...v1.18.1) (2023-03-25)
+
+
+### Bug Fixes
+
+* correct ci development flow ([0434010](https://github.com/open-sauced/docs.opensauced.pizza/commit/04340102dec0995cfc2b1fdea356ed6e98c3e6d2))
+* correct node 17 webpack security concerns and audit fix ([22d2ea5](https://github.com/open-sauced/docs.opensauced.pizza/commit/22d2ea5d94f23ae5e6e383fd011c84fd9a2d4754))
+
+
+### Continuous Integration
+
+* correct dockerfile build for ghcr ([804ed80](https://github.com/open-sauced/docs.opensauced.pizza/commit/804ed801d539266b64a3f46d54e630b8d9ea66f2))
+
 ## [1.18.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.17.0...v1.18.0) (2023-03-25)
 
 
