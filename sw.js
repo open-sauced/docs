@@ -155,8 +155,7 @@ expectedClass, details) => {
 };
 const isOneOf = (value, validValues, details) => {
     if (!validValues.includes(value)) {
-        details['validValueDescription'] =
-            `Valid values are ${JSON.stringify(validValues)}.`;
+        details['validValueDescription'] = `Valid values are ${JSON.stringify(validValues)}.`;
         throw new _private_WorkboxError_js__WEBPACK_IMPORTED_MODULE_0__.WorkboxError('invalid-value', details);
     }
 };
@@ -174,14 +173,16 @@ details) => {
         }
     }
 };
-const finalAssertExports =  false ? 0 : {
-    hasMethod,
-    isArray,
-    isInstance,
-    isOneOf,
-    isType,
-    isArrayOfClass,
-};
+const finalAssertExports =  false
+    ? 0
+    : {
+        hasMethod,
+        isArray,
+        isInstance,
+        isOneOf,
+        isType,
+        isArrayOfClass,
+    };
 
 
 
@@ -391,7 +392,7 @@ __webpack_require__.r(__webpack_exports__);
  * Runs all of the callback functions, one at a time sequentially, in the order
  * in which they were registered.
  *
- * @memberof module:workbox-core
+ * @memberof workbox-core
  * @private
  */
 async function executeQuotaErrorCallbacks() {
@@ -464,61 +465,63 @@ __webpack_require__.r(__webpack_exports__);
   https://opensource.org/licenses/MIT.
 */
 
-const logger = ( false ? 0 : (() => {
-    // Don't overwrite this value if it's already set.
-    // See https://github.com/GoogleChrome/workbox/pull/2284#issuecomment-560470923
-    if (!('__WB_DISABLE_DEV_LOGS' in self)) {
-        self.__WB_DISABLE_DEV_LOGS = false;
-    }
-    let inGroup = false;
-    const methodToColorMap = {
-        debug: `#7f8c8d`,
-        log: `#2ecc71`,
-        warn: `#f39c12`,
-        error: `#c0392b`,
-        groupCollapsed: `#3498db`,
-        groupEnd: null,
-    };
-    const print = function (method, args) {
-        if (self.__WB_DISABLE_DEV_LOGS) {
-            return;
+const logger = ( false
+    ? 0
+    : (() => {
+        // Don't overwrite this value if it's already set.
+        // See https://github.com/GoogleChrome/workbox/pull/2284#issuecomment-560470923
+        if (!('__WB_DISABLE_DEV_LOGS' in self)) {
+            self.__WB_DISABLE_DEV_LOGS = false;
         }
-        if (method === 'groupCollapsed') {
-            // Safari doesn't print all console.groupCollapsed() arguments:
-            // https://bugs.webkit.org/show_bug.cgi?id=182754
-            if (/^((?!chrome|android).)*safari/i.test(navigator.userAgent)) {
-                console[method](...args);
+        let inGroup = false;
+        const methodToColorMap = {
+            debug: `#7f8c8d`,
+            log: `#2ecc71`,
+            warn: `#f39c12`,
+            error: `#c0392b`,
+            groupCollapsed: `#3498db`,
+            groupEnd: null, // No colored prefix on groupEnd
+        };
+        const print = function (method, args) {
+            if (self.__WB_DISABLE_DEV_LOGS) {
                 return;
             }
-        }
-        const styles = [
-            `background: ${methodToColorMap[method]}`,
-            `border-radius: 0.5em`,
-            `color: white`,
-            `font-weight: bold`,
-            `padding: 2px 0.5em`,
-        ];
-        // When in a group, the workbox prefix is not displayed.
-        const logPrefix = inGroup ? [] : ['%cworkbox', styles.join(';')];
-        console[method](...logPrefix, ...args);
-        if (method === 'groupCollapsed') {
-            inGroup = true;
-        }
-        if (method === 'groupEnd') {
-            inGroup = false;
-        }
-    };
-    // eslint-disable-next-line @typescript-eslint/ban-types
-    const api = {};
-    const loggerMethods = Object.keys(methodToColorMap);
-    for (const key of loggerMethods) {
-        const method = key;
-        api[method] = (...args) => {
-            print(method, args);
+            if (method === 'groupCollapsed') {
+                // Safari doesn't print all console.groupCollapsed() arguments:
+                // https://bugs.webkit.org/show_bug.cgi?id=182754
+                if (/^((?!chrome|android).)*safari/i.test(navigator.userAgent)) {
+                    console[method](...args);
+                    return;
+                }
+            }
+            const styles = [
+                `background: ${methodToColorMap[method]}`,
+                `border-radius: 0.5em`,
+                `color: white`,
+                `font-weight: bold`,
+                `padding: 2px 0.5em`,
+            ];
+            // When in a group, the workbox prefix is not displayed.
+            const logPrefix = inGroup ? [] : ['%cworkbox', styles.join(';')];
+            console[method](...logPrefix, ...args);
+            if (method === 'groupCollapsed') {
+                inGroup = true;
+            }
+            if (method === 'groupEnd') {
+                inGroup = false;
+            }
         };
-    }
-    return api;
-})());
+        // eslint-disable-next-line @typescript-eslint/ban-types
+        const api = {};
+        const loggerMethods = Object.keys(methodToColorMap);
+        for (const key of loggerMethods) {
+            const method = key;
+            api[method] = (...args) => {
+                print(method, args);
+            };
+        }
+        return api;
+    })());
 
 
 
@@ -605,7 +608,7 @@ function waitUntil(event, asyncFn) {
 
 // @ts-ignore
 try {
-    self['workbox:core:6.2.4'] && _();
+    self['workbox:core:6.5.3'] && _();
 }
 catch (e) { }
 
@@ -653,7 +656,7 @@ __webpack_require__.r(__webpack_exports__);
  *
  * @param {Response} response
  * @param {Function} modifier
- * @memberof module:workbox-core
+ * @memberof workbox-core
  */
 async function copyResponse(response, modifier) {
     let origin = null;
@@ -677,8 +680,9 @@ async function copyResponse(response, modifier) {
     // Create the new response from the body stream and `ResponseInit`
     // modifications. Note: not all browsers support the Response.body stream,
     // so fall back to reading the entire body into memory as a blob.
-    const body = (0,_private_canConstructResponseFromBodyStream_js__WEBPACK_IMPORTED_MODULE_0__.canConstructResponseFromBodyStream)() ?
-        clonedResponse.body : await clonedResponse.blob();
+    const body = (0,_private_canConstructResponseFromBodyStream_js__WEBPACK_IMPORTED_MODULE_0__.canConstructResponseFromBodyStream)()
+        ? clonedResponse.body
+        : await clonedResponse.blob();
     return new Response(body, modifiedResponseInit);
 }
 
@@ -722,8 +726,7 @@ const generatorFunction = (code, details = {}) => {
     }
     return message(details);
 };
-const messageGenerator = ( false) ?
-    0 : generatorFunction;
+const messageGenerator =  false ? 0 : generatorFunction;
 
 
 /***/ }),
@@ -753,182 +756,183 @@ const messages = {
         if (!paramName || !validValueDescription) {
             throw new Error(`Unexpected input to 'invalid-value' error.`);
         }
-        return `The '${paramName}' parameter was given a value with an ` +
+        return (`The '${paramName}' parameter was given a value with an ` +
             `unexpected value. ${validValueDescription} Received a value of ` +
-            `${JSON.stringify(value)}.`;
+            `${JSON.stringify(value)}.`);
     },
     'not-an-array': ({ moduleName, className, funcName, paramName }) => {
         if (!moduleName || !className || !funcName || !paramName) {
             throw new Error(`Unexpected input to 'not-an-array' error.`);
         }
-        return `The parameter '${paramName}' passed into ` +
-            `'${moduleName}.${className}.${funcName}()' must be an array.`;
+        return (`The parameter '${paramName}' passed into ` +
+            `'${moduleName}.${className}.${funcName}()' must be an array.`);
     },
-    'incorrect-type': ({ expectedType, paramName, moduleName, className, funcName }) => {
+    'incorrect-type': ({ expectedType, paramName, moduleName, className, funcName, }) => {
         if (!expectedType || !paramName || !moduleName || !funcName) {
             throw new Error(`Unexpected input to 'incorrect-type' error.`);
         }
         const classNameStr = className ? `${className}.` : '';
-        return `The parameter '${paramName}' passed into ` +
+        return (`The parameter '${paramName}' passed into ` +
             `'${moduleName}.${classNameStr}` +
-            `${funcName}()' must be of type ${expectedType}.`;
+            `${funcName}()' must be of type ${expectedType}.`);
     },
-    'incorrect-class': ({ expectedClassName, paramName, moduleName, className, funcName, isReturnValueProblem }) => {
+    'incorrect-class': ({ expectedClassName, paramName, moduleName, className, funcName, isReturnValueProblem, }) => {
         if (!expectedClassName || !moduleName || !funcName) {
             throw new Error(`Unexpected input to 'incorrect-class' error.`);
         }
         const classNameStr = className ? `${className}.` : '';
         if (isReturnValueProblem) {
-            return `The return value from ` +
+            return (`The return value from ` +
                 `'${moduleName}.${classNameStr}${funcName}()' ` +
-                `must be an instance of class ${expectedClassName}.`;
+                `must be an instance of class ${expectedClassName}.`);
         }
-        return `The parameter '${paramName}' passed into ` +
+        return (`The parameter '${paramName}' passed into ` +
             `'${moduleName}.${classNameStr}${funcName}()' ` +
-            `must be an instance of class ${expectedClassName}.`;
+            `must be an instance of class ${expectedClassName}.`);
     },
-    'missing-a-method': ({ expectedMethod, paramName, moduleName, className, funcName }) => {
-        if (!expectedMethod || !paramName || !moduleName || !className
-            || !funcName) {
+    'missing-a-method': ({ expectedMethod, paramName, moduleName, className, funcName, }) => {
+        if (!expectedMethod ||
+            !paramName ||
+            !moduleName ||
+            !className ||
+            !funcName) {
             throw new Error(`Unexpected input to 'missing-a-method' error.`);
         }
-        return `${moduleName}.${className}.${funcName}() expected the ` +
-            `'${paramName}' parameter to expose a '${expectedMethod}' method.`;
+        return (`${moduleName}.${className}.${funcName}() expected the ` +
+            `'${paramName}' parameter to expose a '${expectedMethod}' method.`);
     },
     'add-to-cache-list-unexpected-type': ({ entry }) => {
-        return `An unexpected entry was passed to ` +
+        return (`An unexpected entry was passed to ` +
             `'workbox-precaching.PrecacheController.addToCacheList()' The entry ` +
             `'${JSON.stringify(entry)}' isn't supported. You must supply an array of ` +
             `strings with one or more characters, objects with a url property or ` +
-            `Request objects.`;
+            `Request objects.`);
     },
     'add-to-cache-list-conflicting-entries': ({ firstEntry, secondEntry }) => {
         if (!firstEntry || !secondEntry) {
-            throw new Error(`Unexpected input to ` +
-                `'add-to-cache-list-duplicate-entries' error.`);
+            throw new Error(`Unexpected input to ` + `'add-to-cache-list-duplicate-entries' error.`);
         }
-        return `Two of the entries passed to ` +
+        return (`Two of the entries passed to ` +
             `'workbox-precaching.PrecacheController.addToCacheList()' had the URL ` +
             `${firstEntry} but different revision details. Workbox is ` +
             `unable to cache and version the asset correctly. Please remove one ` +
-            `of the entries.`;
+            `of the entries.`);
     },
     'plugin-error-request-will-fetch': ({ thrownErrorMessage }) => {
         if (!thrownErrorMessage) {
-            throw new Error(`Unexpected input to ` +
-                `'plugin-error-request-will-fetch', error.`);
+            throw new Error(`Unexpected input to ` + `'plugin-error-request-will-fetch', error.`);
         }
-        return `An error was thrown by a plugins 'requestWillFetch()' method. ` +
-            `The thrown error message was: '${thrownErrorMessage}'.`;
+        return (`An error was thrown by a plugins 'requestWillFetch()' method. ` +
+            `The thrown error message was: '${thrownErrorMessage}'.`);
     },
     'invalid-cache-name': ({ cacheNameId, value }) => {
         if (!cacheNameId) {
             throw new Error(`Expected a 'cacheNameId' for error 'invalid-cache-name'`);
         }
-        return `You must provide a name containing at least one character for ` +
+        return (`You must provide a name containing at least one character for ` +
             `setCacheDetails({${cacheNameId}: '...'}). Received a value of ` +
-            `'${JSON.stringify(value)}'`;
+            `'${JSON.stringify(value)}'`);
     },
     'unregister-route-but-not-found-with-method': ({ method }) => {
         if (!method) {
             throw new Error(`Unexpected input to ` +
                 `'unregister-route-but-not-found-with-method' error.`);
         }
-        return `The route you're trying to unregister was not  previously ` +
-            `registered for the method type '${method}'.`;
+        return (`The route you're trying to unregister was not  previously ` +
+            `registered for the method type '${method}'.`);
     },
     'unregister-route-route-not-registered': () => {
-        return `The route you're trying to unregister was not previously ` +
-            `registered.`;
+        return (`The route you're trying to unregister was not previously ` +
+            `registered.`);
     },
     'queue-replay-failed': ({ name }) => {
         return `Replaying the background sync queue '${name}' failed.`;
     },
     'duplicate-queue-name': ({ name }) => {
-        return `The Queue name '${name}' is already being used. ` +
-            `All instances of backgroundSync.Queue must be given unique names.`;
+        return (`The Queue name '${name}' is already being used. ` +
+            `All instances of backgroundSync.Queue must be given unique names.`);
     },
     'expired-test-without-max-age': ({ methodName, paramName }) => {
-        return `The '${methodName}()' method can only be used when the ` +
-            `'${paramName}' is used in the constructor.`;
+        return (`The '${methodName}()' method can only be used when the ` +
+            `'${paramName}' is used in the constructor.`);
     },
     'unsupported-route-type': ({ moduleName, className, funcName, paramName }) => {
-        return `The supplied '${paramName}' parameter was an unsupported type. ` +
+        return (`The supplied '${paramName}' parameter was an unsupported type. ` +
             `Please check the docs for ${moduleName}.${className}.${funcName} for ` +
-            `valid input types.`;
+            `valid input types.`);
     },
-    'not-array-of-class': ({ value, expectedClass, moduleName, className, funcName, paramName }) => {
-        return `The supplied '${paramName}' parameter must be an array of ` +
+    'not-array-of-class': ({ value, expectedClass, moduleName, className, funcName, paramName, }) => {
+        return (`The supplied '${paramName}' parameter must be an array of ` +
             `'${expectedClass}' objects. Received '${JSON.stringify(value)},'. ` +
             `Please check the call to ${moduleName}.${className}.${funcName}() ` +
-            `to fix the issue.`;
+            `to fix the issue.`);
     },
     'max-entries-or-age-required': ({ moduleName, className, funcName }) => {
-        return `You must define either config.maxEntries or config.maxAgeSeconds` +
-            `in ${moduleName}.${className}.${funcName}`;
+        return (`You must define either config.maxEntries or config.maxAgeSeconds` +
+            `in ${moduleName}.${className}.${funcName}`);
     },
     'statuses-or-headers-required': ({ moduleName, className, funcName }) => {
-        return `You must define either config.statuses or config.headers` +
-            `in ${moduleName}.${className}.${funcName}`;
+        return (`You must define either config.statuses or config.headers` +
+            `in ${moduleName}.${className}.${funcName}`);
     },
     'invalid-string': ({ moduleName, funcName, paramName }) => {
         if (!paramName || !moduleName || !funcName) {
             throw new Error(`Unexpected input to 'invalid-string' error.`);
         }
-        return `When using strings, the '${paramName}' parameter must start with ` +
+        return (`When using strings, the '${paramName}' parameter must start with ` +
             `'http' (for cross-origin matches) or '/' (for same-origin matches). ` +
             `Please see the docs for ${moduleName}.${funcName}() for ` +
-            `more info.`;
+            `more info.`);
     },
     'channel-name-required': () => {
-        return `You must provide a channelName to construct a ` +
-            `BroadcastCacheUpdate instance.`;
+        return (`You must provide a channelName to construct a ` +
+            `BroadcastCacheUpdate instance.`);
     },
     'invalid-responses-are-same-args': () => {
-        return `The arguments passed into responsesAreSame() appear to be ` +
-            `invalid. Please ensure valid Responses are used.`;
+        return (`The arguments passed into responsesAreSame() appear to be ` +
+            `invalid. Please ensure valid Responses are used.`);
     },
     'expire-custom-caches-only': () => {
-        return `You must provide a 'cacheName' property when using the ` +
-            `expiration plugin with a runtime caching strategy.`;
+        return (`You must provide a 'cacheName' property when using the ` +
+            `expiration plugin with a runtime caching strategy.`);
     },
     'unit-must-be-bytes': ({ normalizedRangeHeader }) => {
         if (!normalizedRangeHeader) {
             throw new Error(`Unexpected input to 'unit-must-be-bytes' error.`);
         }
-        return `The 'unit' portion of the Range header must be set to 'bytes'. ` +
-            `The Range header provided was "${normalizedRangeHeader}"`;
+        return (`The 'unit' portion of the Range header must be set to 'bytes'. ` +
+            `The Range header provided was "${normalizedRangeHeader}"`);
     },
     'single-range-only': ({ normalizedRangeHeader }) => {
         if (!normalizedRangeHeader) {
             throw new Error(`Unexpected input to 'single-range-only' error.`);
         }
-        return `Multiple ranges are not supported. Please use a  single start ` +
+        return (`Multiple ranges are not supported. Please use a  single start ` +
             `value, and optional end value. The Range header provided was ` +
-            `"${normalizedRangeHeader}"`;
+            `"${normalizedRangeHeader}"`);
     },
     'invalid-range-values': ({ normalizedRangeHeader }) => {
         if (!normalizedRangeHeader) {
             throw new Error(`Unexpected input to 'invalid-range-values' error.`);
         }
-        return `The Range header is missing both start and end values. At least ` +
+        return (`The Range header is missing both start and end values. At least ` +
             `one of those values is needed. The Range header provided was ` +
-            `"${normalizedRangeHeader}"`;
+            `"${normalizedRangeHeader}"`);
     },
     'no-range-header': () => {
         return `No Range header was found in the Request provided.`;
     },
     'range-not-satisfiable': ({ size, start, end }) => {
-        return `The start (${start}) and end (${end}) values in the Range are ` +
-            `not satisfiable by the cached response, which is ${size} bytes.`;
+        return (`The start (${start}) and end (${end}) values in the Range are ` +
+            `not satisfiable by the cached response, which is ${size} bytes.`);
     },
     'attempt-to-cache-non-get-request': ({ url, method }) => {
-        return `Unable to cache '${url}' because it is a '${method}' request and ` +
-            `only 'GET' requests can be cached.`;
+        return (`Unable to cache '${url}' because it is a '${method}' request and ` +
+            `only 'GET' requests can be cached.`);
     },
     'cache-put-with-no-response': ({ url }) => {
-        return `There was an attempt to cache '${url}' but the response was not ` +
-            `defined.`;
+        return (`There was an attempt to cache '${url}' but the response was not ` +
+            `defined.`);
     },
     'no-response': ({ url, error }) => {
         let message = `The strategy could not generate a response for '${url}'.`;
@@ -938,24 +942,33 @@ const messages = {
         return message;
     },
     'bad-precaching-response': ({ url, status }) => {
-        return `The precaching request for '${url}' failed` +
-            (status ? ` with an HTTP status of ${status}.` : `.`);
+        return (`The precaching request for '${url}' failed` +
+            (status ? ` with an HTTP status of ${status}.` : `.`));
     },
     'non-precached-url': ({ url }) => {
-        return `createHandlerBoundToURL('${url}') was called, but that URL is ` +
-            `not precached. Please pass in a URL that is precached instead.`;
+        return (`createHandlerBoundToURL('${url}') was called, but that URL is ` +
+            `not precached. Please pass in a URL that is precached instead.`);
     },
     'add-to-cache-list-conflicting-integrities': ({ url }) => {
-        return `Two of the entries passed to ` +
+        return (`Two of the entries passed to ` +
             `'workbox-precaching.PrecacheController.addToCacheList()' had the URL ` +
-            `${url} with different integrity values. Please remove one of them.`;
+            `${url} with different integrity values. Please remove one of them.`);
     },
     'missing-precache-entry': ({ cacheName, url }) => {
         return `Unable to find a precached response in ${cacheName} for ${url}.`;
     },
     'cross-origin-copy-response': ({ origin }) => {
-        return `workbox-core.copyResponse() can only be used with same-origin ` +
-            `responses. It was passed a response with origin ${origin}.`;
+        return (`workbox-core.copyResponse() can only be used with same-origin ` +
+            `responses. It was passed a response with origin ${origin}.`);
+    },
+    'opaque-streams-source': ({ type }) => {
+        const message = `One of the workbox-streams sources resulted in an ` +
+            `'${type}' response.`;
+        if (type === 'opaqueredirect') {
+            return (`${message} Please do not use a navigation request that results ` +
+                `in a redirect as a source.`);
+        }
+        return `${message} Please ensure your sources are CORS-enabled.`;
     },
 };
 
@@ -1036,7 +1049,7 @@ __webpack_require__.r(__webpack_exports__);
 /**
  * Performs efficient precaching of assets.
  *
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 class PrecacheController {
     /**
@@ -1049,7 +1062,7 @@ class PrecacheController {
      * @param {boolean} [options.fallbackToNetwork=true] Whether to attempt to
      * get the response from the network if there's a precache miss.
      */
-    constructor({ cacheName, plugins = [], fallbackToNetwork = true } = {}) {
+    constructor({ cacheName, plugins = [], fallbackToNetwork = true, } = {}) {
         this._urlsToCacheKeys = new Map();
         this._urlsToCacheModes = new Map();
         this._cacheKeysToIntegrities = new Map();
@@ -1066,7 +1079,7 @@ class PrecacheController {
         this.activate = this.activate.bind(this);
     }
     /**
-     * @type {module:workbox-precaching.PrecacheStrategy} The strategy created by this controller and
+     * @type {workbox-precaching.PrecacheStrategy} The strategy created by this controller and
      * used to cache assets and respond to fetch events.
      */
     get strategy() {
@@ -1075,7 +1088,7 @@ class PrecacheController {
     /**
      * Adds items to the precache list, removing any duplicates and
      * stores the files in the
-     * ["precache cache"]{@link module:workbox-core.cacheNames} when the service
+     * {@link workbox-core.cacheNames|"precache cache"} when the service
      * worker installs.
      *
      * This method can be called multiple times.
@@ -1094,7 +1107,7 @@ class PrecacheController {
      * This method will add items to the precache list, removing duplicates
      * and ensuring the information is valid.
      *
-     * @param {Array<module:workbox-precaching.PrecacheController.PrecacheEntry|string>} entries
+     * @param {Array<workbox-precaching.PrecacheController.PrecacheEntry|string>} entries
      *     Array of entries to precache.
      */
     addToCacheList(entries) {
@@ -1116,8 +1129,7 @@ class PrecacheController {
                 urlsToWarnAbout.push(entry.url);
             }
             const { cacheKey, url } = (0,_utils_createCacheKey_js__WEBPACK_IMPORTED_MODULE_5__.createCacheKey)(entry);
-            const cacheMode = (typeof entry !== 'string' && entry.revision) ?
-                'reload' : 'default';
+            const cacheMode = typeof entry !== 'string' && entry.revision ? 'reload' : 'default';
             if (this._urlsToCacheKeys.has(url) &&
                 this._urlsToCacheKeys.get(url) !== cacheKey) {
                 throw new workbox_core_private_WorkboxError_js__WEBPACK_IMPORTED_MODULE_3__.WorkboxError('add-to-cache-list-conflicting-entries', {
@@ -1155,7 +1167,7 @@ class PrecacheController {
      * to call it yourself in your event handlers.
      *
      * @param {ExtendableEvent} event
-     * @return {Promise<module:workbox-precaching.InstallResult>}
+     * @return {Promise<workbox-precaching.InstallResult>}
      */
     install(event) {
         // waitUntil returns Promise<any>
@@ -1194,7 +1206,7 @@ class PrecacheController {
      * to call it yourself in your event handlers.
      *
      * @param {ExtendableEvent} event
-     * @return {Promise<module:workbox-precaching.CleanupResult>}
+     * @return {Promise<workbox-precaching.CleanupResult>}
      */
     activate(event) {
         // waitUntil returns Promise<any>
@@ -1288,7 +1300,7 @@ class PrecacheController {
      *
      * @param {string} url The precached URL which will be used to lookup the
      * `Response`.
-     * @return {module:workbox-routing~handlerCallback}
+     * @return {workbox-routing~handlerCallback}
      */
     createHandlerBoundToURL(url) {
         const cacheKey = this.getCacheKeyForURL(url);
@@ -1341,7 +1353,7 @@ __webpack_require__.r(__webpack_exports__);
  * constructor, the default instance will be used. Generally speaking, most
  * developers will end up using the default.
  *
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 class PrecacheFallbackPlugin {
     /**
@@ -1354,7 +1366,7 @@ class PrecacheFallbackPlugin {
      *     PrecacheController instance. If not provided, the default
      *     PrecacheController will be used.
      */
-    constructor({ fallbackURL, precacheController }) {
+    constructor({ fallbackURL, precacheController, }) {
         /**
          * @return {Promise<Response>} The precache response for the fallback URL.
          *
@@ -1362,8 +1374,8 @@ class PrecacheFallbackPlugin {
          */
         this.handlerDidError = () => this._precacheController.matchPrecache(this._fallbackURL);
         this._fallbackURL = fallbackURL;
-        this._precacheController = precacheController ||
-            (0,_utils_getOrCreatePrecacheController_js__WEBPACK_IMPORTED_MODULE_0__.getOrCreatePrecacheController)();
+        this._precacheController =
+            precacheController || (0,_utils_getOrCreatePrecacheController_js__WEBPACK_IMPORTED_MODULE_0__.getOrCreatePrecacheController)();
     }
 }
 
@@ -1400,13 +1412,13 @@ __webpack_require__.r(__webpack_exports__);
 
 
 /**
- * A subclass of [Route]{@link module:workbox-routing.Route} that takes a
- * [PrecacheController]{@link module:workbox-precaching.PrecacheController}
+ * A subclass of {@link workbox-routing.Route} that takes a
+ * {@link workbox-precaching.PrecacheController}
  * instance and uses it to match incoming requests and handle fetching
  * responses from the precache.
  *
- * @memberof module:workbox-precaching
- * @extends module:workbox-routing.Route
+ * @memberof workbox-precaching
+ * @extends workbox-routing.Route
  */
 class PrecacheRoute extends workbox_routing_Route_js__WEBPACK_IMPORTED_MODULE_2__.Route {
     /**
@@ -1421,12 +1433,12 @@ class PrecacheRoute extends workbox_routing_Route_js__WEBPACK_IMPORTED_MODULE_2_
      * array of regex's to remove search params when looking for a cache match.
      * @param {boolean} [options.cleanURLs=true] The `cleanURLs` option will
      * check the cache for the URL with a `.html` added to the end of the end.
-     * @param {module:workbox-precaching~urlManipulation} [options.urlManipulation]
+     * @param {workbox-precaching~urlManipulation} [options.urlManipulation]
      * This is a function that should take a URL and return an array of
      * alternative URLs that should be checked for precache matches.
      */
     constructor(precacheController, options) {
-        const match = ({ request }) => {
+        const match = ({ request, }) => {
             const urlsToCacheKeys = precacheController.getURLsToCacheKeys();
             for (const possibleURL of (0,_utils_generateURLVariations_js__WEBPACK_IMPORTED_MODULE_3__.generateURLVariations)(request.url, options)) {
                 const cacheKey = urlsToCacheKeys.get(possibleURL);
@@ -1436,8 +1448,7 @@ class PrecacheRoute extends workbox_routing_Route_js__WEBPACK_IMPORTED_MODULE_2_
                 }
             }
             if (true) {
-                workbox_core_private_logger_js__WEBPACK_IMPORTED_MODULE_0__.logger.debug(`Precaching did not find a match for ` +
-                    (0,workbox_core_private_getFriendlyURL_js__WEBPACK_IMPORTED_MODULE_1__.getFriendlyURL)(request.url));
+                workbox_core_private_logger_js__WEBPACK_IMPORTED_MODULE_0__.logger.debug(`Precaching did not find a match for ` + (0,workbox_core_private_getFriendlyURL_js__WEBPACK_IMPORTED_MODULE_1__.getFriendlyURL)(request.url));
             }
             return;
         };
@@ -1482,16 +1493,16 @@ __webpack_require__.r(__webpack_exports__);
 
 
 /**
- * A [Strategy]{@link module:workbox-strategies.Strategy} implementation
+ * A {@link workbox-strategies.Strategy} implementation
  * specifically designed to work with
- * [PrecacheController]{@link module:workbox-precaching.PrecacheController}
+ * {@link workbox-precaching.PrecacheController}
  * to both cache and fetch precached assets.
  *
  * Note: an instance of this class is created automatically when creating a
  * `PrecacheController`; it's generally not necessary to create this yourself.
  *
- * @extends module:workbox-strategies.Strategy
- * @memberof module:workbox-precaching
+ * @extends workbox-strategies.Strategy
+ * @memberof workbox-precaching
  */
 class PrecacheStrategy extends workbox_strategies_Strategy_js__WEBPACK_IMPORTED_MODULE_5__.Strategy {
     /**
@@ -1499,14 +1510,14 @@ class PrecacheStrategy extends workbox_strategies_Strategy_js__WEBPACK_IMPORTED_
      * @param {Object} [options]
      * @param {string} [options.cacheName] Cache name to store and retrieve
      * requests. Defaults to the cache names provided by
-     * [workbox-core]{@link module:workbox-core.cacheNames}.
-     * @param {Array<Object>} [options.plugins] [Plugins]{@link https://developers.google.com/web/tools/workbox/guides/using-plugins}
+     * {@link workbox-core.cacheNames}.
+     * @param {Array<Object>} [options.plugins] {@link https://developers.google.com/web/tools/workbox/guides/using-plugins|Plugins}
      * to use in conjunction with this caching strategy.
      * @param {Object} [options.fetchOptions] Values passed along to the
-     * [`init`]{@link https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch#Parameters}
+     * {@link https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch#Parameters|init}
      * of all fetch() requests made by this strategy.
      * @param {Object} [options.matchOptions] The
-     * [`CacheQueryOptions`]{@link https://w3c.github.io/ServiceWorker/#dictdef-cachequeryoptions}
+     * {@link https://w3c.github.io/ServiceWorker/#dictdef-cachequeryoptions|CacheQueryOptions}
      * for any `cache.match()` or `cache.put()` calls made by this strategy.
      * @param {boolean} [options.fallbackToNetwork=true] Whether to attempt to
      * get the response from the network if there's a precache miss.
@@ -1525,7 +1536,7 @@ class PrecacheStrategy extends workbox_strategies_Strategy_js__WEBPACK_IMPORTED_
     /**
      * @private
      * @param {Request|string} request A request to run this strategy for.
-     * @param {module:workbox-strategies.StrategyHandler} handler The event that
+     * @param {workbox-strategies.StrategyHandler} handler The event that
      *     triggered the request.
      * @return {Promise<Response>}
      */
@@ -1556,15 +1567,23 @@ class PrecacheStrategy extends workbox_strategies_Strategy_js__WEBPACK_IMPORTED_
             const integrityInManifest = params.integrity;
             const integrityInRequest = request.integrity;
             const noIntegrityConflict = !integrityInRequest || integrityInRequest === integrityInManifest;
+            // Do not add integrity if the original request is no-cors
+            // See https://github.com/GoogleChrome/workbox/issues/3096
             response = await handler.fetch(new Request(request, {
-                integrity: integrityInRequest || integrityInManifest,
+                integrity: request.mode !== 'no-cors'
+                    ? integrityInRequest || integrityInManifest
+                    : undefined,
             }));
             // It's only "safe" to repair the cache if we're using SRI to guarantee
             // that the response matches the precache manifest's expectations,
             // and there's either a) no integrity property in the incoming request
             // or b) there is an integrity, and it matches the precache manifest.
             // See https://github.com/GoogleChrome/workbox/issues/2858
-            if (integrityInManifest && noIntegrityConflict) {
+            // Also if the original request users no-cors we don't use integrity.
+            // See https://github.com/GoogleChrome/workbox/issues/3096
+            if (integrityInManifest &&
+                noIntegrityConflict &&
+                request.mode !== 'no-cors') {
                 this._useDefaultCacheabilityPluginIfNeeded();
                 const wasCached = await handler.cachePut(request, response.clone());
                 if (true) {
@@ -1686,6 +1705,74 @@ PrecacheStrategy.copyRedirectedCacheableResponsesPlugin = {
 
 /***/ }),
 
+/***/ "./node_modules/workbox-precaching/_types.js":
+/*!***************************************************!*\
+  !*** ./node_modules/workbox-precaching/_types.js ***!
+  \***************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_version.js */ "./node_modules/workbox-precaching/_version.js");
+/* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_version_js__WEBPACK_IMPORTED_MODULE_0__);
+/*
+  Copyright 2018 Google LLC
+
+  Use of this source code is governed by an MIT-style
+  license that can be found in the LICENSE file or at
+  https://opensource.org/licenses/MIT.
+*/
+
+// * * * IMPORTANT! * * *
+// ------------------------------------------------------------------------- //
+// jdsoc type definitions cannot be declared above TypeScript definitions or
+// they'll be stripped from the built `.js` files, and they'll only be in the
+// `d.ts` files, which aren't read by the jsdoc generator. As a result we
+// have to put declare them below.
+/**
+ * @typedef {Object} InstallResult
+ * @property {Array<string>} updatedURLs List of URLs that were updated during
+ * installation.
+ * @property {Array<string>} notUpdatedURLs List of URLs that were already up to
+ * date.
+ *
+ * @memberof workbox-precaching
+ */
+/**
+ * @typedef {Object} CleanupResult
+ * @property {Array<string>} deletedCacheRequests List of URLs that were deleted
+ * while cleaning up the cache.
+ *
+ * @memberof workbox-precaching
+ */
+/**
+ * @typedef {Object} PrecacheEntry
+ * @property {string} url URL to precache.
+ * @property {string} [revision] Revision information for the URL.
+ * @property {string} [integrity] Integrity metadata that will be used when
+ * making the network request for the URL.
+ *
+ * @memberof workbox-precaching
+ */
+/**
+ * The "urlManipulation" callback can be used to determine if there are any
+ * additional permutations of a URL that should be used to check against
+ * the available precached files.
+ *
+ * For example, Workbox supports checking for '/index.html' when the URL
+ * '/' is provided. This callback allows additional, custom checks.
+ *
+ * @callback ~urlManipulation
+ * @param {Object} context
+ * @param {URL} context.url The request's URL.
+ * @return {Array<URL>} To add additional urls to test, return an Array of
+ * URLs. Please note that these **should not be strings**, but URL objects.
+ *
+ * @memberof workbox-precaching
+ */
+
+
+/***/ }),
+
 /***/ "./node_modules/workbox-precaching/_version.js":
 /*!*****************************************************!*\
   !*** ./node_modules/workbox-precaching/_version.js ***!
@@ -1695,7 +1782,7 @@ PrecacheStrategy.copyRedirectedCacheableResponsesPlugin = {
 
 // @ts-ignore
 try {
-    self['workbox:precaching:6.2.4'] && _();
+    self['workbox:precaching:6.5.3'] && _();
 }
 catch (e) { }
 
@@ -1729,7 +1816,7 @@ __webpack_require__.r(__webpack_exports__);
  *
  * @param {Array<Object>} plugins
  *
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function addPlugins(plugins) {
     const precacheController = (0,_utils_getOrCreatePrecacheController_js__WEBPACK_IMPORTED_MODULE_0__.getOrCreatePrecacheController)();
@@ -1775,10 +1862,10 @@ __webpack_require__.r(__webpack_exports__);
  * responded to, allowing the event to fall through to other `fetch` event
  * listeners.
  *
- * @param {Object} [options] See
- * [PrecacheRoute options]{@link module:workbox-precaching.PrecacheRoute}.
+ * @param {Object} [options] See the {@link workbox-precaching.PrecacheRoute}
+ * options.
  *
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function addRoute(options) {
     const precacheController = (0,_utils_getOrCreatePrecacheController_js__WEBPACK_IMPORTED_MODULE_1__.getOrCreatePrecacheController)();
@@ -1820,7 +1907,7 @@ __webpack_require__.r(__webpack_exports__);
  * Adds an `activate` event listener which will clean up incompatible
  * precaches that were created by older versions of Workbox.
  *
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function cleanupOutdatedCaches() {
     // See https://github.com/Microsoft/TypeScript/issues/28357#issuecomment-436484705
@@ -1876,9 +1963,9 @@ __webpack_require__.r(__webpack_exports__);
  * `Response`.
  * @param {boolean} [fallbackToNetwork=true] Whether to attempt to get the
  * response from the network if there's a precache miss.
- * @return {module:workbox-routing~handlerCallback}
+ * @return {workbox-routing~handlerCallback}
  *
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function createHandlerBoundToURL(url) {
     const precacheController = (0,_utils_getOrCreatePrecacheController_js__WEBPACK_IMPORTED_MODULE_0__.getOrCreatePrecacheController)();
@@ -1928,7 +2015,7 @@ __webpack_require__.r(__webpack_exports__);
  * @param {string} url The URL whose cache key to look up.
  * @return {string} The cache key that corresponds to that URL.
  *
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function getCacheKeyForURL(url) {
     const precacheController = (0,_utils_getOrCreatePrecacheController_js__WEBPACK_IMPORTED_MODULE_0__.getOrCreatePrecacheController)();
@@ -1947,6 +2034,10 @@ function getCacheKeyForURL(url) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "PrecacheController": () => (/* reexport safe */ _PrecacheController_js__WEBPACK_IMPORTED_MODULE_8__.PrecacheController),
+/* harmony export */   "PrecacheFallbackPlugin": () => (/* reexport safe */ _PrecacheFallbackPlugin_js__WEBPACK_IMPORTED_MODULE_11__.PrecacheFallbackPlugin),
+/* harmony export */   "PrecacheRoute": () => (/* reexport safe */ _PrecacheRoute_js__WEBPACK_IMPORTED_MODULE_9__.PrecacheRoute),
+/* harmony export */   "PrecacheStrategy": () => (/* reexport safe */ _PrecacheStrategy_js__WEBPACK_IMPORTED_MODULE_10__.PrecacheStrategy),
 /* harmony export */   "addPlugins": () => (/* reexport safe */ _addPlugins_js__WEBPACK_IMPORTED_MODULE_0__.addPlugins),
 /* harmony export */   "addRoute": () => (/* reexport safe */ _addRoute_js__WEBPACK_IMPORTED_MODULE_1__.addRoute),
 /* harmony export */   "cleanupOutdatedCaches": () => (/* reexport safe */ _cleanupOutdatedCaches_js__WEBPACK_IMPORTED_MODULE_2__.cleanupOutdatedCaches),
@@ -1954,11 +2045,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "getCacheKeyForURL": () => (/* reexport safe */ _getCacheKeyForURL_js__WEBPACK_IMPORTED_MODULE_4__.getCacheKeyForURL),
 /* harmony export */   "matchPrecache": () => (/* reexport safe */ _matchPrecache_js__WEBPACK_IMPORTED_MODULE_5__.matchPrecache),
 /* harmony export */   "precache": () => (/* reexport safe */ _precache_js__WEBPACK_IMPORTED_MODULE_6__.precache),
-/* harmony export */   "precacheAndRoute": () => (/* reexport safe */ _precacheAndRoute_js__WEBPACK_IMPORTED_MODULE_7__.precacheAndRoute),
-/* harmony export */   "PrecacheController": () => (/* reexport safe */ _PrecacheController_js__WEBPACK_IMPORTED_MODULE_8__.PrecacheController),
-/* harmony export */   "PrecacheRoute": () => (/* reexport safe */ _PrecacheRoute_js__WEBPACK_IMPORTED_MODULE_9__.PrecacheRoute),
-/* harmony export */   "PrecacheStrategy": () => (/* reexport safe */ _PrecacheStrategy_js__WEBPACK_IMPORTED_MODULE_10__.PrecacheStrategy),
-/* harmony export */   "PrecacheFallbackPlugin": () => (/* reexport safe */ _PrecacheFallbackPlugin_js__WEBPACK_IMPORTED_MODULE_11__.PrecacheFallbackPlugin)
+/* harmony export */   "precacheAndRoute": () => (/* reexport safe */ _precacheAndRoute_js__WEBPACK_IMPORTED_MODULE_7__.precacheAndRoute)
 /* harmony export */ });
 /* harmony import */ var _addPlugins_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./addPlugins.js */ "./node_modules/workbox-precaching/addPlugins.js");
 /* harmony import */ var _addRoute_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./addRoute.js */ "./node_modules/workbox-precaching/addRoute.js");
@@ -1974,6 +2061,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _PrecacheFallbackPlugin_js__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./PrecacheFallbackPlugin.js */ "./node_modules/workbox-precaching/PrecacheFallbackPlugin.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./_version.js */ "./node_modules/workbox-precaching/_version.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_12___default = /*#__PURE__*/__webpack_require__.n(_version_js__WEBPACK_IMPORTED_MODULE_12__);
+/* harmony import */ var _types_js__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./_types.js */ "./node_modules/workbox-precaching/_types.js");
 /*
   Copyright 2018 Google LLC
 
@@ -1996,16 +2084,17 @@ __webpack_require__.r(__webpack_exports__);
 
 /**
  * Most consumers of this module will want to use the
- * [precacheAndRoute()]{@link module:workbox-precaching.precacheAndRoute}
+ * {@link workbox-precaching.precacheAndRoute}
  * method to add assets to the cache and respond to network requests with these
  * cached assets.
  *
  * If you require more control over caching and routing, you can use the
- * [PrecacheController]{@link module:workbox-precaching.PrecacheController}
+ * {@link workbox-precaching.PrecacheController}
  * interface.
  *
  * @module workbox-precaching
  */
+
 
 
 
@@ -2046,7 +2135,7 @@ __webpack_require__.r(__webpack_exports__);
  * to look up in the precache.
  * @return {Promise<Response|undefined>}
  *
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function matchPrecache(request) {
     const precacheController = (0,_utils_getOrCreatePrecacheController_js__WEBPACK_IMPORTED_MODULE_0__.getOrCreatePrecacheController)();
@@ -2082,21 +2171,21 @@ __webpack_require__.r(__webpack_exports__);
 /**
  * Adds items to the precache list, removing any duplicates and
  * stores the files in the
- * ["precache cache"]{@link module:workbox-core.cacheNames} when the service
+ * {@link workbox-core.cacheNames|"precache cache"} when the service
  * worker installs.
  *
  * This method can be called multiple times.
  *
  * Please note: This method **will not** serve any of the cached files for you.
  * It only precaches files. To respond to a network request you call
- * [addRoute()]{@link module:workbox-precaching.addRoute}.
+ * {@link workbox-precaching.addRoute}.
  *
  * If you have a single array of files to precache, you can just call
- * [precacheAndRoute()]{@link module:workbox-precaching.precacheAndRoute}.
+ * {@link workbox-precaching.precacheAndRoute}.
  *
  * @param {Array<Object|string>} [entries=[]] Array of entries to precache.
  *
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function precache(entries) {
     const precacheController = (0,_utils_getOrCreatePrecacheController_js__WEBPACK_IMPORTED_MODULE_0__.getOrCreatePrecacheController)();
@@ -2136,14 +2225,14 @@ __webpack_require__.r(__webpack_exports__);
  * respond to fetch events.
  *
  * This is a convenience method that will call
- * [precache()]{@link module:workbox-precaching.precache} and
- * [addRoute()]{@link module:workbox-precaching.addRoute} in a single call.
+ * {@link workbox-precaching.precache} and
+ * {@link workbox-precaching.addRoute} in a single call.
  *
  * @param {Array<Object|string>} entries Array of entries to precache.
- * @param {Object} [options] See
- * [PrecacheRoute options]{@link module:workbox-precaching.PrecacheRoute}.
+ * @param {Object} [options] See the
+ * {@link workbox-precaching.PrecacheRoute} options.
  *
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function precacheAndRoute(entries, options) {
     (0,_precache_js__WEBPACK_IMPORTED_MODULE_1__.precache)(entries);
@@ -2238,8 +2327,9 @@ class PrecacheInstallReportPlugin {
         };
         this.cachedResponseWillBeUsed = async ({ event, state, cachedResponse, }) => {
             if (event.type === 'install') {
-                if (state && state.originalRequest
-                    && state.originalRequest instanceof Request) {
+                if (state &&
+                    state.originalRequest &&
+                    state.originalRequest instanceof Request) {
                     // TODO: `state` should never be undefined...
                     const url = state.originalRequest.url;
                     if (cachedResponse) {
@@ -2290,7 +2380,7 @@ const REVISION_SEARCH_PARAM = '__WB_REVISION__';
  * @return {string} A URL with versioning info.
  *
  * @private
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function createCacheKey(entry) {
     if (!entry) {
@@ -2369,14 +2459,14 @@ const SUBSTRING_TO_FIND = '-precache-';
  * @return {Array<string>} A list of all the cache names that were deleted.
  *
  * @private
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 const deleteOutdatedCaches = async (currentPrecacheName, substringToFind = SUBSTRING_TO_FIND) => {
     const cacheNames = await self.caches.keys();
     const cacheNamesToDelete = cacheNames.filter((cacheName) => {
-        return cacheName.includes(substringToFind) &&
+        return (cacheName.includes(substringToFind) &&
             cacheName.includes(self.registration.scope) &&
-            cacheName !== currentPrecacheName;
+            cacheName !== currentPrecacheName);
     });
     await Promise.all(cacheNamesToDelete.map((cacheName) => self.caches.delete(cacheName)));
     return cacheNamesToDelete;
@@ -2416,7 +2506,7 @@ __webpack_require__.r(__webpack_exports__);
  * @param {Object} options
  *
  * @private
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function* generateURLVariations(url, { ignoreURLParametersMatching = [/^utm_/, /^fbclid$/], directoryIndex = 'index.html', cleanURLs = true, urlManipulation, } = {}) {
     const urlObject = new URL(url, location.href);
@@ -2521,7 +2611,7 @@ const logGroup = (groupTitle, deletedURLs) => {
  * @param {Array<string>} deletedURLs
  *
  * @private
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function printCleanupDetails(deletedURLs) {
     const deletionCount = deletedURLs.length;
@@ -2580,7 +2670,7 @@ function _nestedGroup(groupTitle, urls) {
  * @param {Array<string>} urlsAlreadyPrecached
  *
  * @private
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function printInstallDetails(urlsToPrecache, urlsAlreadyPrecached) {
     const precachedCount = urlsToPrecache.length;
@@ -2588,8 +2678,9 @@ function printInstallDetails(urlsToPrecache, urlsAlreadyPrecached) {
     if (precachedCount || alreadyPrecachedCount) {
         let message = `Precaching ${precachedCount} file${precachedCount === 1 ? '' : 's'}.`;
         if (alreadyPrecachedCount > 0) {
-            message += ` ${alreadyPrecachedCount} ` +
-                `file${alreadyPrecachedCount === 1 ? ' is' : 's are'} already cached.`;
+            message +=
+                ` ${alreadyPrecachedCount} ` +
+                    `file${alreadyPrecachedCount === 1 ? ' is' : 's are'} already cached.`;
         }
         workbox_core_private_logger_js__WEBPACK_IMPORTED_MODULE_0__.logger.groupCollapsed(message);
         _nestedGroup(`View newly precached URLs.`, urlsToPrecache);
@@ -2631,7 +2722,7 @@ __webpack_require__.r(__webpack_exports__);
  * @return {URL} The URL with any ignored search parameters removed.
  *
  * @private
- * @memberof module:workbox-precaching
+ * @memberof workbox-precaching
  */
 function removeIgnoredSearchParams(urlObject, ignoreURLParametersMatching = []) {
     // Convert the iterable into an array at the start of the loop to make sure
@@ -2675,27 +2766,25 @@ __webpack_require__.r(__webpack_exports__);
 
 /**
  * RegExpRoute makes it easy to create a regular expression based
- * [Route]{@link module:workbox-routing.Route}.
+ * {@link workbox-routing.Route}.
  *
  * For same-origin requests the RegExp only needs to match part of the URL. For
  * requests against third-party servers, you must define a RegExp that matches
  * the start of the URL.
  *
- * [See the module docs for info.]{@link https://developers.google.com/web/tools/workbox/modules/workbox-routing}
- *
- * @memberof module:workbox-routing
- * @extends module:workbox-routing.Route
+ * @memberof workbox-routing
+ * @extends workbox-routing.Route
  */
 class RegExpRoute extends _Route_js__WEBPACK_IMPORTED_MODULE_2__.Route {
     /**
      * If the regular expression contains
      * [capture groups]{@link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp#grouping-back-references},
      * the captured values will be passed to the
-     * [handler's]{@link module:workbox-routing~handlerCallback} `params`
+     * {@link workbox-routing~handlerCallback} `params`
      * argument.
      *
      * @param {RegExp} regExp The regular expression to match against URLs.
-     * @param {module:workbox-routing~handlerCallback} handler A callback
+     * @param {workbox-routing~handlerCallback} handler A callback
      * function that returns a Promise resulting in a Response.
      * @param {string} [method='GET'] The HTTP method to match the Route
      * against.
@@ -2719,7 +2808,7 @@ class RegExpRoute extends _Route_js__WEBPACK_IMPORTED_MODULE_2__.Route {
             // if it's a cross-origin request.
             // See https://github.com/GoogleChrome/workbox/issues/281 for the context
             // behind this behavior.
-            if ((url.origin !== location.origin) && (result.index !== 0)) {
+            if (url.origin !== location.origin && result.index !== 0) {
                 if (true) {
                     workbox_core_private_logger_js__WEBPACK_IMPORTED_MODULE_1__.logger.debug(`The regular expression '${regExp.toString()}' only partially matched ` +
                         `against the cross-origin URL '${url.toString()}'. RegExpRoute's will only ` +
@@ -2774,16 +2863,16 @@ __webpack_require__.r(__webpack_exports__);
  * is called when there is a match and should return a Promise that resolves
  * to a `Response`.
  *
- * @memberof module:workbox-routing
+ * @memberof workbox-routing
  */
 class Route {
     /**
      * Constructor for Route class.
      *
-     * @param {module:workbox-routing~matchCallback} match
+     * @param {workbox-routing~matchCallback} match
      * A callback function that determines whether the route matches a given
      * `fetch` event by returning a non-falsy value.
-     * @param {module:workbox-routing~handlerCallback} handler A callback
+     * @param {workbox-routing~handlerCallback} handler A callback
      * function that returns a Promise resolving to a Response.
      * @param {string} [method='GET'] The HTTP method to match the Route
      * against.
@@ -2808,7 +2897,7 @@ class Route {
     }
     /**
      *
-     * @param {module:workbox-routing-handlerCallback} handler A callback
+     * @param {workbox-routing-handlerCallback} handler A callback
      * function that returns a Promise resolving to a Response
      */
     setCatchHandler(handler) {
@@ -2853,8 +2942,8 @@ __webpack_require__.r(__webpack_exports__);
 
 
 /**
- * The Router can be used to process a FetchEvent through one or more
- * [Routes]{@link module:workbox-routing.Route} responding  with a Request if
+ * The Router can be used to process a `FetchEvent` using one or more
+ * {@link workbox-routing.Route}, responding with a `Response` if
  * a matching route exists.
  *
  * If no route matches a given a request, the Router will use a "default"
@@ -2867,7 +2956,7 @@ __webpack_require__.r(__webpack_exports__);
  * If a request matches multiple routes, the **earliest** registered route will
  * be used to respond to the request.
  *
- * @memberof module:workbox-routing
+ * @memberof workbox-routing
  */
 class Router {
     /**
@@ -2878,7 +2967,7 @@ class Router {
         this._defaultHandlerMap = new Map();
     }
     /**
-     * @return {Map<string, Array<module:workbox-routing.Route>>} routes A `Map` of HTTP
+     * @return {Map<string, Array<workbox-routing.Route>>} routes A `Map` of HTTP
      * method name ('GET', etc.) to an array of all the corresponding `Route`
      * instances that are registered.
      */
@@ -2925,8 +3014,10 @@ class Router {
         // See https://github.com/Microsoft/TypeScript/issues/28357#issuecomment-436484705
         self.addEventListener('message', ((event) => {
             // event.data is type 'any'
-            if (event.data && event.data.type === 'CACHE_URLS') { // eslint-disable-line
-                const { payload } = event.data; // eslint-disable-line
+            // eslint-disable-next-line @typescript-eslint/no-unsafe-member-access
+            if (event.data && event.data.type === 'CACHE_URLS') {
+                // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
+                const { payload } = event.data;
                 if (true) {
                     workbox_core_private_logger_js__WEBPACK_IMPORTED_MODULE_3__.logger.debug(`Caching URLs from the window`, payload.urlsToCache);
                 }
@@ -2960,7 +3051,7 @@ class Router {
      *     registered route can handle the request. If there is no matching
      *     route and there's no `defaultHandler`, `undefined` is returned.
      */
-    handleRequest({ request, event }) {
+    handleRequest({ request, event, }) {
         if (true) {
             workbox_core_private_assert_js__WEBPACK_IMPORTED_MODULE_0__.assert.isInstance(request, Request, {
                 moduleName: 'workbox-routing',
@@ -2987,12 +3078,11 @@ class Router {
         const debugMessages = [];
         if (true) {
             if (handler) {
-                debugMessages.push([
-                    `Found a route to handle this request:`, route,
-                ]);
+                debugMessages.push([`Found a route to handle this request:`, route]);
                 if (params) {
                     debugMessages.push([
-                        `Passing the following params to the route's handler:`, params,
+                        `Passing the following params to the route's handler:`,
+                        params,
                     ]);
                 }
             }
@@ -3040,7 +3130,8 @@ class Router {
         }
         // Get route's catch handler, if it exists
         const catchHandler = route && route.catchHandler;
-        if (responsePromise instanceof Promise && (this._catchHandler || catchHandler)) {
+        if (responsePromise instanceof Promise &&
+            (this._catchHandler || catchHandler)) {
             responsePromise = responsePromise.catch(async (err) => {
                 // If there's a route catch handler, process that first
                 if (catchHandler) {
@@ -3094,7 +3185,7 @@ class Router {
      *     They are populated if a matching route was found or `undefined`
      *     otherwise.
      */
-    findMatchingRoute({ url, sameOrigin, request, event }) {
+    findMatchingRoute({ url, sameOrigin, request, event, }) {
         const routes = this._routes.get(request.method) || [];
         for (const route of routes) {
             let params;
@@ -3118,8 +3209,8 @@ class Router {
                     // Instead of passing an empty array in as params, use undefined.
                     params = undefined;
                 }
-                else if ((matchResult.constructor === Object && // eslint-disable-line
-                    Object.keys(matchResult).length === 0)) {
+                else if (matchResult.constructor === Object && // eslint-disable-line
+                    Object.keys(matchResult).length === 0) {
                     // Instead of passing an empty object in as params, use undefined.
                     params = undefined;
                 }
@@ -3145,7 +3236,7 @@ class Router {
      * Without a default handler, unmatched requests will go against the
      * network as if there were no service worker present.
      *
-     * @param {module:workbox-routing~handlerCallback} handler A callback
+     * @param {workbox-routing~handlerCallback} handler A callback
      * function that returns a Promise resulting in a Response.
      * @param {string} [method='GET'] The HTTP method to associate with this
      * default handler. Each method has its own default.
@@ -3157,7 +3248,7 @@ class Router {
      * If a Route throws an error while handling a request, this `handler`
      * will be called and given a chance to provide a response.
      *
-     * @param {module:workbox-routing~handlerCallback} handler A callback
+     * @param {workbox-routing~handlerCallback} handler A callback
      * function that returns a Promise resulting in a Response.
      */
     setCatchHandler(handler) {
@@ -3166,7 +3257,7 @@ class Router {
     /**
      * Registers a route with the router.
      *
-     * @param {module:workbox-routing.Route} route The route to register.
+     * @param {workbox-routing.Route} route The route to register.
      */
     registerRoute(route) {
         if (true) {
@@ -3211,7 +3302,7 @@ class Router {
     /**
      * Unregisters a route with the router.
      *
-     * @param {module:workbox-routing.Route} route The route to unregister.
+     * @param {workbox-routing.Route} route The route to unregister.
      */
     unregisterRoute(route) {
         if (!this._routes.has(route.method)) {
@@ -3242,7 +3333,7 @@ class Router {
 
 // @ts-ignore
 try {
-    self['workbox:routing:6.2.4'] && _();
+    self['workbox:routing:6.5.3'] && _();
 }
 catch (e) { }
 
@@ -3284,19 +3375,18 @@ __webpack_require__.r(__webpack_exports__);
  * strategy to a singleton Router instance.
  *
  * This method will generate a Route for you if needed and
- * call [registerRoute()]{@link module:workbox-routing.Router#registerRoute}.
+ * call {@link workbox-routing.Router#registerRoute}.
  *
- * @param {RegExp|string|module:workbox-routing.Route~matchCallback|module:workbox-routing.Route} capture
+ * @param {RegExp|string|workbox-routing.Route~matchCallback|workbox-routing.Route} capture
  * If the capture param is a `Route`, all other arguments will be ignored.
- * @param {module:workbox-routing~handlerCallback} [handler] A callback
+ * @param {workbox-routing~handlerCallback} [handler] A callback
  * function that returns a Promise resulting in a Response. This parameter
  * is required if `capture` is not a `Route` object.
  * @param {string} [method='GET'] The HTTP method to match the Route
  * against.
- * @return {module:workbox-routing.Route} The generated `Route`(Useful for
- * unregistering).
+ * @return {workbox-routing.Route} The generated `Route`.
  *
- * @memberof module:workbox-routing
+ * @memberof workbox-routing
  */
 function registerRoute(capture, handler, method) {
     let route;
@@ -3312,11 +3402,12 @@ function registerRoute(capture, handler, method) {
             }
             // We want to check if Express-style wildcards are in the pathname only.
             // TODO: Remove this log message in v4.
-            const valueToCheck = capture.startsWith('http') ?
-                captureUrl.pathname : capture;
+            const valueToCheck = capture.startsWith('http')
+                ? captureUrl.pathname
+                : capture;
             // See https://github.com/pillarjs/path-to-regexp#parameters
             const wildcards = '[*:?+]';
-            if ((new RegExp(`${wildcards}`)).exec(valueToCheck)) {
+            if (new RegExp(`${wildcards}`).exec(valueToCheck)) {
                 workbox_core_private_logger_js__WEBPACK_IMPORTED_MODULE_0__.logger.debug(`The '$capture' parameter contains an Express-style wildcard ` +
                     `character (${wildcards}). Strings are now always interpreted as ` +
                     `exact matches; use a RegExp for partial or wildcard matches.`);
@@ -3324,8 +3415,8 @@ function registerRoute(capture, handler, method) {
         }
         const matchCallback = ({ url }) => {
             if (true) {
-                if ((url.pathname === captureUrl.pathname) &&
-                    (url.origin !== captureUrl.origin)) {
+                if (url.pathname === captureUrl.pathname &&
+                    url.origin !== captureUrl.origin) {
                     workbox_core_private_logger_js__WEBPACK_IMPORTED_MODULE_0__.logger.debug(`${capture} only partially matches the cross-origin URL ` +
                         `${url.toString()}. This route will only handle cross-origin requests ` +
                         `if they match the entire URL.`);
@@ -3545,7 +3636,7 @@ __webpack_require__.r(__webpack_exports__);
 /**
  * An abstract base class that all other strategy classes must extend from:
  *
- * @memberof module:workbox-strategies
+ * @memberof workbox-strategies
  */
 class Strategy {
     /**
@@ -3559,7 +3650,7 @@ class Strategy {
      * @param {Object} [options]
      * @param {string} [options.cacheName] Cache name to store and retrieve
      * requests. Defaults to the cache names provided by
-     * [workbox-core]{@link module:workbox-core.cacheNames}.
+     * {@link workbox-core.cacheNames}.
      * @param {Array<Object>} [options.plugins] [Plugins]{@link https://developers.google.com/web/tools/workbox/guides/using-plugins}
      * to use in conjunction with this caching strategy.
      * @param {Object} [options.fetchOptions] Values passed along to the
@@ -3574,7 +3665,7 @@ class Strategy {
         /**
          * Cache name to store and retrieve
          * requests. Defaults to the cache names provided by
-         * [workbox-core]{@link module:workbox-core.cacheNames}.
+         * {@link workbox-core.cacheNames}.
          *
          * @type {string}
          */
@@ -3609,7 +3700,7 @@ class Strategy {
      * a `Response`, invoking all relevant plugin callbacks.
      *
      * When a strategy instance is registered with a Workbox
-     * [route]{@link module:workbox-routing.Route}, this method is automatically
+     * {@link workbox-routing.Route}, this method is automatically
      * called when the route matches.
      *
      * Alternatively, this method can be used in a standalone `FetchEvent`
@@ -3628,9 +3719,9 @@ class Strategy {
         return responseDone;
     }
     /**
-     * Similar to [`handle()`]{@link module:workbox-strategies.Strategy~handle}, but
+     * Similar to {@link workbox-strategies.Strategy~handle}, but
      * instead of just returning a `Promise` that resolves to a `Response` it
-     * it will return an tuple of [response, done] promises, where the former
+     * it will return an tuple of `[response, done]` promises, where the former
      * (`response`) is equivalent to what `handle()` returns, and the latter is a
      * Promise that will resolve once any promises that were added to
      * `event.waitUntil()` as part of performing the strategy have completed.
@@ -3658,9 +3749,9 @@ class Strategy {
             };
         }
         const event = options.event;
-        const request = typeof options.request === 'string' ?
-            new Request(options.request) :
-            options.request;
+        const request = typeof options.request === 'string'
+            ? new Request(options.request)
+            : options.request;
         const params = 'params' in options ? options.params : undefined;
         const handler = new _StrategyHandler_js__WEBPACK_IMPORTED_MODULE_4__.StrategyHandler(this, { event, request, params });
         const responseDone = this._getResponse(handler, request, event);
@@ -3742,7 +3833,7 @@ class Strategy {
 
 /**
  * Classes extending the `Strategy` based class should implement this method,
- * and leverage the [`handler`]{@link module:workbox-strategies.StrategyHandler}
+ * and leverage the {@link workbox-strategies.StrategyHandler}
  * arg to perform all fetching and cache logic, which will ensure all relevant
  * cache, cache options, fetch options and plugins are used (per the current
  * strategy instance).
@@ -3752,10 +3843,10 @@ class Strategy {
  * @abstract
  * @function
  * @param {Request} request
- * @param {module:workbox-strategies.StrategyHandler} handler
+ * @param {workbox-strategies.StrategyHandler} handler
  * @return {Promise<Response>}
  *
- * @memberof module:workbox-strategies.Strategy
+ * @memberof workbox-strategies.Strategy
  */
 
 
@@ -3798,16 +3889,16 @@ __webpack_require__.r(__webpack_exports__);
 
 
 function toRequest(input) {
-    return (typeof input === 'string') ? new Request(input) : input;
+    return typeof input === 'string' ? new Request(input) : input;
 }
 /**
  * A class created every time a Strategy instance instance calls
- * [handle()]{@link module:workbox-strategies.Strategy~handle} or
- * [handleAll()]{@link module:workbox-strategies.Strategy~handleAll} that wraps all fetch and
+ * {@link workbox-strategies.Strategy~handle} or
+ * {@link workbox-strategies.Strategy~handleAll} that wraps all fetch and
  * cache actions around plugin callbacks and keeps track of when the strategy
  * is "done" (i.e. all added `event.waitUntil()` promises have resolved).
  *
- * @memberof module:workbox-strategies
+ * @memberof workbox-strategies
  */
 class StrategyHandler {
     /**
@@ -3817,15 +3908,14 @@ class StrategyHandler {
      * The constructor also initializes the state that will be passed to each of
      * the plugins handling this request.
      *
-     * @param {module:workbox-strategies.Strategy} strategy
+     * @param {workbox-strategies.Strategy} strategy
      * @param {Object} options
      * @param {Request|string} options.request A request to run this strategy for.
      * @param {ExtendableEvent} options.event The event associated with the
      *     request.
      * @param {URL} [options.url]
-     * @param {*} [options.params]
-     *     [match callback]{@link module:workbox-routing~matchCallback},
-     *     (if applicable).
+     * @param {*} [options.params] The return value from the
+     *     {@link workbox-routing~matchCallback} (if applicable).
      */
     constructor(strategy, options) {
         this._cacheKeys = {};
@@ -3835,14 +3925,14 @@ class StrategyHandler {
          * @name request
          * @instance
          * @type {Request}
-         * @memberof module:workbox-strategies.StrategyHandler
+         * @memberof workbox-strategies.StrategyHandler
          */
         /**
          * The event associated with this request.
          * @name event
          * @instance
          * @type {ExtendableEvent}
-         * @memberof module:workbox-strategies.StrategyHandler
+         * @memberof workbox-strategies.StrategyHandler
          */
         /**
          * A `URL` instance of `request.url` (if passed to the strategy's
@@ -3852,19 +3942,19 @@ class StrategyHandler {
          * @name url
          * @instance
          * @type {URL|undefined}
-         * @memberof module:workbox-strategies.StrategyHandler
+         * @memberof workbox-strategies.StrategyHandler
          */
         /**
          * A `param` value (if passed to the strategy's
          * `handle()` or `handleAll()` method).
          * Note: the `param` param will be present if the strategy was invoked
          * from a workbox `Route` object and the
-         * [match callback]{@link module:workbox-routing~matchCallback} returned
+         * {@link workbox-routing~matchCallback} returned
          * a truthy value (it will be that value).
          * @name params
          * @instance
          * @type {*|undefined}
-         * @memberof module:workbox-strategies.StrategyHandler
+         * @memberof workbox-strategies.StrategyHandler
          */
         if (true) {
             workbox_core_private_assert_js__WEBPACK_IMPORTED_MODULE_0__.assert.isInstance(options.event, ExtendableEvent, {
@@ -3907,7 +3997,7 @@ class StrategyHandler {
         if (request.mode === 'navigate' &&
             event instanceof FetchEvent &&
             event.preloadResponse) {
-            const possiblePreloadResponse = await event.preloadResponse;
+            const possiblePreloadResponse = (await event.preloadResponse);
             if (possiblePreloadResponse) {
                 if (true) {
                     workbox_core_private_logger_js__WEBPACK_IMPORTED_MODULE_5__.logger.log(`Using a preloaded navigation response for ` +
@@ -3919,8 +4009,9 @@ class StrategyHandler {
         // If there is a fetchDidFail plugin, we need to save a clone of the
         // original request before it's either modified by a requestWillFetch
         // plugin or before the original request's body is consumed via fetch().
-        const originalRequest = this.hasCallback('fetchDidFail') ?
-            request.clone() : null;
+        const originalRequest = this.hasCallback('fetchDidFail')
+            ? request.clone()
+            : null;
         try {
             for (const cb of this.iterateCallbacks('requestWillFetch')) {
                 request = await cb({ request: request.clone(), event });
@@ -3928,7 +4019,9 @@ class StrategyHandler {
         }
         catch (err) {
             if (err instanceof Error) {
-                throw new workbox_core_private_WorkboxError_js__WEBPACK_IMPORTED_MODULE_7__.WorkboxError('plugin-error-request-will-fetch', { thrownErrorMessage: err.message });
+                throw new workbox_core_private_WorkboxError_js__WEBPACK_IMPORTED_MODULE_7__.WorkboxError('plugin-error-request-will-fetch', {
+                    thrownErrorMessage: err.message,
+                });
             }
         }
         // The request can be altered by plugins with `requestWillFetch` making
@@ -3938,8 +4031,7 @@ class StrategyHandler {
         try {
             let fetchResponse;
             // See https://github.com/GoogleChrome/workbox/issues/1796
-            fetchResponse = await fetch(request, request.mode === 'navigate' ?
-                undefined : this._strategy.fetchOptions);
+            fetchResponse = await fetch(request, request.mode === 'navigate' ? undefined : this._strategy.fetchOptions);
             if (true) {
                 workbox_core_private_logger_js__WEBPACK_IMPORTED_MODULE_5__.logger.debug(`Network request for ` +
                     `'${(0,workbox_core_private_getFriendlyURL_js__WEBPACK_IMPORTED_MODULE_4__.getFriendlyURL)(request.url)}' returned a response with ` +
@@ -4016,13 +4108,14 @@ class StrategyHandler {
             }
         }
         for (const callback of this.iterateCallbacks('cachedResponseWillBeUsed')) {
-            cachedResponse = (await callback({
-                cacheName,
-                matchOptions,
-                cachedResponse,
-                request: effectiveRequest,
-                event: this.event,
-            })) || undefined;
+            cachedResponse =
+                (await callback({
+                    cacheName,
+                    matchOptions,
+                    cachedResponse,
+                    request: effectiveRequest,
+                    event: this.event,
+                })) || undefined;
         }
         return cachedResponse;
     }
@@ -4083,19 +4176,19 @@ class StrategyHandler {
         const { cacheName, matchOptions } = this._strategy;
         const cache = await self.caches.open(cacheName);
         const hasCacheUpdateCallback = this.hasCallback('cacheDidUpdate');
-        const oldResponse = hasCacheUpdateCallback ? await (0,workbox_core_private_cacheMatchIgnoreParams_js__WEBPACK_IMPORTED_MODULE_1__.cacheMatchIgnoreParams)(
-        // TODO(philipwalton): the `__WB_REVISION__` param is a precaching
-        // feature. Consider into ways to only add this behavior if using
-        // precaching.
-        cache, effectiveRequest.clone(), ['__WB_REVISION__'], matchOptions) :
-            null;
+        const oldResponse = hasCacheUpdateCallback
+            ? await (0,workbox_core_private_cacheMatchIgnoreParams_js__WEBPACK_IMPORTED_MODULE_1__.cacheMatchIgnoreParams)(
+            // TODO(philipwalton): the `__WB_REVISION__` param is a precaching
+            // feature. Consider into ways to only add this behavior if using
+            // precaching.
+            cache, effectiveRequest.clone(), ['__WB_REVISION__'], matchOptions)
+            : null;
         if (true) {
             workbox_core_private_logger_js__WEBPACK_IMPORTED_MODULE_5__.logger.debug(`Updating the '${cacheName}' cache with a new Response ` +
                 `for ${(0,workbox_core_private_getFriendlyURL_js__WEBPACK_IMPORTED_MODULE_4__.getFriendlyURL)(effectiveRequest.url)}.`);
         }
         try {
-            await cache.put(effectiveRequest, hasCacheUpdateCallback ?
-                responseToCache.clone() : responseToCache);
+            await cache.put(effectiveRequest, hasCacheUpdateCallback ? responseToCache.clone() : responseToCache);
         }
         catch (error) {
             if (error instanceof Error) {
@@ -4129,7 +4222,8 @@ class StrategyHandler {
      * @return {Promise<Request>}
      */
     async getCacheKey(request, mode) {
-        if (!this._cacheKeys[mode]) {
+        const key = `${request.url} | ${mode}`;
+        if (!this._cacheKeys[key]) {
             let effectiveRequest = request;
             for (const callback of this.iterateCallbacks('cacheKeyWillBeUsed')) {
                 effectiveRequest = toRequest(await callback({
@@ -4137,12 +4231,12 @@ class StrategyHandler {
                     request: effectiveRequest,
                     event: this.event,
                     // params has a type any can't change right now.
-                    params: this.params,
+                    params: this.params, // eslint-disable-line
                 }));
             }
-            this._cacheKeys[mode] = effectiveRequest;
+            this._cacheKeys[key] = effectiveRequest;
         }
-        return this._cacheKeys[mode];
+        return this._cacheKeys[key];
     }
     /**
      * Returns true if the strategy has at least one plugin with the given
@@ -4167,7 +4261,7 @@ class StrategyHandler {
      * Note: since this method runs all plugins, it's not suitable for cases
      * where the return value of a callback needs to be applied prior to calling
      * the next callback. See
-     * [`iterateCallbacks()`]{@link module:workbox-strategies.StrategyHandler#iterateCallbacks}
+     * {@link workbox-strategies.StrategyHandler#iterateCallbacks}
      * below for how to handle that case.
      *
      * @param {string} name The name of the callback to run within each plugin.
@@ -4212,7 +4306,7 @@ class StrategyHandler {
      * `FetchEvent`).
      *
      * Note: you can await
-     * [`doneWaiting()`]{@link module:workbox-strategies.StrategyHandler~doneWaiting}
+     * {@link workbox-strategies.StrategyHandler~doneWaiting}
      * to know when all added promises have settled.
      *
      * @param {Promise} promise A promise to add to the extend lifetime promises
@@ -4224,7 +4318,7 @@ class StrategyHandler {
     }
     /**
      * Returns a promise that resolves once all promises passed to
-     * [`waitUntil()`]{@link module:workbox-strategies.StrategyHandler~waitUntil}
+     * {@link workbox-strategies.StrategyHandler~waitUntil}
      * have settled.
      *
      * Note: any work done after `doneWaiting()` settles should be manually
@@ -4234,7 +4328,7 @@ class StrategyHandler {
      */
     async doneWaiting() {
         let promise;
-        while (promise = this._extendLifetimePromises.shift()) {
+        while ((promise = this._extendLifetimePromises.shift())) {
             await promise;
         }
     }
@@ -4259,11 +4353,12 @@ class StrategyHandler {
         let responseToCache = response;
         let pluginsUsed = false;
         for (const callback of this.iterateCallbacks('cacheWillUpdate')) {
-            responseToCache = (await callback({
-                request: this.request,
-                response: responseToCache,
-                event: this.event,
-            })) || undefined;
+            responseToCache =
+                (await callback({
+                    request: this.request,
+                    response: responseToCache,
+                    event: this.event,
+                })) || undefined;
             pluginsUsed = true;
             if (!responseToCache) {
                 break;
@@ -4307,7 +4402,7 @@ class StrategyHandler {
 
 // @ts-ignore
 try {
-    self['workbox:strategies:6.2.4'] && _();
+    self['workbox:strategies:6.5.3'] && _();
 }
 catch (e) { }
 
@@ -4412,7 +4507,7 @@ var __webpack_exports__ = {};
 // This entry need to be wrapped in an IIFE because it need to be isolated against other modules in the chunk.
 (() => {
 /*!*******************************************************!*\
-  !*** ./node_modules/@docusaurus/plugin-pwa/src/sw.js ***!
+  !*** ./node_modules/@docusaurus/plugin-pwa/lib/sw.js ***!
   \*******************************************************/
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var workbox_precaching__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! workbox-precaching */ "./node_modules/workbox-precaching/index.mjs");
@@ -4424,133 +4519,100 @@ __webpack_require__.r(__webpack_exports__);
  */
 /* eslint-disable no-restricted-globals */
 
-
-
 function parseSwParams() {
-  const params = JSON.parse(
-    new URLSearchParams(self.location.search).get('params'),
-  );
-  if (params.debug) {
-    console.log('[Docusaurus-PWA][SW]: Service Worker params:', params);
-  }
-  return params;
+    const params = JSON.parse(new URLSearchParams(self.location.search).get('params'));
+    if (params.debug) {
+        console.log('[Docusaurus-PWA][SW]: Service Worker params:', params);
+    }
+    return params;
 }
-
-// doc advise against dynamic imports in SW
+// Doc advises against dynamic imports in SW
 // https://developers.google.com/web/tools/workbox/guides/using-bundlers#code_splitting_and_dynamic_imports
 // https://twitter.com/sebastienlorber/status/1280155204575518720
-// but I think it's working fine as it's inlined by webpack, need to double check?
+// but looks it's working fine as it's inlined by webpack, need to double check
 async function runSWCustomCode(params) {
-  if (false) {}
+    if (false) {}
 }
-
 /**
  * Gets different possible variations for a request URL. Similar to
  * https://git.io/JvixK
- *
- * @param {string} url
  */
 function getPossibleURLs(url) {
-  const possibleURLs = [];
-  const urlObject = new URL(url, self.location.href);
-
-  if (urlObject.origin !== self.location.origin) {
-    return possibleURLs;
-  }
-
-  // Ignore search params and hash
-  urlObject.search = '';
-  urlObject.hash = '';
-
-  // /blog.html
-  possibleURLs.push(urlObject.href);
-
-  // /blog/ => /blog/index.html
-  if (urlObject.pathname.endsWith('/')) {
-    possibleURLs.push(`${urlObject.href}index.html`);
-  } else {
-    // /blog => /blog/index.html
-    possibleURLs.push(`${urlObject.href}/index.html`);
-  }
-
-  return possibleURLs;
+    const urlObject = new URL(url, self.location.href);
+    if (urlObject.origin !== self.location.origin) {
+        return [];
+    }
+    // Ignore search params and hash
+    urlObject.search = '';
+    urlObject.hash = '';
+    return [
+        // /blog.html
+        urlObject.href,
+        // /blog/ => /blog/index.html
+        // /blog => /blog/index.html
+        `${urlObject.href}${urlObject.pathname.endsWith('/') ? '' : '/'}index.html`,
+    ];
 }
-
 (async () => {
-  const params = parseSwParams();
-
-  const precacheManifest = [{"revision":"9f2c0f0e4f89f951a88cbe67850b8a66","url":"404.html"},{"revision":"34612b4138a5aa8f6b0655f07201c9c3","url":"assets/css/styles.66ee3f3c.css"},{"revision":"c6b2b12ed5f6a2f7de412f2c5982ac13","url":"assets/js/131.7a970c6f.js"},{"revision":"ed37a922f90177106f366f8cd1f76b84","url":"assets/js/17896441.c7faa381.js"},{"revision":"d6da6671b5b2ee88e62dcf2f1535e398","url":"assets/js/1be78505.6e1ca08a.js"},{"revision":"4f06aaba4a73336a80c47eecefcf32a3","url":"assets/js/1f391b9e.46fde474.js"},{"revision":"113d7c6d9546932935daef74f8a16c21","url":"assets/js/256.15b95c19.js"},{"revision":"6596819c4c68114821cecdee07ec5072","url":"assets/js/287.b6a62841.js"},{"revision":"a8fec3e33833d79380c82e7788f85103","url":"assets/js/389594df.acfb2bd9.js"},{"revision":"4ebf0834df1fa1d415af3b4ee72b579c","url":"assets/js/393be207.ed4a66af.js"},{"revision":"1b6fa99a9aecdb0bd6b84a8276e85f4d","url":"assets/js/444.37ba0427.js"},{"revision":"58a0bc55855d8c046b168a14456e3a8b","url":"assets/js/47120859.bce5c32c.js"},{"revision":"0437e84566eb335ebd1d64f674620c73","url":"assets/js/48b9cea9.fb98d78a.js"},{"revision":"629797e7dc55fd5910f32262780562a3","url":"assets/js/580fd761.55191358.js"},{"revision":"21d2285db5523b40d9d9547610f5a56e","url":"assets/js/5a1e7e56.40e8ac90.js"},{"revision":"37f29952a320232a924e123e512b8283","url":"assets/js/5d319c4b.72541364.js"},{"revision":"9f404277c90bcfc05b737d0e672bbd47","url":"assets/js/5e0f9673.f59127b1.js"},{"revision":"4a9700b5a1881e1aa003c6eecb32c80e","url":"assets/js/6308756d.1b47d32a.js"},{"revision":"005adb07fa7b890afe7cc0426d685f53","url":"assets/js/75.b955c952.js"},{"revision":"d5e028469d55dd9d6b4488847141f224","url":"assets/js/829.cd3e4b04.js"},{"revision":"9124718d8346cbd95d726b6976ed5a01","url":"assets/js/831.9673f5ff.js"},{"revision":"f78671095932d5aaaa22bfed1e76f2a3","url":"assets/js/88e6cb4a.96e65121.js"},{"revision":"2e6121b2f0b6e52dbec348ec11504a3a","url":"assets/js/923.db0e1e06.js"},{"revision":"1d50b3bce1a5cf046d987632fb1e99a3","url":"assets/js/935f2afb.f77c6cd1.js"},{"revision":"4e122148c7bafd0eb4e5ac51310c6dbf","url":"assets/js/945.de2d9dcc.js"},{"revision":"ef7628451ea326a871fe2a5d205c37aa","url":"assets/js/9a628d71.1b7cf6df.js"},{"revision":"53f56d32747e43550e08a40c03e52101","url":"assets/js/9e4087bc.5390fe16.js"},{"revision":"fd463d7c291f658641f83132d30ebf7d","url":"assets/js/a09c2993.0f3892b9.js"},{"revision":"3cbaf3d1b5446c27fd181b4d3719a5e6","url":"assets/js/ae15469e.b31a4359.js"},{"revision":"c7183aab668086f91fcfb2265f5fd758","url":"assets/js/b2f554cd.7e100829.js"},{"revision":"9dfe6748d2a1630dbc0c2ac595f5a6f0","url":"assets/js/c5dd48ab.3184b35b.js"},{"revision":"440f6ec28af3b1d7f143e5b1b2d29563","url":"assets/js/fd20a129.0aacf322.js"},{"revision":"eda851f795860bee643b5faf6748de17","url":"assets/js/main.edfa4f9c.js"},{"revision":"330db04af8b4999bbbc450d01bd160bf","url":"assets/js/runtime~main.6b7c388e.js"},{"revision":"a927ce27682ae47a0ca55131b283f2a4","url":"blog/archive/index.html"},{"revision":"d7c2799c2677781b12edf1c317e707ef","url":"contributing/code-of-conduct/index.html"},{"revision":"51f4c9fc6da8114b9febe735e7cf9bcb","url":"contributing/introduction-to-contributing/index.html"},{"revision":"4482dc5840f3c28f3b2aeca08f46bf32","url":"contributing/set-up-authentication/index.html"},{"revision":"bce781d7a89008428654280abf44565a","url":"contributing/triage-guide/index.html"},{"revision":"5ff896ecc8dd04b2c13be80b39f2f048","url":"index.html"},{"revision":"72753279f1c4ce5b9d54d10460de41c5","url":"maintainers/check-engines/index.html"},{"revision":"e146b5e6c534ec5d5644146d46d634af","url":"maintainers/conventional-commit/index.html"},{"revision":"5dad4a2a1ee88277498d42d46bb3966a","url":"maintainers/semantic-release/index.html"},{"revision":"1927a934b85d82dfa82b685b336ae89f","url":"maintainers/setting-up-a-new-repository/index.html"},{"revision":"38f5afbd61032cedc69a5d76028abea0","url":"manifest.json"},{"revision":"8f55e9aff6291b5f233af581194781a0","url":"markdown-page/index.html"},{"revision":"9f1d69e5c4ae995cb809564f356cd8f6","url":"search/index.html"},{"revision":"f394967ce0a191986c65472bc60cbd6f","url":"technical/dark-mode-explained/index.html"},{"revision":"492d0a2a25cc816c8547218eeaa4ba94","url":"technical/fetching-data-from-github/index.html"},{"revision":"209411e2047dd6a6bb0c82ac73baf49d","url":"technical/introduction-to-storybook/index.html"},{"revision":"6f7c2994e0a83712cb629ae899ae284a","url":"technical/resolve-merge-conflicts/index.html"},{"revision":"f5d6709f185ff81514bf813df9ae10ca","url":"android-chrome-192x192.png"},{"revision":"6697696aa02fc51b60faa764d9250e49","url":"android-chrome-512x512.png"},{"revision":"dfdb48dea188986dd0e6a33561798096","url":"apple-touch-icon.png"},{"revision":"7ff0b1c7406c50ea48677199f04990af","url":"assets/images/contributing-avatar-top-right-4063afad1b9c314a1e261c492a65447c.png"},{"revision":"181e0b93aebb788b42302b6929fea593","url":"assets/images/contributing-maintainers-create-repository-019a03ca1c27a2c68c269e5c2bfdbb83.png"},{"revision":"fcb1e1d3ec3de5da9da2b3adc6f07b02","url":"assets/images/contributing-maintainers-env-505e845511ddadfdd8f3ba49c44eba5b.png"},{"revision":"2ccd24487c12e0ab164d8093efdcca56","url":"assets/images/contributing-maintainers-merge-protections-86eb5e515e264396c194af7ade02e05c.png"},{"revision":"409c1762e7d639f5c252d7f05d7db45f","url":"assets/images/contributing-maintainers-merge-settings-980ef1e3f50c9fae47edf1411924c124.png"},{"revision":"8bbebbf45920dc49f3f0dc29e012891f","url":"assets/images/contributing-print-auth-token-e1370316da4c4747a853289f72842d56.png"},{"revision":"895411932aa5e2237c378d596fdfd069","url":"assets/images/contributing-resolve-merge-conflicts-commit-message-2b517ccf8811b09d5091cb9c300c4993.png"},{"revision":"85e7a50783c05df9e5464199a331861a","url":"assets/images/contributing-resolve-merge-conflicts-dont-do-9703e3dffc76ef8c046f2fd7b506676f.png"},{"revision":"70c651fd54dd4e84b8fa185dd96d5db7","url":"assets/images/contributing-resolve-merge-conflicts-merge-conflicts-41673d73e41a1d513254f5274231c03a.png"},{"revision":"195b8ef6ea85ca5648fe8525c727e7b4","url":"assets/images/contributing-resolve-merge-conflicts-merge-success-4ba32cb94dddea19d9691bccbef974b9.png"},{"revision":"3499b11290765adda0584d9d7a5a86bf","url":"assets/images/contributing-resolve-merge-conflicts-ready-to-merge-c0f138669dee46efafb0d584c170020e.png"},{"revision":"5aab0048cfc3e35936e9729bef39a5be","url":"assets/images/contributing-resolve-merge-conflicts-review-conflicts-5df5a5e4934e39d9e07bcd96e53d7c3f.png"},{"revision":"a25e9ab7aab5320b491f573b7dba0f36","url":"assets/images/contributing-resolve-merge-conflicts-view-merge-commit-1c4055497fd56038e1ba46a6ae1886ab.png"},{"revision":"3339aa4e65067f863272c668dffad3a0","url":"assets/images/contributing-token-printed-to-console-0deb43e35d7b18560ccf573c6f0411cc.png"},{"revision":"2f44b184c82e0099cd08ea8779bcabbe","url":"assets/images/favicon-30e471a9db203980f6325c9296cde23b.ico"},{"revision":"8c9ea07333ca94190c3d57d45f64aa40","url":"assets/images/mustard-3f4faa5d2e9c229b9be65ed2be8ac225.png"},{"revision":"83d91aa6d9976e8e6f7092ba727f611b","url":"assets/images/what-is-opensauced-f63edffc67bf53922ec16aafad20340e.jpg"},{"revision":"dd1a3c1387fea50127026053ac769d8d","url":"favicon-16x16.png"},{"revision":"fb9bbd843e90e21de842ce787c8eacb0","url":"favicon-32x32.png"},{"revision":"2f44b184c82e0099cd08ea8779bcabbe","url":"favicon.ico"},{"revision":"de0de7f3698fca5b09bb81ee582efa52","url":"icon-144x144.png"},{"revision":"a90cf80d4a11415fc061ac639e8598ef","url":"icon-192x192.png"},{"revision":"daaaa50e6ddecab8ed1331fa46eb80e5","url":"icon-72x72.png"},{"revision":"c34b89463566422f2b3b45138e5a76d4","url":"icon-96x96.png"},{"revision":"7ff0b1c7406c50ea48677199f04990af","url":"img/contributing-avatar-top-right.png"},{"revision":"181e0b93aebb788b42302b6929fea593","url":"img/contributing-maintainers-create-repository.png"},{"revision":"fcb1e1d3ec3de5da9da2b3adc6f07b02","url":"img/contributing-maintainers-env.png"},{"revision":"2ccd24487c12e0ab164d8093efdcca56","url":"img/contributing-maintainers-merge-protections.png"},{"revision":"409c1762e7d639f5c252d7f05d7db45f","url":"img/contributing-maintainers-merge-settings.png"},{"revision":"8bbebbf45920dc49f3f0dc29e012891f","url":"img/contributing-print-auth-token.png"},{"revision":"895411932aa5e2237c378d596fdfd069","url":"img/contributing-resolve-merge-conflicts-commit-message.png"},{"revision":"85e7a50783c05df9e5464199a331861a","url":"img/contributing-resolve-merge-conflicts-dont-do.png"},{"revision":"70c651fd54dd4e84b8fa185dd96d5db7","url":"img/contributing-resolve-merge-conflicts-merge-conflicts.png"},{"revision":"195b8ef6ea85ca5648fe8525c727e7b4","url":"img/contributing-resolve-merge-conflicts-merge-success.png"},{"revision":"3499b11290765adda0584d9d7a5a86bf","url":"img/contributing-resolve-merge-conflicts-ready-to-merge.png"},{"revision":"5aab0048cfc3e35936e9729bef39a5be","url":"img/contributing-resolve-merge-conflicts-review-conflicts.png"},{"revision":"a25e9ab7aab5320b491f573b7dba0f36","url":"img/contributing-resolve-merge-conflicts-view-merge-commit.png"},{"revision":"3339aa4e65067f863272c668dffad3a0","url":"img/contributing-token-printed-to-console.png"},{"revision":"3b6c5d852ad7542f4b897254717810db","url":"img/logo_darkmode.png"},{"revision":"e93cdf20a7ce8d4792cd4c536e6e811d","url":"img/logo_lightmode.png"},{"revision":"92f1a87f14c9dff3c776026ed0f22240","url":"img/logo.svg"},{"revision":"8c9ea07333ca94190c3d57d45f64aa40","url":"img/mustard.png"},{"revision":"76ed877972409e62d57b101ca7ed3563","url":"img/openSauced-icon.png"},{"revision":"83d91aa6d9976e8e6f7092ba727f611b","url":"img/what-is-opensauced.jpg"},{"revision":"d30381155966797309fb49a060270cd0","url":"img/what-is-opensauced.png"}];
-  const controller = new workbox_precaching__WEBPACK_IMPORTED_MODULE_0__.PrecacheController({
-    fallbackToNetwork: true, // safer to turn this true?
-  });
-
-  if (params.offlineMode) {
-    controller.addToCacheList(precacheManifest);
-    if (params.debug) {
-      console.log('[Docusaurus-PWA][SW]: addToCacheList', {
-        precacheManifest,
-      });
-    }
-  }
-
-  await runSWCustomCode(params);
-
-  self.addEventListener('install', (event) => {
-    if (params.debug) {
-      console.log('[Docusaurus-PWA][SW]: install event', {
-        event,
-      });
-    }
-    event.waitUntil(controller.install(event));
-  });
-
-  self.addEventListener('activate', (event) => {
-    if (params.debug) {
-      console.log('[Docusaurus-PWA][SW]: activate event', {
-        event,
-      });
-    }
-    event.waitUntil(controller.activate(event));
-  });
-
-  self.addEventListener('fetch', async (event) => {
+    const params = parseSwParams();
+    // eslint-disable-next-line no-underscore-dangle
+    const precacheManifest = [{"revision":"5e71acc66d6977c90a2adee82e47b533","url":"404.html"},{"revision":"dd6cfd92d540ff852c897df9a9dd922d","url":"assets/css/styles.22e222f1.css"},{"revision":"7f8b2e1bd7df29c5f79afb1fae4b52c9","url":"assets/js/131.afec645e.js"},{"revision":"0c2caae8c5ffccd580cef56616091948","url":"assets/js/17896441.d6aac44c.js"},{"revision":"be2f7df50d07313e754a7a78ecd3fa60","url":"assets/js/1a4e3797.69a04843.js"},{"revision":"aaec714722709072590f674e55170f3b","url":"assets/js/1be78505.28d1c15b.js"},{"revision":"5d1960342ad8aa2e020b95db2b3dc65b","url":"assets/js/1f391b9e.aa16100e.js"},{"revision":"5157f5eeac043a7e3f54b309db907de2","url":"assets/js/230.248e11b9.js"},{"revision":"a044615d298dd48e0373e0b335949677","url":"assets/js/272.1192485d.js"},{"revision":"9bf054efd750c3b338f1c05015f218e4","url":"assets/js/283.72f7618e.js"},{"revision":"56daeb7fae3d55f4d64112e0fcf21818","url":"assets/js/389594df.3bae3ef4.js"},{"revision":"edb8118f5e36a43ea045445379b0d0d4","url":"assets/js/393be207.2f858b91.js"},{"revision":"2e694b6098781c017e71f84aa2a77364","url":"assets/js/47120859.02255a43.js"},{"revision":"974f1406913b29faa66d0448166e0197","url":"assets/js/48b9cea9.8d115394.js"},{"revision":"af27e4a854f5d8b357b55765002f3516","url":"assets/js/580fd761.0f2b5f60.js"},{"revision":"48542a6a0a77b860826624d8de5c98f2","url":"assets/js/5a1e7e56.0f6e4b0a.js"},{"revision":"e0e09d1d7d331b36277943476f538de4","url":"assets/js/5e0f9673.2c05ff2c.js"},{"revision":"7cdfeee2d2cc6ffc8f25ec46d50cb9a9","url":"assets/js/6308756d.2bfea0f1.js"},{"revision":"3552c04127a7f38881f63ba0510e948a","url":"assets/js/780.d08cf102.js"},{"revision":"5cf5cacc9d2b041c30bd8673278c78fc","url":"assets/js/7930b87d.5449ff9a.js"},{"revision":"c14d14b3302939f1bad0728af62904f5","url":"assets/js/88e6cb4a.0fdc805e.js"},{"revision":"6b2b653dea62c8f3b5e1b1b16e1246fe","url":"assets/js/894.b06ac786.js"},{"revision":"af4eab1e3cfb2853c3ae6d3a9b46004a","url":"assets/js/935f2afb.b89f294e.js"},{"revision":"cbf589eaecd44d20b98d16a1a553a870","url":"assets/js/945.07d4f3a9.js"},{"revision":"a480886b8566be6a5c3937956c5e9c31","url":"assets/js/972.06cc7c82.js"},{"revision":"e305324bbfadca3e4dc54c2102d5f1db","url":"assets/js/9a628d71.b328af70.js"},{"revision":"e89dcce91bf7b673c6327a2496179314","url":"assets/js/a09c2993.cb5644b5.js"},{"revision":"9479df25b495cb6260491a2bbda457fd","url":"assets/js/ae15469e.42ec3f71.js"},{"revision":"2d759747581a2193894b5c8c6e55a8de","url":"assets/js/c3f7b46f.13d3e840.js"},{"revision":"9cd45f8f0a8b19a4c3caf4e1a6633130","url":"assets/js/c5dd48ab.a9431a0b.js"},{"revision":"3a84ea8bf4101c803168363787e5f13f","url":"assets/js/cbba763f.51678b62.js"},{"revision":"2c73bd0b311a93200a41bae980825f93","url":"assets/js/fd20a129.04e6309e.js"},{"revision":"bac45225450286a4033dd1c87448bdb6","url":"assets/js/main.89fa3ed8.js"},{"revision":"39ca8e7c8f3a0941f6d8962ecc28006a","url":"assets/js/runtime~main.a633c874.js"},{"revision":"69e4cfa38fcc0701c4cddaacf11c7782","url":"contributing/code-of-conduct/index.html"},{"revision":"d5b78b13628d77c2eb2611faf462178e","url":"contributing/introduction-to-contributing/index.html"},{"revision":"c708ac2849e423e78484ec5ff2548a42","url":"contributing/set-up-authentication/index.html"},{"revision":"f9660f3cf0fa583204fcdbf93815bbcf","url":"contributing/triage-guide/index.html"},{"revision":"b036c4b58f98575f2cd3a917f578270a","url":"index.html"},{"revision":"a604f19f0105b528e51863755fdebe17","url":"maintainers/check-engines/index.html"},{"revision":"f06b833e6926a8c836f0d83151fe3241","url":"maintainers/conventional-commit/index.html"},{"revision":"5aa1420a47ee1f18909387c76602ae86","url":"maintainers/semantic-release/index.html"},{"revision":"eba4eba5f12d8c0775f9dcab85e59fa7","url":"maintainers/setting-up-a-new-repository/index.html"},{"revision":"38f5afbd61032cedc69a5d76028abea0","url":"manifest.json"},{"revision":"3f37096aca48a271435cf4cdc2641082","url":"markdown-page/index.html"},{"revision":"bbdb4ce467e3b19f174d07f219deabb5","url":"search/index.html"},{"revision":"4e0296168c4e78f34fe0b8a4858a70fb","url":"technical/dark-mode-explained/index.html"},{"revision":"9bd011e62030727aaa2ba2972352cb72","url":"technical/fetching-data-from-github/index.html"},{"revision":"4d0c1887ba2d492e80f97bd3f8b61a55","url":"technical/introduction-to-storybook/index.html"},{"revision":"2224db6430ca6a3aa08b6c7624574981","url":"technical/resolve-merge-conflicts/index.html"},{"revision":"f5d6709f185ff81514bf813df9ae10ca","url":"android-chrome-192x192.png"},{"revision":"6697696aa02fc51b60faa764d9250e49","url":"android-chrome-512x512.png"},{"revision":"dfdb48dea188986dd0e6a33561798096","url":"apple-touch-icon.png"},{"revision":"7ff0b1c7406c50ea48677199f04990af","url":"assets/images/contributing-avatar-top-right-4063afad1b9c314a1e261c492a65447c.png"},{"revision":"181e0b93aebb788b42302b6929fea593","url":"assets/images/contributing-maintainers-create-repository-019a03ca1c27a2c68c269e5c2bfdbb83.png"},{"revision":"fcb1e1d3ec3de5da9da2b3adc6f07b02","url":"assets/images/contributing-maintainers-env-505e845511ddadfdd8f3ba49c44eba5b.png"},{"revision":"2ccd24487c12e0ab164d8093efdcca56","url":"assets/images/contributing-maintainers-merge-protections-86eb5e515e264396c194af7ade02e05c.png"},{"revision":"409c1762e7d639f5c252d7f05d7db45f","url":"assets/images/contributing-maintainers-merge-settings-980ef1e3f50c9fae47edf1411924c124.png"},{"revision":"8bbebbf45920dc49f3f0dc29e012891f","url":"assets/images/contributing-print-auth-token-e1370316da4c4747a853289f72842d56.png"},{"revision":"895411932aa5e2237c378d596fdfd069","url":"assets/images/contributing-resolve-merge-conflicts-commit-message-2b517ccf8811b09d5091cb9c300c4993.png"},{"revision":"85e7a50783c05df9e5464199a331861a","url":"assets/images/contributing-resolve-merge-conflicts-dont-do-9703e3dffc76ef8c046f2fd7b506676f.png"},{"revision":"70c651fd54dd4e84b8fa185dd96d5db7","url":"assets/images/contributing-resolve-merge-conflicts-merge-conflicts-41673d73e41a1d513254f5274231c03a.png"},{"revision":"195b8ef6ea85ca5648fe8525c727e7b4","url":"assets/images/contributing-resolve-merge-conflicts-merge-success-4ba32cb94dddea19d9691bccbef974b9.png"},{"revision":"3499b11290765adda0584d9d7a5a86bf","url":"assets/images/contributing-resolve-merge-conflicts-ready-to-merge-c0f138669dee46efafb0d584c170020e.png"},{"revision":"5aab0048cfc3e35936e9729bef39a5be","url":"assets/images/contributing-resolve-merge-conflicts-review-conflicts-5df5a5e4934e39d9e07bcd96e53d7c3f.png"},{"revision":"a25e9ab7aab5320b491f573b7dba0f36","url":"assets/images/contributing-resolve-merge-conflicts-view-merge-commit-1c4055497fd56038e1ba46a6ae1886ab.png"},{"revision":"3339aa4e65067f863272c668dffad3a0","url":"assets/images/contributing-token-printed-to-console-0deb43e35d7b18560ccf573c6f0411cc.png"},{"revision":"2f44b184c82e0099cd08ea8779bcabbe","url":"assets/images/favicon-30e471a9db203980f6325c9296cde23b.ico"},{"revision":"8c9ea07333ca94190c3d57d45f64aa40","url":"assets/images/mustard-3f4faa5d2e9c229b9be65ed2be8ac225.png"},{"revision":"83d91aa6d9976e8e6f7092ba727f611b","url":"assets/images/what-is-opensauced-f63edffc67bf53922ec16aafad20340e.jpg"},{"revision":"dd1a3c1387fea50127026053ac769d8d","url":"favicon-16x16.png"},{"revision":"fb9bbd843e90e21de842ce787c8eacb0","url":"favicon-32x32.png"},{"revision":"2f44b184c82e0099cd08ea8779bcabbe","url":"favicon.ico"},{"revision":"de0de7f3698fca5b09bb81ee582efa52","url":"icon-144x144.png"},{"revision":"a90cf80d4a11415fc061ac639e8598ef","url":"icon-192x192.png"},{"revision":"daaaa50e6ddecab8ed1331fa46eb80e5","url":"icon-72x72.png"},{"revision":"c34b89463566422f2b3b45138e5a76d4","url":"icon-96x96.png"},{"revision":"7ff0b1c7406c50ea48677199f04990af","url":"img/contributing-avatar-top-right.png"},{"revision":"181e0b93aebb788b42302b6929fea593","url":"img/contributing-maintainers-create-repository.png"},{"revision":"fcb1e1d3ec3de5da9da2b3adc6f07b02","url":"img/contributing-maintainers-env.png"},{"revision":"2ccd24487c12e0ab164d8093efdcca56","url":"img/contributing-maintainers-merge-protections.png"},{"revision":"409c1762e7d639f5c252d7f05d7db45f","url":"img/contributing-maintainers-merge-settings.png"},{"revision":"8bbebbf45920dc49f3f0dc29e012891f","url":"img/contributing-print-auth-token.png"},{"revision":"895411932aa5e2237c378d596fdfd069","url":"img/contributing-resolve-merge-conflicts-commit-message.png"},{"revision":"85e7a50783c05df9e5464199a331861a","url":"img/contributing-resolve-merge-conflicts-dont-do.png"},{"revision":"70c651fd54dd4e84b8fa185dd96d5db7","url":"img/contributing-resolve-merge-conflicts-merge-conflicts.png"},{"revision":"195b8ef6ea85ca5648fe8525c727e7b4","url":"img/contributing-resolve-merge-conflicts-merge-success.png"},{"revision":"3499b11290765adda0584d9d7a5a86bf","url":"img/contributing-resolve-merge-conflicts-ready-to-merge.png"},{"revision":"5aab0048cfc3e35936e9729bef39a5be","url":"img/contributing-resolve-merge-conflicts-review-conflicts.png"},{"revision":"a25e9ab7aab5320b491f573b7dba0f36","url":"img/contributing-resolve-merge-conflicts-view-merge-commit.png"},{"revision":"3339aa4e65067f863272c668dffad3a0","url":"img/contributing-token-printed-to-console.png"},{"revision":"3b6c5d852ad7542f4b897254717810db","url":"img/logo_darkmode.png"},{"revision":"e93cdf20a7ce8d4792cd4c536e6e811d","url":"img/logo_lightmode.png"},{"revision":"92f1a87f14c9dff3c776026ed0f22240","url":"img/logo.svg"},{"revision":"8c9ea07333ca94190c3d57d45f64aa40","url":"img/mustard.png"},{"revision":"76ed877972409e62d57b101ca7ed3563","url":"img/openSauced-icon.png"},{"revision":"83d91aa6d9976e8e6f7092ba727f611b","url":"img/what-is-opensauced.jpg"},{"revision":"d30381155966797309fb49a060270cd0","url":"img/what-is-opensauced.png"}];
+    const controller = new workbox_precaching__WEBPACK_IMPORTED_MODULE_0__.PrecacheController({
+        // Safer to turn this true?
+        fallbackToNetwork: true,
+    });
     if (params.offlineMode) {
-      const requestURL = event.request.url;
-      const possibleURLs = getPossibleURLs(requestURL);
-      for (let i = 0; i < possibleURLs.length; i += 1) {
-        const possibleURL = possibleURLs[i];
-        const cacheKey = controller.getCacheKeyForURL(possibleURL);
-        if (cacheKey) {
-          const cachedResponse = caches.match(cacheKey);
-          if (params.debug) {
-            console.log('[Docusaurus-PWA][SW]: serving cached asset', {
-              requestURL,
-              possibleURL,
-              possibleURLs,
-              cacheKey,
-              cachedResponse,
-            });
-          }
-          event.respondWith(cachedResponse);
-          break;
+        controller.addToCacheList(precacheManifest);
+        if (params.debug) {
+            console.log('[Docusaurus-PWA][SW]: addToCacheList', { precacheManifest });
         }
-      }
     }
-  });
-
-  self.addEventListener('message', async (event) => {
-    if (params.debug) {
-      console.log('[Docusaurus-PWA][SW]: message event', {
-        event,
-      });
-    }
-
-    const type = event.data && event.data.type;
-
-    if (type === 'SKIP_WAITING') {
-      self.skipWaiting();
-    }
-  });
+    await runSWCustomCode(params);
+    self.addEventListener('install', (event) => {
+        if (params.debug) {
+            console.log('[Docusaurus-PWA][SW]: install event', { event });
+        }
+        event.waitUntil(controller.install(event));
+    });
+    self.addEventListener('activate', (event) => {
+        if (params.debug) {
+            console.log('[Docusaurus-PWA][SW]: activate event', { event });
+        }
+        event.waitUntil(controller.activate(event));
+    });
+    self.addEventListener('fetch', async (event) => {
+        if (params.offlineMode) {
+            const requestURL = event.request.url;
+            const possibleURLs = getPossibleURLs(requestURL);
+            for (const possibleURL of possibleURLs) {
+                const cacheKey = controller.getCacheKeyForURL(possibleURL);
+                if (cacheKey) {
+                    const cachedResponse = caches.match(cacheKey);
+                    if (params.debug) {
+                        console.log('[Docusaurus-PWA][SW]: serving cached asset', {
+                            requestURL,
+                            possibleURL,
+                            possibleURLs,
+                            cacheKey,
+                            cachedResponse,
+                        });
+                    }
+                    event.respondWith(cachedResponse);
+                    break;
+                }
+            }
+        }
+    });
+    self.addEventListener('message', async (event) => {
+        if (params.debug) {
+            console.log('[Docusaurus-PWA][SW]: message event', { event });
+        }
+        const type = event.data?.type;
+        if (type === 'SKIP_WAITING') {
+            // lib def bug, see https://github.com/microsoft/TypeScript/issues/14877
+            self.skipWaiting();
+        }
+    });
 })();
 
 })();
