@@ -106,7 +106,7 @@ You can also experiment with conventional commits by doing:
 ```shell
 npm run push
 ```
-
+Using the `npm run push` command is a critical step in the release process. It enforces a standardized commit message format. This specification provides a consistent and clear way of writing commit messages, making it easier for developers and maintainers to understand the changes made in a particular commit. It also helps in ensuring that the code changes are reviewed and merged quickly and efficiently.
 
 ### Work in progress
 
