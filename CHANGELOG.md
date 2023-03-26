@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.19.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.18.1...v1.19.0) (2023-03-26)
+
+
+### Features
+
+* expanded on `npm run push` ([#76](https://github.com/open-sauced/docs.opensauced.pizza/issues/76)) ([499b5a4](https://github.com/open-sauced/docs.opensauced.pizza/commit/499b5a400fd9d4defae24b8fe15cbdf7c790f204)), closes [#39](https://github.com/open-sauced/docs.opensauced.pizza/issues/39)
+
 ### [1.18.1](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.18.0...v1.18.1) (2023-03-25)
 
 
