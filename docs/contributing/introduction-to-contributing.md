@@ -106,6 +106,9 @@ You can also experiment with conventional commits by doing:
 ```shell
 npm run push
 ```
+Using the `npm run push` command is an interactive replacement for `git commit`. It enforces the conventional commits specification for writing commit messages, making it easier for developers and maintainers to understand the changes made in a particular commit.
+
+Assuming you are dealing with code changes and you add them using `git add`, once you are ready to commit, there are 2 ways we can proceed: `git commit` or `npm run push`. The second method is preferred, as doing a subsequent `git push` and then opening a PR would ensure the title is conforming to our standards.
 
 ### Work in progress
 
