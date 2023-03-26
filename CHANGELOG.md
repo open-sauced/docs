@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.20.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.19.0...v1.20.0) (2023-03-26)
+
+
+### Features
+
+* Added new Favicon ([#75](https://github.com/open-sauced/docs.opensauced.pizza/issues/75)) ([ad351ca](https://github.com/open-sauced/docs.opensauced.pizza/commit/ad351ca17c79ee4e7e186103985075b257fa34fe)), closes [#65](https://github.com/open-sauced/docs.opensauced.pizza/issues/65)
+
 ## [1.19.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.18.1...v1.19.0) (2023-03-26)
 
 
