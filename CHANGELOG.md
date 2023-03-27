@@ -5,6 +5,18 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.21.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.20.0...v1.21.0) (2023-03-27)
+
+
+### Bug Fixes
+
+* re-add footer logo ([972edfc](https://github.com/open-sauced/docs.opensauced.pizza/commit/972edfc4eb9ad582636851b4b5cd42a0377d11f9))
+
+
+### Documentation
+
+* apply markdown formatting magic ([fa7ed0e](https://github.com/open-sauced/docs.opensauced.pizza/commit/fa7ed0e62daffeb5919c8e1351001314591149e2))
+
 ## [1.20.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.19.0...v1.20.0) (2023-03-26)
 
 
