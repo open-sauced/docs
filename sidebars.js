@@ -45,5 +45,14 @@ module.exports = {
         'maintainers/semantic-release',
       ]
     },
+    {
+      type: 'category',
+      label: 'Chrome Extension Usage',
+      collapsed: true,
+      items: [
+        'chrome-extension/introduction-to-the-chrome-extension',
+        'chrome-extension/using-the-chrome-extension',
+      ],
+    }
   ],
 };

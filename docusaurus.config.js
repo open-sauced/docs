@@ -91,6 +91,10 @@ module.exports = {
               label: 'Maintainer guide',
               to: '/maintainers/setting-up-a-new-repository/',
             },
+            {
+              label: 'Chrome Extension Usage',
+              to: '/chrome-extension/introduction-to-the-chrome-extension/',
+            }
           ],
         },
         {
