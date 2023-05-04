@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.22.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.21.0...v1.22.0) (2023-05-04)
+
+
+### Features
+
+* add chrome extension intro and usage to docs ([#78](https://github.com/open-sauced/docs.opensauced.pizza/issues/78)) ([3597a93](https://github.com/open-sauced/docs.opensauced.pizza/commit/3597a939d9e93f4c3ce59da504796270bf63ebd0))
+
 ## [1.21.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.20.0...v1.21.0) (2023-03-27)
 
 
