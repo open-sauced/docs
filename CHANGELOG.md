@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.23.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.22.0...v1.23.0) (2023-05-05)
+
+
+### Documentation
+
+* Added extension-utilities-docs ([#83](https://github.com/open-sauced/docs.opensauced.pizza/issues/83)) ([148c0ee](https://github.com/open-sauced/docs.opensauced.pizza/commit/148c0ee5c84a0fc2cdc5aee2e235d56c62c4072f))
+
 ## [1.22.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.21.0...v1.22.0) (2023-05-04)
 
 
