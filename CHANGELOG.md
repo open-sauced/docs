@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.24.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.23.0...v1.24.0) (2023-05-07)
+
+
+### Features
+
+* Update logo.svg Feature: Update Favicon to Pizza [#80](https://github.com/open-sauced/docs.opensauced.pizza/issues/80) ([#82](https://github.com/open-sauced/docs.opensauced.pizza/issues/82)) ([dc406ef](https://github.com/open-sauced/docs.opensauced.pizza/commit/dc406efe27d4969ee1c7f6c18389ba272d732f44))
+
 ## [1.23.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.22.0...v1.23.0) (2023-05-05)
 
 
