@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.25.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.24.0...v1.25.0) (2023-05-16)
+
+
+### Features
+
+* removes outdated open-sauced docs ([#86](https://github.com/open-sauced/docs.opensauced.pizza/issues/86)) ([8a31879](https://github.com/open-sauced/docs.opensauced.pizza/commit/8a31879f4d0975baca3c8cb744cdfd90dd41bede))
+
 ## [1.24.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.23.0...v1.24.0) (2023-05-07)
 
 
