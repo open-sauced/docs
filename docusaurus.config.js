@@ -84,10 +84,6 @@ module.exports = {
               to: '/contributing/introduction-to-contributing/',
             },
             {
-              label: 'Technical guide',
-              to: '/technical/dark-mode-explained/',
-            },
-            {
               label: 'Maintainer guide',
               to: '/maintainers/setting-up-a-new-repository/',
             },

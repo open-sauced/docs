@@ -29,8 +29,6 @@ module.exports = {
       collapsed: false,
       items: [
         'technical/introduction-to-storybook',
-        'technical/dark-mode-explained',
-        'technical/fetching-data-from-github',
         'technical/resolve-merge-conflicts',
       ],
     },
