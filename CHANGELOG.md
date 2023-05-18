@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.25.1](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.25.0...v1.25.1) (2023-05-18)
+
+
+### Bug Fixes
+
+* Update project-utilities.md browser-extensions mention to ai  ([#88](https://github.com/open-sauced/docs.opensauced.pizza/issues/88)) ([4ab5656](https://github.com/open-sauced/docs.opensauced.pizza/commit/4ab5656a6cb740dd51e4b360234607453cdecd01))
+
 ## [1.25.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.24.0...v1.25.0) (2023-05-16)
 
 
