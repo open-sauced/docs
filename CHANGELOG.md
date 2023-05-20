@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.26.2](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.26.1...v1.26.2) (2023-05-20)
+
+
+### Bug Fixes
+
+* add private repo note ([65172a8](https://github.com/open-sauced/docs.opensauced.pizza/commit/65172a85d8ef810541c921cb26b4a1c52226b65c))
+
 ### [1.26.1](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.26.0...v1.26.1) (2023-05-20)
 
 
