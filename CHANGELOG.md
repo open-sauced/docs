@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.26.1](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.26.0...v1.26.1) (2023-05-20)
+
+
+### Bug Fixes
+
+* Renamed open sauced to OpenSauced ([#90](https://github.com/open-sauced/docs.opensauced.pizza/issues/90)) ([adc093c](https://github.com/open-sauced/docs.opensauced.pizza/commit/adc093c531c4964cb5a2b0a824f3213071ecf915))
+
 ## [1.26.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.25.1...v1.26.0) (2023-05-20)
 
 
