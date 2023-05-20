@@ -1,6 +1,6 @@
 {
-  "short_name": "Open Sauced Docs",
-  "name": "Open Sauced Docs",
+  "short_name": "OpenSauced Docs",
+  "name": "OpenSauced Docs",
   "start_url": "/?source=pwa",
   "background_color": "#ffffff",
   "display": "standalone",
