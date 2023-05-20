@@ -12,12 +12,14 @@ OpenSauced.ai is a must-have extension for anyone who is passionate about open-s
 
 Here are some of the features that make the OpenSauced GitHub Profile Connector so useful:
 
-### Leverage AI generate pull request descriptions and code suggestions. 
-![GitHub Profile Insights](../../static/gif/pr-description.gif)
+### Leverage AI generate pull request descriptions. 
+![generate pr description](../../static/gif/pr-description.gif)
 
+_note: This feature is not available on private repositories._
 ## Leverage AI generate for suggested code during pull request reviews.
-![GitHub Profile Insights](../../static/gif/code-suggestions.gif)
+![generate code suggestions](../../static/gif/code-suggestions.gif)
 
+_note: This feature is not available on private repositories._
 ### View valuable insights about your GitHub profile
 
 <!-- image -->
