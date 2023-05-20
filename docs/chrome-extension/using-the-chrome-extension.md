@@ -8,8 +8,15 @@ keywords:
 
 ## Using the OpenSauced Chrome Extension
 
-The OpenSauced GitHub Profile Connector is a must-have extension for anyone who is passionate about open-source software and wants to contribute to the community. Whether you're an experienced maintainer or just getting started, this extension makes it easy to discover, contribute to, and track open-source projects on GitHub and connect with other developers who share your interests and skills.
+OpenSauced.ai is a must-have extension for anyone who is passionate about open-source software and wants to contribute to the community. Whether you're an experienced maintainer or just getting started, this extension makes it easy to discover, contribute to, and track open-source projects on GitHub and connect with other developers who share your interests and skills.
+
 Here are some of the features that make the OpenSauced GitHub Profile Connector so useful:
+
+### Leverage AI generate pull request descriptions and code suggestions. 
+![GitHub Profile Insights](../../static/gif/pr-description.gif)
+
+## Leverage AI generate for suggested code during pull request reviews.
+![GitHub Profile Insights](../../static/gif/code-suggestions.gif)
 
 ### View valuable insights about your GitHub profile
 
