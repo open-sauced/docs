@@ -150,7 +150,7 @@ And it's ready to merge:
 
 ## Dependency updates
 
-When dealing with dependency and lock file updates there are multiple use cases to consider, however as a baseline, the open sauced triage team will not prioritize parallel main features as seen in the roadmap.
+When dealing with dependency and lock file updates there are multiple use cases to consider, however as a baseline, the OpenSauced triage team will not prioritize parallel main features as seen in the roadmap.
 
 However when that happens, it is advised to:
 - fast-forward `npm-shrinkwrap.json` 

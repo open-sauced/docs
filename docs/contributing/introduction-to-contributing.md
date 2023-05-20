@@ -135,7 +135,7 @@ For those interested in getting involved in the project or just open source in g
 
 ## Funding
 
-Open Sauced is a part of GitHub Sponsors. If you would like to contribute, please note the [sponsor page](https://github.com/sponsors/open-sauced) for details on how funds are distributed. If you have made any contributions to the projectd directly or indirectly, please consider adding your profile to the [FUNDING.yml](https://github.com/open-sauced/.github/blob/main/FUNDING.yml).
+OpenSauced is a part of GitHub Sponsors. If you would like to contribute, please note the [sponsor page](https://github.com/sponsors/open-sauced) for details on how funds are distributed. If you have made any contributions to the projectd directly or indirectly, please consider adding your profile to the [FUNDING.yml](https://github.com/open-sauced/.github/blob/main/FUNDING.yml).
 
 ## Community
 
@@ -149,5 +149,5 @@ Do you have questions? Join the conversation in our [Discord](https://discord.gg
 
 ## License
 
-By contributing to the Open Sauced project, you agree that your contributions will be licensed
+By contributing to the OpenSauced project, you agree that your contributions will be licensed
 under its [MIT license](https://raw.githubusercontent.com/open-sauced/open-sauced/main/LICENSE).

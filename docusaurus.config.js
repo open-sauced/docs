@@ -3,7 +3,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Open Sauced',
+  title: 'OpenSauced',
   tagline: 'The path to your next Open Source contribution',
   url: 'https://docs.opensauced.pizza',
   baseUrl: '/',
@@ -20,11 +20,11 @@ module.exports = {
       indexName: 'opensauced',
       algoliaOptions: { 'facetFilters': ["type:$TYPE"] },
       debug: false,
-      placeholder: 'Search Open Sauced Docs',
+      placeholder: 'Search OpenSauced Docs',
     },
     navbar: {
       logo: {
-        alt: 'Open Sauced Logo',
+        alt: 'OpenSauced Logo',
         src: 'img/logo_lightmode.png',
         srcDark: 'img/logo_darkmode.png',
         href: 'https://opensauced.pizza/'
@@ -37,7 +37,7 @@ module.exports = {
           position: 'left',
         },
         {
-          alt: 'Open Sauced Logo',
+          alt: 'OpenSauced Logo',
           src: 'img/logo.svg',
           href: 'https://opensauced.pizza/'
         },
@@ -58,7 +58,7 @@ module.exports = {
         },
         {
           href: 'https://opensauced.pizza/',
-          label: 'Open Sauced',
+          label: 'OpenSauced',
           position: 'right',
         },
       ],
@@ -70,7 +70,7 @@ module.exports = {
     },
     footer: {
       logo: {
-        alt: 'Open Sauced Logo',
+        alt: 'OpenSauced Logo',
         src: 'img/logo.svg',
         href: 'https://opensauced.pizza/'
       },
@@ -124,7 +124,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Open Sauced. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} OpeSauced. Built with Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
