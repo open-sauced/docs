@@ -1,9 +1,9 @@
 <div align="center">
   <br>
 
-  [![Open Sauced](https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png)](https://opensauced.pizza)
+  [![OpenSauced](https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png)](https://opensauced.pizza)
 
-  # 🍕 Open Sauced Docs 🍕
+  # 🍕 OpenSauced Docs 🍕
   > The path to your next Open Source contribution
 
   [![Code Size](https://img.shields.io/github/languages/code-size/open-sauced/docs.opensauced.pizza?style=flat)](https://github.com/open-sauced/docs.opensauced.pizza/pulse)
@@ -16,11 +16,11 @@
 
 ## 🧪 Built for Experimenting
 
-This tool is meant to accelerate development on [Open Sauced](https://opensauced.pizza) by giving contributors a way to access [Docusaurus 2](https://docusaurus.io/) powered developer documentation available at [docs.opensauced.pizza](https://docs.opensauced.pizza).
+This tool is meant to accelerate development on [OpenSauced](https://opensauced.pizza) by giving contributors a way to access [Docusaurus 2](https://docusaurus.io/) powered developer documentation available at [docs.opensauced.pizza](https://docs.opensauced.pizza).
 
 ## 🤝 Contributing
 
-We encourage you to contribute to Open Sauced! Please check out the [Contributing guide](https://docs.opensauced.pizza/contributing/introduction-to-contributing/) for guidelines about how to proceed.
+We encourage you to contribute to OpenSauced! Please check out the [Contributing guide](https://docs.opensauced.pizza/contributing/introduction-to-contributing/) for guidelines about how to proceed.
 
 <img align="right" src="https://i.ibb.co/CJfW18H/ship.gif" width="200"/>
 
@@ -34,8 +34,8 @@ npm start
 ## 🍕 Community
 
 Got Questions? Join the conversation in our [Discord](https://discord.gg/U2peSNf23P).  
-Find Open Sauced videos and release overviews on our [YouTube Channel](https://www.youtube.com/channel/UCklWxKrTti61ZCROE1e5-MQ).
+Find OpenSauced videos and release overviews on our [YouTube Channel](https://www.youtube.com/channel/UCklWxKrTti61ZCROE1e5-MQ).
 
 ## ⚖️ LICENSE
 
-MIT © [Open Sauced](LICENSE)
+MIT © [OpenSauced](LICENSE)
