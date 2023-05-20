@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.26.0](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.25.1...v1.26.0) (2023-05-20)
+
+
+### Features
+
+* Add gifs showing extension ([#89](https://github.com/open-sauced/docs.opensauced.pizza/issues/89)) ([006bef8](https://github.com/open-sauced/docs.opensauced.pizza/commit/006bef8bb11fab9bf82855dcc32c93472c01c08c))
+
 ### [1.25.1](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.25.0...v1.25.1) (2023-05-18)
 
 
