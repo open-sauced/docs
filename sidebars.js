@@ -52,6 +52,17 @@ module.exports = {
         'chrome-extension/using-the-chrome-extension',
         'chrome-extension/project-utilities',
       ],
-    }
+    }, 
+        {
+          type: 'category',
+          label: 'Community Documentation',
+          collapsed: false,
+          items: [
+            'community/welcome-to-the-community',
+            'community/community-events',
+          ],
+        },
   ],
 };
+
+// 
