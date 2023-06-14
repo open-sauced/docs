@@ -124,7 +124,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} OpeSauced. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} OpenSauced. Built with Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
