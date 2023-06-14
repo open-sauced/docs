@@ -55,11 +55,10 @@ module.exports = {
     }, 
         {
           type: 'category',
-          label: 'Community Documentation',
+          label: 'Community',
           collapsed: false,
           items: [
             'community/welcome-to-the-community',
-            'community/community-events',
           ],
         },
   ],

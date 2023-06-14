@@ -6,9 +6,9 @@ keywords:
   - welcome to the community
 ---
 
-## Welcome to the OpenSauced Community :wave:
+## The OpenSauced Community 
 
-Welcome to the OpenSauced community! We're so glad you're here. At OpenSauced, we're striving to bring collaboration and inspiration to every open source contributor and to help build a global community of open source developers, empowering you to grow, innovate, and achieve greatness in the open.
+Welcome to the OpenSauced community! At OpenSauced, we're striving to bring collaboration and inspiration to every open source contributor and to help build a global community of open source developers, empowering you to grow, innovate, and achieve greatness in the open.
 
 ### Community Guidelines
 At OpenSauced, we strive to create a welcoming and inclusive community for everyone. We have a few guidelines to help us achieve this goal:
@@ -34,8 +34,7 @@ You can get involved in the OpenSauced community in a few ways:
 
 - Share your Contributions! We love to see what you're working on. Highlight your contributions on [OpenSauced](https://insights.opensauced.pizza/feed).
 - Open an issue or ask to be assigned to an existing issue on any of our [OpenSauced repositories](https://github.com/open-sauced).
-- Mentor new contributors in our [Discord](https://discord.gg/opensauced).
-
+- Share what you're working on, ask questions, or mentor new contributors in our [Discord](https://discord.gg/opensauced).
 
 ## Resources on Getting Started with Open Source
 - 📝 Check out our [Dev blog](https://dev.to/opensauced) where we provide resources for open-source contributors.
