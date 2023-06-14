@@ -1,3 +1,17 @@
+# 📦 open-sauced/docs changelog
+
+[![conventional commits](https://img.shields.io/badge/conventional%20commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+[![semantic versioning](https://img.shields.io/badge/semantic%20versioning-2.0.0-green.svg)](https://semver.org)
+
+> All notable changes to this project will be documented in this file
+
+## [1.27.0](https://github.com/open-sauced/docs/compare/v1.26.2...v1.27.0) (2023-06-14)
+
+
+### Features
+
+* Add Community docs ([#96](https://github.com/open-sauced/docs/issues/96)) ([1efb238](https://github.com/open-sauced/docs/commit/1efb238e0b138685e91f559d9983974c9c51b4ec))
+
 # 📦 open-sauced/docs.opensauced.pizza changelog
 
 [![conventional commits](https://img.shields.io/badge/conventional%20commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
