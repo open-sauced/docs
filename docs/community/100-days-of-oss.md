@@ -25,14 +25,32 @@ There are numerous ways to participate in the #100DaysOfOSS challenge, including
 - create content: give a talk or presentation on OSS, participate in or even start a Twitter Space write a blog post or create a video;  
 - support contributors working on OSS projects, providing guidance and support.
 
-To keep track of your progress, post on social media, your blog, or any other platform you prefer with what progress you made, the day of the challenge indicated by 'D'and include the hashtag #100DaysOfOSS. For example, if you're on day one, you could say, "Today, I reviewed the documentation for the OpenSauced/Insights repository. D1 #100daysOfOSS." Then, on day two, you would continue with D2, and so on.
+To keep track of your progress, post on social media, your blog, or any other platform you prefer with what progress you made, the day of the challenge indicated by 'D'and include the hashtag #100DaysOfOSS. For example, if you're on day one, you could say, "Today, I reviewed the documentation for the [OpenSauced/Insights](https://github.com/open-sauced/insights) repository. D1 #100daysOfOSS." Then, on day two, you would continue with D2, and so on.
+
+If you're ready to join this challenge, [tweet out your commitment today](https://twitter.com/intent/tweet?text=I%27m%20joining%20the%20%23100DaysOfOSS%20challenge%20with%20%40saucedopen%20to%20grow%20my%20skills%2C%20gain%20real-world%20experience%20in%20open%20source%2C%20and%20to%20make%20a%20positive%20impact%20on%20the%20OSS%20Community!)!
 
 ## The Official Kickoff
-We're starting 100 days from the end of Hacktoberfest, a month-long celebration of open source contributions. Join us on this exciting journey, where we'll provide continuous support, daily inspirational tweets, and engaging events to help developers stay motivated and make progress. You can find more details and sign up for the challenge [here](link).
+We're starting 100 days from the end of [Hacktoberfest](https://hacktoberfest.com/), a month-long celebration of open source contributions. Starting July 23rd, we'll provide continuous support, daily inspirational tweets, and engaging events to help you stay motivated and make progress. 
 
-Don't worry if you're unable to start on the same day as everyone else. The #100DaysOfOSS challenge is flexible, and you can join in whenever you're ready. Just jump in at any point and begin with day one of your personal challenge. Each day, make sure to increment your post information to track your progress. For example, on day one, you could say, "Today, I reviewed the documentation for the OpenSauced/Insights repository. R1D1 #100daysOfOSS." Then, on day two, you would continue with R1D2, and so on.
+Don't worry if you're unable to start on the same day as everyone else. The #100DaysOfOSS challenge is flexible, and you can join in whenever you're ready. Just jump in at any point and begin with day one of your personal challenge. 
 
-## The Power of the #100DaysOfCode Challenge
+## Support
+To make the most of your #100DaysOfOSS journey, here are some additional resources and events you can explore:
+
+1. **Weekly Twitter Spaces:** Join our weekly Twitter Spaces sessions where we discuss open source topics, share insights, and connect with like-minded individuals. Follow us on [Twitter](https://twitter.com/saucedopen) to stay updated on upcoming sessions.
+
+2. **Community Events:** Discover a wide range of events on our community docs page. Whether it's hack days, workshops, or office hours, these events provide excellent opportunities to learn, collaborate, and find new projects to contribute to. Visit our [community docs page](https://docs.opensauced.pizza/community/welcome-to-the-community) to explore the upcoming events.
+
+3. **Weekly Contribution Opportunities:** If you're actively looking for open source projects to contribute to, check out the [weekly post](https://dev.to/bekahhw/series/23323) for new contribution opportunities.
+
+4. **Weekly Office Hours:** Have questions or need help? Join us on [Discord](https://discord.gg/dXvGd8mz) during our office hours or post in our #100DaysOfOSS channel. We're here to help you succeed!
+
+## Where to Start?
+If you're ready to start your #100DaysOfOSS journey, here are some tips to help you get started:
+- **Find a Project:** Explore the [OpenSauced](https://opensauced.pizza/) website to find a project that interests you. You can also check out the [weekly post](https://dev.to/bekahhw/series/) for exciting contribution opportunities.
+- **Take our Intro To Open Source Course:** If you're new to open source, we recommend taking our [Intro to Open Source](https://github.com/open-sauced/intro) course to learn more about open source and how to get started.
+
+## The Power of the #100DaysOfOSS Challenge
 The #100DaysOfOSS challenge offers a supportive community where developers can find encouragement, share experiences, and overcome roadblocks together. 
 
 Our hope is that the community will provide a safe space to discuss challenges, celebrate achievements, and exchange insights, creating an environment that helps individuals stay on track and avoid giving up.
@@ -40,7 +58,7 @@ Our hope is that the community will provide a safe space to discuss challenges, 
 
 ## Why join the #100DaysOfOSS Challenge:
 
-1. **Skill Enhancement**: By working on real-world projects, you'll gain practical experience and exposure to different projects, documentation, communities, programming languages, frameworks, and tools. They can also learn from experienced developers, receive feedback on their code, and improve their problem-solving abilities.
+1. **Skill Enhancement**: By working on real-world projects, you'll gain practical experience and exposure to different projects, documentation, communities, programming languages, frameworks, and tools. You'll also learn from experienced developers, receive feedback on your code, and improve your problem-solving abilities.
 
 2. **Collaboration and Networking**: You'll have the opportunity to work alongside other contributors, collaborate on shared goals, and build professional relationships. This experience can lead to networking opportunities, mentorship, and exposure to diverse perspectives in tech.
 
@@ -50,20 +68,4 @@ Our hope is that the community will provide a safe space to discuss challenges, 
 
 5. **Making a Positive Impact**: Your contributions benefit other contributors who rely on these projects, fostering a sense of fulfillment and giving back to the community.
 
-## Support
-To make the most of your #100DaysOfOSS journey, here are some additional resources and events you can explore:
-
-1. **Weekly Twitter Spaces:** Join our weekly Twitter Spaces sessions where we discuss open source topics, share insights, and connect with like-minded individuals. Follow us on [Twitter](https://twitter.com/saucedopen) to stay updated on upcoming sessions.
-
-2. **Community Events:** Discover a wide range of events on our community docs page. Whether it's hack days, workshops, or office hours, these events provide excellent opportunities to learn, collaborate, and find new projects to contribute to. Visit our [community docs page](https://docs.opensauced.pizza/community/welcome-to-the-community) to explore the upcoming events.
-
-3. **Weekly Contribution Opportunities:** If you're actively looking for open source projects to contribute to, check out the [weekly post](https://dev.to/bekahhw/series/) for exciting contribution opportunities.
-
-4. **Weekly Office Hours:** Have questions or need help? Join our weekly office hours on Discord. Join us on [Discord](https://discord.gg/dXvGd8mz) during our office hours.
-
-## Where to Start?
-If you're ready to start your #100DaysOfOSS journey, here are some tips to help you get started:
-- **Find a Project:** Explore the [OpenSauced](https://opensauced.pizza/) website to find a project that interests you. You can also check out the [weekly post](https://dev.to/bekahhw/series/) for exciting contribution opportunities.
-- **Take our Intro To Open Source Course:** If you're new to open source, we recommend taking our [Intro to Open Source](https://github.com/open-sauced/intro) course to learn more about open source and how to get started.
-
-Happy contributing and best of luck on your #100DaysOfOSS adventure!
+Happy contributing and best of luck on your #100DaysOfOSS adventure! 
