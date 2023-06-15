@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.28.0](https://github.com/open-sauced/docs/compare/v1.27.0...v1.28.0) (2023-06-15)
+
+
+### Documentation
+
+* Added PR review menu docs ([#98](https://github.com/open-sauced/docs/issues/98)) ([a88e3a9](https://github.com/open-sauced/docs/commit/a88e3a96bf3a083099b35596300030dad621b5e4))
+
 ## [1.27.0](https://github.com/open-sauced/docs/compare/v1.26.2...v1.27.0) (2023-06-14)
 
 
