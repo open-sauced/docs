@@ -22,11 +22,11 @@ That's empower developers with AI tools to:
 
 Here are some of the features that make the OpenSauced GitHub Profile Connector so useful:
 
-### Leverage AI generate pull request descriptions
+### Leverage AI to generate pull request descriptions
 
 This will help you to create a PR based on the configuration you have in the extension, it will enable you to create the summary based on either **Commit Messages** or **The diff between the files** or **both**, you can even set the length and the tone of the message using the same settings.
 
-_note: This feature is not available on private repositories._
+_Note: This feature is not available on private repositories._
 
 ![generate pr description](../../static/gif/pr-description.gif)
 
@@ -63,11 +63,20 @@ You can use this settings to set the strictness and the tone of the generated AI
 **Formal:** This PR fixes the follow call and linting issues in the `ContributorHighlightCard` component. A new function `FollowUser` has been added to handle the follow/unfollow functionality. The `useFollowUser` hook has been moved inside this function. The `FollowUser` function is now used in place of the previous follow/unfollow code block. This PR also merges the `beta` branch into `fix-follow-check`.
 
 
-## Leverage AI generate for suggested code during pull request reviews
+## Leverage AI to generate suggestions during pull request reviews
 
-_note: This feature is not available on private repositories._
+The extension enables easier PR reviews by augmenting the PR review page with AI features.
 
-![generate code suggestions](../../static/gif/code-suggestions.gif)
+_Note: The following features are not available on private repositories._
+
+### AI Code Refactoring
+![generate code refactor](../../static/gif/pr-code-refactor.gif)
+
+### AI Code Test Generation
+![generate code refactor](../../static/gif/pr-code-test.gif)
+
+### AI Code Explanation
+![generate code refactor](../../static/gif/pr-code-explain.gif)
 
 ### View valuable insights about your GitHub profile
 
