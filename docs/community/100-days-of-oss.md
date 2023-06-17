@@ -39,7 +39,7 @@ To make the most of your #100DaysOfOSS journey, here are some additional resourc
 
 1. **Weekly Twitter Spaces:** Join our weekly Twitter Spaces sessions where we discuss open source topics, share insights, and connect with like-minded individuals. Follow us on [Twitter](https://twitter.com/saucedopen) to stay updated on upcoming sessions.
 
-2. **Community Events:** Discover a wide range of events on our community docs page. Whether it's hack days, workshops, or office hours, these events provide excellent opportunities to learn, collaborate, and find new projects to contribute to. Visit our [community docs page](https://docs.opensauced.pizza/community/welcome-to-the-community) to explore the upcoming events.
+2. **Community Events:** Discover a wide range of events on our [community docs page](https://docs.opensauced.pizza/community/welcome-to-the-community). Whether it's hack days, workshops, or office hours, these events provide excellent opportunities to learn, collaborate, and find new projects to contribute to.
 
 3. **Weekly Contribution Opportunities:** If you're actively looking for open source projects to contribute to, check out the [weekly post](https://dev.to/bekahhw/series/23323) for new contribution opportunities.
 
