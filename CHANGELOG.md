@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.29.0](https://github.com/open-sauced/docs/compare/v1.28.0...v1.29.0) (2023-06-17)
+
+
+### Features
+
+* 100 days of oss ([#99](https://github.com/open-sauced/docs/issues/99)) ([cc922e4](https://github.com/open-sauced/docs/commit/cc922e44ab85028773a0b2aeb31f9d3ce8adf134))
+
 ## [1.28.0](https://github.com/open-sauced/docs/compare/v1.27.0...v1.28.0) (2023-06-15)
 
 
