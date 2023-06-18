@@ -106,6 +106,7 @@ You can also experiment with conventional commits by doing:
 ```shell
 npm run push
 ```
+
 Using the `npm run push` command is an interactive replacement for `git commit`. It enforces the conventional commits specification for writing commit messages, making it easier for developers and maintainers to understand the changes made in a particular commit.
 
 Assuming you are dealing with code changes and you add them using `git add`, once you are ready to commit, there are 2 ways we can proceed: `git commit` or `npm run push`. The second method is preferred, as doing a subsequent `git push` and then opening a PR would ensure the title is conforming to our standards.
@@ -117,13 +118,12 @@ GitHub has support for draft pull requests, which will disable the merge button 
 ## Issues
 
 If you wish to work on an open issue, please comment on the issue with `.take` and it will be assigned to you. If an issue is not assigned, it is assumed to be open for anyone to work on. Please assign yourself to an issue before beginning work on it to avoid conflicts.
- 
+
 If you are contributing to the project for the first time, please consider checking the [bug](https://github.com/open-sauced/hot/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+bug%22) or [good first issue](https://github.com/open-sauced/hot/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) labels.
 
 In case you get stuck, please feel free to ask for help in the [Discord](https://discord.gg/U2peSNf23P) server or GitHub Discussions.
 
 Please note that we have a [code of conduct](./code-of-conduct.md), please follow it in all your interactions with the project and it's contributors.
-
 
 ## Triage team
 
@@ -135,7 +135,7 @@ For those interested in getting involved in the project or just open source in g
 
 ## Funding
 
-OpenSauced is a part of GitHub Sponsors. If you would like to contribute, please note the [sponsor page](https://github.com/sponsors/open-sauced) for details on how funds are distributed. If you have made any contributions to the projectd directly or indirectly, please consider adding your profile to the [FUNDING.yml](https://github.com/open-sauced/.github/blob/main/FUNDING.yml).
+OpenSauced is a part of GitHub Sponsors. If you would like to contribute, please note the [sponsor page](https://github.com/sponsors/open-sauced) for details on how funds are distributed. If you have made any contributions to the project directly or indirectly, please consider adding your profile to the [FUNDING.yml](https://github.com/open-sauced/.github/blob/main/FUNDING.yml).
 
 ## Community
 
