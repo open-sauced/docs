@@ -106,6 +106,7 @@ You can also experiment with conventional commits by doing:
 ```shell
 npm run push
 ```
+
 Using the `npm run push` command is an interactive replacement for `git commit`. It enforces the conventional commits specification for writing commit messages, making it easier for developers and maintainers to understand the changes made in a particular commit.
 
 Assuming you are dealing with code changes and you add them using `git add`, once you are ready to commit, there are 2 ways we can proceed: `git commit` or `npm run push`. The second method is preferred, as doing a subsequent `git push` and then opening a PR would ensure the title is conforming to our standards.
@@ -117,13 +118,12 @@ GitHub has support for draft pull requests, which will disable the merge button 
 ## Issues
 
 If you wish to work on an open issue, please comment on the issue with `.take` and it will be assigned to you. If an issue is not assigned, it is assumed to be open for anyone to work on. Please assign yourself to an issue before beginning work on it to avoid conflicts.
- 
+
 If you are contributing to the project for the first time, please consider checking the [bug](https://github.com/open-sauced/hot/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+bug%22) or [good first issue](https://github.com/open-sauced/hot/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) labels.
 
 In case you get stuck, please feel free to ask for help in the [Discord](https://discord.gg/U2peSNf23P) server or GitHub Discussions.
 
 Please note that we have a [code of conduct](./code-of-conduct.md), please follow it in all your interactions with the project and it's contributors.
-
 
 ## Triage team
 
@@ -135,7 +135,7 @@ For those interested in getting involved in the project or just open source in g
 
 ## Funding
 
-OpenSauced is a part of GitHub Sponsors. If you would like to contribute, please note the [sponsor page](https://github.com/sponsors/open-sauced) for details on how funds are distributed. If you have made any contributions to the projectd directly or indirectly, please consider adding your profile to the [FUNDING.yml](https://github.com/open-sauced/.github/blob/main/FUNDING.yml).
+OpenSauced is a part of GitHub Sponsors. If you would like to contribute, please note the [sponsor page](https://github.com/sponsors/open-sauced) for details on how funds are distributed. If you have made any contributions to the project directly or indirectly, please consider adding your profile to the [FUNDING.yml](https://github.com/open-sauced/.github/blob/main/FUNDING.yml).
 
 ## Community
 
@@ -146,6 +146,16 @@ Do you have questions? Join the conversation in our [Discord](https://discord.gg
 - Ask questions if you are stuck.
 - Use [CSS variables](https://github.com/open-sauced/open-sauced/blob/HEAD/src/styles/variables.js)
 - Always use [rel="noreferrer" on all target="\_blank" links](https://web.dev/external-anchors-use-rel-noopener/).
+
+## Frequently Asked Questions
+
+1. **How do I find good first issues?**
+ We recommend checking out sites like [Good First Issues](https://goodfirstissues.com/) and [First Timers Only](https://www.firsttimersonly.com/). They will lead you to projects and issues worth working on.  We also recommend using the `Good First Issue` label in the search engine of the project you want to contribute to. Check out[this YouTube Short from GitHub](https://www.youtube.com/watch?v=k3l_rurKOXg) to learn more. Furthermore, check out our daily "Who's looking for open source contributors?" on [Dev.to](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-46-247i)
+1. **My contribution does not show up on my OpenSauced profile. How do I fix it?**
+We suggest creating a [Insight page](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md#discovering-open-source-with-opensauced) or adding your merged pull request to [the Highlights Page](https://github.com/open-sauced/intro/blob/main/06-the-secret-sauce.md#develop-your-open-source-resume).
+
+1. **I want to find "X" language or frameworks data. How do I find it?**
+Post your suggestion in the [General Feedback Discussion forum](https://github.com/orgs/open-sauced/discussions/categories/general-feedback-or-bugs) on our GitHub repository. We'd love to see it! :smile:
 
 ## License
 
