@@ -59,6 +59,7 @@ module.exports = {
           collapsed: false,
           items: [
             'community/welcome-to-the-community',
+            'community/100-days-of-oss'
           ],
         },
   ],
