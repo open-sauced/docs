@@ -5,6 +5,27 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.31.0](https://github.com/open-sauced/docs/compare/v1.30.0...v1.31.0) (2023-06-18)
+
+
+### Features
+
+* Add FAQ section to Contributing Guide  ([#103](https://github.com/open-sauced/docs/issues/103)) ([b534680](https://github.com/open-sauced/docs/commit/b5346800056c3e30745b3c248d053a29bd2ea31a))
+
+## [1.30.0](https://github.com/open-sauced/docs/compare/v1.29.0...v1.30.0) (2023-06-18)
+
+
+### Features
+
+* add users docs about highlights ([#100](https://github.com/open-sauced/docs/issues/100)) ([17dd7fd](https://github.com/open-sauced/docs/commit/17dd7fdf4ef666a5803d2c35ef24527e3abda924))
+
+## [1.29.0](https://github.com/open-sauced/docs/compare/v1.28.0...v1.29.0) (2023-06-17)
+
+
+### Features
+
+* 100 days of oss ([#99](https://github.com/open-sauced/docs/issues/99)) ([cc922e4](https://github.com/open-sauced/docs/commit/cc922e44ab85028773a0b2aeb31f9d3ce8adf134))
+
 ## [1.28.0](https://github.com/open-sauced/docs/compare/v1.27.0...v1.28.0) (2023-06-15)
 
 
