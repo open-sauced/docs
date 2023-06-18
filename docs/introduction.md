@@ -19,7 +19,7 @@ Eager to get started? Check out[the Effectively Highlights section in our free "
 
 ## Insights
 
-- Add information about Highlights here
+- Add information about Highlights here.
   
 ## Collaborations (Soon)
 
@@ -27,11 +27,11 @@ Eager to get started? Check out[the Effectively Highlights section in our free "
 
 ## FAQs
 
-- Add information about FAQs here
+- Add information about FAQs here.
 
 ## Community
 
-- Add information about the community here
+- Add information about the community here.
   
 ## Contributing  
 
