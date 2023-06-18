@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.31.0](https://github.com/open-sauced/docs/compare/v1.30.0...v1.31.0) (2023-06-18)
+
+
+### Features
+
+* Add FAQ section to Contributing Guide  ([#103](https://github.com/open-sauced/docs/issues/103)) ([b534680](https://github.com/open-sauced/docs/commit/b5346800056c3e30745b3c248d053a29bd2ea31a))
+
 ## [1.30.0](https://github.com/open-sauced/docs/compare/v1.29.0...v1.30.0) (2023-06-18)
 
 
