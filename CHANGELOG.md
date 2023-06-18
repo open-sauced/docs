@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.30.0](https://github.com/open-sauced/docs/compare/v1.29.0...v1.30.0) (2023-06-18)
+
+
+### Features
+
+* add users docs about highlights ([#100](https://github.com/open-sauced/docs/issues/100)) ([17dd7fd](https://github.com/open-sauced/docs/commit/17dd7fdf4ef666a5803d2c35ef24527e3abda924))
+
 ## [1.29.0](https://github.com/open-sauced/docs/compare/v1.28.0...v1.29.0) (2023-06-17)
 
 
