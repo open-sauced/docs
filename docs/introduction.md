@@ -36,5 +36,3 @@ Eager to get started? Check out[the Effectively Highlights section in our free "
 ## Contributing  
 
 - Ready to start contributing? Start here.
-Eager to get started? Check out [the Effectively Highlights section in our free "Intro to Open Source" course](https://github.com/open-sauced/intro/blob/main/06-the-secret-sauce.md#effectively-highlight-your-contributions) to learn more.
-
