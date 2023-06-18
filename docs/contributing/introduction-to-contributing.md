@@ -155,7 +155,7 @@ Do you have questions? Join the conversation in our [Discord](https://discord.gg
 We suggest creating a [Insight page](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md#discovering-open-source-with-opensauced) or adding your merged pull request to [the Highlights Page](https://github.com/open-sauced/intro/blob/main/06-the-secret-sauce.md#develop-your-open-source-resume).
 
 1. **I want to find "X" language or frameworks data. How do I find it?**
-Post your suggestion in the [General Feedback Discussion forum](https://github.com/orgs/open-sauced/discussions/categories/general-feedback-or-bugs) on our GitHub repository. We'd love to see it! :smile:
+Post your suggestion in our[Feedback repository](https://github.com/orgs/open-sauced/discussions). We'd love to see it! :smile:
 
 ## License
 
