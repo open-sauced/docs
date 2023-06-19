@@ -1,3 +1,4 @@
+
 /**
  * Creating a sidebar enables you to:
  - create an ordered group of docs
@@ -11,6 +12,17 @@
 
 module.exports = {
   docs: [
+'Start here'
+      {
+          type: 'category',
+          label: 'Start Here!',
+          collapsed: false,
+          items: [
+            'start/faqs',
+            'start/highlights'
+          ],
+        },
+    ```
     'introduction',
     {
       type: 'category',
