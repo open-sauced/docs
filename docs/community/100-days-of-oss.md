@@ -8,7 +8,7 @@ keywords:
 
 Inspired by the great work of the [#100DaysOfCode challenge](https://www.100daysofcode.com/), we're starting #100DaysOfOSS. 
 
-With this challenge, OpenSauced hopes to help developers enhance their skills, expand their abilities, and gain practical experience over 100 days, as well as support maintainers, onboard more contributors into open source, and expand the OSS community. With a focus on open source software (OSS), we encourage contributors of all technical backgrounds to immerse themselves in the world of collaborative development and engage with a supportive community.
+With this challenge, OpenSauced hopes to help contributors enhance their skills, expand their abilities, and gain practical experience over 100 days, as well as support maintainers, onboard more contributors into open source, and expand the OSS community. With a focus on open source software (OSS), we encourage contributors of all technical backgrounds to immerse themselves in the world of collaborative development and engage with a supportive community.
 
 ## How to Participate
 The beauty of this challenge is that you're not required to code. The main purpose is to grow in your understanding of open source software (OSS), contribute in ways that are meaningful to you, and further develop the skills and knowledge you're interested in pursuing. It's all about personal growth and making a positive impact on the OSS community. Because this challenge is focused on growth, you can participate in any way that helps you achieve your goals-including taking days off when you need it.
