@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.32.0](https://github.com/open-sauced/docs/compare/v1.31.0...v1.32.0) (2023-06-22)
+
+
+### Documentation
+
+* Update 100-days-of-oss.md ([#109](https://github.com/open-sauced/docs/issues/109)) ([c57387d](https://github.com/open-sauced/docs/commit/c57387d80fa45ae291eaead7195b2d487ed9be43))
+
 ## [1.31.0](https://github.com/open-sauced/docs/compare/v1.30.0...v1.31.0) (2023-06-18)
 
 
