@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.32.1](https://github.com/open-sauced/docs/compare/v1.32.0...v1.32.1) (2023-07-03)
+
+
+### Bug Fixes
+
+* revise  markdown errors ([#107](https://github.com/open-sauced/docs/issues/107)) ([637d735](https://github.com/open-sauced/docs/commit/637d735cc6489791d60512d7849b6ab1f23417bc))
+
 ## [1.32.0](https://github.com/open-sauced/docs/compare/v1.31.0...v1.32.0) (2023-06-22)
 
 
