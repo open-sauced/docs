@@ -50,18 +50,25 @@ module.exports = {
       items: [
         'chrome-extension/introduction-to-the-chrome-extension',
         'chrome-extension/using-the-chrome-extension',
-        'chrome-extension/project-utilities',
       ],
-    }, 
-        {
-          type: 'category',
-          label: 'Community',
-          collapsed: false,
-          items: [
-            'community/welcome-to-the-community',
-            'community/100-days-of-oss'
-          ],
-        },
+    },
+    {
+      type: 'category',
+      label: 'Project Utilities',
+      collapsed: true,
+      items: [
+        'project-utilities/project-utilities',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Community',
+      collapsed: false,
+      items: [
+        'community/welcome-to-the-community',
+        'community/100-days-of-oss'
+      ],
+    },
   ],
 };
 
