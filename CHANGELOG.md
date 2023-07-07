@@ -5,6 +5,18 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.33.0](https://github.com/open-sauced/docs/compare/v1.32.1...v1.33.0) (2023-07-07)
+
+
+### Features
+
+* add more descriptions for using the chrome extension page ([#116](https://github.com/open-sauced/docs/issues/116)) ([442ae78](https://github.com/open-sauced/docs/commit/442ae782972fe0502efd0be82ba1da15dfb71395))
+
+
+### Bug Fixes
+
+* add missing spaces in faq ([#115](https://github.com/open-sauced/docs/issues/115)) ([b2dc854](https://github.com/open-sauced/docs/commit/b2dc854402b06578f2a86faba85568ff588a024b))
+
 ### [1.32.1](https://github.com/open-sauced/docs/compare/v1.32.0...v1.32.1) (2023-07-03)
 
 
