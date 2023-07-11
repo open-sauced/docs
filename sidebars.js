@@ -50,9 +50,8 @@ module.exports = {
       items: [
         'chrome-extension/introduction-to-the-chrome-extension',
         'chrome-extension/using-the-chrome-extension',
-        'chrome-extension/project-utilities',
       ],
-    }, 
+    },
         {
           type: 'category',
           label: 'Community',
@@ -65,4 +64,4 @@ module.exports = {
   ],
 };
 
-// 
+//
