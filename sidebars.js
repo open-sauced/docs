@@ -12,18 +12,18 @@
 
 module.exports = {
   docs: [
-'Start here'
-      {
-          type: 'category',
-          label: 'Start Here!',
-          collapsed: false,
-          items: [
-            'start/faqs',
-            'start/highlights'
-          ],
-        },
-    ```
     'introduction',
+    {
+      type: 'category',
+      label: 'Getting started',
+      collapsed: false,
+      items: [
+        'community/welcome-to-the-community',
+        'community/highlights',
+        'community/100-days-of-oss',
+        'community/faqs'
+      ],
+    },
     {
       type: 'category',
       label: 'Contributing guide',
@@ -64,15 +64,7 @@ module.exports = {
         'chrome-extension/using-the-chrome-extension',
       ],
     },
-        {
-          type: 'category',
-          label: 'Community',
-          collapsed: false,
-          items: [
-            'community/welcome-to-the-community',
-            'community/100-days-of-oss'
-          ],
-        },
+
   ],
 };
 
