@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.34.0](https://github.com/open-sauced/docs/compare/v1.33.0...v1.34.0) (2023-07-11)
+
+
+### Documentation
+
+* Project utilities hijack ([#117](https://github.com/open-sauced/docs/issues/117)) ([794b54f](https://github.com/open-sauced/docs/commit/794b54fcdea801b2f644ea489618926a42d04c25))
+
 ## [1.33.0](https://github.com/open-sauced/docs/compare/v1.32.1...v1.33.0) (2023-07-07)
 
 
