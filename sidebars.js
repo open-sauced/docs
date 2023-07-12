@@ -1,3 +1,4 @@
+
 /**
  * Creating a sidebar enables you to:
  - create an ordered group of docs
@@ -12,6 +13,17 @@
 module.exports = {
   docs: [
     'introduction',
+    {
+      type: 'category',
+      label: 'Getting started',
+      collapsed: false,
+      items: [
+        'community/welcome-to-the-community',
+        'community/highlights',
+        'community/100-days-of-oss',
+        'community/faqs'
+      ],
+    },
     {
       type: 'category',
       label: 'Contributing guide',
@@ -52,16 +64,7 @@ module.exports = {
         'chrome-extension/using-the-chrome-extension',
       ],
     },
-        {
-          type: 'category',
-          label: 'Community',
-          collapsed: false,
-          items: [
-            'community/welcome-to-the-community',
-            'community/100-days-of-oss'
-          ],
-        },
+
   ],
 };
 
-//

@@ -147,16 +147,6 @@ Do you have questions? Join the conversation in our [Discord](https://discord.gg
 - Use [CSS variables](https://github.com/open-sauced/open-sauced/blob/HEAD/src/styles/variables.js)
 - Always use [rel="noreferrer" on all target="\_blank" links](https://web.dev/external-anchors-use-rel-noopener/).
 
-## Frequently Asked Questions
-
-1. **How do I find good first issues?**
- We recommend checking out sites like [Good First Issues](https://goodfirstissues.com/) and [First Timers Only](https://www.firsttimersonly.com/). They will lead you to projects and issues worth working on.  We also recommend using the `Good First Issue` label in the search engine of the project you want to contribute to. Check out [this YouTube Short from GitHub](https://www.youtube.com/watch?v=k3l_rurKOXg) to learn more. Furthermore, check out our daily "Who's looking for open source contributors?" on [Dev.to](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-46-247i)
-1. **My contribution does not show up on my OpenSauced profile. How do I fix it?**
-We suggest creating a [Insight page](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md#discovering-open-source-with-opensauced) or adding your merged pull request to [the Highlights Page](https://github.com/open-sauced/intro/blob/main/06-the-secret-sauce.md#develop-your-open-source-resume).
-
-1. **I want to find "X" language or frameworks data. How do I find it?**
-Post your suggestion in our [Feedback repository](https://github.com/orgs/open-sauced/discussions). We'd love to see it! :smile:
-
 ## License
 
 By contributing to the OpenSauced project, you agree that your contributions will be licensed
