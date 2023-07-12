@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.35.1](https://github.com/open-sauced/docs/compare/v1.35.0...v1.35.1) (2023-07-12)
+
+
+### Bug Fixes
+
+* highlights.md sidebar link ([9b03f41](https://github.com/open-sauced/docs/commit/9b03f418aa278a2ea656c5e62ace0d7225605638))
+
 ## [1.35.0](https://github.com/open-sauced/docs/compare/v1.34.0...v1.35.0) (2023-07-12)
 
 
