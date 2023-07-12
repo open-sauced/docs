@@ -71,4 +71,25 @@ Our hope is that the community will provide a safe space to discuss challenges, 
 
 5. **Making a Positive Impact**: Your contributions benefit other contributors who rely on these projects, fostering a sense of fulfillment and giving back to the community.
 
+## Events
+We're hosting a series of events to help you stay motivated and make progress on your #100DaysOfOSS journey. Check out the events below and sign up for the ones that interest you.
+
+### Intro to Open Source Workshop
+Use the link to sign up for a session.
+- [July 24rd, 2023 | 8:30a ET](https://lu.ma/9phdjsbq)
+- [August 11th, 2023 | 3p ET](https://lu.ma/hm8xxk6k)
+- [August 28th, 2023 | 9a ET](https://lu.ma/2e9ixqx5)
+- [September 25th, 2023 | 12p ET](https://lu.ma/6pevzkoq)
+
+### Weekly Twitter Spaces
+Join us every Tuesday at 10:30a ET for our weekly Twitter Spaces sessions where we discuss open source topics, share insights, and connect with like-minded individuals. Follow us on [Twitter](https://twitter.com/saucedopen) to stay updated on upcoming sessions.
+- [July 24 | 11:00a ET](https://twitter.com/i/spaces/1YpKkggOPBdKj)
+- [August 1 | 10:30a](https://twitter.com/i/spaces/1vAxRAAnPErJl)
+- [August 8 | 10:30a](https://twitter.com/i/spaces/1gqxvyyvPPnJB)
+
+More links to come!
+
+### Weekly Office Hours
+Have questions or need help? Join us on [Discord](https://discord.gg/opensauced) during our office hours every Tuesday at 12p ET or post in our #100DaysOfOSS channel. We're here to help you succeed!
+
 Happy contributing and best of luck on your #100DaysOfOSS adventure! 
