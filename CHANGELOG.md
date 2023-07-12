@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.36.0](https://github.com/open-sauced/docs/compare/v1.35.1...v1.36.0) (2023-07-12)
+
+
+### Documentation
+
+* Add events ([#119](https://github.com/open-sauced/docs/issues/119)) ([577efe1](https://github.com/open-sauced/docs/commit/577efe1d83992f51063f7bbcdd442af970ea4f3e))
+
 ### [1.35.1](https://github.com/open-sauced/docs/compare/v1.35.0...v1.35.1) (2023-07-12)
 
 
