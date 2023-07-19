@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.36.1](https://github.com/open-sauced/docs/compare/v1.36.0...v1.36.1) (2023-07-19)
+
+
+### Bug Fixes
+
+* update youtube link on docs ([#121](https://github.com/open-sauced/docs/issues/121)) ([7e3b8bd](https://github.com/open-sauced/docs/commit/7e3b8bd646df0d460ce4def3443f1b3a709353d4))
+
 ## [1.36.0](https://github.com/open-sauced/docs/compare/v1.35.1...v1.36.0) (2023-07-12)
 
 
