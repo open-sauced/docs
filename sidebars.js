@@ -63,8 +63,9 @@ module.exports = {
           label: "using the extension",
           items: [
             {
-              type: "sub-category",
-              label: "",
+              type: "item",
+              label: "feature",
+              collapsed: ,
             },
           ],
         },
