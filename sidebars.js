@@ -63,9 +63,40 @@ module.exports = {
           label: "using the extension",
           items: [
             {
-              type: "item",
-              label: "feature",
-              collapsed: ,
+              type: "file",
+              label: "feature 1",
+              path: "chrome-extension/ai-code-explanation.md",
+              type: "markdown",
+            },
+            {
+              type: "file",
+              label: "feature 2",
+              path: "chrome-extension/generating-pr-descriptions.md",
+              type: "markdown",
+            },
+            {
+              type: "file",
+              label: "feature 3",
+              path: "chrome-extension/highlights.md",
+              type: "markdown",
+            },
+            {
+              type: "file",
+              label: "feature 4",
+              path: "chrome-extension/quick-access-to-opensauced-links.md",
+              type: "markdown",
+            },
+            {
+              type: "file",
+              label: "feature 5",
+              path: "chrome-extension/refactoring-and-testing.md",
+              type: "markdown",
+            },
+            {
+              type: "file",
+              label: "feature 6",
+              path: "chrome-extension/viewing-insights-and-invitations",
+              type: "markdown",
             },
           ],
         },
