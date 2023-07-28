@@ -84,7 +84,7 @@ module.exports = {
               type: "file",
               label: "feature 4",
               type: "doc",
-              type: "opensauced-links",
+              id: "opensauced-links",
             },
             {
               type: "file",
