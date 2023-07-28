@@ -57,7 +57,6 @@ module.exports = {
       collapsed: true,
       items: [
         "chrome-extension/introduction-to-the-chrome-extension",
-        "chrome-extension/using-the-chrome-extension",
         {
           type: "category",
           label: "Using the Chrome Extension",
