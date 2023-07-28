@@ -65,8 +65,8 @@ module.exports = {
             {
               type: "file",
               label: "feature 1",
-              path: "chrome-extension/ai-code-explanation.md",
-              type: "markdown",
+              type: "doc",
+              id: "ai-code-explanation"
             },
             {
               type: "file",
