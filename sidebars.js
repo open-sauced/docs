@@ -72,7 +72,7 @@ module.exports = {
               type: "file",
               label: "feature 2",
               type: "doc",
-              id: "chrome-extension/generating-pr-descriptions",
+              id: "chrome-extension/pr-descriptions",
             },
             {
               type: "file",
