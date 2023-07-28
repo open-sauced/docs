@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.37.0](https://github.com/open-sauced/docs/compare/v1.36.1...v1.37.0) (2023-07-28)
+
+
+### Features
+
+* Adding subfolders to the using section for Chrome Extension ([#123](https://github.com/open-sauced/docs/issues/123)) ([a785c55](https://github.com/open-sauced/docs/commit/a785c5593b9a27099878717489a09ba4c5b8e702))
+
 ### [1.36.1](https://github.com/open-sauced/docs/compare/v1.36.0...v1.36.1) (2023-07-19)
 
 
