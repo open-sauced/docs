@@ -60,7 +60,7 @@ module.exports = {
         "chrome-extension/using-the-chrome-extension",
         {
           type: "category",
-          label: "using the extension",
+          label: "Using the Chrome Extension",
           items: [
             {
               type: "file",
