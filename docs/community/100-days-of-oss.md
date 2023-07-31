@@ -52,7 +52,7 @@ To make the most of your #100DaysOfOSS journey, here are some additional resourc
 If you're ready to start your #100DaysOfOSS journey, here are some tips to help you get started:
 - **Find a Project:** Explore the [OpenSauced](https://opensauced.pizza/) website to find a project that interests you. You can also check out the [weekly post](https://dev.to/bekahhw/series/) for exciting contribution opportunities.
 - **Take our Intro To Open Source Course:** If you're new to open source, we recommend taking our [Intro to Open Source](https://github.com/open-sauced/intro) course to learn more about open source and how to get started.
-- **Record your journey:** feel free to use our [template repo](https://github.com/open-sauced/100-days-of-oss-template) to write about your journey, if you want you can use the [template notion](https://www.notion.so/a0m0rajab/100-Days-Of-Open-Source-2615e66772e14152897002e348c5f1bc?pvs=13) as well. 
+- **Record your journey:** feel free to use our [template repo](https://github.com/open-sauced/100-days-of-oss-template) to write about your journey. Use the [template notion](https://www.notion.so/a0m0rajab/100-Days-Of-Open-Source-2615e66772e14152897002e348c5f1bc?pvs=13). 
 
 ## The Power of the #100DaysOfOSS Challenge
 The #100DaysOfOSS challenge offers a supportive community where developers can find encouragement, share experiences, and overcome roadblocks together. 
