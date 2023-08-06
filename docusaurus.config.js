@@ -119,7 +119,7 @@ module.exports = {
             },
             {
               label: 'Download book',
-              href: 'https://docs.opensauced.pizza/open-sauced-docs.pdf',
+              href: 'https://docs.opensauced.pizza/assets/open-sauced-docs.pdf',
             }
           ],
         },
