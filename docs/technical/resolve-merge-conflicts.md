@@ -6,7 +6,7 @@ keywords:
   - Resolve merge conflicts
 ---
 
-Pretty often when opening a pull request it is very likely to run into merge conflicts as the release process is generally updating `npm-shriknwrap.json`.
+Pretty often when opening a pull request it is very likely to run into merge conflicts as the release process is generally updating `npm-shrinkwrap.json`.
 
 To better illustrate the commands listed here at will use commits and screenshots from [open-sauced#1078](https://github.com/open-sauced/open-sauced/pull/1078).
 
