@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.38.0](https://github.com/open-sauced/docs/compare/v1.37.1...v1.38.0) (2023-08-15)
+
+
+### Documentation
+
+* revise information about templates ([#135](https://github.com/open-sauced/docs/issues/135)) ([321e8c9](https://github.com/open-sauced/docs/commit/321e8c9f9721e056ee4e7f1c9074cdda5fc0250c))
+
 ### [1.37.1](https://github.com/open-sauced/docs/compare/v1.37.0...v1.37.1) (2023-08-12)
 
 
