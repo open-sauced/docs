@@ -21,6 +21,7 @@ module.exports = {
         "community/highlights",
         "community/100-days-of-oss",
         "community/faqs",
+        "community/insight-pages",
       ],
     },
     {
