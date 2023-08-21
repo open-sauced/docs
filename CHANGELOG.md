@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.39.0](https://github.com/open-sauced/docs/compare/v1.38.0...v1.39.0) (2023-08-21)
+
+
+### Documentation
+
+* fix some sentences in the "Welcome to the Community" and "Introduction to Storybook" section for clarity  and fix some typos.  ([#130](https://github.com/open-sauced/docs/issues/130)) ([812acde](https://github.com/open-sauced/docs/commit/812acdefbc9d428a7446040106f4e0784fd0fafd)), closes [#133](https://github.com/open-sauced/docs/issues/133)
+
 ## [1.38.0](https://github.com/open-sauced/docs/compare/v1.37.1...v1.38.0) (2023-08-15)
 
 
