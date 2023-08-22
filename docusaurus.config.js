@@ -98,7 +98,7 @@ module.exports = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/open-sauced/open-sauced/discussions',
+              href: 'https://github.com/orgs/open-sauced/discussions',
             },
             {
               label: 'Discord',
