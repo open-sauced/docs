@@ -1,12 +1,12 @@
 {
   "name": "@open-sauced/docs.opensauced.pizza",
-  "version": "1.39.2",
+  "version": "1.39.3",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
     "": {
       "name": "@open-sauced/docs.opensauced.pizza",
-      "version": "1.39.2",
+      "version": "1.39.3",
       "hasInstallScript": true,
       "dependencies": {
         "@docusaurus/core": "2.4.0",

@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.39.3](https://github.com/open-sauced/docs/compare/v1.39.2...v1.39.3) (2023-08-24)
+
+
+### Bug Fixes
+
+* Documentation Link Misdirection ([#148](https://github.com/open-sauced/docs/issues/148)) ([180b032](https://github.com/open-sauced/docs/commit/180b0324dea21520e55da9afcd5dcd5b9fcd0d77))
+
 ### [1.39.2](https://github.com/open-sauced/docs/compare/v1.39.1...v1.39.2) (2023-08-23)
 
 
