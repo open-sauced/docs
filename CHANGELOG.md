@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.40.0](https://github.com/open-sauced/docs/compare/v1.39.3...v1.40.0) (2023-08-25)
+
+
+### Documentation
+
+* adding an explainer page and GIF on insight pages   ([#138](https://github.com/open-sauced/docs/issues/138)) ([b957398](https://github.com/open-sauced/docs/commit/b957398cf5c3b98546724a87da99b2f932510b17))
+
 ### [1.39.3](https://github.com/open-sauced/docs/compare/v1.39.2...v1.39.3) (2023-08-24)
 
 
