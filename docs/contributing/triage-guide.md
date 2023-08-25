@@ -9,7 +9,7 @@ keywords:
 ## How do I join the triage team?
 
 1. Sign up for [opensauced.pizza](https://opensauced.pizza)
-2. Leave a reply in the [invite discussion](https://github.com/open-sauced/open-sauced/discussions/638).
+2. Leave a comment in the [discord](https://discord.com/channels/714698561081704529/928693344358514698) channel `open-sauced-contributors-chat`.
 
 ## Issue triage process
 
