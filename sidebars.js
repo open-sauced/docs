@@ -18,10 +18,10 @@ module.exports = {
       collapsed: false,
       items: [
         "community/welcome-to-the-community",
-        "community/highlights",
         "community/100-days-of-oss",
+        "community/highlights",
+        "community/insights",
         "community/faqs",
-        "community/insight-pages",
       ],
     },
     {
