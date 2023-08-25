@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.40.1](https://github.com/open-sauced/docs/compare/v1.40.0...v1.40.1) (2023-08-25)
+
+
+### Bug Fixes
+
+* the gif ([#149](https://github.com/open-sauced/docs/issues/149)) ([c4d8a1e](https://github.com/open-sauced/docs/commit/c4d8a1e79a7083222dc05aaab99009c8668840d3))
+
 ## [1.40.0](https://github.com/open-sauced/docs/compare/v1.39.3...v1.40.0) (2023-08-25)
 
 
