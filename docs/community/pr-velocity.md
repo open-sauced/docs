@@ -1,6 +1,6 @@
 ---
 id: pr-velocity
-title:'PR Velocity'
+title: 'PR Velocity'
 sidebar_label: 'PR Velocity'
 keywords:
   - pr-velocity 
