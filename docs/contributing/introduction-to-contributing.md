@@ -151,4 +151,4 @@ Do you have questions? Join the conversation in our [Discord](https://discord.gg
 ## License
 
 By contributing to the OpenSauced project, you agree that your contributions will be licensed
-under its [MIT license](https://raw.githubusercontent.com/open-sauced/open-sauced/main/LICENSE).
+under the License specified in the repo you are contributing to. This can be found in the `LICENSE` file.
