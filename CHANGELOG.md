@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.42.0](https://github.com/open-sauced/docs/compare/v1.41.0...v1.42.0) (2023-08-30)
+
+
+### Documentation
+
+* replace url for finding good first issue ([#153](https://github.com/open-sauced/docs/issues/153)) ([d006a6c](https://github.com/open-sauced/docs/commit/d006a6c59ba3b57991418f4d9fb83a2a8a6fc23e))
+
 ## [1.41.0](https://github.com/open-sauced/docs/compare/v1.40.1...v1.41.0) (2023-08-30)
 
 
