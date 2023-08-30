@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.41.0](https://github.com/open-sauced/docs/compare/v1.40.1...v1.41.0) (2023-08-30)
+
+
+### Features
+
+* add explainer page about PR velocity ([#151](https://github.com/open-sauced/docs/issues/151)) ([619574f](https://github.com/open-sauced/docs/commit/619574f6a865bf8b713d3a507bc94e2dd063b26b))
+
 ### [1.40.1](https://github.com/open-sauced/docs/compare/v1.40.0...v1.40.1) (2023-08-25)
 
 
