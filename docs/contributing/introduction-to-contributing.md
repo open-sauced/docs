@@ -151,4 +151,4 @@ Do you have questions? Join the conversation in our [Discord](https://discord.gg
 ## License
 
 By contributing to the OpenSauced project, you agree that your contributions will be licensed
-under the License specified in the repo you are contributing to. This can be found in the `LICENSE` file.
+under a specific License. This information can be found in the `LICENSE` file of the repo you are contributing to.
