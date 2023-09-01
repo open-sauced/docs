@@ -10,7 +10,7 @@ The Highlights feature is what we like to call the "glitzy pepperoni" of your Op
 
 There are currently three types of highlights you can add to your profile: a Dev.to blog post, a pull request, or an issue.
 
-![Example highlight](../../static/img/diivi-highlight.svg)
+![Example highlight](../../static/img/highlight.svg)
 
 For more examples of highlights, got to the [OpenSauced Insights feed](https://insights.opensauced.pizza/feed).
 
