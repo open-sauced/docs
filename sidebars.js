@@ -22,7 +22,6 @@ module.exports = {
         "community/highlights",
         "community/insights",
         "community/faqs",
-        "community/dev-card",
       ],
     },
     {
