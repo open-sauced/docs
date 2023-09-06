@@ -3,8 +3,8 @@
   "version": "1.42.0",
   "private": true,
   "engines": {
-    "node": ">=14",
-    "npm": ">=7"
+    "node": ">=18",
+    "npm": ">=10"
   },
   "scripts": {
     "preinstall": "npx @open-sauced/check-engines",
