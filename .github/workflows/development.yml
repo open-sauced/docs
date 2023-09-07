@@ -10,4 +10,4 @@ on:
 
 jobs:
   test:
-    uses: open-sauced/open-sauced/.github/workflows/development.yml@main
+    uses: open-sauced/hot/.github/workflows/development.yml@main
