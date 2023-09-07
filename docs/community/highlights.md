@@ -15,6 +15,6 @@ There are currently three types of highlights you can add to your profile:
 
 ![Example highlight](../../static/img/highlight.svg)
 
-For more examples of highlights, got to the [OpenSauced Insights feed](https://insights.opensauced.pizza/feed).
+For more examples of highlights, go to the [OpenSauced Insights feed](https://insights.opensauced.pizza/feed).
 
 Eager to get started? Check out the [Effectively Highlight Your Contribution section](https://github.com/open-sauced/intro/blob/main/06-the-secret-sauce.md#effectively-highlight-your-contributions) in our free "Intro to Open Source" course to learn more.
