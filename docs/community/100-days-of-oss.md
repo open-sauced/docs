@@ -26,7 +26,7 @@ There are numerous ways to participate in the #100DaysOfOSS challenge, including
 - maintain a project: review pull requests, triage issues, and respond to questions;
 - support contributors working on OSS projects, providing guidance and support.
 
-To keep track of your progress, post on social media, your blog, or any other platform you prefer with what progress you made, the day of the challenge indicated by 'D'and include the hashtag #100DaysOfOSS. For example, if you're on day one, you could say, "Today, I reviewed the documentation for the [OpenSauced/Insights](https://github.com/open-sauced/insights) repository. D1 #100daysOfOSS." Then, on day two, you would continue with D2, and so on.
+To keep track of your progress, post on social media, your blog, or any other platform you prefer with what progress you made, the day of the challenge indicated by 'D' and include the hashtag #100DaysOfOSS. For example, if you're on day one, you could say, "Today, I reviewed the documentation for the [OpenSauced/Insights](https://github.com/open-sauced/insights) repository. D1 #100daysOfOSS." Then, on day two, you would continue with D2, and so on.
 
 Here's what you can do if you're ready to join this challenge:
 - [Sign up](https://docs.google.com/forms/d/e/1FAIpQLScoq6ORpkzUg3Cqxd3EeNnMP6HIJ3uemPhSHs8sYZALmbpeVg/viewform?usp=sharing) with OpenSauced to receive a coupon code for 12 months of free access to all OpenSauced's paid features, and for the chance to opt in to receive updates, event invites, and resources to help you succeed.
