@@ -4,7 +4,7 @@
   "private": true,
   "engines": {
     "node": ">=18",
-    "npm": ">=10"
+    "npm": ">=7"
   },
   "scripts": {
     "preinstall": "npx @open-sauced/check-engines",
