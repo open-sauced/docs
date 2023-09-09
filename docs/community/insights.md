@@ -11,11 +11,11 @@ The Insights feature is your one-stop solution for understanding the pulse of yo
 
 ## How to use Insights
 ### Contributors
-- Track your contributions and the impact you're making;
-- Find new projects to contribute to;
+- Track your contributions and the impact you're making.
+- Find new projects to contribute to.
 - Discover other contributors to collaborate with.
 
 ### Maintainers
-- Track the health of your project;
-- Identify contributors who are making an impact;
+- Track the health of your project.
+- Identify contributors who are making an impact.
 - Find new contributors to support your project.
