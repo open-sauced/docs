@@ -34,6 +34,7 @@ npm ci
 ```
 
 ## Building
+To generate a production-ready version of your code, run:
 
 ```shell
 npm run build
@@ -41,12 +42,12 @@ npm run build
 
 ## Testing
 
-For running the test suite, use the following command. Since the tests run in watch mode by default, some users may encounter errors about too many files being open. In this case, it may be beneficial to [install watchman](https://facebook.github.io/watchman/docs/install.html).
-
+For running the test suite, use the following command:
 ```shell
 # the tests will run in watch mode by default
 npm test
 ```
+Since the tests run in watch mode by default, some users may encounter errors about too many files being open. In this case, it may be beneficial to [install watchman](https://facebook.github.io/watchman/docs/install.html).
 
 For more info on testing React and JavaScript, check out this course [Testing JavaScript](https://testingjavascript.com/)
 
@@ -150,4 +151,4 @@ Do you have questions? Join the conversation in our [Discord](https://discord.gg
 ## License
 
 By contributing to the OpenSauced project, you agree that your contributions will be licensed
-under its [MIT license](https://raw.githubusercontent.com/open-sauced/open-sauced/main/LICENSE).
+by a specific License. This information can be found in the `LICENSE` file of the repo you are contributing to.

@@ -9,7 +9,7 @@ keywords:
 ## How do I join the triage team?
 
 1. Sign up for [opensauced.pizza](https://opensauced.pizza)
-2. Leave a reply in the [invite discussion](https://github.com/open-sauced/open-sauced/discussions/638).
+2. Leave a comment in the [discord](https://discord.com/channels/714698561081704529/928693344358514698) channel `open-sauced-contributors-chat`.
 
 ## Issue triage process
 
@@ -21,6 +21,7 @@ When a new issue or pull request is opened the issue will be labeled with `needs
 - `discuss`: Topics for discussion. Might end in an `enhancement` or `question` label.
 - `bug`: Issues that present a reasonable conviction there is a reproducible bug.
 - `enhancement`: Issues that are found to be a reasonable candidate feature additions.
+- `style`: small css or visual changes.
 
 In all cases, issues may be closed by maintainers if they don't receive a timely response when further information is sought, or when additional questions are asked.
 

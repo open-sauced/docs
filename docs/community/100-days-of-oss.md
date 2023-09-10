@@ -51,8 +51,8 @@ To make the most of your #100DaysOfOSS journey, here are some additional resourc
 ## Where to Start?
 If you're ready to start your #100DaysOfOSS journey, here are some tips to help you get started:
 - **Find a Project:** Explore the [OpenSauced](https://opensauced.pizza/) website to find a project that interests you. You can also check out the [weekly post](https://dev.to/bekahhw/series/) for exciting contribution opportunities.
-- **Take our Intro To Open Source Course:** If you're new to open source, we recommend taking our [Intro to Open Source](https://github.com/open-sauced/intro) course to learn more about open source and how to get started.
-- **Record your journey:** feel free to use our [template repo](https://github.com/open-sauced/100-days-of-oss-template) to write about your journey. Use the [template notion](https://www.notion.so/a0m0rajab/100-Days-Of-Open-Source-2615e66772e14152897002e348c5f1bc?pvs=13). 
+- **Take our Intro To Open Source Course:** If you're new to open source, we recommend taking our [Intro to Open Source](https://intro.opensauced.pizza/#/) course to learn more about open source and how to get started.
+- **Record your journey:** You will learn alot as you navigate this challenge, so we highly recommend using our template repos from [GitHub](https://github.com/open-sauced/100-days-of-oss-template) or [Notion](https://www.notion.so/a0m0rajab/100-Days-Of-Open-Source-2615e66772e14152897002e348c5f1bc?pvs=13) to help you reflect. Remember, this *your* journey, so feel free to customize them how ever you like.  
 
 ## The Power of the #100DaysOfOSS Challenge
 The #100DaysOfOSS challenge offers a supportive community where developers can find encouragement, share experiences, and overcome roadblocks together. 
@@ -84,9 +84,8 @@ Use the link to sign up for a session.
 
 ### Weekly Twitter Spaces
 Join us every Tuesday at 10:30a ET for our weekly Twitter Spaces sessions where we discuss open source topics, share insights, and connect with like-minded individuals. Follow us on [Twitter](https://twitter.com/saucedopen) to stay updated on upcoming sessions.
-- [July 24 | 11:00a ET](https://twitter.com/i/spaces/1YpKkggOPBdKj)
-- [August 1 | 10:30a](https://twitter.com/i/spaces/1vAxRAAnPErJl)
-- [August 8 | 10:30a](https://twitter.com/i/spaces/1gqxvyyvPPnJB)
+- [September 5 | 10:30a ET](https://twitter.com/i/spaces/1nAJErEOgDyxL?s=20)
+- [September 12 | 10:30a](https://twitter.com/i/spaces/1lPKqBvEMwYGb?s=20)
 
 More links to come!
 
