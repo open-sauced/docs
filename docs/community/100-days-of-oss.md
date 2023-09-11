@@ -84,9 +84,8 @@ Use the link to sign up for a session.
 
 ### Weekly Twitter Spaces
 Join us every Tuesday at 10:30a ET for our weekly Twitter Spaces sessions where we discuss open source topics, share insights, and connect with like-minded individuals. Follow us on [Twitter](https://twitter.com/saucedopen) to stay updated on upcoming sessions.
-- [July 24 | 11:00a ET](https://twitter.com/i/spaces/1YpKkggOPBdKj)
-- [August 1 | 10:30a](https://twitter.com/i/spaces/1vAxRAAnPErJl)
-- [August 8 | 10:30a](https://twitter.com/i/spaces/1gqxvyyvPPnJB)
+- [September 5 | 10:30a ET](https://twitter.com/i/spaces/1nAJErEOgDyxL?s=20)
+- [September 12 | 10:30a](https://twitter.com/i/spaces/1lPKqBvEMwYGb?s=20)
 
 More links to come!
 
