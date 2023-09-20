@@ -14,4 +14,4 @@ When you click on the back of your card, you see additional information, includi
 
 Whether you are a person who's just beginning their open source journey or a maintainer looking for more contributors and/or sponsors, the Dev Card is a shareable snapshot of your contributions, skills, and engagement in the open source community.
 
-Eager to get started? Check out the [Discovering Open-Source with OpenSauced](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md#discovering-open-source-with-opensauced) section in our free beginner course on open source to create your account.
+Eager to get your Dev Card? Create it today and share with your network!
