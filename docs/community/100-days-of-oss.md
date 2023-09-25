@@ -19,6 +19,7 @@ There are numerous ways to participate in the #100DaysOfOSS challenge, including
 - triage existing issues to help with prioritization;
 - submit pull requests to contribute code changes;
 - engage in the community by sharing your insights and knowledge; 
+- support contributors working on OSS projects, providing guidance and support.
 ### Content creation
 Love creating content? Here's how you can use this skill for the challenge:
   - Give a talk or presentation on OSS.
@@ -28,8 +29,6 @@ Love creating content? Here's how you can use this skill for the challenge:
 Want to improve your project management skills? Need to get better at communicating or giving feedback to others? Here's how you can use this skill for the challenge:
   - Review pull requests.
   - Triage issues.
-  - Respond to questions.
-- support contributors working on OSS projects, providing guidance and support.
 
 To keep track of your progress, post on social media, your blog, or any other platform you prefer with what progress you made, the day of the challenge indicated by 'D'and include the hashtag #100DaysOfOSS. For example, if you're on day one, you could say, "Today, I reviewed the documentation for the [OpenSauced/Insights](https://github.com/open-sauced/insights) repository. D1 #100daysOfOSS." Then, on day two, you would continue with D2, and so on.
 
