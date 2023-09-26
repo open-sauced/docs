@@ -14,10 +14,6 @@ With this challenge, OpenSauced hopes to help contributors enhance their skills,
 The beauty of this challenge is that you're not required to code. The main purpose is to grow in your understanding of open source software (OSS), contribute in ways that are meaningful to you, and further develop the skills and knowledge you're interested in pursuing. It's all about personal growth and making a positive impact on the OSS community. Because this challenge is focused on growth, you can participate in any way that helps you achieve your goals-including taking days off when you need it.
 
 There are numerous ways to participate in the #100DaysOfOSS challenge, including:
-
-- write issues to identify bugs or suggest new features;
-- triage existing issues to help with prioritization;
-- submit pull requests to contribute code changes;
 ### Content creation
 Love creating content? Here's how you can use this skill for the challenge:
   - Give a talk or presentation on OSS.
