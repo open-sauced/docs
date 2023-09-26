@@ -18,8 +18,6 @@ There are numerous ways to participate in the #100DaysOfOSS challenge, including
 - write issues to identify bugs or suggest new features;
 - triage existing issues to help with prioritization;
 - submit pull requests to contribute code changes;
-- engage in the community by sharing your insights and knowledge; 
-- support contributors working on OSS projects, providing guidance and support.
 ### Content creation
 Love creating content? Here's how you can use this skill for the challenge:
   - Give a talk or presentation on OSS.
