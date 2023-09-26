@@ -28,7 +28,7 @@ To keep track of your progress, post on social media, your blog, or any other pl
 
 Here's what you can do if you're ready to join this challenge:
 - [Sign up](https://docs.google.com/forms/d/e/1FAIpQLScoq6ORpkzUg3Cqxd3EeNnMP6HIJ3uemPhSHs8sYZALmbpeVg/viewform?usp=sharing) with OpenSauced to receive a coupon code for 12 months of free access to all OpenSauced's paid features, and for the chance to opt in to receive updates, event invites, and resources to help you succeed.
-- [tweet out your commitment today](https://twitter.com/intent/tweet?text=I%27m%20joining%20the%20%23100DaysOfOSS%20challenge%20with%20%40saucedopen%20to%20grow%20my%20skills%2C%20gain%20real-world%20experience%20in%20open%20source%2C%20and%20to%20make%20a%20positive%20impact%20on%20the%20OSS%20Community!) or share on your platform of choice!
+- [Tweet out your commitment today](https://twitter.com/intent/tweet?text=I%27m%20joining%20the%20%23100DaysOfOSS%20challenge%20with%20%40saucedopen%20to%20grow%20my%20skills%2C%20gain%20real-world%20experience%20in%20open%20source%2C%20and%20to%20make%20a%20positive%20impact%20on%20the%20OSS%20Community!) or share on your platform of choice!
 
 ## The Official Kickoff
 We're starting 100 days on July 23rd to the end of [Hacktoberfest](https://hacktoberfest.com/), a month-long celebration of open source contributions. We'll provide continuous support, daily inspirational tweets, and engaging events to help you stay motivated and make progress.
