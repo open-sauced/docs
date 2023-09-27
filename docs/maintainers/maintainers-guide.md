@@ -22,7 +22,7 @@ Well, like all things in tech, it depends. We have different maintainer teams fo
 
 ### Core Responsibilities
 Your responsibilities may include:
-- Reviewing and merging pull requests.
+- Reviewing and merging pull requests (PRs).
 - Providing comments and responses on PRs, issues, discussions, and Discord messages.
 - [Triage issues](../contributing/triage-guide.md) and bug reports.
 - Maintaining project documentation.
