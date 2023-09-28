@@ -24,6 +24,7 @@ Want to improve your project management skills? Need to get better at communicat
   - Review pull requests.
   - Triage issues.
 
+### Tracking your progress
 To keep track of your progress, post on social media, your blog, or any other platform you prefer with what progress you made, the day of the challenge indicated by 'D'and include the hashtag #100DaysOfOSS. For example, if you're on day one, you could say, "Today, I reviewed the documentation for the [OpenSauced/Insights](https://github.com/open-sauced/insights) repository. D1 #100daysOfOSS." Then, on day two, you would continue with D2, and so on.
 
 Here's what you can do if you're ready to join this challenge:
