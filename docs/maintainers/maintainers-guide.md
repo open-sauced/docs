@@ -14,7 +14,7 @@ It's important to us that we maintain a healthy environment for contributors and
 
 ## How do I Join the Maintainers Team?
 - Sign up for [opensauced.pizza](https://opensauced.pizza/)
-- Join discord.
+- Join our [Discord community](https://discord.gg/opensauced). 
 - Prove your pizza worth!
 
 ## What does the Maintainers Team do?
