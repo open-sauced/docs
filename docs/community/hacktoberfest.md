@@ -9,19 +9,26 @@ At OpenSauced, we love open source just as much as pizza! That's why we are part
 
 ## What is Hacktoberfest?
 
- Hacktoberfest is an month-long challenge in October where people around the globe search for open source projects and make four pull requests. To learn more about this event, check out our blog post, [How to Participate in Hacktoberfest](https://dev.to/opensauced/how-to-participate-in-hackoberfest-13hm).
+From October 1st-31st, people around the globe do a challenge where they submit four pull requests participating projects. Here's how to join:
+
+1. Go to [the official Hacktoberfest website](https://hacktoberfest.com/)
+1. Click on the Register Now! button
+1. Sign in with your [GitHub](https://github.com/) and/or [GitLab](https://gitlab.com/users/sign_in) accounts.
 
 ## Why Should I Participate in Hacktoberfest?
 
-This event is a great way to jumpstart your journey in open source, to meet other people in the tech community, and build your skills. Curious to learn more about the value of contributing to open source? Check out Bekah's blog post on [how to set up your open source goals during and after Hacktoberfest](https://dev.to/opensauced/hacktoberfest-2023-beyond-green-squares-4d6j).
+This event is a great way to jumpstart your journey in open source, to meet other people in the tech community, and build your skills. Curious to learn more about the value of contributing to open source? Check out these resources:
+
+- [Hacktoberfest 2023: Beyond Green Squares](https://dev.to/opensauced/hacktoberfest-2023-beyond-green-squares-4d6j) to learn how to make this a meaningful Hacktoberfest focused on growth, impact, and building relationships.
+- [Setting Goals for Your Open Source Contributions](https://dev.to/opensauced/setting-goals-for-your-open-source-contributions-349b) for resources on how to grow your experience through open source.
 
 ## I want to join Hacktoberfest, but I have no idea what open source is
 
-No problem! 😄 Here are list of resources that we have curated for first time contributors:
+No problem! 😄 Here are list of resources we recommend for first time contributors:
 
-- [Intro to Open Source](https://intro.opensauced.pizza/#/): Our course will teach you the history of open source, the tools to succeed in the community, and how to showcase your contributions.  
-- [Introduction to GitHub](https://github.com/skills/introduction-to-github): GitHub's course will show you the skills need to use their platform when making open source contributions.
-- [The Power of Git](https://dev.to/opensauced/the-power-of-git-a-guide-to-collaborative-version-control-dl6): This blog post will show how to harness the power of Git, your trusty weapon in Hacktoberfest.
+- Take our [Intro to Open Source](https://intro.opensauced.pizza/#/) course to learn the history of open source, the tools to succeed in the community, and how to showcase your contributions.  
+- Check out GitHub's [introductory course](https://github.com/skills/introduction-to-github) to learn how to use the platform when making open source contributions.
+- Read our [The Power of Git](https://dev.to/opensauced/the-power-of-git-a-guide-to-collaborative-version-control-dl6) blog post to learn how to harness the power of Git, your trusty weapon in Hacktoberfest.
 
 ## I'm ready for Hacktoberfest
 

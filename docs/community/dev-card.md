@@ -1,4 +1,3 @@
-
 ---
 id: dev-card
 title: 'Showcase your open source stats with your dev card'
