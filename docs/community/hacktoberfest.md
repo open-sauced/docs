@@ -9,11 +9,11 @@ At OpenSauced, we love open source just as much as pizza! That's why we are part
 
 ## What is Hacktoberfest?
 
-In a nutshell, Hacktoberfest is an month-long challenge in October where people around the globe search for open source projects and make four pull requests. To learn more about this event, check out our blog post, [How to Participate in Hacktoberfest](https://dev.to/opensauced/how-to-participate-in-hackoberfest-13hm).
+ Hacktoberfest is an month-long challenge in October where people around the globe search for open source projects and make four pull requests. To learn more about this event, check out our blog post, [How to Participate in Hacktoberfest](https://dev.to/opensauced/how-to-participate-in-hackoberfest-13hm).
 
 ## Why Should I Participate in Hacktoberfest?
 
-Hackotoberfest is a great way to jumpstart your journey in open source, to meet other people in the tech community, and build other skills. Curious to learn more about the value of contributing to open source, check out Bekah's blog post on [how to set up your open source goals during and after Hacktoberfest](https://dev.to/opensauced/hacktoberfest-2023-beyond-green-squares-4d6j).
+This event is a great way to jumpstart your journey in open source, to meet other people in the tech community, and build your skills. Curious to learn more about the value of contributing to open source? Check out Bekah's blog post on [how to set up your open source goals during and after Hacktoberfest](https://dev.to/opensauced/hacktoberfest-2023-beyond-green-squares-4d6j).
 
 ## I want to join Hacktoberfest, but I have no idea what open source is
 
