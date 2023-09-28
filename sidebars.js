@@ -23,6 +23,7 @@ module.exports = {
         "community/insights",
         "community/faqs",
         "community/dev-card",
+        "community/hacktoberfest",
       ],
     },
     {
