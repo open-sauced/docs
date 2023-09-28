@@ -6,7 +6,7 @@ keywords:
   - "@open-sauced/maintainers-guide"
 ---
 
-Welcome to OpenSauced, Maintainers Guide for contributors who are interested in being part of the maintainer team for OpenSauced repositories. 
+Welcome to OpenSauced Maintainers Guide for contributors who are interested in being part of the maintainer team for OpenSauced repositories. 
 
 At OpenSauced, we're empowering contributors to work in the open and supporting maintainers to make data-driven decisions for their projects.
 
@@ -40,5 +40,5 @@ As a maintainer, you must:
 2. Before merging in changes, be sure to run the project locally if UI changes were made.
 3. **Squash and merge commits** when you merge in a PR.
 
-Thank you for your interest in becoming a maintainer! Please reach out if you need help, guidance, or clarification at any time.
+Thank you for your interest in becoming a maintainer! Please reach out in our [team discussions](https://github.com/open-sauced/docs/discussions/categories/team-discussions) if you need help, guidance, or clarification at any time.
 
