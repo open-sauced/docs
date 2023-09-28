@@ -30,8 +30,16 @@ No problem! 😄 Here are list of resources we recommend for first time contribu
 - Check out GitHub's [introductory course](https://github.com/skills/introduction-to-github) to learn how to use the platform when making open source contributions.
 - Read our [The Power of Git](https://dev.to/opensauced/the-power-of-git-a-guide-to-collaborative-version-control-dl6) blog post to learn how to harness the power of Git, your trusty weapon in Hacktoberfest.
 
+## What should I expect during Hacktoberfest?
+
+During Hacktoberfest, expect to feel excited and a bit competitive on your quest to submitting your four pull requests. While those feelings are understandable, it's important to remember the following:
+
+- Think first, work later: It's best to share your ideas and/or request to work on an issue before submitting a pull request. It'll make it easier for maintainers to assess whether your suggestion fits in with their project. It will also help you develop your communication skills.
+- Be patient: Maintainers are people with lives outside of open source, so avoid constantly messaging them about when your pull request be reviewed and merged.
+- Try new things: While revising typos is helpful, it's best to diversify contributions. This would help expand your skills, which is very useful if you plan on using your Hacktoberfest contributions as samples for your portfolio.  
+
 ## I'm ready for Hacktoberfest
 
-Great! 😄 If you're looking for a project to contribute to, Bekah has [curated a list of beginner-friendly projects for Hacktoberfest](https://insights.opensauced.pizza/pages/BekahHW/655/dashboard).
+Great! 😄 If you're looking for a project to contribute to, check out[Bekah's curated list of beginner-friendly projects for Hacktoberfest](https://insights.opensauced.pizza/pages/BekahHW/655/dashboard).
 
 Happy Contributing! 😄
