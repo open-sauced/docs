@@ -52,6 +52,7 @@ module.exports = {
         "maintainers/check-engines",
         "maintainers/conventional-commit",
         "maintainers/semantic-release",
+        "maintainers/maintainers-guide"
       ],
     },
     {
