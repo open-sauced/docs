@@ -1,7 +1,7 @@
 ---
 id: maintainers-guide
-title: "@open-sauced/maintainers-guide"
-sidebar_label: "@open-sauced/maintainers-guide"
+title: OpenSauced Maintainers Guide
+sidebar_label: OpenSauced Maintainers Guide
 keywords:
   - "@open-sauced/maintainers-guide"
 ---
