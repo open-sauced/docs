@@ -59,6 +59,20 @@ Then go back to your repository and delete:
 - 👀 needs-triage (green background one)
 - other potential duplicates if the above race condition is different
 
+> In this context, `race condition` refers to a situation where multiple labels are being deleted simultaneously. This can cause issues if the order in which the labels are deleted affects the final outcome. Therefore, it's important to ensure that the deletion of labels is properly synchronized and controlled to avoid any race conditions.
+
+In otherwords, the `race condition` is that the code is trying to delete three different directories: `documentation`, `👀 needs-triage`, and other `potential duplicates`. If two of the directories are deleted at the same time, it is possible that the third directory will not be deleted.
+To avoid this race condition, the code should delete the directories in a specific order. For example, it could delete the `documentation directory` first, then the `👀 needs-triage` directory, and then the other `potential duplicates` directory.
+
+Here is an example of how to delete the directories in a specific order:
+```bash
+rm -rf documentation
+rm -rf 👀-needs-triage
+rm -rf other-potential-duplicates
+```
+This code will ensure that all three directories are deleted, even if the code is interrupted while it is running.
+
+
 ## Syncing branch protections with opensauced.pizza
 
 This topic is more complex but in a sense tap the main branch and enable
