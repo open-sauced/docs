@@ -24,7 +24,7 @@ This event is a great way to jumpstart your journey in open source, to meet othe
 
 ## I want to join Hacktoberfest, but I have no idea what open source is
 
-No problem! 😄 Here are list of resources we recommend for first time contributors:
+No problem! 😄 Here is a list of resources we recommend for first-time contributors:
 
 - Take our [Intro to Open Source](https://intro.opensauced.pizza/#/) course to learn the history of open source, the tools to succeed in the community, and how to showcase your contributions.  
 - Check out GitHub's [introductory course](https://github.com/skills/introduction-to-github) to learn how to use the platform when making open source contributions.
@@ -32,7 +32,7 @@ No problem! 😄 Here are list of resources we recommend for first time contribu
 
 ## What should I expect during Hacktoberfest?
 
-During Hacktoberfest, expect to feel excited and a bit competitive on your quest to submitting your four pull requests. While those feelings are understandable, it's important to remember the following:
+During Hacktoberfest, expect to feel excited and a bit competitive on your quest to submit your four pull requests. While those feelings are understandable, it's important to remember the following:
 
 - Think first, work later: It's best to share your ideas and/or request to work on an issue before submitting a pull request. It'll make it easier for maintainers to assess whether your suggestion fits in with their project. It will also help you develop your communication skills.
 - Be patient: Maintainers are people with lives outside of open source, so avoid constantly messaging them about when your pull request be reviewed and merged.
@@ -40,6 +40,6 @@ During Hacktoberfest, expect to feel excited and a bit competitive on your quest
 
 ## I'm ready for Hacktoberfest
 
-Great! 😄 If you're looking for a project to contribute to, check out[Bekah's curated list of beginner-friendly projects for Hacktoberfest](https://insights.opensauced.pizza/pages/BekahHW/655/dashboard).
+Great! 😄 If you're looking for a project to contribute to, check out [this list of beginner-friendly projects for Hacktoberfest](https://insights.opensauced.pizza/pages/BekahHW/655/repositories).
 
 Happy Contributing! 😄
