@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.43.1](https://github.com/open-sauced/docs/compare/v1.43.0...v1.43.1) (2023-10-02)
+
+
+### Bug Fixes
+
+* Change title and sidebar ([#187](https://github.com/open-sauced/docs/issues/187)) ([ceb3d0f](https://github.com/open-sauced/docs/commit/ceb3d0f8e4e575d6314ee3919261467f0d812403))
+
 ## [1.43.0](https://github.com/open-sauced/docs/compare/v1.42.0...v1.43.0) (2023-10-02)
 
 
