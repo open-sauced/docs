@@ -61,8 +61,8 @@ Then go back to your repository and delete:
 
 > In this context, `race condition` refers to a situation where multiple labels are being deleted simultaneously. This can cause issues if the order in which the labels are deleted affects the final outcome. Therefore, it's important to ensure that the deletion of labels is properly synchronized and controlled to avoid any race conditions.
 
-In the  directories `👀 needs-triage` and are deleted at the same, it is possible that the third directory will not be deleted.
-To avoid a race condition, the code delete the directories in a specific order. For example, it could delete the `documentation directory` first, then the `👀 needs-triage` directory, and then the other `potential duplicates` directory.
+In other words, if two of the directories (e.g., `👀 needs-triage` and `documentation` are deleted at the same, it is possible that the third directory(`potential duplicates`) will not be deleted.
+To avoid the `race condition`, the code must delete the directories in a specific order. For example, it could delete the `documentation directory` first, then the `👀 needs-triage` directory, and then the other `potential duplicates` directory.
 
 Here is an example of how to delete the directories in a specific order:
 ```bash
