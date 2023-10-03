@@ -14,7 +14,7 @@ In literally every case it is advised _**not**_ to use the `Resolve conflicts` b
 
 ![don't resolve conflicts like this](../../static/img/contributing-resolve-merge-conflicts-dont-do.png)
 
-The above will at best achieve a ready to merge pull request with visible inconsistencies.
+The above will at best achieve a ready-to-merge pull request with visible inconsistencies.
 
 ## Repository setup
 
@@ -46,7 +46,7 @@ origin git@github.com:0-vortex/open-sauced.git (fetch)
 origin git@github.com:0-vortex/open-sauced.git (push)
 ```
 
-As an additional step for this tutorial we need to add the `upstream` remote:
+As an additional step for this tutorial, we need to add the `upstream` remote:
 
 ```shell
 git remote add upstream git@github.com:open-sauced/open-sauced.git
@@ -54,7 +54,7 @@ git remote add upstream git@github.com:open-sauced/open-sauced.git
 
 ## Update
 
-First get the default branch changes:
+First, get the default branch changes:
 
 
 ```shell
@@ -91,7 +91,7 @@ It will look like this:
 
 ## Resolve conflicts
 
-Since this pull request does not modify the `package.json` file it is safe to fast forward the changes from `origin/main`:
+Since this pull request does not modify the `package.json` file it is safe to fast-forward the changes from `origin/main`:
 
 
 ```shell
@@ -140,7 +140,7 @@ It should look something like this:
 
 The result of the above commands can be viewed at [283ff8cd788c550309ff0d1d5a9a5a97ec0731b2](https://github.com/open-sauced/open-sauced/pull/1078/commits/283ff8cd788c550309ff0d1d5a9a5a97ec0731b2)
 
-GitHub will conveniently display only you merge conflict changes:
+GitHub will conveniently display only your merge conflict changes:
 
 ![view merge commit](../../static/img/contributing-resolve-merge-conflicts-view-merge-commit.png)
 
@@ -150,9 +150,9 @@ And it's ready to merge:
 
 ## Dependency updates
 
-When dealing with dependency and lock file updates there are multiple use cases to consider, however as a baseline, the OpenSauced triage team will not prioritize parallel main features as seen in the roadmap.
+When dealing with dependency and lock file updates there are multiple use cases to consider, however, as a baseline, the OpenSauced triage team will not prioritize parallel main features as seen in the roadmap.
 
-However when that happens, it is advised to:
+However, when that happens, it is advised to:
 - fast-forward `npm-shrinkwrap.json` 
 - fast-forward deleted and modified `upstream/beta` changes to `package.json` 
 - fast-forward your added lines to `package.json`
@@ -160,4 +160,4 @@ However when that happens, it is advised to:
 
 Visual diffing is advised however not following the git commit history procedure will result in a rogue pull request that scope creeps into dependency updates.
 
-Generally speaking, just adding things to a lockfile will not be troublesome and since this is a licensed project, we should be careful when adding dependencies.
+Generally speaking, just adding things to a lock file will not be troublesome, and since this is a licensed project, we should be careful when adding dependencies.
