@@ -13,7 +13,7 @@ For the purpose of this tutorial, our target demo repository will be called `ope
 
 The steps described here mirror [open-sauced/check-engines](https://github.com/open-sauced/check-engines).
 
-The octoherd scripts assume you have exported a programatic token similar to:
+The octoherd scripts assume you have exported a programmatic token similar to:
 
 ```shell
 export GH_TOKEN="ghp_Q8TZZT9ypgqw3EeABoCWPcwZBHpjZJ9hI42n"
@@ -21,7 +21,7 @@ export GH_TOKEN="ghp_Q8TZZT9ypgqw3EeABoCWPcwZBHpjZJ9hI42n"
 
 ## Creating a new repo
 
-Don't spend too much time thinking of a name or a catchy description, just set license to MIT and rocket jump!
+Don't spend too much time thinking of a name or a catchy description, just set the license to MIT and rocket jump!
 
 ![create a new repository](../../static/img/contributing-maintainers-create-repository.png)
 
@@ -80,9 +80,9 @@ everything except "Restrict who can dismiss pull request reviews" and "Restrict 
 
 ![maximum merge protections](../../static/img/contributing-maintainers-merge-protections.png)
 
-The "Rules applied to everyone including administrators" is more on an unused override.
+The "Rules applied to everyone including administrators" is more of an unused override.
 
-Most of the time this process is super manual but in the limited cases where we need this run:
+Most of the time, this process is super manual, but in the limited cases where we need this run:
 
 ```shell
 npx @octoherd/script-sync-branch-protections \
@@ -99,14 +99,14 @@ Pull requests require [triage](https://github.com/open-sauced/open-sauced/blob/m
 
 Most `node` projects will require [release automation](https://github.com/open-sauced/open-sauced/blob/main/.github/workflows/release.yml) powered by [@open-sauced/semantic-release-conventional-config](https://github.com/open-sauced/semantic-release-conventional-config).
 
-Other [development workflows](https://github.com/open-sauced/open-sauced/tree/main/.github/workflows) are less common and opinionated towards decentralised collaboration. Use these as example backbones for your new repository.
+Other [development workflows](https://github.com/open-sauced/open-sauced/tree/main/.github/workflows) are less common and opinionated towards decentralized collaboration. Use these as examples of backbones for your new repository.
 
 ## Setting up environments and secrets
 
-As you may have noticed in the previous step or in the actions visualisations, the release workflows enable named environments.
+As you may have noticed in the previous step or in the action visualizations, the release workflows enable named environments.
 
 These have to be manually set up, along with their secrets and branch protections.
 
 ![create environment](../../static/img/contributing-maintainers-env.png)
 
-If using `npm` or `ghcr` it is likely you will add a couple variables here.
+If using `npm` or `ghcr`, it is likely you will add a couple of variables here.
