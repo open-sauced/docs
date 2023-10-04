@@ -35,7 +35,7 @@ Copy most of the relevant settings with:
 
 ```shell
 npx octoherd-script-sync-repo-settings \
-  --template "open-sauced/open-sauced" \
+  --template "open-sauced/app" \
   -T $GH_TOKEN \
   -R "open-sauced/check-engines"
 ```
@@ -63,14 +63,6 @@ Then go back to your repository and delete:
 
 In other words, if two of the directories (e.g., `👀 needs-triage` and `documentation` are deleted at the same, it is possible that the third directory(`potential duplicates`) will not be deleted.
 To avoid the `race condition`, the code must delete the directories in a specific order. For example, it could delete the `documentation directory` first, then the `👀 needs-triage` directory, and then the other `potential duplicates` directory.
-
-Here is an example of how to delete the directories in a specific order:
-```bash
-rm -rf documentation
-rm -rf 👀-needs-triage
-rm -rf other-potential-duplicates
-```
-This code will ensure that all three directories are deleted, even if the code is interrupted while it is running.
 
 
 ## Syncing branch protections with opensauced.pizza
