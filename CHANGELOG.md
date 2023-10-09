@@ -5,6 +5,37 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.43.1](https://github.com/open-sauced/docs/compare/v1.43.0...v1.43.1) (2023-10-02)
+
+
+### Bug Fixes
+
+* Change title and sidebar ([#187](https://github.com/open-sauced/docs/issues/187)) ([ceb3d0f](https://github.com/open-sauced/docs/commit/ceb3d0f8e4e575d6314ee3919261467f0d812403))
+
+## [1.43.0](https://github.com/open-sauced/docs/compare/v1.42.0...v1.43.0) (2023-10-02)
+
+
+### Features
+
+* Add maintainers-guide ([#177](https://github.com/open-sauced/docs/issues/177)) ([e4e2dab](https://github.com/open-sauced/docs/commit/e4e2dabe232b8f87192abd8973b858dcfdf6ffda))
+* adding page about hacktoberfest ([#179](https://github.com/open-sauced/docs/issues/179)) ([d9cedb7](https://github.com/open-sauced/docs/commit/d9cedb74451fa95950807634d7eedeb5ca3ff9f4))
+* update docs to be more specific and reflect current features ([#155](https://github.com/open-sauced/docs/issues/155)) ([45abbf7](https://github.com/open-sauced/docs/commit/45abbf726e8dfac8b8e230b0dcf84751b9c96035))
+
+
+### Bug Fixes
+
+* text to be more concise [#160](https://github.com/open-sauced/docs/issues/160) ([#161](https://github.com/open-sauced/docs/issues/161)) ([18993ab](https://github.com/open-sauced/docs/commit/18993abd2225a03d54512bf3ebf0a004a2ec8920))
+* Update Highlights page to fix broken path and provide more information. ([#164](https://github.com/open-sauced/docs/issues/164)) ([e0aab72](https://github.com/open-sauced/docs/commit/e0aab7279797dbcbec449dcc63cdaa3de5c84a1e))
+* Update license language in contributing guide ([#152](https://github.com/open-sauced/docs/issues/152)) ([49539e8](https://github.com/open-sauced/docs/commit/49539e8b91fbf4c15f94aee40208a0e6fac76158))
+* update node  and npm versions ([#180](https://github.com/open-sauced/docs/issues/180)) ([f35a4c7](https://github.com/open-sauced/docs/commit/f35a4c78f781c886877ca297899bfc33e312d339))
+* workflow.yml ([#162](https://github.com/open-sauced/docs/issues/162)) ([05cb60f](https://github.com/open-sauced/docs/commit/05cb60f562247e54c3fa72812ccee9ad59e726c7))
+
+
+### Documentation
+
+* adding a gif of doing a highlight on the website ([#137](https://github.com/open-sauced/docs/issues/137)) ([0a9d371](https://github.com/open-sauced/docs/commit/0a9d371e31684315852614a563657a60e98091b7))
+* adding explainer page about Dev card ([#158](https://github.com/open-sauced/docs/issues/158)) ([4d48443](https://github.com/open-sauced/docs/commit/4d48443321c657bdd49289bebf2ba55af6974667))
+
 ## [1.42.0](https://github.com/open-sauced/docs/compare/v1.41.0...v1.42.0) (2023-08-30)
 
 

@@ -23,6 +23,7 @@ module.exports = {
         "community/insights",
         "community/faqs",
         "community/dev-card",
+        "community/hacktoberfest",
       ],
     },
     {
@@ -47,10 +48,11 @@ module.exports = {
       label: `Maintainer guide`,
       collapsed: true,
       items: [
+        "maintainers/maintainers-guide",
         "maintainers/setting-up-a-new-repository",
         "maintainers/check-engines",
         "maintainers/conventional-commit",
-        "maintainers/semantic-release",
+        "maintainers/semantic-release"
       ],
     },
     {
