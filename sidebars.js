@@ -41,7 +41,11 @@ module.exports = {
       type: "category",
       label: "Technical guide",
       collapsed: false,
-      items: ["technical/introduction-to-storybook", "technical/resolve-merge-conflicts"],
+      items: [
+        "technical/introduction-to-storybook",
+        "technical/setup-repo-with-git",
+        "technical/resolve-merge-conflicts",
+      ],
     },
     {
       type: "category",
@@ -52,7 +56,7 @@ module.exports = {
         "maintainers/setting-up-a-new-repository",
         "maintainers/check-engines",
         "maintainers/conventional-commit",
-        "maintainers/semantic-release"
+        "maintainers/semantic-release",
       ],
     },
     {
