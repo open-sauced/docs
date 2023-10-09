@@ -24,6 +24,7 @@ module.exports = {
         "community/faqs",
         "community/dev-card",
         "community/hacktoberfest",
+        "community/connections",
       ],
     },
     {
@@ -52,7 +53,7 @@ module.exports = {
         "maintainers/setting-up-a-new-repository",
         "maintainers/check-engines",
         "maintainers/conventional-commit",
-        "maintainers/semantic-release"
+        "maintainers/semantic-release",
       ],
     },
     {
