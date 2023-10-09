@@ -1,9 +1,9 @@
 ---
-id: Connections 
+id: connections 
 title: 'Grow your network with out connections feature!'
-sidebar_label: 'Connections'
+sidebar_label: 'connections'
 keywords:
-  - Connections 
+  - connections 
 ---
 The Connections feature serves as a networking hub for the open-source community.
 
