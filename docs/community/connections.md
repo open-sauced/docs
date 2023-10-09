@@ -1,7 +1,7 @@
 ---
 id: connections 
 title: 'Grow your network with out connections feature!'
-sidebar_label: 'connections'
+sidebar_label: 'Connections'
 keywords:
   - connections 
 ---
