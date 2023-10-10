@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.44.0](https://github.com/open-sauced/docs/compare/v1.43.1...v1.44.0) (2023-10-10)
+
+
+### Features
+
+* add Connections feature page ([#191](https://github.com/open-sauced/docs/issues/191)) ([d887897](https://github.com/open-sauced/docs/commit/d887897070cbe6f619ee57f948acc57a67167370))
+
 ### [1.43.1](https://github.com/open-sauced/docs/compare/v1.43.0...v1.43.1) (2023-10-02)
 
 
