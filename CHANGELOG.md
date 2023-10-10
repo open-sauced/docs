@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.45.0](https://github.com/open-sauced/docs/compare/v1.44.0...v1.45.0) (2023-10-10)
+
+
+### Features
+
+* creating separate section for setting up repo with Git ([#192](https://github.com/open-sauced/docs/issues/192)) ([d68a086](https://github.com/open-sauced/docs/commit/d68a0863b52d8c9b8c0cee0ffe48dd1965f4ab3d))
+
 ## [1.44.0](https://github.com/open-sauced/docs/compare/v1.43.1...v1.44.0) (2023-10-10)
 
 
