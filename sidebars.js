@@ -42,7 +42,11 @@ module.exports = {
       type: "category",
       label: "Technical guide",
       collapsed: false,
-      items: ["technical/introduction-to-storybook", "technical/resolve-merge-conflicts"],
+      items: [
+        "technical/introduction-to-storybook",
+        "technical/setup-repo-with-git",
+        "technical/resolve-merge-conflicts",
+      ],
     },
     {
       type: "category",
