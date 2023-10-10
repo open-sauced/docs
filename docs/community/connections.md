@@ -11,4 +11,4 @@ The Connections feature serves as a networking hub for the open-source community
 
 Whether you're seeking mentorship, trying to grow your project or network, looking opportunities to collaborate or work other people, or want to see updates on other projects, this feature offers a streamlined way to connect and achieve your goals.
 
-Excited? Login to [OpenSauced](https://opensauced.pizza/) and start building!😄
+Excited? Login to [OpenSauced](https://opensauced.pizza/), create your Pro account or use a coupon to get this feature, and start building!😄
