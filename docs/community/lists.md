@@ -19,3 +19,4 @@ There are two ways to add a list:
 2. Import your GitHub following:
 Connect to your GitHub to create a list with all the Contributors you follow
 
+Once your list is created, you'll be able to see an overview of all the contributors in your list, a graph of their activity, and a detailed breakdown of the contributors.
