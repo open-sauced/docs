@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.45.1](https://github.com/open-sauced/docs/compare/v1.45.0...v1.45.1) (2023-10-12)
+
+
+### Bug Fixes
+
+* add parallel structure ([#175](https://github.com/open-sauced/docs/issues/175)) ([c50e6ba](https://github.com/open-sauced/docs/commit/c50e6ba4cc27949a6f397dd970dcf516d36a06af))
+
 ## [1.45.0](https://github.com/open-sauced/docs/compare/v1.44.0...v1.45.0) (2023-10-10)
 
 
