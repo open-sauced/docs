@@ -148,21 +148,13 @@ And it's ready to merge:
 
 ## Dependency updates
 
-When dealing with dependency and lock file updates there are multiple use cases to consider, however, as a baseline, the OpenSauced triage team will not prioritize parallel main features as seen in the roadmap.
-
-
-However, when that happens, it is advised to:
-- fast-forward `npm-shrinkwrap.json` 
-- fast-forward deleted and modified `upstream/beta` changes to `package.json` 
-
-However when that happens, it is advised to:
-
+When dealing with dependency and lock file updates, there are multiple use cases to consider; however, as a baseline, the OpenSauced triage team will not prioritize parallel main features as seen in the roadmap.
 - fast-forward `npm-shrinkwrap.json`
 - fast-forward deleted and modified `upstream/beta` changes to `package.json`
 
 - fast-forward your added lines to `package.json`
 - run `npm ci` to delete local modules and create dependency resolution from `upstream/beta`
 
-Visual diffing is advised however not following the git commit history procedure will result in a rogue pull request that scope creeps into dependency updates.
+Visual diffing is advised; however, not following the git commit history procedure will result in a rogue pull request that creeps into dependency updates.
 
 Generally speaking, just adding things to a lock file will not be troublesome, and since this is a licensed project, we should be careful when adding dependencies.
