@@ -14,15 +14,31 @@ With this challenge, OpenSauced hopes to help contributors enhance their skills,
 The beauty of this challenge is that you're not required to code. The main purpose is to grow in your understanding of open source software (OSS), contribute in ways that are meaningful to you, and further develop the skills and knowledge you're interested in pursuing. It's all about personal growth and making a positive impact on the OSS community. Because this challenge is focused on growth, you can participate in any way that helps you achieve your goals-including taking days off when you need it.
 
 There are numerous ways to participate in the #100DaysOfOSS challenge, including:
+
 ### Content creation
 Love creating content? Here's how you can use this skill for the challenge:
   - Give a talk or presentation on OSS.
   - Participate in or even start a Twitter Space.
   - Write a blog post or create a video.
+    
 ### Project management
 Want to improve your project management skills? Need to get better at communicating or giving feedback to others? Here's how you can use this skill for the challenge:
   - Review pull requests.
   - Triage issues.
+  - Open meaningful discussions.
+  - Write issues to identify bugs or suggest new features.
+
+### Community Engagement and Leadership
+Community experience is involved in many different tech jobs including support, success, Developer Relations, Developer Experience and more. Community experience can be a valuable skill to develop. Some ways you can do this:
+  - Engage in the community by sharing your insights and knowledge.
+  - Support contributors working on OSS projects, providing guidance and support.
+  - Create a study group or accountability group where you work on your goals.
+
+### Technical Skills
+This is a great team to show your technical growth. Here are some paths you can take:
+  - Update or write documentation to improve clarity and usability.
+  - Maintain a project: review pull requests, triage issues, and respond to questions.
+  - Submit pull requests to contribute code changes.
 
 ### Tracking your progress
 To keep track of your progress, post on social media, your blog, or any other platform you prefer with what progress you made, the day of the challenge indicated by 'D'and include the hashtag #100DaysOfOSS. For example, if you're on day one, you could say, "Today, I reviewed the documentation for the [OpenSauced/Insights](https://github.com/open-sauced/insights) repository. D1 #100daysOfOSS." Then, on day two, you would continue with D2, and so on.
