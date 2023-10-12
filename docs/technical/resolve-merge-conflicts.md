@@ -16,6 +16,7 @@ In literally every case it is advised _**not**_ to use the `Resolve conflicts` b
 
 The above will at best achieve a ready-to-merge pull request with visible inconsistencies.
 
+
 ## Repository setup
 
 Fork and clone the project using the `gh` command line interface:
@@ -56,7 +57,6 @@ git remote add upstream git@github.com:open-sauced/open-sauced.git
 
 First, get the default branch changes:
 
-
 ```shell
 git fetch origin --recurse-submodules=no --progress --prune
 git checkout main --
@@ -67,7 +67,6 @@ git merge upstream/main --no-stat -v
 ## Merge with upstream
 
 Then merge with the forked up-to-date `beta` (default branch):
-
 
 ```shell
 git merge origin/main --no-ff -v
@@ -92,7 +91,6 @@ It will look like this:
 ## Resolve conflicts
 
 Since this pull request does not modify the `package.json` file it is safe to fast-forward the changes from `origin/main`:
-
 
 ```shell
 # overwrite with origin/main changes
@@ -152,9 +150,16 @@ And it's ready to merge:
 
 When dealing with dependency and lock file updates there are multiple use cases to consider, however, as a baseline, the OpenSauced triage team will not prioritize parallel main features as seen in the roadmap.
 
+
 However, when that happens, it is advised to:
 - fast-forward `npm-shrinkwrap.json` 
 - fast-forward deleted and modified `upstream/beta` changes to `package.json` 
+
+However when that happens, it is advised to:
+
+- fast-forward `npm-shrinkwrap.json`
+- fast-forward deleted and modified `upstream/beta` changes to `package.json`
+
 - fast-forward your added lines to `package.json`
 - run `npm ci` to delete local modules and create dependency resolution from `upstream/beta`
 

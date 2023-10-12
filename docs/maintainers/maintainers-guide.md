@@ -1,9 +1,9 @@
 ---
 id: maintainers-guide
-title: "@open-sauced/maintainers-guide"
-sidebar_label: "@open-sauced/maintainers-guide"
+title: OpenSauced Maintainers Guide
+sidebar_label: OpenSauced Maintainers Guide
 keywords:
-  - "@open-sauced/maintainers-guide"
+  - Maintainers guide
 ---
 
 Welcome to OpenSauced Maintainers Guide for contributors who are interested in being part of the maintainer team for OpenSauced repositories. 

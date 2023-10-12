@@ -23,6 +23,8 @@ module.exports = {
         "community/insights",
         "community/faqs",
         "community/dev-card",
+        "community/hacktoberfest",
+        "community/connections",
       ],
     },
     {
@@ -40,13 +42,18 @@ module.exports = {
       type: "category",
       label: "Technical guide",
       collapsed: false,
-      items: ["technical/introduction-to-storybook", "technical/resolve-merge-conflicts"],
+      items: [
+        "technical/introduction-to-storybook",
+        "technical/setup-repo-with-git",
+        "technical/resolve-merge-conflicts",
+      ],
     },
     {
       type: "category",
       label: `Maintainer guide`,
       collapsed: true,
       items: [
+        "maintainers/maintainers-guide",
         "maintainers/setting-up-a-new-repository",
         "maintainers/check-engines",
         "maintainers/conventional-commit",

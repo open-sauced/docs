@@ -17,7 +17,7 @@ We believe that [good first issues don't exist](https://opensauced.pizza/blog/go
   - [Intro to Open Source Course](https://intro.opensauced.pizza/)
   
 2. **My contribution does not show up on my OpenSauced profile. How do I fix it?**
-Create an [insight page](https://github.com/open-sauced/intro/blob/main/05-how-to-contribute-to-open-source.md#discovering-open-source-with-opensauced) or adding your merged pull request to [the highlights page](https://github.com/open-sauced/intro/blob/main/06-the-secret-sauce.md#develop-your-open-source-resume).
+Create an [insight page](https://intro.opensauced.pizza/#/05-how-to-contribute-to-open-source?id=discovering-open-source-with-opensauced) or adding your merged pull request to [the highlights page](https://intro.opensauced.pizza/#/06-the-secret-sauce?id=develop-your-open-source-resume).
 
 3. **I want to provide feedback on OpenSauced.**
 We love feedback. Post your suggestion in our [feedback repository](https://github.com/orgs/open-sauced/discussions). 

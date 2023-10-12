@@ -15,22 +15,37 @@ The beauty of this challenge is that you're not required to code. The main purpo
 
 There are numerous ways to participate in the #100DaysOfOSS challenge, including:
 
-- write issues to identify bugs or suggest new features;
-- triage existing issues to help with prioritization;
-- submit pull requests to contribute code changes;
-- engage in the community by sharing your insights and knowledge;
-- create or participate in discussions related to OSS topics;
-- write a blog post or create content that supports an OSS project; 
-- update or write documentation to improve clarity and usability
-- create content: give a talk or presentation on OSS, participate in or even start a Twitter Space write a blog post or create a video;  
-- maintain a project: review pull requests, triage issues, and respond to questions;
-- support contributors working on OSS projects, providing guidance and support.
+### Content creation
+Love creating content? Here's how you can use this skill for the challenge:
+  - Give a talk or presentation on OSS.
+  - Participate in or even start a Twitter Space.
+  - Write a blog post or create a video.
+    
+### Project management
+Want to improve your project management skills? Need to get better at communicating or giving feedback to others? Here's how you can use this skill for the challenge:
+  - Review pull requests.
+  - Triage issues.
+  - Open meaningful discussions.
+  - Write issues to identify bugs or suggest new features.
 
+### Community Engagement and Leadership
+Community experience is involved in many different tech jobs including support, success, Developer Relations, Developer Experience and more. Community experience can be a valuable skill to develop. Some ways you can do this:
+  - Engage in the community by sharing your insights and knowledge.
+  - Support contributors working on OSS projects, providing guidance and support.
+  - Create a study group or accountability group where you work on your goals.
+
+### Technical Skills
+This is a great team to show your technical growth. Here are some paths you can take:
+  - Update or write documentation to improve clarity and usability.
+  - Maintain a project: review pull requests, triage issues, and respond to questions.
+  - Submit pull requests to contribute code changes.
+
+### Tracking your progress
 To keep track of your progress, post on social media, your blog, or any other platform you prefer with what progress you made, the day of the challenge indicated by 'D'and include the hashtag #100DaysOfOSS. For example, if you're on day one, you could say, "Today, I reviewed the documentation for the [OpenSauced/Insights](https://github.com/open-sauced/insights) repository. D1 #100daysOfOSS." Then, on day two, you would continue with D2, and so on.
 
 Here's what you can do if you're ready to join this challenge:
 - [Sign up](https://docs.google.com/forms/d/e/1FAIpQLScoq6ORpkzUg3Cqxd3EeNnMP6HIJ3uemPhSHs8sYZALmbpeVg/viewform?usp=sharing) with OpenSauced to receive a coupon code for 12 months of free access to all OpenSauced's paid features, and for the chance to opt in to receive updates, event invites, and resources to help you succeed.
-- [tweet out your commitment today](https://twitter.com/intent/tweet?text=I%27m%20joining%20the%20%23100DaysOfOSS%20challenge%20with%20%40saucedopen%20to%20grow%20my%20skills%2C%20gain%20real-world%20experience%20in%20open%20source%2C%20and%20to%20make%20a%20positive%20impact%20on%20the%20OSS%20Community!) or share on your platform of choice!
+- [Tweet out your commitment today](https://twitter.com/intent/tweet?text=I%27m%20joining%20the%20%23100DaysOfOSS%20challenge%20with%20%40saucedopen%20to%20grow%20my%20skills%2C%20gain%20real-world%20experience%20in%20open%20source%2C%20and%20to%20make%20a%20positive%20impact%20on%20the%20OSS%20Community!) or share on your platform of choice!
 
 ## The Official Kickoff
 We're starting 100 days on July 23rd to the end of [Hacktoberfest](https://hacktoberfest.com/), a month-long celebration of open source contributions. We'll provide continuous support, daily inspirational tweets, and engaging events to help you stay motivated and make progress.
