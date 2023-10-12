@@ -39,7 +39,6 @@ npx octoherd-script-sync-repo-settings \
   -T $GH_TOKEN \
   -R "open-sauced/check-engines"
 ```
-
 Otherwise you can disable "Projects" and "Wikis" for the selected repository as we are handling them on a larger scale.
 
 ## Syncing labels with opensauced.pizza
@@ -52,9 +51,7 @@ npx octoherd-script-copy-labels \
   -T $GH_TOKEN \
   -R "open-sauced/check-engines"
 ```
-
 Then go back to your repository and delete:
-
 - documentation
 - 👀 needs-triage (green background one)
 - other potential duplicates if the above race condition is different
@@ -63,7 +60,6 @@ Then go back to your repository and delete:
 
 In other words, if two of the directories (e.g., `👀 needs-triage` and `documentation` are deleted at the same, it is possible that the third directory(`potential duplicates`) will not be deleted.
 To avoid the `race condition`, the code must delete the directories in a specific order. For example, it could delete the `documentation directory` first, then the `👀 needs-triage` directory, and then the other `potential duplicates` directory.
-
 
 ## Syncing branch protections with opensauced.pizza
 
