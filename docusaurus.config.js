@@ -1,126 +1,126 @@
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require("prism-react-renderer/themes/github");
+const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'OpenSauced',
-  tagline: 'The path to your next Open Source contribution',
-  url: 'https://docs.opensauced.pizza',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'open-sauced', // Usually your GitHub org/user name.
-  projectName: 'docs.opensauced.pizza', // Usually your repo name.
+  title: "OpenSauced",
+  tagline: "The path to your next Open Source contribution",
+  url: "http://localhost:3000",
+  baseUrl: "/",
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
+  favicon: "img/favicon.ico",
+  organizationName: "open-sauced", // Usually your GitHub org/user name.
+  projectName: "docs.opensauced.pizza", // Usually your repo name.
   trailingSlash: true,
   themeConfig: {
     algolia: {
-      appId: 'bh4d9od16a',
-      apiKey: '1691a4a5b06166984397aa30153f663c',
-      indexName: 'opensauced',
-      algoliaOptions: { 'facetFilters': ["type:$TYPE"] },
+      appId: "RH1WG3CUDK",
+      apiKey: "ea723aba7d69f2f36feac9292f2d2fe9",
+      indexName: "dev_docs_index",
+      algoliaOptions: { facetFilters: ["type:$TYPE"] },
       debug: false,
-      placeholder: 'Search OpenSauced Docs',
+      placeholder: "Search OpenSauced Docs",
     },
     navbar: {
       logo: {
-        alt: 'OpenSauced Logo',
-        src: 'img/logo_lightmode.png',
-        srcDark: 'img/logo_darkmode.png',
-        href: 'https://opensauced.pizza/'
+        alt: "OpenSauced Logo",
+        src: "img/logo_lightmode.png",
+        srcDark: "img/logo_darkmode.png",
+        href: "https://opensauced.pizza/",
       },
       items: [
         {
-          type: 'doc',
-          docId: 'introduction',
-          label: 'Docs',
-          position: 'left',
+          type: "doc",
+          docId: "introduction",
+          label: "Docs",
+          position: "left",
         },
         {
-          alt: 'OpenSauced Logo',
-          src: 'img/logo.svg',
-          href: 'https://opensauced.pizza/'
+          alt: "OpenSauced Logo",
+          src: "img/logo.svg",
+          href: "https://opensauced.pizza/",
         },
         {
-          href: 'https://dev.to/opensauced',
-          label: 'Blog',
-          position: 'left',
+          href: "https://dev.to/opensauced",
+          label: "Blog",
+          position: "left",
         },
         {
-          href: 'https://github.com/open-sauced/docs.opensauced.pizza',
-          label: 'GitHub',
-          position: 'left',
+          href: "https://github.com/open-sauced/docs.opensauced.pizza",
+          label: "GitHub",
+          position: "left",
         },
         {
-          href: 'https://discord.gg/U2peSNf23P',
-          label: 'Discord',
-          position: 'left',
+          href: "https://discord.gg/U2peSNf23P",
+          label: "Discord",
+          position: "left",
         },
         {
-          href: 'https://opensauced.pizza/',
-          label: 'OpenSauced',
-          position: 'right',
+          href: "https://opensauced.pizza/",
+          label: "OpenSauced",
+          position: "right",
         },
       ],
     },
     colorMode: {
-      defaultMode: 'light',
+      defaultMode: "light",
       disableSwitch: false,
       respectPrefersColorScheme: false,
     },
     footer: {
       logo: {
-        alt: 'OpenSauced Logo',
-        src: 'img/logo.svg',
-        href: 'https://opensauced.pizza/'
+        alt: "OpenSauced Logo",
+        src: "img/logo.svg",
+        href: "https://opensauced.pizza/",
       },
-      style: 'dark',
+      style: "dark",
       links: [
         {
-          title: 'Docs',
+          title: "Docs",
           items: [
             {
-              label: 'Contributing guide',
-              to: '/contributing/introduction-to-contributing/',
+              label: "Contributing guide",
+              to: "/contributing/introduction-to-contributing/",
             },
             {
-              label: 'Maintainer guide',
-              to: '/maintainers/setting-up-a-new-repository/',
+              label: "Maintainer guide",
+              to: "/maintainers/setting-up-a-new-repository/",
             },
             {
-              label: 'Chrome Extension Usage',
-              to: '/chrome-extension/introduction-to-the-chrome-extension/',
-            }
+              label: "Chrome Extension Usage",
+              to: "/chrome-extension/introduction-to-the-chrome-extension/",
+            },
           ],
         },
         {
-          title: 'Community',
+          title: "Community",
           items: [
             {
-              label: 'GitHub',
-              href: 'https://github.com/orgs/open-sauced/discussions',
+              label: "GitHub",
+              href: "https://github.com/orgs/open-sauced/discussions",
             },
             {
-              label: 'Discord',
-              href: 'https://discord.com/invite/U2peSNf23P',
+              label: "Discord",
+              href: "https://discord.com/invite/U2peSNf23P",
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/saucedopen',
-            }
+              label: "Twitter",
+              href: "https://twitter.com/saucedopen",
+            },
           ],
         },
         {
-          title: 'More',
+          title: "More",
           items: [
             {
-              label: 'Blog',
-              href: 'https://dev.to/opensauced',
+              label: "Blog",
+              href: "https://dev.to/opensauced",
             },
             {
-              label: 'Download book',
-              href: 'https://docs.opensauced.pizza/open-sauced-docs.pdf',
-            }
+              label: "Download book",
+              href: "https://docs.opensauced.pizza/open-sauced-docs.pdf",
+            },
           ],
         },
       ],
@@ -133,23 +133,22 @@ module.exports = {
   },
   presets: [
     [
-      '@docusaurus/preset-classic',
+      "@docusaurus/preset-classic",
       {
         docs: {
-          routeBasePath: '/',
-          sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: "/",
+          sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/open-sauced/docs.opensauced.pizza/edit/main/',
-          lastVersion: 'current',
+          editUrl: "https://github.com/open-sauced/docs.opensauced.pizza/edit/main/",
+          lastVersion: "current",
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
         sitemap: {
-          changefreq: 'weekly',
+          changefreq: "weekly",
           priority: 0.5,
         },
       },
@@ -157,60 +156,56 @@ module.exports = {
   ],
   plugins: [
     [
-      '@docusaurus/plugin-pwa',
+      "@docusaurus/plugin-pwa",
       {
         debug: true,
-        offlineModeActivationStrategies: [
-          'appInstalled',
-          'standalone',
-          'queryString',
-        ],
+        offlineModeActivationStrategies: ["appInstalled", "standalone", "queryString"],
         pwaHead: [
           {
-            tagName: 'link',
-            rel: 'icon',
-            href: '/img/logo.svg',
+            tagName: "link",
+            rel: "icon",
+            href: "/img/logo.svg",
           },
           {
-            tagName: 'link',
-            rel: 'manifest',
-            href: '/manifest.json', // your PWA manifest
+            tagName: "link",
+            rel: "manifest",
+            href: "/manifest.json", // your PWA manifest
           },
           {
-            tagName: 'meta',
-            name: 'theme-color',
-            content: '#313d3e',
+            tagName: "meta",
+            name: "theme-color",
+            content: "#313d3e",
           },
           {
-            tagName: 'meta',
-            name: 'apple-mobile-web-app-capable',
-            content: 'yes',
+            tagName: "meta",
+            name: "apple-mobile-web-app-capable",
+            content: "yes",
           },
           {
-            tagName: 'meta',
-            name: 'apple-mobile-web-app-status-bar-style',
-            content: '#000',
+            tagName: "meta",
+            name: "apple-mobile-web-app-status-bar-style",
+            content: "#000",
           },
           {
-            tagName: 'link',
-            rel: 'apple-touch-icon',
-            href: '/apple-touch-icon.png',
+            tagName: "link",
+            rel: "apple-touch-icon",
+            href: "/apple-touch-icon.png",
           },
           {
-            tagName: 'link',
-            rel: 'mask-icon',
-            href: '/img/logo.svg',
-            color: 'rgb(37, 194, 160)',
+            tagName: "link",
+            rel: "mask-icon",
+            href: "/img/logo.svg",
+            color: "rgb(37, 194, 160)",
           },
           {
-            tagName: 'meta',
-            name: 'msapplication-TileImage',
-            content: '/img/logo.svg',
+            tagName: "meta",
+            name: "msapplication-TileImage",
+            content: "/img/logo.svg",
           },
           {
-            tagName: 'meta',
-            name: 'msapplication-TileColor',
-            content: '#000',
+            tagName: "meta",
+            name: "msapplication-TileColor",
+            content: "#000",
           },
         ],
       },
