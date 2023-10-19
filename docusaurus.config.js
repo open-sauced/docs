@@ -5,7 +5,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 module.exports = {
   title: "OpenSauced",
   tagline: "The path to your next Open Source contribution",
-  url: "http://localhost:3000",
+  url: "https://docs.opensauced.pizza",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
