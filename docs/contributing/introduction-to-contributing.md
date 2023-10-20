@@ -144,7 +144,7 @@ Do you have questions? Join the conversation in our [Discord](https://discord.gg
 ## Coding tips
 
 - Ask questions if you are stuck.
-- Use [CSS variables](https://github.com/open-sauced/open-sauced/blob/HEAD/src/styles/variables.js).
+- Use [CSS variables.](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 - Always use [rel="noreferrer" on all target="\_blank" links](https://web.dev/external-anchors-use-rel-noopener/).
 
 ## License
