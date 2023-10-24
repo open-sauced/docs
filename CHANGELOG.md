@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.48.0](https://github.com/open-sauced/docs/compare/v1.47.0...v1.48.0) (2023-10-24)
+
+
+### Documentation
+
+* adding section for the Hot OpenSauced Project ([#197](https://github.com/open-sauced/docs/issues/197)) ([4555cb8](https://github.com/open-sauced/docs/commit/4555cb8bfff265a0704e419c1f3ae9e30535f810))
+
 ## [1.47.0](https://github.com/open-sauced/docs/compare/v1.46.0...v1.47.0) (2023-10-20)
 
 
