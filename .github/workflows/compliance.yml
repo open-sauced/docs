@@ -13,7 +13,6 @@ permissions:
 jobs:
   compliance:
     uses: open-sauced/hot/.github/workflows/compliance.yml@main
-name: reviewdog
 on: [pull_request]
 
 jobs:
