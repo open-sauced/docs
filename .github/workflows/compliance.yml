@@ -21,5 +21,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: errata-ai/vale-action@reviewdog
-         files: "* .md"
+      - with: errata-ai/vale-action@reviewdog
+         files: "path/to/*md"
