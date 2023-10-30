@@ -22,4 +22,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - with: errata-ai/vale-action@reviewdog
-         files: "path/to/*md"
+         files: "path/to/.md"
