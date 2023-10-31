@@ -5,6 +5,34 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.48.0](https://github.com/open-sauced/docs/compare/v1.47.0...v1.48.0) (2023-10-24)
+
+
+### Documentation
+
+* adding section for the Hot OpenSauced Project ([#197](https://github.com/open-sauced/docs/issues/197)) ([4555cb8](https://github.com/open-sauced/docs/commit/4555cb8bfff265a0704e419c1f3ae9e30535f810))
+
+## [1.47.0](https://github.com/open-sauced/docs/compare/v1.46.0...v1.47.0) (2023-10-20)
+
+
+### Features
+
+* add algolia search functionality to docs ([#196](https://github.com/open-sauced/docs/issues/196)) ([4a2dd05](https://github.com/open-sauced/docs/commit/4a2dd0523cc2b3131a2a3b28f0ca31a546d2ffd8))
+
+## [1.46.0](https://github.com/open-sauced/docs/compare/v1.45.1...v1.46.0) (2023-10-18)
+
+
+### Features
+
+* terminology added ([#184](https://github.com/open-sauced/docs/issues/184)) ([c3fcfc8](https://github.com/open-sauced/docs/commit/c3fcfc8fc908708339c3e3ca7a58cd40b2b8892a))
+
+### [1.45.1](https://github.com/open-sauced/docs/compare/v1.45.0...v1.45.1) (2023-10-12)
+
+
+### Bug Fixes
+
+* add parallel structure ([#175](https://github.com/open-sauced/docs/issues/175)) ([c50e6ba](https://github.com/open-sauced/docs/commit/c50e6ba4cc27949a6f397dd970dcf516d36a06af))
+
 ## [1.45.0](https://github.com/open-sauced/docs/compare/v1.44.0...v1.45.0) (2023-10-10)
 
 

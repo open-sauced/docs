@@ -24,7 +24,9 @@ module.exports = {
         "community/faqs",
         "community/dev-card",
         "community/hacktoberfest",
-        "community/connections",        "community/lists",
+        "community/lists",
+        "community/connections",
+        "community/hot-opensauced",
       ],
     },
     {
