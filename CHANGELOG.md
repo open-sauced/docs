@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.49.0](https://github.com/open-sauced/docs/compare/v1.48.0...v1.49.0) (2023-10-31)
+
+
+### Features
+
+* Add lists to docs ([#193](https://github.com/open-sauced/docs/issues/193)) ([ceb5af5](https://github.com/open-sauced/docs/commit/ceb5af517c23446ba025403374275a1fe527cf72))
+
 ## [1.48.0](https://github.com/open-sauced/docs/compare/v1.47.0...v1.48.0) (2023-10-24)
 
 
