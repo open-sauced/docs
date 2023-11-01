@@ -5,7 +5,7 @@ sidebar_label: 'Lists'
 keywords:
 - lists
 ---
-The Lists feature enables you to categorize, monitor, and analyze different groups of contributors within your open-source projects. With the Lists feature, gain granular insights into each contributor's activity and contributions.
+The Lists feature enables you to categorize, monitor, and analyze different groups of contributors within open source projects. With the Lists feature, gain granular insights into each contributor's activity and contributions.
 
 Monitor individual commit histories, track who is actively engaged, identify churned or new contributors, and even compare the performance of contributors against each other. This encompasses a wide range of metrics such as code commits, created and reviewed Pull Requests (PRs), as well as issue creation and commenting. 
 
@@ -17,6 +17,6 @@ After logging in, navigate to your [Lists page](https://app.opensauced.pizza/hub
 There are two ways to add a list:
 1. Explore Contributors: Use our explore tool to find contributors and create your list.
 2. Import your GitHub following:
-Connect to your GitHub to create a list with all the Contributors you follow
+Connect to your GitHub to create a list with all the Contributors you follow.
 
 Once your list is created, you'll be able to see an overview of all the contributors in your list, a graph of their activity, and a detailed breakdown of the contributors.
