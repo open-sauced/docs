@@ -19,7 +19,7 @@
     "serve": "npm run docusaurus -- serve",
     "write-translations": "npm run docusaurus -- write-translations",
     "write-heading-ids": "npm run docusaurus -- write-heading-ids",
-    "pdf": "npx docusaurus-prince-pdf -u http://127.0.0.1:8080 -d ./build -o ./build/open-sauced-docs.pdf -f ./open-sauced-docs.txt --include-index"
+    "pdf": "npx docusaurus-prince-pdf -u http://127.0.0.1:8080 -d ./build/assets -o ./build/assets/open-sauced-docs.pdf -f ./open-sauced-docs.txt --include-index"
   },
   "dependencies": {
     "@docusaurus/core": "2.4.0",

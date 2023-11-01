@@ -118,9 +118,9 @@ module.exports = {
               href: "https://dev.to/opensauced",
             },
             {
-              label: "Download book",
-              href: "https://docs.opensauced.pizza/open-sauced-docs.pdf",
-            },
+              label: 'Download book',
+              href: 'https://docs.opensauced.pizza/assets/open-sauced-docs.pdf',
+            }
           ],
         },
       ],
