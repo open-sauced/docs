@@ -102,6 +102,7 @@ module.exports = {
         "contributing/code-of-conduct",
         "contributing/triage-guide",
         "contributing/set-up-authentication",
+        "contributing/maintainers-guide",
         {
           type: "category",
           label: "Technical guide",
@@ -117,14 +118,13 @@ module.exports = {
     
     {
       type: "category",
-      label: `Maintainer guide`,
+      label: `OpenSauced Packages`,
       collapsed: true,
       items: [
-        "maintainers/maintainers-guide",
-        "maintainers/setting-up-a-new-repository",
-        "maintainers/check-engines",
-        "maintainers/conventional-commit",
-        "maintainers/semantic-release",
+        "opensauced-packages/setting-up-a-new-repository",
+        "opensauced-packages/check-engines",
+        "opensauced-packages/conventional-commit",
+        "opensauced-packages/semantic-release",
       ],
     },
     
