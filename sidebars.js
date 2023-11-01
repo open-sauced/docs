@@ -18,9 +18,15 @@ module.exports = {
       collapsed: false,
       items: [
         "community/welcome-to-the-community",
-        "community/highlights",
         "community/100-days-of-oss",
+        "community/highlights",
+        "community/insights",
         "community/faqs",
+        "community/dev-card",
+        "community/hacktoberfest",
+        "community/lists",
+        "community/connections",
+        "community/hot-opensauced",
       ],
     },
     {
@@ -38,13 +44,18 @@ module.exports = {
       type: "category",
       label: "Technical guide",
       collapsed: false,
-      items: ["technical/introduction-to-storybook", "technical/resolve-merge-conflicts"],
+      items: [
+        "technical/introduction-to-storybook",
+        "technical/setup-repo-with-git",
+        "technical/resolve-merge-conflicts",
+      ],
     },
     {
       type: "category",
       label: `Maintainer guide`,
       collapsed: true,
       items: [
+        "maintainers/maintainers-guide",
         "maintainers/setting-up-a-new-repository",
         "maintainers/check-engines",
         "maintainers/conventional-commit",

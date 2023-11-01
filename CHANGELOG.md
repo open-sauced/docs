@@ -5,6 +5,156 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.49.0](https://github.com/open-sauced/docs/compare/v1.48.0...v1.49.0) (2023-10-31)
+
+
+### Features
+
+* Add lists to docs ([#193](https://github.com/open-sauced/docs/issues/193)) ([ceb5af5](https://github.com/open-sauced/docs/commit/ceb5af517c23446ba025403374275a1fe527cf72))
+
+## [1.48.0](https://github.com/open-sauced/docs/compare/v1.47.0...v1.48.0) (2023-10-24)
+
+
+### Documentation
+
+* adding section for the Hot OpenSauced Project ([#197](https://github.com/open-sauced/docs/issues/197)) ([4555cb8](https://github.com/open-sauced/docs/commit/4555cb8bfff265a0704e419c1f3ae9e30535f810))
+
+## [1.47.0](https://github.com/open-sauced/docs/compare/v1.46.0...v1.47.0) (2023-10-20)
+
+
+### Features
+
+* add algolia search functionality to docs ([#196](https://github.com/open-sauced/docs/issues/196)) ([4a2dd05](https://github.com/open-sauced/docs/commit/4a2dd0523cc2b3131a2a3b28f0ca31a546d2ffd8))
+
+## [1.46.0](https://github.com/open-sauced/docs/compare/v1.45.1...v1.46.0) (2023-10-18)
+
+
+### Features
+
+* terminology added ([#184](https://github.com/open-sauced/docs/issues/184)) ([c3fcfc8](https://github.com/open-sauced/docs/commit/c3fcfc8fc908708339c3e3ca7a58cd40b2b8892a))
+
+### [1.45.1](https://github.com/open-sauced/docs/compare/v1.45.0...v1.45.1) (2023-10-12)
+
+
+### Bug Fixes
+
+* add parallel structure ([#175](https://github.com/open-sauced/docs/issues/175)) ([c50e6ba](https://github.com/open-sauced/docs/commit/c50e6ba4cc27949a6f397dd970dcf516d36a06af))
+
+## [1.45.0](https://github.com/open-sauced/docs/compare/v1.44.0...v1.45.0) (2023-10-10)
+
+
+### Features
+
+* creating separate section for setting up repo with Git ([#192](https://github.com/open-sauced/docs/issues/192)) ([d68a086](https://github.com/open-sauced/docs/commit/d68a0863b52d8c9b8c0cee0ffe48dd1965f4ab3d))
+
+## [1.44.0](https://github.com/open-sauced/docs/compare/v1.43.1...v1.44.0) (2023-10-10)
+
+
+### Features
+
+* add Connections feature page ([#191](https://github.com/open-sauced/docs/issues/191)) ([d887897](https://github.com/open-sauced/docs/commit/d887897070cbe6f619ee57f948acc57a67167370))
+
+### [1.43.1](https://github.com/open-sauced/docs/compare/v1.43.0...v1.43.1) (2023-10-02)
+
+
+### Bug Fixes
+
+* Change title and sidebar ([#187](https://github.com/open-sauced/docs/issues/187)) ([ceb3d0f](https://github.com/open-sauced/docs/commit/ceb3d0f8e4e575d6314ee3919261467f0d812403))
+
+## [1.43.0](https://github.com/open-sauced/docs/compare/v1.42.0...v1.43.0) (2023-10-02)
+
+
+### Features
+
+* Add maintainers-guide ([#177](https://github.com/open-sauced/docs/issues/177)) ([e4e2dab](https://github.com/open-sauced/docs/commit/e4e2dabe232b8f87192abd8973b858dcfdf6ffda))
+* adding page about hacktoberfest ([#179](https://github.com/open-sauced/docs/issues/179)) ([d9cedb7](https://github.com/open-sauced/docs/commit/d9cedb74451fa95950807634d7eedeb5ca3ff9f4))
+* update docs to be more specific and reflect current features ([#155](https://github.com/open-sauced/docs/issues/155)) ([45abbf7](https://github.com/open-sauced/docs/commit/45abbf726e8dfac8b8e230b0dcf84751b9c96035))
+
+
+### Bug Fixes
+
+* text to be more concise [#160](https://github.com/open-sauced/docs/issues/160) ([#161](https://github.com/open-sauced/docs/issues/161)) ([18993ab](https://github.com/open-sauced/docs/commit/18993abd2225a03d54512bf3ebf0a004a2ec8920))
+* Update Highlights page to fix broken path and provide more information. ([#164](https://github.com/open-sauced/docs/issues/164)) ([e0aab72](https://github.com/open-sauced/docs/commit/e0aab7279797dbcbec449dcc63cdaa3de5c84a1e))
+* Update license language in contributing guide ([#152](https://github.com/open-sauced/docs/issues/152)) ([49539e8](https://github.com/open-sauced/docs/commit/49539e8b91fbf4c15f94aee40208a0e6fac76158))
+* update node  and npm versions ([#180](https://github.com/open-sauced/docs/issues/180)) ([f35a4c7](https://github.com/open-sauced/docs/commit/f35a4c78f781c886877ca297899bfc33e312d339))
+* workflow.yml ([#162](https://github.com/open-sauced/docs/issues/162)) ([05cb60f](https://github.com/open-sauced/docs/commit/05cb60f562247e54c3fa72812ccee9ad59e726c7))
+
+
+### Documentation
+
+* adding a gif of doing a highlight on the website ([#137](https://github.com/open-sauced/docs/issues/137)) ([0a9d371](https://github.com/open-sauced/docs/commit/0a9d371e31684315852614a563657a60e98091b7))
+* adding explainer page about Dev card ([#158](https://github.com/open-sauced/docs/issues/158)) ([4d48443](https://github.com/open-sauced/docs/commit/4d48443321c657bdd49289bebf2ba55af6974667))
+
+## [1.42.0](https://github.com/open-sauced/docs/compare/v1.41.0...v1.42.0) (2023-08-30)
+
+
+### Documentation
+
+* replace url for finding good first issue ([#153](https://github.com/open-sauced/docs/issues/153)) ([d006a6c](https://github.com/open-sauced/docs/commit/d006a6c59ba3b57991418f4d9fb83a2a8a6fc23e))
+
+## [1.41.0](https://github.com/open-sauced/docs/compare/v1.40.1...v1.41.0) (2023-08-30)
+
+
+### Features
+
+* add explainer page about PR velocity ([#151](https://github.com/open-sauced/docs/issues/151)) ([619574f](https://github.com/open-sauced/docs/commit/619574f6a865bf8b713d3a507bc94e2dd063b26b))
+
+### [1.40.1](https://github.com/open-sauced/docs/compare/v1.40.0...v1.40.1) (2023-08-25)
+
+
+### Bug Fixes
+
+* the gif ([#149](https://github.com/open-sauced/docs/issues/149)) ([c4d8a1e](https://github.com/open-sauced/docs/commit/c4d8a1e79a7083222dc05aaab99009c8668840d3))
+
+## [1.40.0](https://github.com/open-sauced/docs/compare/v1.39.3...v1.40.0) (2023-08-25)
+
+
+### Documentation
+
+* adding an explainer page and GIF on insight pages   ([#138](https://github.com/open-sauced/docs/issues/138)) ([b957398](https://github.com/open-sauced/docs/commit/b957398cf5c3b98546724a87da99b2f932510b17))
+
+### [1.39.3](https://github.com/open-sauced/docs/compare/v1.39.2...v1.39.3) (2023-08-24)
+
+
+### Bug Fixes
+
+* Documentation Link Misdirection ([#148](https://github.com/open-sauced/docs/issues/148)) ([180b032](https://github.com/open-sauced/docs/commit/180b0324dea21520e55da9afcd5dcd5b9fcd0d77))
+
+### [1.39.2](https://github.com/open-sauced/docs/compare/v1.39.1...v1.39.2) (2023-08-23)
+
+
+### Bug Fixes
+
+* Incorrect Link Destination in Documentation ([#144](https://github.com/open-sauced/docs/issues/144)) ([c7adf37](https://github.com/open-sauced/docs/commit/c7adf375c8eff11744c55e074a82d5c48be31add))
+
+### [1.39.1](https://github.com/open-sauced/docs/compare/v1.39.0...v1.39.1) (2023-08-22)
+
+
+### Bug Fixes
+
+* fix broken links ([#141](https://github.com/open-sauced/docs/issues/141)) ([81f27b9](https://github.com/open-sauced/docs/commit/81f27b9f234c430585497e96d4f03d264ca419c8))
+
+## [1.39.0](https://github.com/open-sauced/docs/compare/v1.38.0...v1.39.0) (2023-08-21)
+
+
+### Documentation
+
+* fix some sentences in the "Welcome to the Community" and "Introduction to Storybook" section for clarity  and fix some typos.  ([#130](https://github.com/open-sauced/docs/issues/130)) ([812acde](https://github.com/open-sauced/docs/commit/812acdefbc9d428a7446040106f4e0784fd0fafd)), closes [#133](https://github.com/open-sauced/docs/issues/133)
+
+## [1.38.0](https://github.com/open-sauced/docs/compare/v1.37.1...v1.38.0) (2023-08-15)
+
+
+### Documentation
+
+* revise information about templates ([#135](https://github.com/open-sauced/docs/issues/135)) ([321e8c9](https://github.com/open-sauced/docs/commit/321e8c9f9721e056ee4e7f1c9074cdda5fc0250c))
+
+### [1.37.1](https://github.com/open-sauced/docs/compare/v1.37.0...v1.37.1) (2023-08-12)
+
+
+### Bug Fixes
+
+* Correct typo in resolve-merge-conflicts.md ([#128](https://github.com/open-sauced/docs/issues/128)) ([72f3b45](https://github.com/open-sauced/docs/commit/72f3b45faa0fd2378350230616d181a8ab66e696))
+
 ## [1.37.0](https://github.com/open-sauced/docs/compare/v1.36.1...v1.37.0) (2023-07-28)
 
 

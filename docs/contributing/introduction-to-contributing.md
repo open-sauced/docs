@@ -7,22 +7,21 @@ keywords:
 ---
 
 Contributions are always welcome, no matter how large or small. Before contributing,
-please read the [code of conduct](./code-of-conduct.md).
+please read the [code of conduct](./code-of-conduct.md) and follow the directions below:
 
-Some thoughts to help you contribute to this project
+## Recommended Communication Style
 
-## Recommended communication style
-
-1. Always leave screenshots for visuals changes
-1. Always leave a detailed description in the Pull Request. Leave nothing ambiguous for the reviewer.
-1. Always review your code first. Do this by leaving comments in your coding noting questions, or interesting things for the reviewer.
-1. Always communicate. Whether it is in the issue or the pull request, keeping the lines of communication helps everyone around you.
+1. Always leave screenshots for visual changes.
+2. Always leave a detailed description in the Pull Request. Leave nothing ambiguous for the reviewer.
+3. Always review your code first. Be sure to run the project locally and test before asking for a review.
+4. Always communicate in the GitHub repository. Whether it is in the issue or the pull request, keeping the lines of communication open and visible to everyone on the team helps everyone around you.
 
 ## Setup
 
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) one of the repositories from [github/open-sauced](https://github.com/open-sauced) to your own GitHub account.
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repository you're working on from [github/open-sauced](https://github.com/open-sauced) to your own GitHub account.
 2. Clone the forked repository to your local machine.
-3. Run `npm ci` to install the dependencies and set up the project.
+3. Check the README of the project to determine how to run the project locally. For many of our repositories, you'll find the directions below work for running the project locally.
+4. Run `npm ci` to install the dependencies and set up the project.
 
 You can also use the shell commands below to get started once you have forked the repository.
 Make sure to replace `<your-name>` with your GitHub username.
@@ -34,6 +33,7 @@ npm ci
 ```
 
 ## Building
+To generate a production-ready version of your code, run:
 
 ```shell
 npm run build
@@ -41,14 +41,14 @@ npm run build
 
 ## Testing
 
-For running the test suite, use the following command. Since the tests run in watch mode by default, some users may encounter errors about too many files being open. In this case, it may be beneficial to [install watchman](https://facebook.github.io/watchman/docs/install.html).
-
+For running the test suite, use the following command:
 ```shell
 # the tests will run in watch mode by default
 npm test
 ```
+Since the tests run in watch mode by default, some users may encounter errors about too many files being open. In this case, it may be beneficial to [install watchman](https://facebook.github.io/watchman/docs/install.html).
 
-For more info on testing React and JavaScript, check out this course [Testing JavaScript](https://testingjavascript.com/)
+For more info on testing React and JavaScript, check out this course [Testing JavaScript](https://testingjavascript.com/).
 
 ## Applying Lint Styleguide
 
@@ -68,22 +68,22 @@ npm run format
 
 These commands use [ESLint](https://eslint.org/) to check and fix the code.
 
-The automated PR checks will also run these commands, and the PR will be blocked if there are any errors, so it's a good idea to run them before submitting a PR.
+If you forget to run this command, automated PR checks will also run these commands, but the PR will be blocked if there are any errors. 
 
 ## Pull requests
 
 **_We actively welcome your pull requests, however linking your work to an existing issue is preferred._**
 
 1. Fork the repo and create your branch from the default branch.
-1. Name your branch something that is descriptive to the work you are doing. i.e. adds-new-thing or fixes-mobile
-1. If you've added code that should be tested, add tests.
-1. If you've changed APIs, update the documentation.
-1. If you make visual changes, screenshots are required.
-1. Ensure the test suite passes.
-1. Make sure you address any lint warnings.
-1. If you make the existing code better, please let us know in your PR description.
-1. A PR description and title are required. The title is required to begin with: "feat:" or "fix:"
-1. [Link to an issue](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls) in the project. Unsolicited code is welcomed, but an issue is required for an announcement your intentions. PR's without a linked issue will be marked invalid and closed.
+2. Name your branch something that is descriptive to the work you are doing. i.e. adds-new-thing or fixes-mobile
+3. If you've added code that should be tested, add tests.
+4. If you've changed APIs, update the documentation.
+5. If you make visual changes, screenshots are required.
+6. Ensure the test suite passes.
+7. Make sure you address any lint warnings.
+8. If you make the existing code better, please let us know in your PR description.
+9. A PR description and title are required. The title is required to begin with: "feat:" or "fix:"
+10. [Link to an issue](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls) in the project. Unsolicited code is welcomed, but an issue is required for an announcement your intentions. PR's without a linked issue will be marked invalid and closed.
 
 _note for maintainers: All pull requests need a label to assist automation. See the [template](https://github.com/open-sauced/open-sauced/blob/HEAD/.github/release-drafter.yml) to guide which labels to use._
 
@@ -144,10 +144,10 @@ Do you have questions? Join the conversation in our [Discord](https://discord.gg
 ## Coding tips
 
 - Ask questions if you are stuck.
-- Use [CSS variables](https://github.com/open-sauced/open-sauced/blob/HEAD/src/styles/variables.js)
+- Use [CSS variables.](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 - Always use [rel="noreferrer" on all target="\_blank" links](https://web.dev/external-anchors-use-rel-noopener/).
 
 ## License
 
 By contributing to the OpenSauced project, you agree that your contributions will be licensed
-under its [MIT license](https://raw.githubusercontent.com/open-sauced/open-sauced/main/LICENSE).
+by a specific License. This information can be found in the `LICENSE` file of the repo you are contributing to.

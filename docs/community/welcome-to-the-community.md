@@ -24,11 +24,8 @@ At OpenSauced, we strive to create a welcoming and inclusive community for every
 The OpenSauced community is a group of open-source enthusiasts who are passionate about making open-source more accessible to everyone. Here are some ways you can keep up with what we're doing:
 
 - 🐦 Follow us on Twitter [@SaucedOpen](https://twitter.com/saucedopen) for announcements and our frequent Twitter Spaces.
-
 - Join our [Discord](https://discord.gg/opensauced), and hang out with us in our weekly office hours.
-
 - Subscribe to our [YouTube channel](https://www.youtube.com/@OpenSauced) for the latest updates and video content for OpenSauced.
-
 - 📰 Subscribe to our [newsletter](https://news.opensauced.pizza/#/portal/signup) for all things OpenSauced and open source.
 
 ## How can I get involved?
@@ -40,6 +37,8 @@ You can get involved in the OpenSauced community in a few ways:
 - Share what you're working on, ask questions, or mentor new contributors in our [Discord](https://discord.gg/opensauced).
 
 ## Resources on Getting Started with Open Source
+Getting started with open source can be quite daunting for beginners, so we've put together some resources to help you get started.
 
 - 📝 Check out our [Dev blog](https://dev.to/opensauced) where we provide resources for open-source contributors.
-- 📖 Take our [Intro to Open Source Course](https://github.com/open-sauced/intro) to help you get started with open-source.
+- 📖 Take our [Intro to Open Source Course](https://intro.opensauced.pizza/#/) to help you get started with open-source.
+- 📅 Join our [#100DaysOfOSS Challenge](https://docs.opensauced.pizza/community/100-days-of-oss/) to help you grow your skills and gain real-world experience in open source.
