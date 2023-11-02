@@ -96,7 +96,7 @@ module.exports = {
     {
       type: "category",
       label: "Contributing guide",
-      collapsed: false,
+      collapsed: true,
       items: [
         "contributing/introduction-to-contributing",
         "contributing/code-of-conduct",
@@ -106,7 +106,7 @@ module.exports = {
         {
           type: "category",
           label: "Technical guide",
-          collapsed: false,
+          collapsed: true,
           items: [
             "contributing/technical/introduction-to-storybook",
             "contributing/technical/setup-repo-with-git",
