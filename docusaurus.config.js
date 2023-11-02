@@ -87,6 +87,10 @@ module.exports = {
               label: "Chrome Extension Usage",
               to: "/tools/chrome-extension/introduction-to-the-chrome-extension/",
             },
+            {
+              label: "Your Open Source Resume",
+              to: "https://intro.opensauced.pizza/#/06-the-secret-sauce?id=develop-your-open-source-resume",
+            }
           ],
         },
         {
