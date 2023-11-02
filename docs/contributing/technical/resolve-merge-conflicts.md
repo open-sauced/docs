@@ -10,12 +10,6 @@ Pretty often when opening a pull request it is very likely to run into merge con
 
 To better illustrate the commands listed here at will use commits and screenshots from [open-sauced#1078](https://github.com/open-sauced/open-sauced/pull/1078).
 
-In literally every case it is advised _**not**_ to use the `Resolve conflicts` button as follows:
-
-![don't resolve conflicts like this](../../static/img/contributing-resolve-merge-conflicts-dont-do.png)
-
-The above will at best achieve a ready-to-merge pull request with visible inconsistencies.
-
 
 ## Repository setup
 
