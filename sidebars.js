@@ -115,7 +115,6 @@ module.exports = {
       label: `OpenSauced Packages`,
       collapsed: true,
       items: [
-        "opensauced-packages/setting-up-a-new-repository",
         "opensauced-packages/check-engines",
         "opensauced-packages/conventional-commit",
         "opensauced-packages/semantic-release",
