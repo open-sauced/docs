@@ -77,15 +77,11 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "Docs",
+          title: "Learn",
           items: [
             {
               label: "Contributing guide",
               to: "/contributing/introduction-to-contributing/",
-            },
-            {
-              label: "Maintainer guide",
-              to: "/maintainers/setting-up-a-new-repository/",
             },
             {
               label: "Chrome Extension Usage",
