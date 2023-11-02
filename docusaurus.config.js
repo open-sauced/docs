@@ -105,8 +105,8 @@ module.exports = {
               href: "https://discord.com/invite/U2peSNf23P",
             },
             {
-              label: "Twitter",
-              href: "https://twitter.com/saucedopen",
+              label: "X",
+              href: "https://x.com/saucedopen",
             },
           ],
         },
