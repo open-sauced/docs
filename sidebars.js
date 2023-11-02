@@ -71,12 +71,6 @@ module.exports = {
                 },
                 {
                   type: "file",
-                  label: "feature 4",
-                  type: "doc",
-                  id: "tools/chrome-extension/opensauced-links",
-                },
-                {
-                  type: "file",
                   label: "feature 5",
                   type: "doc",
                   id: "tools/chrome-extension/refactoring-and-testing",
