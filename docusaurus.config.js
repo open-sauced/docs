@@ -89,7 +89,7 @@ module.exports = {
             },
             {
               label: "Chrome Extension Usage",
-              to: "/chrome-extension/introduction-to-the-chrome-extension/",
+              to: "/tools/chrome-extension/introduction-to-the-chrome-extension/",
             },
           ],
         },
@@ -120,7 +120,11 @@ module.exports = {
             {
               label: "Download book",
               href: "https://docs.opensauced.pizza/open-sauced-docs.pdf",
-            },
+            },{
+              label: "Watch our feature demos",
+              href: "https://www.youtube.com/playlist?list=PLHyZ0Wz_A44VRlE-YS9me5qxDNRgK5T3H"
+             }
+          
           ],
         },
       ],
