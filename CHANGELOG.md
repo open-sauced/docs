@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.50.0](https://github.com/open-sauced/docs/compare/v1.49.0...v1.50.0) (2023-11-06)
+
+
+### Features
+
+* Reorganize docs ([#201](https://github.com/open-sauced/docs/issues/201)) ([dc12081](https://github.com/open-sauced/docs/commit/dc120815281b018a5ec5038a07f8a2c532738225))
+
 ## [1.49.0](https://github.com/open-sauced/docs/compare/v1.48.0...v1.49.0) (2023-10-31)
 
 
