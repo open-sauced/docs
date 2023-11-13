@@ -53,3 +53,54 @@ The contributors tab allows you to view more detailed information on each of the
 
 To learn more about your contributors, you can select them and add them to a list. 
 
+![contributors insight list](../../static/img/contributors-insights.png)
+
+There are two ways to add contributors to a list:
+1. Create a new list with selected contributors.
+2. Add selected contributors to an existing list.
+
+## Lists: Connecting with Contributors
+OpenSauced Lists feature allows you to categorize, monitor, and analyze various groups of contributors. You can use lists to track the contributions of a specific team, a specific repository, or group of repositories. This feature offers granular insights into each contributor's activities and contributions, helping maintainers to track individual contribution histories, identify active engagement, recognize new or alumni contributors, and compare the performance of different contributors.
+
+The Lists features allow you to:
+- track the commits and PRs of the contributors on your list
+- filter your contributors by their activity level, including most active, new, and alumni
+- view the the repositories that your contributors have contributed to, the languages they've used for their contributions, and their time zones.
+
+### Why Create a List?
+There are many reasons to create a list, but here's some inspiration to get you started:
+- **Interacting Contributors**: Keep tabs on contributors actively interacting with your repository.
+- **Organization's Developers**: Monitor the contributions and performance of your internal team.
+- **VIP Contributors**: Highlight and track at least 5 developers who are key maintainers or significant contributors.
+- **Sales Leads**: Identify contributors whose engagement could potentially be turned into sales opportunities.
+- **Potential Hires**: Observe contributors who exhibit skill and commitment, making them prime candidates for hiring.
+- **Alumni Contributors**: Keep an eye on contributors who have decreased their engagement or left the project.
+
+### Creating a New List
+1. To create a new list, click the "Lists" tab on the Insights' hub. You will be redirected to a page where you can create your new list.
+2. Click on the 'New List' button to start a new list.
+3. Give your list a name.
+4. Choose your page visibility. You can choose to make your list public or private.
+4. Add contributors to your list by searching for their GitHub username, syncing your GitHub Team, or by importing your GitHub Following. 
+
+![team sync gif](../../static/img/team-sync.gif)
+
+## Using Your List
+Once you have created your list, you will be redirected to your list page. Here you will see a dashboard with an overview  of the repositories and the contributors who have contributed to them. 
+
+There are three tabs that provide you with more information on these repositories.
+
+### Overview
+The Overview view gives you a high-level view of the contibutors in your list, including the total number of commits in the last 30 days and the types of contributors on your list: active, new, and alumni.
+
+### Activity
+The Activity tab gives you a graph view with more detailed information on each of the contributors, including type of activity, repositories they've contributed to, and how they compare to each other. 
+
+You can filter your list by all contributors, active contributors, new contributors, and alumni contributors.
+
+![list graph](../../static/img/list-graph.png)
+
+### Contributors
+The contributors view, gives you the list of the contributors and includes information like activity level, last repository contributed to, the date of their last contribution, time zone, programming languages used, and number of contributions.
+
+ To learn more about these features, see [Understanding Lists Data](#understanding-lists-data).
