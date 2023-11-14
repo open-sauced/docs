@@ -31,7 +31,7 @@ module.exports = {
       items: [
         "maintainers/maintainers-guide-to-open-sauced",
         "maintainers/understanding-insights",
-        "maintainers/understanding-lists-data",
+        "maintainers/understanding-lists",
       ],
     },
     {

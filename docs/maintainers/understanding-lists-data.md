@@ -1,7 +1,7 @@
 ---
-id: understanding-lists-data
+id: understanding-lists
 title: 'Interpreting Lists Data'
-sidebar_label: Maintainers Guide Understanding Lists
+sidebar_label: Understanding Lists Data
 keywords:
   - maintainers
   - guides
