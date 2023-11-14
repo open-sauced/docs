@@ -10,8 +10,6 @@ keywords:
 Once you've created your list of contributors, it's time to understand the data provided. Understanding this data is key to effectively managing your projects and contributors.
 
 ## Understanding Lists Contibutor Data
-
-
 ### Interpreting Total Commits in the Last 30 Days
 Understanding the commits over the last thirty days helps in gauging the overall activity and productivity of the group.
 
