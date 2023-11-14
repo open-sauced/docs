@@ -104,3 +104,49 @@ You can filter your list by all contributors, active contributors, new contribut
 The contributors view, gives you the list of the contributors and includes information like activity level, last repository contributed to, the date of their last contribution, time zone, programming languages used, and number of contributions.
 
  To learn more about these features, see [Understanding Lists Data](#understanding-lists-data).
+
+## Highlights: Connecting and Recognizing Contributions
+Leveraging OpenSauced's Highlights feature is a great way for maintainers to recognize and showcase the valuable contributions made to your open source projects, to curate and share key achievements, contributions, and milestones, and bring visibility to the hard work of your community. 
+
+Highlights can be used to:
+- publicize issues on your repository that you'd like to match with contributors
+- share Dev.to blog posts you've written
+- celebrate PRs to your project
+
+### Creating a New Highlight
+There are two ways to create a new highlight:
+1. On the [main feed](https://app.opensauced.pizza/feed), click the input that says "Post a highlight to show your work!"
+
+2. From your profile, click the input that says "Post a highlight to show your work!"
+
+After you've clicked the input, you'll see a form that allows you to create a new highlight.
+
+There are two ways to create a highlight:
+1. Paste the URL to your PR, Issue, or Dev.to blog post (shown in blue below).
+2. Choose from a list of suggestions (shown in orange below).
+
+![highlight suggestions](../../static/img/highlight-suggestions.png)
+
+If you're adding a blog post, you'll need to associate it to a repository by clicking the "Add a repo" button.
+
+Finally, it's time to add the details of your highlight. You can add your own description or use the auto-summarize function to generate a description of.
+
+![gif of creating a highlight](../../static/gif/highlight.gif)
+
+### Writing an Effective Highlight
+Writing an effective highlight is key to attracting contributors to your project. Here are some tips to help you write an effective highlight:
+
+#### Issues
+1. **Focus on the Problem Solved**: Begin by succinctly describing the problem or challenge the issue addresses. This sets the context for why it was important.
+2. **Acknowledge Contributor(s)**: Mention the contributor(s) who reported or worked on the issue, recognizing their effort.
+3. **Impact Statement**: Explain how resolving this issue benefits the project, such as improving functionality, user experience, or security.
+
+#### Highlighting PRs
+1. **Summarize the Changes**: Start with a clear summary of what the PR achieves. This could be a new feature, bug fix, or enhancement.
+2. **Credit the Contributors**: Acknowledge everyone who contributed to the PR, including reviewers.
+3. **Highlight the Value**: Explain the value of these changes to the project or its users. For instance, how it improves performance, adds a requested feature, or simplifies the codebase.
+
+#### Highlighting Dev.to Blog Posts
+1. **Capture the Essence**: Begin with an interesting summary of the blog post, capturing the main theme or message.
+2. **Discuss the Relevance**: Explain why this blog post is important for your open source project or community. Is it about a major update, a community event, or sharing best practices?
+3. **Engage with a Call-to-Action**: Encourage readers to engage with the post, whether by reading, commenting, or sharing their thoughts on the topic.
