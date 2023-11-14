@@ -26,6 +26,16 @@ module.exports = {
     },
     {
       type: "category",
+      label: "Maintainers",
+      collapsed: false,
+      items: [
+        "maintainers/maintainers-guide",
+        "maintainers/understanding-insights",
+        "maintainers/understanding-lists-data",
+      ],
+    },
+    {
+      type: "category",
       label: "Getting started",
       collapsed: false,
       items: [
