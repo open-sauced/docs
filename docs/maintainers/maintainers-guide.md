@@ -33,7 +33,7 @@ There are two ways to add repositories to your Insight Page:
 1. **Sync GitHub Organization**. Syncing your GitHub organization is a good idea for someone who seeks a comprehensive, unified view of your organization's open source project activities and trends, enabling streamlined management, strategic decision-making, and efficient allocation of resources across multiple repositories.
 2. **Connect Individual Repositories**. Connecting individual repositories is a good idea for someone who wants to track the contributions of a specific repository or group of repositories. For example, you might want to track projects you maintain that are not under the same org or you may want to track projects that align with your team's objectives. 
 
-![sync team gif](../../static/img/team-sync-insights.gif)
+![sync team gif](../../static/gif/team-sync-insights.gif)
 
 ### Using Your Insights Page
 Once you have connected your repositories, you will be redirected to your Insight Page. Here you will see a dashboard with an overview  of the repositories and the contributors who have contributed to them. 
@@ -83,7 +83,7 @@ There are many reasons to create a list, but here's some inspiration to get you 
 4. Choose your page visibility. You can choose to make your list public or private.
 4. Add contributors to your list by searching for their GitHub username, syncing your GitHub Team, or by importing your GitHub Following. 
 
-![team sync gif](../../static/img/team-sync.gif)
+![team sync gif](../../static/gif/team-sync.gif)
 
 ## Using Your List
 Once you have created your list, you will be redirected to your list page. Here you will see a dashboard with an overview  of the repositories and the contributors who have contributed to them. 
