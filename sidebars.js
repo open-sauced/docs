@@ -29,7 +29,7 @@ module.exports = {
       label: "Maintainers",
       collapsed: false,
       items: [
-        "maintainers/maintainers-guide",
+        "maintainers/maintainers-guide-to-open-sauced",
         "maintainers/understanding-insights",
         "maintainers/understanding-lists-data",
       ],
