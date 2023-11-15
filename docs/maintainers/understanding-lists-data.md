@@ -1,6 +1,6 @@
 ---
 id: understanding-lists
-title: 'Interpreting Lists Data'
+title: 'Understanding Lists Data'
 sidebar_label: Understanding Lists Data
 keywords:
   - maintainers
