@@ -13,7 +13,7 @@ Once your repositories are connected, it's time to understand the data provided 
 
 ### Analyzing Contribution Trends
 
-Discover patterns in contributions over time. Look for spikes or drops in activity, and correlate these with specific events or milestones. This can help you understand what drives engagement in your projects.
+Discover patterns in contributions over time. Look for spikes or drops in activity and correlate these with specific events or milestones. This can help you understand what drives engagement in your projects.
 
 ### Monitoring Pull Request (PR) Activity
 
@@ -27,7 +27,7 @@ Track how quickly PRs are being merged. The average time taken for PRs to merge 
 
 ### Identifying and Engaging with Key Contributors
 
-Recognizing key contributors helps in understanding who the most active and influential members of the project are. Consider reaching out to them for deeper collaboration, or acknowledging their efforts to keep them motivated and engaged.
+Recognizing key contributors helps in understanding who the most active and influential members of the project are. Consider reaching out to them for deeper collaboration or acknowledging their efforts to keep them motivated and engaged.
 
 ### Tracking and Responding to Contributor Activity Levels
 
@@ -37,7 +37,7 @@ Notice the ebbs and flows in individual contributors’ activity. A decline in a
 
 #### Activity Levels Across Repositories
 
-This indicates the breadth of a contributor's involvement in open source projects. A contributor active across multiple repositories might bring diverse experiences and ideas, but may also have divided attention. Alternatively, a contributor active in a single repository might be more focused and familiar with the project.
+This indicates the breadth of a contributor's involvement in open source projects. A contributor active across multiple repositories might bring diverse experiences and ideas but may also have divided attention. Alternatively, a contributor active in a single repository might be more focused and familiar with the project.
 
 ### Understanding Activity Levels Over Time
 

@@ -25,4 +25,4 @@ There are three ways to add a list:
 
 Once your list is created, you'll be able to see an overview of all the contributors in your list, a graph of their activity, and a detailed breakdown of the contributors.
 
-To learn more about how to use Lists, check out our [maintainers guide](../maintainers/maintainers-guide.md) and our [Understanding Lists Data page](../maintainers/understanding-lists-data.md).
+To learn more about how to use Lists, check out our [Maintainers Guide](../maintainers/maintainers-guide.md) and our [Understanding Lists Data page](../maintainers/understanding-lists-data.md).
