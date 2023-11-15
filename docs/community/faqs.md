@@ -22,7 +22,7 @@ Create an [insight page](https://app.opensauced.pizza/hub/insights) or add your 
 3. **I want to provide feedback on OpenSauced.**
 We love feedback. Post your suggestion in our [feedback repository](https://github.com/orgs/open-sauced/discussions).
 
-## Sync your GitHub Team
+## [Sync your GitHub Team](#sync-your-github-team)
 1. **I don't see my Organization on Sync your GitHub Team?**
 You may not see your Organization if you are not a "public" member. You can update this by going to the organization on GitHub and selecting the People tab. Next, search for your name. You can then change "private" to "public." For full instructions, see [this guide](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership).
 
