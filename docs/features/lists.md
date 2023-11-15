@@ -20,3 +20,5 @@ There are two ways to add a list:
 Connect to your GitHub to create a list with all the Contributors you follow.
 
 Once your list is created, you'll be able to see an overview of all the contributors in your list, a graph of their activity, and a detailed breakdown of the contributors.
+
+If you're having trouble syncing your Organization or Team, check out our [FAQs](/docs/community/faqs#sync-your-github-team).
