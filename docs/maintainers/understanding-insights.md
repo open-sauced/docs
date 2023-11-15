@@ -1,6 +1,6 @@
 ---
 id: understanding-insights
-title: 'Interpreting Insights Data'
+title: 'Understanding Insights Data'
 sidebar_label: Understanding Insights Data
 keywords:
   - maintainers

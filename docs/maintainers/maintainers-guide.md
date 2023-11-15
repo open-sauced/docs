@@ -125,7 +125,7 @@ There are two ways to create a highlight:
 1. Paste the URL to your PR, Issue, or Dev.to blog post (shown in blue below).
 2. Choose from a list of suggestions (shown in orange below).
 
-![highlight suggestions](../../static/img/highlight-suggestions.png)
+![highlight suggestions](../../static/img/highlights.png)
 
 If you're adding a blog post, you'll need to associate it to a repository by clicking the "Add a repo" button.
 
