@@ -19,3 +19,5 @@ The Insights feature is your one-stop solution for understanding the pulse of yo
 - Track the health of your project.
 - Identify contributors who are making an impact.
 - Find new contributors to support your project.
+
+To learn more about how to use Insights, check out our [maintainers guide](../maintainers/maintainers-guide.md) and our [Understanding Insights Data page](../maintainers/understanding-insights.md).
