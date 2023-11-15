@@ -14,13 +14,13 @@ Monitor individual commit histories, track who is actively engaged, identify chu
 
 ## How to Create a List
 
-After logging in, navigate to your [Lists page](https://app.opensauced.pizza/hub/lists/).
+After logging in, navigate to your [Lists Page](https://app.opensauced.pizza/hub/lists/).
 
 There are three ways to add a list:
 
-1. Explore Contributors: Use our explore tool to find contributors and create your list.
-2. Sync your GitHub Team: Connect to your GitHub to create a list from a team in your organization.
-3. Import your GitHub following:
+1. **Explore Contributors**: Use our explore tool to find contributors and create your list.
+2. **Sync your GitHub Team**: Connect to your GitHub to create a list from a team in your organization.
+3. **Import your GitHub Following**:
    Connect to your GitHub to create a list with all the Contributors you follow.
 
 Once your list is created, you'll be able to see an overview of all the contributors in your list, a graph of their activity, and a detailed breakdown of the contributors.
