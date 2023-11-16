@@ -138,7 +138,7 @@ Highlights can be used to:
 
 There are two ways to create a new highlight:
 
-1. On the [main feed](https://app.opensauced.pizza/feed), click the input that says "Post a highlight to show your work!"
+1. After clicking the [Highlights tab](https://app.opensauced.pizza/feed) in the top navigation, click the input that says "Post a highlight to show your work!"
 
 2. From your profile, click the input that says "Post a highlight to show your work!"
 
