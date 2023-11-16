@@ -102,7 +102,7 @@ There are many reasons to create a list, but here's some inspiration to get you 
 
 ## Using Your List
 
-Once you have created your list, you will be redirected to your List Page. Here, you will see a dashboard with an overview of the repositories and the contributors who have contributed to them.
+Once you have created your list, you will be redirected to your List Page. Here, you will see a dashboard with an overview of the contributors.
 
 There are three tabs that provide you with more information on these repositories:
 
