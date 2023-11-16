@@ -95,7 +95,7 @@ There are many reasons to create a list, but here's some inspiration to get you 
 1. Click the "Lists" tab on the Insights hub to create a new list. You will be redirected to a page where you can create your new list.
 2. Click on the "New List" button to start a new list.
 3. Give your list a name.
-4. Choose your page visibility. You can choose to make your list public or private.
+4. Choose your page visibility. You can choose to make your list public or private. By default, it is set to private.
 5. Add contributors to your list by searching for their GitHub username, syncing your GitHub Team, or importing your GitHub Following.
 
 ![team sync gif](../../static/gif/team-sync.gif)
