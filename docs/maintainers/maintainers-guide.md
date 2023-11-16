@@ -77,7 +77,7 @@ The Lists features allow you to:
 
 - track the commits and PRs of the contributors on your list,
 - filter your contributors by their activity level, including most active, new, and alumni,
-- view the repositories that your contributors have contributed to, the languages they've used for their contributions, and their time zones.
+- view the repositories that your contributors have contributed to, the top programming languages they've used, and their time zones.
 
 ### Why Create a List?
 
