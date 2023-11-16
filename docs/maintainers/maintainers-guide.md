@@ -11,7 +11,7 @@ keywords:
 
 OpenSauced is a platform dedicated to empowering maintainers and redefining open source contributions. We offer a GitHub-powered dashboard for tracking contributions and gaining insights into your open source projects. You can customize your Insights Pages and Lists with the repositories you choose and the contributors you want to see.
 
-You can connect with your team and contributors through our platform and invite them to join OpenSauced. We also offer a GitHub browser extension that allows you to view your contributors' OpenSauced profiles and invite them to join OpenSauced with a single click.
+You can connect with your team and contributors through our platform and invite them to join OpenSauced. We also offer a [GitHub browser extension](../tools/chrome-extension/introduction-to-the-chrome-extension.md) that allows you to view your contributors' OpenSauced profiles and invite them to join OpenSauced with a single click.
 
 ## Getting Started
 
