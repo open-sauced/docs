@@ -8,7 +8,7 @@ keywords:
 
 The Lists feature enables you to categorize, monitor, and analyze different groups of contributors within open source projects. With the Lists feature, gain granular insights into each contributor's activity and contributions.
 
-Monitor individual commit histories, track who is actively engaged, identify churned or new contributors, and even compare the performance of contributors against each other. This encompasses a wide range of metrics such as code commits, created and reviewed Pull Requests (PRs), as well as issue creation and commenting.
+Monitor individual commit histories, track who is actively engaged, identify alumni or new contributors, and even compare the performance of contributors against each other. This encompasses a wide range of metrics such as code commits, created and reviewed Pull Requests (PRs), as well as issue creation and commenting.
 
 ![lists-page](../../static/img/lists-page.svg)
 

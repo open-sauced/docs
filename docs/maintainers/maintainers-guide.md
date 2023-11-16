@@ -19,7 +19,7 @@ To get started, you will need to create an account on OpenSauced. You can do thi
 
 ## Insights: Connecting Your Repositories
 
-OpenSauced Insights provides maintainers with a visual representation of their project's health and contributor engagement. It offers real-time data and analytics to understand contribution patterns, identify key contributors, and measure the project's growth. Insights can help you assess team activity, understand when bottlenecks occur, identify where resource allocation is needed, plan and identify key contributors, understand contributor churn, or spot emerging trends.
+OpenSauced Insights provides maintainers with a visual representation of their project's health and contributor engagement. It offers real-time data and analytics to understand contribution patterns, identify key contributors, and measure the project's growth. Insights can help you assess team activity, understand when bottlenecks occur, identify where resource allocation is needed, plan and identify key contributors, understand alumni contributors, or spot emerging trends.
 
 Insights features allow you to:
 
@@ -114,7 +114,7 @@ The Overview tab gives you a high-level view of the contributors in your list, i
 
 The Activity tab gives you a graph view with more detailed information on each contributor, including the type of activity, repositories they've contributed to, and how they compare to each other.
 
-You can filter your list by All Contributors, Active Contributors, New Contributors, and Churned Contributors.
+You can filter your list by All Contributors, Active Contributors, New Contributors, and Alumni Contributors.
 
 ![list graph](../../static/img/list-graph.png)
 
