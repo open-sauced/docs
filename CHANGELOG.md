@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.51.0](https://github.com/open-sauced/docs/compare/v1.50.0...v1.51.0) (2023-11-15)
+
+
+### Documentation
+
+* Add Team Sync instructions to FAQs ([#207](https://github.com/open-sauced/docs/issues/207)) ([eb940a1](https://github.com/open-sauced/docs/commit/eb940a12631ed1061678d6db47cd116a837a83b8))
+
 ## [1.50.0](https://github.com/open-sauced/docs/compare/v1.49.0...v1.50.0) (2023-11-06)
 
 

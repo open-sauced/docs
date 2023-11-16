@@ -20,4 +20,15 @@ We believe that [good first issues don't exist](https://opensauced.pizza/blog/go
 Create an [insight page](https://app.opensauced.pizza/hub/insights) or add your merged pull request to [a highlight](https://app.opensauced.pizza/feed).
 
 3. **I want to provide feedback on OpenSauced.**
-We love feedback. Post your suggestion in our [feedback repository](https://github.com/orgs/open-sauced/discussions). 
+We love feedback. Post your suggestion in our [feedback repository](https://github.com/orgs/open-sauced/discussions).
+
+## [Sync your GitHub Team](#sync-your-github-team)
+1. **I don't see my Organization on Sync your GitHub Team?**
+You may not see your Organization if you are not a "public" member. You can update this by going to the organization on GitHub and selecting the People tab. Next, search for your name. You can then change "private" to "public." For full instructions, see [this guide](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership).
+
+2. **I get an error when I try to select my team in Sync your GitHub Team**
+If you see your Organization, but you get an error when you try to select a team, your organization likely has third-party applications restricted. You can check this by going to your organization on GitHub, selecting Settings, and then Third-party access. 
+
+  If you're an **owner** of the repository, you can select "Allow select third-party access" or specifically approve OpenSauced by following the directions in [this guide](https://docs.github.com/en/organizations/managing-oauth-access-to-your-organizations-data/approving-oauth-apps-for-your-organization).
+
+  If you are not an owner of the organization, you will need to request access from your organization's owner. For full instructions, see [this guide](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/requesting-organization-approval-for-oauth-apps). 
