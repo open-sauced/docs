@@ -33,8 +33,8 @@ To connect your repositories, click the "Insights" tab on the dashboard. You wil
 
 There are two ways to add repositories to your Insight Page:
 
-1. **Sync GitHub Organization**. Syncing your GitHub organization is a good idea for someone who seeks a comprehensive, unified view of your organization's open source project activities and trends, enabling streamlined management, strategic decision-making, and efficient allocation of resources across multiple repositories.
-2. **Connect Individual Repositories**. Connecting individual repositories is a good idea for someone who wants to track the contributions of a specific repository or group of repositories. For example, you might want to track projects you maintain that are not under the same organization, or you may want to track projects that align with your team's objectives.
+1. **Sync GitHub organization**. Syncing your GitHub organization is a good idea for someone who seeks a comprehensive, unified view of your organization's open source project activities and trends, enabling streamlined management, strategic decision-making, and efficient allocation of resources across multiple repositories.
+2. **Connect individual repositories**. Connecting individual repositories is a good idea for someone who wants to track the contributions of a specific repository or group of repositories. For example, you might want to track projects you maintain that are not under the same organization, or you may want to track projects that align with your team's objectives.
 
 ![sync team gif](../../static/gif/team-sync-insights.gif)
 
@@ -81,12 +81,12 @@ The Lists features allow you to:
 
 There are many reasons to create a list, but here's some inspiration to get you started:
 
-- **Interacting Contributors**: Keep tabs on contributors actively interacting with your repository.
-- **Organization's Developers**: Monitor the contributions and performance of your internal team.
-- **VIP Contributors**: Highlight and track at least five developers who are key maintainers or significant contributors.
-- **Sales Leads**: Identify contributors whose engagement could potentially be turned into sales opportunities.
-- **Potential Hires**: Observe contributors who exhibit skill and commitment, making them prime candidates for hiring.
-- **Alumni Contributors**: Keep an eye on contributors who have decreased their engagement or left the project.
+- **Interacting contributors**: Keep tabs on contributors actively interacting with your repository.
+- **Organization's developers**: Monitor the contributions and performance of your internal team.
+- **VIP contributors**: Highlight and track at least five developers who are key maintainers or significant contributors.
+- **Sales leads**: Identify contributors whose engagement could potentially be turned into sales opportunities.
+- **Potential hires**: Observe contributors who exhibit skill and commitment, making them prime candidates for hiring.
+- **Alumni contributors**: Keep an eye on contributors who have decreased their engagement or left the project.
 
 ### Creating a New List
 
