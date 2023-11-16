@@ -25,4 +25,4 @@ There are three ways to add a list:
 
 Once your list is created, you'll be able to see an overview of all the contributors in your list, a graph of their activity, and a detailed breakdown of the contributors.
 
-If you're having trouble syncing your Organization or Team, check out our [Sync Your GitHub Team in our FAQs](https://docs.opensauced.pizza/community/faqs/#sync-your-github-team).
+If you're having trouble syncing your Organization or Team, check out our [Sync Your GitHub Team in our FAQs](../community/faqs.md#sync-your-github-team).
