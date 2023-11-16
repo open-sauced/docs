@@ -159,7 +159,7 @@ Finally, it's time to add the details of your highlight. You can add a descripti
 
 Writing an effective highlight is key to attracting contributors to your project. Here are some tips to help you write an effective highlight:
 
-#### Issues
+#### Highlighting Issues
 
 1. **Focus on the Problem Solved**: Begin by briefly describing the problem or challenge the issue addresses. This sets the context for why it was important.
 2. **Acknowledge Contributor(s)**: Mention the contributor(s) who reported or worked on the issue, recognizing their effort.
