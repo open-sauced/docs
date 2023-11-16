@@ -51,4 +51,4 @@ Awareness of the programming languages a contributor is comfortable with enables
 
 ### Creating Opportunities
 
-Understanding who contributes to what and when can help maintainers manage team dynamics, ensuring that workloads are balanced and contributors are working in areas that match their skills and interests. Identifying less experienced contributors who are active and showing potential can lead to mentorship opportunities, helping to grow the project’s contributor base.
+Understanding who contributes to what open source projects and when they do can help maintainers manage team dynamics. With this information, maintainers can make decisions to ensure workloads are balanced and contributors are working in areas that match their skills and interests. Identifying less experienced contributors who are active and showing potential can lead to mentorship opportunities, helping to grow the project’s contributor base.
