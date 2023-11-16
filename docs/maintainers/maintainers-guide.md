@@ -161,18 +161,18 @@ Writing an effective highlight is key to attracting contributors to your project
 
 #### Highlighting Issues
 
-1. **Focus on the Problem Solved**: Begin by briefly describing the problem or challenge the issue addresses. This sets the context for why it was important.
-2. **Acknowledge Contributor(s)**: Mention the contributor(s) who reported or worked on the issue, recognizing their effort.
-3. **Impact Statement**: Explain how resolving this issue benefits the project, such as improving functionality, user experience, or security.
+1. **Focus on the problem solved**: Begin by briefly describing the problem or challenge the issue addresses. This sets the context for why it was important.
+2. **Acknowledge contributor(s)**: Mention the contributor(s) who reported or worked on the issue, recognizing their effort.
+3. **Impact statement**: Explain how resolving this issue benefits the project, such as improving functionality, user experience, or security.
 
 #### Highlighting PRs
 
-1. **Summarize the Changes**: Start with a clear summary of what the PR achieves. This could be a new feature, bug fix, or enhancement.
-2. **Credit the Contributors**: Acknowledge everyone who contributed to the PR, including reviewers.
-3. **Highlight the Value**: Explain the value of these changes to the project or its users. For instance, how it improves performance, adds a requested feature, or simplifies the codebase.
+1. **Summarize the changes**: Start with a clear summary of what the PR achieves. This could be a new feature, bug fix, or enhancement.
+2. **Credit the contributors**: Acknowledge everyone who contributed to the PR, including reviewers.
+3. **Highlight the value**: Explain the value of these changes to the project or its users. For instance, how it improves performance, adds a requested feature, or simplifies the codebase.
 
 #### Highlighting Dev.to Blog Posts
 
-1. **Capture the Essence**: Begin with an interesting blog post summary, capturing the main theme or message.
-2. **Discuss the Relevance**: Explain why this blog post is important for your open source project or community. Is it about a major update, a community event, or sharing best practices?
-3. **Engage with a Call-to-Action**: Encourage readers to engage with the post, whether by reading, commenting, or sharing their thoughts on the topic.
+1. **Capture the essence**: Begin with an interesting blog post summary, capturing the main theme or message.
+2. **Discuss the relevance**: Explain why this blog post is important for your open source project or community. Is it about a major update, a community event, or sharing best practices?
+3. **Engage with a call-to-action**: Encourage readers to engage with the post, whether by reading, commenting, or sharing their thoughts on the topic.
