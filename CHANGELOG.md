@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.52.0](https://github.com/open-sauced/docs/compare/v1.51.0...v1.52.0) (2023-11-16)
+
+
+### Features
+
+* Add maintainers guide section ([#205](https://github.com/open-sauced/docs/issues/205)) ([d5ba31e](https://github.com/open-sauced/docs/commit/d5ba31e63ffec508e3273731dff4a3ec60255f98))
+
 ## [1.51.0](https://github.com/open-sauced/docs/compare/v1.50.0...v1.51.0) (2023-11-15)
 
 
