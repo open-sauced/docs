@@ -35,7 +35,7 @@ Tracking how active contributors are and the trends in their activity levels is 
 
 Notice the ebbs and flows in individual contributors’ activity. A decline in a normally active contributor’s engagement could indicate burnout or dissatisfaction, while a surge in activity might be tied to recent changes or enhancements in the project. Tracking activity levels can help you manage team burnout, understand resource needs, and spot potential issues before they escalate.
 
-#### Activity Levels Across Repositories
+### Activity Levels Across Repositories
 
 This indicates the breadth of a contributor's involvement in open source projects. A contributor active across multiple repositories might bring diverse experiences and ideas but may also have divided attention. Alternatively, a contributor active in a single repository might be more focused and familiar with the project.
 
