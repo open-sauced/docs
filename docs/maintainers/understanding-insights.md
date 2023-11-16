@@ -17,7 +17,7 @@ Discover patterns in contributions over time. Look for spikes or drops in activi
 
 ### Monitoring Pull Request (PR) Activity
 
-Knowing the status of PRs (open, closed, draft, merged) helps in understanding the workflow efficiency and backlog. High volumes of open or draft PRs might indicate a need for more resources or a revision of your review process. Conversely, a steady flow of merged PRs can a healthy, active development process.
+Knowing the status of PRs (open, closed, draft, merged) helps in understanding the workflow efficiency and backlog. High volumes of open or draft PRs might indicate a need for more resources or a revision of your review process. Conversely, a steady flow of merged PRs can indicate a healthy, active development process.
 
 ### Measuring and Improving PR Velocity
 
