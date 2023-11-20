@@ -32,13 +32,14 @@ The OpenSauced community is a group of open-source enthusiasts who are passionat
 
 You can get involved in the OpenSauced community in a few ways:
 
-- Share your Contributions! We love to see what you're working on. Highlight your contributions on [OpenSauced](https://insights.opensauced.pizza/feed).
+- Share your Contributions! We love to see what you're working on. Highlight your contributions on [OpenSauced](https://app.opensauced.pizza/feed).
 - Open an issue or ask to be assigned to an existing issue on any of our [OpenSauced repositories](https://github.com/open-sauced).
 - Share what you're working on, ask questions, or mentor new contributors in our [Discord](https://discord.gg/opensauced).
+- Provide feedback on our [GitHub Discussions](https://github.com/orgs/open-sauced/discussions).
 
 ## Resources on Getting Started with Open Source
-Getting started with open source can be quite daunting for beginners, so we've put together some resources to help you get started.
+Getting started with open source can be challenging, so we've put together some resources to help you get started.
 
-- 📝 Check out our [Dev blog](https://dev.to/opensauced) where we provide resources for open-source contributors.
-- 📖 Take our [Intro to Open Source Course](https://intro.opensauced.pizza/#/) to help you get started with open-source.
+- 📝 Check out our [Dev blog](https://dev.to/opensauced) where we provide resources for open source contributors.
+- 📖 Take our [Intro to Open Source Course](https://intro.opensauced.pizza/#/) to help you get started with open source.
 - 📅 Join our [#100DaysOfOSS Challenge](https://docs.opensauced.pizza/community/100-days-of-oss/) to help you grow your skills and gain real-world experience in open source.
