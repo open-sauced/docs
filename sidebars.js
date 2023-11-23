@@ -42,6 +42,7 @@ module.exports = {
         "community/welcome-to-the-community",
         "community/100-days-of-oss",
         "community/faqs",
+        "Community/glossary",
       ],
     },
     {
