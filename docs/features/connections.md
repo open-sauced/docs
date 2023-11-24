@@ -8,7 +8,7 @@ keywords:
 
 ## What are Connections?
 
-Connections on OpenSauced serve as a way to build and nurture your professional network within the open source ecosystem. Imagine you're searching for experts in Artificial Intelligence using our "List" feature, and you come across several promising developers. What's next? With Connections, you can now send a request to connect, bringing these experts into your professional circle for easy communication and collaboration.
+Connections on OpenSauced serve as a way to build and nurture your professional network within the open source ecosystem. Imagine you're searching for experts in Artificial Intelligence using our [List](lists.md) feature, and you come across several promising developers. What's next? With Connections, you can now send a request to connect, bringing these experts into your professional circle for easy communication and collaboration.
 
 ![connections demo](../../static/gif/connections.gif)
 
