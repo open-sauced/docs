@@ -1,6 +1,6 @@
 ---
 id: introduction-to-the-chrome-extension
-title: Introduction to the Chrome Extension
+title: 'Introduction to the Chrome Extension'
 sidebar_label: Introduction to the Chrome Extension
 keywords:
   - introduction to the chrome extension

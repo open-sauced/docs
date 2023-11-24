@@ -1,7 +1,7 @@
 ---
 id: dev-card
-title: "Showcase your open source stats with your dev card"
-sidebar_label: "Dev Card"
+title: 'Showcase Your Open Source Stats with Your Dev Card'
+sidebar_label: Dev Card
 keywords:
   - dev-card
 ---

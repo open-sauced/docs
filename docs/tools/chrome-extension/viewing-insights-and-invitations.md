@@ -1,6 +1,6 @@
 ---
 id: viewing-insights-and-invitations
-title: "Viewing Insights and Invitations"
+title: 'Viewing Insights and Invitations'
 sidebar_label: Insights and Invitations
 keywords:
   - github

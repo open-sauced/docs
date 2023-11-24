@@ -1,7 +1,7 @@
 ---
 id: code-explanation
-title: "Code Explanation"
-sidebar_label: "Code Explanation"
+title: 'Code Explanation'
+sidebar_label: Code Explanation
 keywords:
   - ai
   - code explanations

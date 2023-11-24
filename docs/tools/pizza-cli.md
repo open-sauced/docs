@@ -1,6 +1,6 @@
 ---
 id: pizza-cli
-title: Introduction to the Pizza CLI
+title: 'Introduction to the Pizza CLI'
 sidebar_label: Pizza CLI
 keywords:
   - introduction to the pizza CLI

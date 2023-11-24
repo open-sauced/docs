@@ -1,7 +1,7 @@
 ---
 id: faqs
-title: "Frequently asked Questions"
-sidebar_label: "FAQS"
+title: 'Frequently Asked Questions'
+sidebar_label: FAQs
 keywords:
   - faqs
 ---

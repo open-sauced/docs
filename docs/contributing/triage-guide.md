@@ -1,7 +1,7 @@
 ---
 id: triage-guide
-title: Triage guide
-sidebar_label: Triage guide
+title: 'Triage Guide'
+sidebar_label: Triage Guide
 keywords:
   - triage guide
 ---

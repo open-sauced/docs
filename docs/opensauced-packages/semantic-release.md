@@ -1,9 +1,9 @@
 ---
 id: semantic-release
-title: "@open-sauced/semantic-release-conventional-config"
-sidebar_label: "@open-sauced/semantic-release-conventional-config"
+title: '@open-sauced/semantic-release-conventional-config'
+sidebar_label: '@open-sauced/semantic-release-conventional-config'
 keywords:
-  - "@open-sauced/semantic-release-conventional-config"
+  - '@open-sauced/semantic-release-conventional-config'
 ---
 
 ## Description

@@ -1,7 +1,7 @@
 ---
 id: set-up-authentication
-title: Set up Authentication
-sidebar_label: Set up Authentication
+title: 'Set Up Authentication'
+sidebar_label: Set Up Authentication
 keywords:
   - set up authentication
 ---

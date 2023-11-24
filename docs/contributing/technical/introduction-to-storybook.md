@@ -1,9 +1,9 @@
 ---
 id: introduction-to-storybook
-title: Introduction to storybook
-sidebar_label: Introduction to storybook
+title: 'Introduction to Storybook'
+sidebar_label: Introduction to Storybook
 keywords:
-  - Introduction to storybook
+  - introduction to storybook
 ---
 
 Storybook is an open-source tool that helps developers build, test, and document UI components in isolation.

@@ -1,7 +1,7 @@
 ---
 id: highlights
-title: "Highlight your open source contributions"
-sidebar_label: "Highlights"
+title: 'Highlight Your Open Source Contributions'
+sidebar_label: Highlights
 keywords:
   - highlights
 ---

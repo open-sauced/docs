@@ -1,9 +1,9 @@
 ---
 id: hot-opensauced
-title: Hot OpenSauced Project
+title: 'Hot OpenSauced Project'
 sidebar_label: Hot OpenSauced Project
 keywords:
-  - hot OpenSauced project
+  - hot opensauced project
 ---
 
 [Hot OpenSauced](https://hot.opensauced.pizza/) is a site that helps you discover the hottest open source projects to contribute to. You also have the ability to vote for your favorite open source projects.

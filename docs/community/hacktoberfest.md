@@ -1,7 +1,7 @@
 ---
 id: hacktoberfest
-title: "Join us for Hacktoberfest! 🎃"
-sidebar_label: "Join us for Hacktoberfest! 🎃"
+title: 'Join us for Hacktoberfest! 🎃'
+sidebar_label: Join us for Hacktoberfest! 🎃
 keywords:
   - hacktoberfest
 ---

@@ -1,7 +1,7 @@
 ---
 id: introduction-to-contributing
-title: Introduction to contributing
-sidebar_label: Introduction to contributing
+title: 'Introduction to Contributing'
+sidebar_label: Introduction to Contributing
 keywords:
   - introduction to contributing
 ---

@@ -1,7 +1,7 @@
 ---
 id: highlights
-title: "Highlight"
-sidebar_label: "Highlight"
+title: 'Highlight'
+sidebar_label: Highlight
 keywords:
   - highlights
   - posting
