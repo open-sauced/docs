@@ -1,7 +1,7 @@
 ---
 id: pr-description
-title: 'PR Description'
-sidebar_label: 'PR Description'
+title: "PR Description"
+sidebar_label: "PR Description"
 keywords:
   - ai
   - pr descriptions

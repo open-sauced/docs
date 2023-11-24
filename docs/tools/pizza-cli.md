@@ -7,7 +7,8 @@ keywords:
 ---
 
 ## The OpenSauced Pizza CLI
-The OpenSauced Pizza CLI is a command-line utility designed specifically for OpenSauced. It provides a comprehensive set of functionalities that make it easier for users to gain insights, metrics, and manage various tasks related to open source projects through OpenSauced. 
+
+The OpenSauced Pizza CLI is a command-line utility designed specifically for OpenSauced. It provides a comprehensive set of functionalities that make it easier for users to gain insights, metrics, and manage various tasks related to open source projects through OpenSauced.
 
 Beyond just code commits, the pizza CLI reports on different ways individuals contribute to the open-source ecosystem, be it through community engagement, issue reporting, blog post writings, or pull request creations.
 
@@ -41,6 +42,7 @@ Direct Script Install: A quick way to get started by directly fetching the insta
 ```bash
 curl -fsSL https://raw.githubusercontent.com/open-sauced/pizza-cli/main/install.sh
 ```
+
 ⚠️ Warning: Piping scripts directly from the web to your shell can be risky. Always ensure you trust the source. For a safer approach, download, inspect, and then execute:
 
 ```bash
@@ -48,28 +50,33 @@ curl -fsSL https://raw.githubusercontent.com/open-sauced/pizza-cli/main/install.
 vim install.sh
 ./install.sh
 ```
+
 Manual Build and Install: For those who like a hands-on approach:
 
 ```bash
 make install
 ```
+
 Ensure /usr/local/bin/ is in your path with:
 
 ```bash
 export PATH="$PATH:/usr/local/bin"
 ```
+
 Alternatively, after building with make build, move the binary to your desired location:
 
 ```bash
 mv build/pizza <your-preferred-path>
 ```
+
 ### 🖥️ Local Development Setup
+
 To contribute to or modify the pizza CLI, you need a specific set of tools:
 
 - Go Toolchain: The foundational tool for building and managing Go applications.
 - Docker: Required for linting and other auxiliary tooling.
 - Make: A build automation tool.
-Development Commands:
+  Development Commands:
 
 - Linting: Ensure code quality with make lint.
 - Testing: Verify functionality with make test.

@@ -5,6 +5,7 @@ sidebar_label: Introduction to storybook
 keywords:
   - Introduction to storybook
 ---
+
 Storybook is an open-source tool that helps developers build, test, and document UI components in isolation.
 Storybook is being leveraged to mock out visual React components. The latest version of the design system can be found at this [URL](https://sauced-components.netlify.app/).
 
@@ -34,8 +35,9 @@ This section details how to make changes to Storybook, mainly by creating new ca
 
 ### Adding a new category
 
-To add a new category, a new file needs to be added to the `/stories` directory. When creating a new file, the filename should be named using the following convention: ```*Previous File Number + 1*-*Name of Story Capitalized*-stories.js```. For example, if the last file was 2-SideBar-stories.js, then the new file should be named ```3-NameOfYourFile-stories.js```.
+To add a new category, a new file needs to be added to the `/stories` directory. When creating a new file, the filename should be named using the following convention: `*Previous File Number + 1*-*Name of Story Capitalized*-stories.js`. For example, if the last file was 2-SideBar-stories.js, then the new file should be named `3-NameOfYourFile-stories.js`.
 In the file ensure you have this code:
+
 ```
 export default {
     title: "*Name of category*"

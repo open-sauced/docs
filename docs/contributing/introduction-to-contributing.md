@@ -33,6 +33,7 @@ npm ci
 ```
 
 ## Building
+
 To generate a production-ready version of your code, run:
 
 ```shell
@@ -42,10 +43,12 @@ npm run build
 ## Testing
 
 For running the test suite, use the following command:
+
 ```shell
 # the tests will run in watch mode by default
 npm test
 ```
+
 Since the tests run in watch mode by default, some users may encounter errors about too many files being open. In this case, it may be beneficial to [install watchman](https://facebook.github.io/watchman/docs/install.html).
 
 For more info on testing React and JavaScript, check out this course [Testing JavaScript](https://testingjavascript.com/).
@@ -68,7 +71,7 @@ npm run format
 
 These commands use [ESLint](https://eslint.org/) to check and fix the code.
 
-If you forget to run this command, automated PR checks will also run these commands, but the PR will be blocked if there are any errors. 
+If you forget to run this command, automated PR checks will also run these commands, but the PR will be blocked if there are any errors.
 
 ## Pull requests
 

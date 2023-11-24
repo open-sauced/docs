@@ -1,9 +1,9 @@
 ---
 id: dev-card
-title: 'Showcase your open source stats with your dev card'
-sidebar_label: 'Dev Card'
+title: "Showcase your open source stats with your dev card"
+sidebar_label: "Dev Card"
 keywords:
-- dev-card 
+  - dev-card
 ---
 
 The Dev card feature is what we like to call your "open source business card." On the front, you see your username, the number of pull requests you have created, repositories you contribute to, a `View Profile` button that takes you to your dashboard, and a green icon, which describes your activity rate. When you click on the back of your card, you see additional information, including your OpenSauced profile's headline, the date of your first contribution on GitHub, and your [PR velocity rate](../../docs/community/pr-velocity.md).

@@ -17,4 +17,3 @@ Our mission is to:
 - **Support Contributors**: Showcase your contributions, tell your story, connect with new projects and other contributors, and gain insights into your open source journey.
 - [**Highlight Success**](../docs/features/highlights.md): Showcase your contributions with our Shareable Highlights, inspiring others to embark on their open-source journey.
 - [**Unlock Insights**](../docs/features/insights.md): Understand the health of your project, track contributions, and make data-driven decisions with OpenSauced Insights.
-

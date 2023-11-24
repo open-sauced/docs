@@ -10,7 +10,6 @@ Pretty often when opening a pull request it is very likely to run into merge con
 
 To better illustrate the commands listed here at will use commits and screenshots from [open-sauced#1078](https://github.com/open-sauced/open-sauced/pull/1078).
 
-
 ## Repository setup
 
 Fork and clone the project using the `gh` command line interface:

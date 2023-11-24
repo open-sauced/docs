@@ -38,6 +38,7 @@ You can get involved in the OpenSauced community in a few ways:
 - Provide feedback on our [GitHub Discussions](https://github.com/orgs/open-sauced/discussions).
 
 ## Resources on Getting Started with Open Source
+
 Getting started with open source can be challenging, so we've put together some resources to help you get started.
 
 - 📝 Check out our [Dev blog](https://dev.to/opensauced) where we provide resources for open source contributors.

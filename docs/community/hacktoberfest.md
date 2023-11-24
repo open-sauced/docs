@@ -1,10 +1,11 @@
 ---
-id: hacktoberfest 
-title: 'Join us for Hacktoberfest! 🎃'
-sidebar_label: 'Join us for Hacktoberfest! 🎃'
+id: hacktoberfest
+title: "Join us for Hacktoberfest! 🎃"
+sidebar_label: "Join us for Hacktoberfest! 🎃"
 keywords:
-- hacktoberfest 
+  - hacktoberfest
 ---
+
 At OpenSauced, we love open source just as much as pizza! That's why we are participating in Hacktoberfest! 🎃
 
 ## What is Hacktoberfest?
@@ -26,7 +27,7 @@ This event is a great way to jumpstart your journey in open source, to meet othe
 
 No problem! 😄 Here is a list of resources we recommend for first-time contributors:
 
-- Take our [Intro to Open Source](https://intro.opensauced.pizza/#/) course to learn the history of open source, the tools to succeed in the community, and how to showcase your contributions.  
+- Take our [Intro to Open Source](https://intro.opensauced.pizza/#/) course to learn the history of open source, the tools to succeed in the community, and how to showcase your contributions.
 - Check out GitHub's [introductory course](https://github.com/skills/introduction-to-github) to learn how to use the platform when making open source contributions.
 - Read our [The Power of Git](https://dev.to/opensauced/the-power-of-git-a-guide-to-collaborative-version-control-dl6) blog post to learn how to harness the power of Git, your trusty weapon in Hacktoberfest.
 
@@ -36,7 +37,7 @@ During Hacktoberfest, expect to feel excited and a bit competitive on your quest
 
 - Think first, work later: It's best to share your ideas and/or request to work on an issue before submitting a pull request. It'll make it easier for maintainers to assess whether your suggestion fits in with their project. It will also help you develop your communication skills.
 - Be patient: Maintainers are people with lives outside of open source, so avoid constantly messaging them about when your pull request be reviewed and merged.
-- Try new things: While revising typos is helpful, it's best to diversify contributions. This would help expand your skills, which is very useful if you plan on using your Hacktoberfest contributions as samples for your portfolio.  
+- Try new things: While revising typos is helpful, it's best to diversify contributions. This would help expand your skills, which is very useful if you plan on using your Hacktoberfest contributions as samples for your portfolio.
 
 ## I'm ready for Hacktoberfest
 
