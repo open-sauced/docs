@@ -36,7 +36,7 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Getting started",
+      label: "Getting Started",
       collapsed: false,
       items: [
         "community/welcome-to-the-community",
@@ -99,7 +99,7 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Contributing guide",
+      label: "Contributing Guide",
       collapsed: true,
       items: [
         "contributing/introduction-to-contributing",
@@ -109,7 +109,7 @@ module.exports = {
         "contributing/maintainers-guide",
         {
           type: "category",
-          label: "Technical guide",
+          label: "Technical Guide",
           collapsed: true,
           items: [
             "contributing/technical/introduction-to-storybook",
@@ -119,7 +119,7 @@ module.exports = {
         },
       ],
     },
-    
+
     {
       type: "category",
       label: `OpenSauced Packages`,
@@ -130,6 +130,6 @@ module.exports = {
         "opensauced-packages/semantic-release",
       ],
     },
-    
+
   ],
 };
