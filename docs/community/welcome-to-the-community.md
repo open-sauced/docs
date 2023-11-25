@@ -41,4 +41,4 @@ Getting started with open source can be challenging, so we've put together some 
 
 - 📝 Check out our [blog on Dev.to](https://dev.to/opensauced), where we provide resources for open source contributors.
 - 📖 Take our [Intro to Open Source Course](https://intro.opensauced.pizza/#/) to help you start with open source.
-- 📅 Join our [#100DaysOfOSS Challenge](https://docs.opensauced.pizza/community/100-days-of-oss/) to help you grow your skills and gain real-world experience in open source.
+- 📅 Join our [#100DaysOfOSS Challenge](100-days-of-oss.md) to help you grow your skills and gain real-world experience in open source.
