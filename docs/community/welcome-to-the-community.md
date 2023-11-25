@@ -21,7 +21,7 @@ At OpenSauced, we strive to create a welcoming and inclusive community for every
 
 The OpenSauced community is a group of open-source enthusiasts who are passionate about making open-source more accessible to everyone. Here are some ways you can keep up with what we're doing:
 
-- 🐦 Follow us on Twitter [@SaucedOpen](https://twitter.com/saucedopen) for announcements and our frequent Twitter Spaces.
+- Follow us on X [@SaucedOpen](https://twitter.com/saucedopen) for announcements and our frequent X Spaces.
 - Join our [Discord](https://discord.gg/opensauced), and hang out with us in our weekly office hours.
 - Subscribe to our [YouTube channel](https://www.youtube.com/@OpenSauced) for the latest updates and video content for OpenSauced.
 - 📰 Subscribe to our [newsletter](https://news.opensauced.pizza/#/portal/signup) for all things OpenSauced and open source.
