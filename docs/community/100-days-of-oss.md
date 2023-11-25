@@ -16,7 +16,7 @@ The beauty of this challenge is that you're not required to code. The main purpo
 
 There are numerous ways to participate in the #100DaysOfOSS challenge, including:
 
-### Content creation
+### Content Creation
 
 Love creating content? Here's how you can use this skill for the challenge:
 
@@ -24,7 +24,7 @@ Love creating content? Here's how you can use this skill for the challenge:
 - Participate in or even start an X Space.
 - Write a blog post or create a video.
 
-### Project management
+### Project Management
 
 Want to improve your project management skills? Need to get better at communicating or giving feedback to others? Here's how you can use this skill for the challenge:
 
@@ -49,7 +49,7 @@ This is a great time to show your technical growth. Here are some paths you can 
 - Maintain a project: review pull requests, triage issues, and respond to questions.
 - Submit pull requests to contribute code changes.
 
-### Tracking your progress
+### Tracking Your Progress
 
 To keep track of your progress, post on social media, your blog, or any other platform you prefer with:
 
@@ -74,7 +74,7 @@ Don't worry if you're unable to start on the same day as everyone else. The #100
 
 To make the most of your #100DaysOfOSS journey, here are some additional resources and events you can explore:
 
-1. **Weekly Twitter Spaces:** Join our weekly X Spaces sessions, where we discuss open source topics, share insights, and connect with like-minded individuals. Follow us on [X](https://twitter.com/saucedopen) to stay updated on upcoming sessions.
+1. **Weekly X Spaces:** Join our weekly X Spaces sessions, where we discuss open source topics, share insights, and connect with like-minded individuals. Follow us on [X](https://twitter.com/saucedopen) to stay updated on upcoming sessions.
 
 2. **Community Events:** Discover a wide range of events on our [community docs page](https://docs.opensauced.pizza/community/welcome-to-the-community). Whether it's hack days, workshops, or office hours, these events provide excellent opportunities to learn, collaborate, and find new projects to contribute to.
 
@@ -96,7 +96,7 @@ The #100DaysOfOSS challenge offers a supportive community where developers can f
 
 Our hope is that the community will provide a safe space to discuss challenges, celebrate achievements, and exchange insights, creating an environment that helps individuals stay on track and avoid giving up.
 
-## Why join the #100DaysOfOSS Challenge:
+## Why Join the #100DaysOfOSS Challenge?
 
 1. **Skill Enhancement**: By working on real-world projects, you'll gain practical experience and exposure to different projects, documentation, communities, programming languages, frameworks, and tools. You'll also learn from experienced developers, receive feedback on your code, and improve your problem-solving abilities.
 
@@ -121,7 +121,7 @@ Use the link to sign up for a session.
 - [August 28th, 2023 | 9a ET](https://lu.ma/2e9ixqx5)
 - [September 25th, 2023 | 12p ET](https://lu.ma/6pevzkoq)
 
-### Weekly Twitter Spaces
+### Weekly X Spaces
 
 Join us every Tuesday at 10:30a ET for our weekly X Spaces sessions, where we discuss open source topics, share insights, and connect with like-minded individuals. Follow us on [X](https://twitter.com/saucedopen) to stay updated on upcoming sessions.
 
