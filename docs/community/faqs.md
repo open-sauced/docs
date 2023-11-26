@@ -6,6 +6,8 @@ keywords:
   - faqs
 ---
 
+## Contributions
+
 1. **How do I find good first issues?**
    We believe that [good first issues don't exist](https://opensauced.pizza/blog/good-first-issues-dont-exist), and the best way to find an issue to work on is to create the issue yourself.
 
