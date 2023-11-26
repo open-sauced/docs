@@ -8,7 +8,7 @@ keywords:
 
 ## The OpenSauced Pizza CLI
 
-The OpenSauced Pizza CLI is a command-line utility designed specifically for OpenSauced. It provides a comprehensive set of functionalities that make it easier for users to gain insights, metrics, and manage various tasks related to open source projects through OpenSauced.
+The OpenSauced Pizza CLI is a command-line utility designed specifically for OpenSauced. It provides a comprehensive set of functionalities that make it easier for users to gain insights and metrics and manage various tasks related to open source projects through OpenSauced.
 
 Beyond just code commits, the pizza CLI reports on different ways individuals contribute to the open source ecosystem, be it through community engagement, issue reporting, blog post writings, or pull request creations.
 
@@ -16,7 +16,7 @@ Beyond just code commits, the pizza CLI reports on different ways individuals co
 
 - **Bake**: Seamlessly source git commits into OpenSauced with the metaphorical 'oven' of technology.
 - **Insights**: Dive deep into data about git contributors, repositories, users, and pull requests.
-- **Repo-query**: Get your questions answered about any GitHub repository.
+- **Repo-query**: Get your questions about any GitHub repository answered.
 - **Show**: Visualize the metrics of a repository, providing a holistic view of its health and activity.
 - **Login**: Securely log into the application via GitHub, ensuring a streamlined and safe experience.
 
@@ -44,7 +44,7 @@ The pizza CLI provides multiple installation methods to cater to the varied pref
   curl -fsSL https://raw.githubusercontent.com/open-sauced/pizza-cli/main/install.sh
   ```
 
-  ⚠️ **Warning**: Piping scripts directly from the web to your shell can be risky. Always ensure you trust the source. For a safer approach, download, inspect, and then execute:
+  ⚠️ **Warning**: Piping scripts directly from the web to your shell can be risky. Always ensure you trust the source. For a safer approach, download, inspect, and then execute the following commands:
 
   ```bash
   curl -fsSL https://raw.githubusercontent.com/open-sauced/pizza-cli/main/install.sh > install.sh
