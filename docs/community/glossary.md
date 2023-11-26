@@ -17,6 +17,7 @@ PR Velocity measures the percentage and amount of days that pull requests that a
 Activity tracks PRs over the last 30 days. High indicates more than 80 PRs. Medium is between 5 and 80 PRs. Low is below 5 PRs.
 
 Activity tracks pull requests (PRs) over the last 30 days:
+
 - **High**: More than 80 PRs.
 - **Medium**: Between 5 and 80 PRs.
 - **Low**: Below 5 PRs.
