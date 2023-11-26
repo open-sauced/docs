@@ -74,8 +74,8 @@ The pizza CLI provides multiple installation methods to cater to the varied pref
 
 To contribute to or modify the pizza CLI, you need a specific set of tools:
 
-- **Go Toolchain**: The foundational tool for building and managing Go applications.
-- **Docker**: Required for linting and other auxiliary tooling.
+- [**Go Toolchain**](https://go.dev/doc/install): The foundational tool for building and managing Go applications.
+- [**Docker**](https://docs.docker.com/engine/install/): Required for linting and other auxiliary tooling.
 - **Make**: A build automation tool.
   
     Development Commands:
