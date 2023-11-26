@@ -74,11 +74,12 @@ The pizza CLI provides multiple installation methods to cater to the varied pref
 
 To contribute to or modify the pizza CLI, you need a specific set of tools:
 
-- Go Toolchain: The foundational tool for building and managing Go applications.
-- Docker: Required for linting and other auxiliary tooling.
-- Make: A build automation tool.
-  Development Commands:
+- **Go Toolchain**: The foundational tool for building and managing Go applications.
+- **Docker**: Required for linting and other auxiliary tooling.
+- **Make**: A build automation tool.
+  
+    Development Commands:
 
-- Linting: Ensure code quality with make lint.
-- Testing: Verify functionality with make test.
-- Building: Create the executable with make build.
+    - **Linting**: Ensure code quality with `make lint`.
+    - **Testing**: Verify functionality with `make test`.
+    - **Building**: Create the executable with `make build`.
