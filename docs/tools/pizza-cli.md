@@ -10,15 +10,15 @@ keywords:
 
 The OpenSauced Pizza CLI is a command-line utility designed specifically for OpenSauced. It provides a comprehensive set of functionalities that make it easier for users to gain insights, metrics, and manage various tasks related to open source projects through OpenSauced.
 
-Beyond just code commits, the pizza CLI reports on different ways individuals contribute to the open-source ecosystem, be it through community engagement, issue reporting, blog post writings, or pull request creations.
+Beyond just code commits, the pizza CLI reports on different ways individuals contribute to the open source ecosystem, be it through community engagement, issue reporting, blog post writings, or pull request creations.
 
 ## Key Features
 
-- Bake: Seamlessly source git commits into OpenSauced with the metaphorical 'oven' of technology.
-- Insights: Dive deep into data about git contributors, repositories, users, and pull requests.
-- Repo-query: Get your questions answered about any GitHub repository.
-- Show: Visualize the metrics of a repository, providing a holistic view of its health and activity.
-- Login: Securely log into the application via GitHub, ensuring a streamlined and safe experience.
+- **Bake**: Seamlessly source git commits into OpenSauced with the metaphorical 'oven' of technology.
+- **Insights**: Dive deep into data about git contributors, repositories, users, and pull requests.
+- **Repo-query**: Get your questions answered about any GitHub repository.
+- **Show**: Visualize the metrics of a repository, providing a holistic view of its health and activity.
+- **Login**: Securely log into the application via GitHub, ensuring a streamlined and safe experience.
 
 ## Installation and Instructions
 
