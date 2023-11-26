@@ -12,4 +12,4 @@ The OpenSauced Chrome extension seamlessly integrates GitHub with the OpenSauced
 
 ## Installing the Chrome Extension
 
-To install the OpenSauced Chrome extension, navigate to the [Chrome Web Store](https://chrome.google.com/webstore/detail/opensauced/aebjdjjodmkdnmejakflnfpkadblfmdh) and click the "Add to Chrome" button.
+To install the OpenSauced Chrome extension, navigate to the [OpenSauced.ai extension on Chrome Web Store](https://chrome.google.com/webstore/detail/opensauced/aebjdjjodmkdnmejakflnfpkadblfmdh) and click the "Add to Chrome" button.
