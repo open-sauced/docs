@@ -16,8 +16,8 @@ keywords:
 
    **Additional resources**:
 
-   - ["Who's looking for open source contributors?"](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-46-247i)
-   - [Intro to Open Source Course](https://intro.opensauced.pizza/)
+   - ["Who's looking for open source contributors?" series on Dev.to](https://dev.to/bekahhw/series/23323)
+   - [Intro to Open Source Course with OpenSauced](https://intro.opensauced.pizza/)
 
 2. **My contribution does not show up on my OpenSauced profile. How do I fix it?**
 
