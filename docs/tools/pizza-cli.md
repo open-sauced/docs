@@ -26,49 +26,49 @@ Beyond just code commits, the pizza CLI reports on different ways individuals co
 
 The pizza CLI provides multiple installation methods to cater to the varied preferences of its users:
 
-- Homebrew: For macOS users who prefer the Homebrew package manager:
+- **Homebrew**: For macOS users who prefer the Homebrew package manager.
 
-```bash
-brew install open-sauced/tap/pizza
-```
+  ```bash
+  brew install open-sauced/tap/pizza
+  ```
 
-NPM: For those who are fond of the Node Package Manager:
+- **NPM**: For those who are fond of the Node Package Manager.
 
-```bash
-npm i -g pizza
-```
+  ```bash
+  npm i -g pizza
+  ```
 
-Direct Script Install: A quick way to get started by directly fetching the installation script from GitHub:
+- **Direct script install**: A quick way to get started by directly fetching the installation script from GitHub.
 
-```bash
-curl -fsSL https://raw.githubusercontent.com/open-sauced/pizza-cli/main/install.sh
-```
+  ```bash
+  curl -fsSL https://raw.githubusercontent.com/open-sauced/pizza-cli/main/install.sh
+  ```
 
-⚠️ Warning: Piping scripts directly from the web to your shell can be risky. Always ensure you trust the source. For a safer approach, download, inspect, and then execute:
+  ⚠️ **Warning**: Piping scripts directly from the web to your shell can be risky. Always ensure you trust the source. For a safer approach, download, inspect, and then execute:
 
-```bash
-curl -fsSL https://raw.githubusercontent.com/open-sauced/pizza-cli/main/install.sh > install.sh
-vim install.sh
-./install.sh
-```
+  ```bash
+  curl -fsSL https://raw.githubusercontent.com/open-sauced/pizza-cli/main/install.sh > install.sh
+  vim install.sh
+  ./install.sh
+  ```
 
-Manual Build and Install: For those who like a hands-on approach:
+- **Manual build and install**: For those who like a hands-on approach.
 
-```bash
-make install
-```
+  ```bash
+  make install
+  ```
 
-Ensure /usr/local/bin/ is in your path with:
+  Ensure `/usr/local/bin/` is in your path with:
 
-```bash
-export PATH="$PATH:/usr/local/bin"
-```
+  ```bash
+  export PATH="$PATH:/usr/local/bin"
+  ```
 
-Alternatively, after building with make build, move the binary to your desired location:
+  Alternatively, after building with `make build`, move the binary to your desired location:
 
-```bash
-mv build/pizza <your-preferred-path>
-```
+  ```bash
+  mv build/pizza <your-preferred-path>
+  ```
 
 ### 🖥️ Local Development Setup
 
