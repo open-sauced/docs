@@ -7,7 +7,7 @@ keywords:
   - pr descriptions
 ---
 
-This will help you to create a PR based on the configuration you have in the extension, it will enable you to create the summary based on either **Commit Messages** or **The diff between the files** or **both**, you can even set the length and the tone of the message using the same settings.
+The OpenSauced Chrome extension will help you create a PR based on the configuration you have in the extension. It will enable you to create the summary based on either commit messages, the difference between the files, or both. You can even set the message's length and tone using the same settings.
 
 _**Note**: This feature is not available on private repositories._
 
