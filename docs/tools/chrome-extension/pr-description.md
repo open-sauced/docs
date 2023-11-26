@@ -28,12 +28,12 @@ You can use this settings to set the strictness and the tone of the generated AI
 
 [Example PR](https://github.com/open-sauced/insights/pull/1197), using the next options: both in the description source, 500 for output length and 3900 max input length, temperature 0.7.
 
-**Exciting:** This PR fixes the follow call and adds a FollowUser function to the contributor-highlight-card. The code has been linted and merged from the beta branch. FollowUser function allows users to follow/unfollow contributors. Copy link and follow/unfollow options are now available in the dropdown menu.
+**Exciting:** This PR fixes the follow call and adds a `FollowUser` function to the `contributor-highlight-card`. The code has been linted and merged from the `beta` branch. `FollowUser` function allows users to follow/unfollow contributors. Copy link and follow/unfollow options are now available in the dropdown menu.
 
 **Persuasive:** This PR fixes the follow call and linting issues in the `ContributorHighlightCard` component. It also merges the `beta` branch into `fix-follow-check`. A new `FollowUser` function has been added to handle follow/unfollow functionality. This PR ensures a smoother user experience.
 
 **Informative:** This PR fixes the follow call and linting issues in the `ContributorHighlightCard` component. A new function `FollowUser` has been added to handle the follow/unfollow functionality. The `useFollowUser` hook has been moved inside this function. The `FollowUser` function is now used in place of the previous follow/unfollow code block. The code has been tested and reviewed.
 
-**Humorous:** This PR fixes the follow call and also lints the file. We've also added a new FollowUser function to make the code more readable. Now you can follow/unfollow contributors with ease. We've also merged the beta branch into fix-follow-check.
+**Humorous:** This PR fixes the follow call and also lints the file. We've also added a new `FollowUser` function to make the code more readable. Now you can follow/unfollow contributors with ease. We've also merged the `beta` branch into `fix-follow-check`.
 
 **Formal:** This PR fixes the follow call and linting issues in the `ContributorHighlightCard` component. A new function `FollowUser` has been added to handle the follow/unfollow functionality. The `useFollowUser` hook has been moved inside this function. The `FollowUser` function is now used in place of the previous follow/unfollow code block. This PR also merges the `beta` branch into `fix-follow-check`.
