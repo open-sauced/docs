@@ -22,7 +22,8 @@ Beyond just code commits, the pizza CLI reports on different ways individuals co
 
 ## Installation and Instructions
 
-📦 Download & Install
+### 📦 Download and Install
+
 The pizza CLI provides multiple installation methods to cater to the varied preferences of its users:
 
 - Homebrew: For macOS users who prefer the Homebrew package manager:
