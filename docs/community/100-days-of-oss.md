@@ -116,22 +116,22 @@ We're hosting a series of events to help you stay motivated and make progress on
 
 Use the link to sign up for a session.
 
-- [July 24rd, 2023 | 8:30a ET](https://lu.ma/9phdjsbq)
-- [August 11th, 2023 | 3p ET](https://lu.ma/hm8xxk6k)
-- [August 28th, 2023 | 9a ET](https://lu.ma/2e9ixqx5)
-- [September 25th, 2023 | 12p ET](https://lu.ma/6pevzkoq)
+- [July 24rd, 2023 | 8:30 a.m. ET](https://lu.ma/9phdjsbq)
+- [August 11th, 2023 | 3 p.m. ET](https://lu.ma/hm8xxk6k)
+- [August 28th, 2023 | 9 a.m. ET](https://lu.ma/2e9ixqx5)
+- [September 25th, 2023 | noon ET](https://lu.ma/6pevzkoq)
 
 ### Weekly X Spaces
 
-Join us every Tuesday at 10:30a ET for our weekly X Spaces sessions, where we discuss open source topics, share insights, and connect with like-minded individuals. Follow us on [X](https://twitter.com/saucedopen) to stay updated on upcoming sessions.
+Join us every Tuesday at 10:30 a.m. ET for our weekly X Spaces sessions, where we discuss open source topics, share insights, and connect with like-minded individuals. Follow us on [X](https://twitter.com/saucedopen) to stay updated on upcoming sessions.
 
-- [September 5 | 10:30a ET](https://twitter.com/i/spaces/1nAJErEOgDyxL?s=20)
-- [September 12 | 10:30a](https://twitter.com/i/spaces/1lPKqBvEMwYGb?s=20)
+- [September 5 | 10:30 a.m. ET](https://twitter.com/i/spaces/1nAJErEOgDyxL?s=20)
+- [September 12 | 10:30 a.m. ET](https://twitter.com/i/spaces/1lPKqBvEMwYGb?s=20)
 
 More links to come!
 
 ### Weekly Office Hours
 
-Have questions or need help? Join us on [Discord](https://discord.gg/opensauced) during our office hours every Tuesday at 12p ET or post on our `#100DaysOfOSS` channel. We're here to help you succeed!
+Have questions or need help? Join us on [Discord](https://discord.gg/opensauced) during our office hours every Tuesday at noon ET or post on our `#100DaysOfOSS` channel. We're here to help you succeed!
 
 Happy contributing, and best of luck on your #100DaysOfOSS adventure!
