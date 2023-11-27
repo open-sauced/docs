@@ -11,13 +11,13 @@ View stats about open issues, PRs made, average PRs velocity, and contributed re
 
 ![GitHub Profile Insights](../../../static/img/extension-popup.png)
 
-### Invite GitHub users to join OpenSauced with a single click
+### Invite GitHub Users to Join OpenSauced With a Single Click
 
 Invite other users to create an OpenSauced account to keep track of open source contributions when visiting their GitHub profile.
 
 ![Invite GitHub Users](../../../static/img/extension-invite.png)
 
-### View GitHub users' OpenSauced profiles and connect with them
+### View GitHub Users' OpenSauced Profiles and Connect With Them
 
 View a user’s OpenSauced profile when on their GitHub profile page.
 
