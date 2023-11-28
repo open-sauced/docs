@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.53.0](https://github.com/open-sauced/docs/compare/v1.52.0...v1.53.0) (2023-11-28)
+
+
+### Features
+
+* adds glossary  ([#212](https://github.com/open-sauced/docs/issues/212)) ([70f7925](https://github.com/open-sauced/docs/commit/70f79255f2af71783686fda8068bfa73c6929ac9))
+
 ## [1.52.0](https://github.com/open-sauced/docs/compare/v1.51.0...v1.52.0) (2023-11-16)
 
 
