@@ -38,7 +38,7 @@ A contributor who has recently made their first contribution to a project.
 
 ## PR Overview
 
-PR Overview tells the story of the Pull Requests submitted in the last 30 days:
+PR Overview tells the story of the Pull Requests (PRs) submitted in the last 30 days:
 
 - **Green line**: Open PRs.
 - **Red line**: Closed PRs.
@@ -47,4 +47,4 @@ PR Overview tells the story of the Pull Requests submitted in the last 30 days:
 
 ## PR Velocity
 
-PR Velocity tracks how quickly PRs are being merged in by identifying the average time to completion from Pull Request.
+PR Velocity tracks how quickly Pull Requests (PRs) are being merged in by identifying the average time to completion from Pull Request.
