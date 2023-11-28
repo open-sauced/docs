@@ -12,9 +12,7 @@ Welcome to the glossary, where we define concepts used on our platform to help y
 
  PR Velocity tracks how quickly PRs are being merged in by identifying the average time to completion from Pull Request.
 
-## Activity 
-
-Activity tracks PRs over the last 30 days. High indicates more than 80 PRs. Medium is between 5 and 80 PRs. Low is below 5 PRs.
+## Activity
 
 Activity tracks pull requests (PRs) over the last 30 days:
 
