@@ -10,7 +10,7 @@ Welcome to the glossary, where we define concepts used on our platform to help y
 
 ## PR Velocity
 
-PR Velocity measures the percentage and amount of days that pull requests that are merged. It is a great way to track the progress of your open-source contributions.
+ PR Velocity tracks how quickly PRs are being merged in by identifying the average time to completion from Pull Request.
 
 ## Activity 
 
