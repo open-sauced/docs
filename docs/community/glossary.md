@@ -14,7 +14,7 @@ Welcome to the glossary, where we define concepts used on our platform to help y
 
 ## Activity
 
-Activity tracks pull requests (PRs) over the last 30 days:
+Activity tracks Pull Requests (PRs) over the last 30 days:
 
 - **High**: More than 80 PRs.
 - **Medium**: Between 5 and 80 PRs.
@@ -47,4 +47,4 @@ The Insights feature is a one-stop solution for understanding the pulse of your 
 
 ## Lists
 
-The Lists feature enables you to categorize, monitor, and analyze different groups of contributors within open-source projects. With the Lists feature, gain granular insights into each contributor's activity and contributions.
+The Lists feature enables you to categorize, monitor, and analyze different groups of contributors within open source projects. With the Lists feature, gain granular insights into each contributor's activity and contributions.
