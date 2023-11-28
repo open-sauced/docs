@@ -43,10 +43,6 @@ A contributor who has been active in the last 30 days.
 
 A contributor who has recently made their first contribution to a project.
 
-## Churned Contributors
-
-A contributor who is actively involved in the development process. They actively and regularly make changes to the codebase.
-
 ## Insights
 
 The Insights feature is a one-stop solution for understanding the pulse of your open-source projects and contributions. This feature is designed to provide a comprehensive view of your project's health and your individual contributions.
