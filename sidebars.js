@@ -17,9 +17,9 @@ module.exports = {
       label: "Getting started",
       collapsed: false,
       items: [
-        "welcome/faqs",
+        "welcome/opensauced-intro",
         "welcome/glossary",
-        "welcome/opensauced-intro"
+        "welcome/faqs"
       ],
     },
     {
