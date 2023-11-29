@@ -1,3 +1,4 @@
+---
 id: opensauced-intro
 title: 'What is OpenSauced?'
 sidebar_label: 'What is OpenSauced?'
@@ -19,6 +20,6 @@ OpenSauced is a platform dedicated to nurturing and expanding your open source c
 - **See Beyond Green Squares:** Connect with various aspects of open source contribution and community activities.
 
 ## Who is OpenSauced for?
-OpenSauced is for maintainers, OSPOs, maintainers, companies, community managers, and anyone who is interested in what's happening in the open source ecosystem. 
+OpenSauced is for maintainers, OSPOs, contributors, companies, community managers, and anyone who is interested in what's happening in the open source ecosystem. 
 
 Embarking on an OpenSauced journey enhances your  growth and community engagement. Let's launch your open source success story 🚀
