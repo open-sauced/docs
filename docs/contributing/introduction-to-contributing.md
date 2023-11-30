@@ -89,7 +89,7 @@ If you forget to run this command, automated PR checks will also run these comma
 6. Ensure the test suite passes.
 7. Make sure you address any lint warnings.
 8. If you improve the existing code, please let us know in your PR description.
-9. A PR description and title are required. The title is required to begin with: "feat:" or "fix:"
+9. A PR description and title are required. The title is required to begin with "feat:" or "fix:"
 10. [Link to an issue](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls) in the project. Unsolicited code is welcomed, but an issue is required to announce your intentions. PRs without a linked issue will be marked invalid and closed.
 
 _**Note for maintainers**: All pull requests need a label to assist automation. See the [template](https://github.com/open-sauced/open-sauced/blob/HEAD/.github/release-drafter.yml) to guide which labels to use._
@@ -120,7 +120,7 @@ Assuming you are dealing with code changes and you add them using `git add`, onc
 
 ### Work in Progress
 
-GitHub supports draft pull requests, which will disable the merge button until the PR is marked as ready for merge.
+GitHub supports [draft pull requests](https://github.blog/2019-02-14-introducing-draft-pull-requests/), which will disable the merge button until the PR is marked as ready for merge.
 
 ## Issues
 
@@ -128,7 +128,7 @@ If you wish to work on an open issue, please comment on the issue with `.take`, 
 
 If you contribute to the project for the first time, you can check issues with [good first issue](https://github.com/open-sauced/hot/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) or [bug](https://github.com/open-sauced/hot/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+bug%22) labels.
 
-In case you get stuck, feel free to ask for help in the [Discord](https://discord.gg/U2peSNf23P) server or GitHub Discussions.
+In case you get stuck, feel free to ask for help in the [Discord](https://discord.gg/U2peSNf23P) server or [GitHub Discussions](https://github.com/orgs/open-sauced/discussions).
 
 Please follow our [code of conduct](./code-of-conduct.md) in all your interactions with the project and its contributors.
 
