@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.55.0](https://github.com/open-sauced/docs/compare/v1.54.0...v1.55.0) (2023-11-30)
+
+
+### Features
+
+* add link to public calendar ([#218](https://github.com/open-sauced/docs/issues/218)) ([e8a0da5](https://github.com/open-sauced/docs/commit/e8a0da5f990ade7f9d8f214babe9be559b854f70))
+
 ## [1.54.0](https://github.com/open-sauced/docs/compare/v1.53.0...v1.54.0) (2023-11-30)
 
 
