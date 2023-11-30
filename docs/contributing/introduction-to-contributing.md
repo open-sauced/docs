@@ -12,7 +12,7 @@ please read the [code of conduct](./code-of-conduct.md) and follow the direction
 ## Recommended Communication Style
 
 1. Always leave screenshots for visual changes.
-2. Always leave a detailed description in the Pull Request. Leave nothing ambiguous for the reviewer.
+2. Always leave a detailed description in the pull request. Leave nothing ambiguous for the reviewer.
 3. Always review your code first. Be sure to run the project locally and test before asking for a review.
 4. Always communicate in the GitHub repository. Whether it is in the issue or the pull request, keeping the lines of communication open and visible to everyone on the team helps everyone around you.
 
@@ -20,17 +20,21 @@ please read the [code of conduct](./code-of-conduct.md) and follow the direction
 
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repository you're working on from [github/open-sauced](https://github.com/open-sauced) to your own GitHub account.
 2. Clone the forked repository to your local machine.
-3. Check the README of the project to determine how to run the project locally. For many of our repositories, you'll find the directions below work for running the project locally.
-4. Run `npm ci` to install the dependencies and set up the project.
+3. Check the project's README to determine how to run the project locally.
 
-You can also use the shell commands below to get started once you have forked the repository.
-Make sure to replace `<your-name>` with your GitHub username.
+For many of our repositories, you'll find the directions below work for running the project locally:
+
+Run `npm ci` to install the dependencies and set up the project.
+
+You can also use the shell commands below to get started once you have forked the repository:
 
 ```shell
 git clone https://github.com/<your-name>/open-sauced
 cd open-sauced
 npm ci
 ```
+
+Make sure to replace `<your-name>` with your GitHub username.
 
 ## Building
 
@@ -73,7 +77,7 @@ These commands use [ESLint](https://eslint.org/) to check and fix the code.
 
 If you forget to run this command, automated PR checks will also run these commands, but the PR will be blocked if there are any errors.
 
-## Pull Requests
+## Pull Requests (PR)
 
 **_We actively welcome your pull requests, however linking your work to an existing issue is preferred._**
 
