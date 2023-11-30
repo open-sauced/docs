@@ -14,6 +14,16 @@ module.exports = {
     "introduction",
     {
       type: "category",
+      label: "Getting started",
+      collapsed: false,
+      items: [
+        "welcome/opensauced-intro",
+        "welcome/glossary",
+        "welcome/faqs"
+      ],
+    },
+    {
+      type: "category",
       label: "Features",
       collapsed: false,
       items: [
@@ -36,13 +46,11 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Getting started",
+      label: "Community",
       collapsed: false,
       items: [
         "community/welcome-to-the-community",
         "community/100-days-of-oss",
-        "community/faqs",
-        "community/glossary",
       ],
     },
     {
