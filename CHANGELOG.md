@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.54.0](https://github.com/open-sauced/docs/compare/v1.53.0...v1.54.0) (2023-11-30)
+
+
+### Features
+
+* Update sidebar with new sections ([#217](https://github.com/open-sauced/docs/issues/217)) ([20f4dfe](https://github.com/open-sauced/docs/commit/20f4dfe8abc2bea0b5f4463e15c8f9d2de25e4d9))
+
 ## [1.53.0](https://github.com/open-sauced/docs/compare/v1.52.0...v1.53.0) (2023-11-28)
 
 
