@@ -73,7 +73,7 @@ These commands use [ESLint](https://eslint.org/) to check and fix the code.
 
 If you forget to run this command, automated PR checks will also run these commands, but the PR will be blocked if there are any errors.
 
-## Pull requests
+## Pull Requests
 
 **_We actively welcome your pull requests, however linking your work to an existing issue is preferred._**
 
@@ -90,7 +90,7 @@ If you forget to run this command, automated PR checks will also run these comma
 
 _note for maintainers: All pull requests need a label to assist automation. See the [template](https://github.com/open-sauced/open-sauced/blob/HEAD/.github/release-drafter.yml) to guide which labels to use._
 
-### PR validation
+### PR Validation
 
 Examples for valid PR titles:
 
@@ -114,7 +114,7 @@ Using the `npm run push` command is an interactive replacement for `git commit`.
 
 Assuming you are dealing with code changes and you add them using `git add`, once you are ready to commit, there are 2 ways we can proceed: `git commit` or `npm run push`. The second method is preferred, as doing a subsequent `git push` and then opening a PR would ensure the title is conforming to our standards.
 
-### Work in progress
+### Work in Progress
 
 GitHub has support for draft pull requests, which will disable the merge button until the PR is marked as ready for merge.
 
@@ -128,7 +128,7 @@ In case you get stuck, please feel free to ask for help in the [Discord](https:/
 
 Please note that we have a [code of conduct](./code-of-conduct.md), please follow it in all your interactions with the project and it's contributors.
 
-## Triage team
+## Triage Team
 
 The Triage team is inspired by [expressjs/express](https://github.com/expressjs/express/blob/HEAD/Triager-Guide.md). This team exists to create a path for making contributions to this project and open source. All Triage Team members are expected to follow this guide: [TRIAGE_GUIDE.md](./triage-guide.md)
 
@@ -144,7 +144,7 @@ OpenSauced is a part of GitHub Sponsors. If you would like to contribute, please
 
 Do you have questions? Join the conversation in our [Discord](https://discord.gg/U2peSNf23P).
 
-## Coding tips
+## Coding Tips
 
 - Ask questions if you are stuck.
 - Use [CSS variables.](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
