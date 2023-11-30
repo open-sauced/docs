@@ -27,6 +27,7 @@ The OpenSauced community is a group of open-source enthusiasts who are passionat
 - Join our [Discord](https://discord.gg/opensauced), and hang out with us in our weekly office hours.
 - Subscribe to our [YouTube channel](https://www.youtube.com/@OpenSauced) for the latest updates and video content for OpenSauced.
 - 📰 Subscribe to our [newsletter](https://news.opensauced.pizza/#/portal/signup) for all things OpenSauced and open source.
+- 🗓️ Check out the [calendar](https://calendar.google.com/calendar/u/0?cid=Y19kYWRhODM2MjlhZDg4ZWM2M2IxZGFmMTE5MDIyMDg0MjU2ZmQ4NmNjNWNhYmMxMjk5MDhjMGUxOTY3NjY4ZTg0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) for our next weekly community chat.
 
 ## How can I get involved?
 
