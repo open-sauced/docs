@@ -102,7 +102,7 @@ Examples of valid PR titles:
 - feat: Add support for Node 12.
 - refactor!: Drop support for Node 6.
 
-_**Note**: Since PR titles only have a single line, you have to use the (`!`) syntax for breaking changes._
+_**Note**: Since PR titles only have a single line, you have to use the `!` syntax for breaking changes._
 
 See [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for more examples.
 
