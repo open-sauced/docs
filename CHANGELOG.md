@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.55.1](https://github.com/open-sauced/docs/compare/v1.55.0...v1.55.1) (2023-12-03)
+
+
+### Bug Fixes
+
+* updated link to PR Velocity  ([#220](https://github.com/open-sauced/docs/issues/220)) ([fb5adec](https://github.com/open-sauced/docs/commit/fb5adec5998138815f43be71a63ce4ea9241562a))
+
 ## [1.55.0](https://github.com/open-sauced/docs/compare/v1.54.0...v1.55.0) (2023-11-30)
 
 
