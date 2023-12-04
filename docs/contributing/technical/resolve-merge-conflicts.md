@@ -10,7 +10,7 @@ Pretty often when opening a pull request it is very likely to run into merge con
 
 To better illustrate the commands listed here at will use commits and screenshots from [open-sauced#1078](https://github.com/open-sauced/open-sauced/pull/1078).
 
-## Repository setup
+## Repository Setup
 
 Fork and clone the project using the `gh` command line interface:
 
@@ -57,7 +57,7 @@ git fetch upstream --recurse-submodules=no --progress --prune
 git merge upstream/main --no-stat -v
 ```
 
-## Merge with upstream
+## Merge with `upstream`
 
 Then merge with the forked up-to-date `beta` (default branch):
 
@@ -69,7 +69,7 @@ You will see something similar to:
 
 ![proper merge but results in conflicts](../../../static/img/contributing-resolve-merge-conflicts-merge-conflicts.png)
 
-## Review changes
+## Review Changes
 
 To see what the changes are do a:
 
@@ -81,7 +81,7 @@ It will look like this:
 
 ![review merge conflicts](../../../static/img/contributing-resolve-merge-conflicts-review-conflicts.png)
 
-## Resolve conflicts
+## Resolve Conflicts
 
 Since this pull request does not modify the `package.json` file it is safe to fast-forward the changes from `origin/main`:
 
@@ -102,7 +102,7 @@ git merge-file -p --theirs \
     branch.package.json base.package.json head.package.json > package.json
 ```
 
-## Commit changes
+## Commit Changes
 
 Not making any assumptions about editor preferences running this will open the configured editor with a default commit message:
 
@@ -114,7 +114,7 @@ That should look like this:
 
 ![commit merge message](../../../static/img/contributing-resolve-merge-conflicts-commit-message.png)
 
-## Push updated pull request
+## Push Updated Pull Request
 
 One more security check to make sure your branch has not diverged and push:
 
@@ -127,7 +127,7 @@ It should look something like this:
 
 ![push updated pr](../../../static/img/contributing-resolve-merge-conflicts-merge-success.png)
 
-## Review your pull request
+## Review Your Pull Request
 
 The result of the above commands can be viewed at [283ff8cd788c550309ff0d1d5a9a5a97ec0731b2](https://github.com/open-sauced/open-sauced/pull/1078/commits/283ff8cd788c550309ff0d1d5a9a5a97ec0731b2)
 
@@ -139,7 +139,7 @@ And it's ready to merge:
 
 ![ready to merge](../../../static/img/contributing-resolve-merge-conflicts-ready-to-merge.png)
 
-## Dependency updates
+## Dependency Updates
 
 When dealing with dependency and lock file updates, there are multiple use cases to consider; however, as a baseline, the OpenSauced triage team will not prioritize parallel main features as seen in the roadmap.
 
