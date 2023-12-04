@@ -104,7 +104,7 @@ git merge-file -p --theirs \
 
 ## Commit Changes
 
-Not making any assumptions about editor preferences running this will open the configured editor with a default commit message:
+Not making any assumptions about editor preferences, running this will open the configured editor with a default commit message:
 
 ```shell
 git commit
@@ -129,7 +129,7 @@ It should look something like this:
 
 ## Review Your Pull Request
 
-The result of the above commands can be viewed at [283ff8cd788c550309ff0d1d5a9a5a97ec0731b2](https://github.com/open-sauced/open-sauced/pull/1078/commits/283ff8cd788c550309ff0d1d5a9a5a97ec0731b2)
+The result of the above commands can be viewed at [283ff8cd788c550309ff0d1d5a9a5a97ec0731b2](https://github.com/open-sauced/open-sauced/pull/1078/commits/283ff8cd788c550309ff0d1d5a9a5a97ec0731b2).
 
 GitHub will conveniently display only your merge conflict changes:
 
