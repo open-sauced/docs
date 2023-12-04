@@ -6,14 +6,15 @@ keywords:
   - set up authentication
 ---
 
-To interact with the OpenSauced public API as an authenticated user, you need to obtain an authentication token.
+You need to obtain an authentication token to interact with the OpenSauced public API as an authenticated user.
+
 The following steps outline how to obtain an authentication token from the [hot.opensauced.pizza](https://hot.opensauced.pizza) website:
 
 1. Click on your avatar in the top right corner of the page. This will open a dropdown menu.
 
    ![Avatar in top right corner of the page](../../static/img/contributing-avatar-top-right.png)
 
-2. Click on the **Print Auth Token** option. Don't worry, this is a safe operation. The token is only printed to the console.
+2. Click on the **Print auth token** option. Don't worry, this is a safe operation. The token is only printed to the console.
 
    ![Print Auth Token](../../static/img/contributing-print-auth-token.png)
 
