@@ -6,10 +6,9 @@ keywords:
   - introduction to storybook
 ---
 
-Storybook is an open-source tool that helps developers build, test, and document UI components in isolation.
-Storybook is being leveraged to mock out visual React components. The latest version of the design system can be found at this [URL](https://sauced-components.netlify.app/).
+Storybook is an open-source tool that helps developers build, test, and document UI components in isolation. It's being leveraged to mock out visual React components. [Follow this link](https://sauced-components.netlify.app/) to find the latest version of the OpenSauced design system.
 
-To run storybook, use this command:
+To run Storybook, use this command:
 
 ```sh
 npm run storybook
