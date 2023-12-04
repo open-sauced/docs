@@ -5,6 +5,34 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.55.1](https://github.com/open-sauced/docs/compare/v1.55.0...v1.55.1) (2023-12-03)
+
+
+### Bug Fixes
+
+* updated link to PR Velocity  ([#220](https://github.com/open-sauced/docs/issues/220)) ([fb5adec](https://github.com/open-sauced/docs/commit/fb5adec5998138815f43be71a63ce4ea9241562a))
+
+## [1.55.0](https://github.com/open-sauced/docs/compare/v1.54.0...v1.55.0) (2023-11-30)
+
+
+### Features
+
+* add link to public calendar ([#218](https://github.com/open-sauced/docs/issues/218)) ([e8a0da5](https://github.com/open-sauced/docs/commit/e8a0da5f990ade7f9d8f214babe9be559b854f70))
+
+## [1.54.0](https://github.com/open-sauced/docs/compare/v1.53.0...v1.54.0) (2023-11-30)
+
+
+### Features
+
+* Update sidebar with new sections ([#217](https://github.com/open-sauced/docs/issues/217)) ([20f4dfe](https://github.com/open-sauced/docs/commit/20f4dfe8abc2bea0b5f4463e15c8f9d2de25e4d9))
+
+## [1.53.0](https://github.com/open-sauced/docs/compare/v1.52.0...v1.53.0) (2023-11-28)
+
+
+### Features
+
+* adds glossary  ([#212](https://github.com/open-sauced/docs/issues/212)) ([70f7925](https://github.com/open-sauced/docs/commit/70f79255f2af71783686fda8068bfa73c6929ac9))
+
 ## [1.52.0](https://github.com/open-sauced/docs/compare/v1.51.0...v1.52.0) (2023-11-16)
 
 
