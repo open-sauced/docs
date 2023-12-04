@@ -10,7 +10,7 @@ Storybook is an open-source tool that helps developers build, test, and document
 
 To run Storybook, use this command:
 
-```sh
+```bash
 npm run storybook
 ```
 
@@ -35,10 +35,13 @@ This section details how to make changes to Storybook, mainly by creating new ca
 
 ### Adding a New Category
 
-To add a new category, a new file needs to be added to the `/stories` directory. When creating a new file, the filename should be named using the following convention: `*Previous File Number + 1*-*Name of Story Capitalized*-stories.js`. For example, if the last file was 2-SideBar-stories.js, then the new file should be named `3-NameOfYourFile-stories.js`.
+To add a new category, a new file needs to be added to the `/stories` directory.
+
+When creating a new file, the file name should be named using the following convention: `*Previous File Number + 1*-*Name of Story Capitalized*-stories.js`. For example, if the last file was `2-SideBar-stories.js`, then the new file should be named `3-NameOfYourFile-stories.js`.
+
 In the file ensure you have this code:
 
-```
+```javascript
 export default {
     title: "*Name of category*"
 };
@@ -48,7 +51,7 @@ export default {
 
 To add a new UI element to an existing category, add the following code to that category's file:
 
-```
+```javascript
 export const *Name of UI Element* = () => (
 // code for the new element
 );
