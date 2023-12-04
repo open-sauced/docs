@@ -73,7 +73,7 @@ A more traditional approach not using `pre` or `post` scripts, this example enab
 }
 ```
 
-## FAQ
+## FAQs
 
 ### Usage on an Older `node` and `npm` Versions
 
