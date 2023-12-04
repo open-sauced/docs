@@ -10,7 +10,7 @@ Storybook is an open-source tool that helps developers build, test, and document
 
 To run Storybook, use this command:
 
-```bash
+```shell
 npm run storybook
 ```
 

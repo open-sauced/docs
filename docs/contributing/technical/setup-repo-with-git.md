@@ -18,7 +18,7 @@ Follow these [instructions to install GitHub CLI](https://github.com/cli/cli#ins
 
 From the terminal, you will need to authenticate with the GitHub CLI. You can do this by running the following command:
 
-```bash
+```shell
 gh auth login
 ```
 
@@ -32,7 +32,7 @@ A clone is a local copy of a repository that includes all the files, branches an
 
 To fork and clone a repository with the GitHub CLI, run the following command:
 
-```bash
+```shell
 gh repo fork open-sauced/<REPO_NAME>
 ```
 
@@ -42,13 +42,13 @@ The GitHub CLI will fork the project in your GitHub account and will ask you if 
 
 To view the remote repositories that your local repository is connected to, run the following command:
 
-```bash
+```shell
 git remote -v
 ```
 
 You should see the following output:
 
-```bash
+```shell
 origin git@github.com:YOUR_GITHUB_USERNAME/open-sauced.git (fetch)
 origin git@github.com:YOUR_GITHUB_USERNAME/open-sauced.git (push)
 upstream git@github.com:open-sauced/open-sauced.git (fetch)
@@ -61,7 +61,7 @@ Adding a remote repository allows you to pull in changes from the original repos
 
 To add a remote repository, run the following command:
 
-```bash
+```shell
 git remote add upstream git@github.com:open-sauced/open-sauced.git
 ```
 
