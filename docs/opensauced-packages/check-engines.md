@@ -101,4 +101,4 @@ For example, given a module `@demo-org/demo-package` with a `preinstall: "npx @o
 
 We're always happy to onboard people into open source!
 
-Check out the repository at [@open-sauced/check-engines](https://github.com/open-sauced/check-engines) ❤️
+Check out the repository at [@open-sauced/check-engines](https://github.com/open-sauced/check-engines). ❤️

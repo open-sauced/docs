@@ -83,4 +83,4 @@ If you want to ensure local-only usage:
 
 We're always happy to onboard people into open source!
 
-Check out the repository at [@open-sauced/conventional-commit](https://github.com/open-sauced/conventional-commit) ❤️
+Check out the repository at [@open-sauced/conventional-commit](https://github.com/open-sauced/conventional-commit). ❤️
