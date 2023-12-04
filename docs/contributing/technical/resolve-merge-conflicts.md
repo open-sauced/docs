@@ -6,9 +6,9 @@ keywords:
   - resolve merge conflicts
 ---
 
-Pretty often when opening a pull request it is very likely to run into merge conflicts as the release process is generally updating `npm-shrinkwrap.json`.
+You'll likely encounter merge conflicts when opening a pull request, as the release process generally updates `npm-shrinkwrap.json`.
 
-To better illustrate the commands listed here at will use commits and screenshots from [open-sauced#1078](https://github.com/open-sauced/open-sauced/pull/1078).
+To better illustrate the commands listed here, we will use commits and screenshots from [open-sauced#1078](https://github.com/open-sauced/open-sauced/pull/1078).
 
 ## Repository Setup
 
@@ -71,7 +71,7 @@ You will see something similar to:
 
 ## Review Changes
 
-To see what the changes are do a:
+To see what the changes are, run the command below:
 
 ```shell
 git diff package.json
@@ -83,7 +83,7 @@ It will look like this:
 
 ## Resolve Conflicts
 
-Since this pull request does not modify the `package.json` file it is safe to fast-forward the changes from `origin/main`:
+Since this pull request does not modify the `package.json` file, it is safe to fast-forward the changes from `origin/main`:
 
 ```shell
 # overwrite with origin/main changes
