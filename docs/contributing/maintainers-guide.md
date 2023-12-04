@@ -42,7 +42,7 @@ As a maintainer, you must:
 
 ## Committing and Merging Changes
 
-1. For commit and pull request standards, please refer to [introduction to contributing](../contributing/introduction-to-contributing.md).
+1. For commit and pull request standards, please refer to the [introduction to contributing](../contributing/introduction-to-contributing.md).
 2. Before merging in changes, always run the project locally if UI changes were made.
 3. **Squash and merge commits** when you merge in a PR.
 

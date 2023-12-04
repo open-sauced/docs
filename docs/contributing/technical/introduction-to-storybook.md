@@ -15,7 +15,7 @@ To run storybook, use this command:
 npm run storybook
 ```
 
-## UI categories
+## UI Categories
 
 Storybook is broken into several categories:
 
@@ -29,11 +29,11 @@ Storybook is broken into several categories:
 <li><b>Miscellaneous:</b> These are components that currently don't fit neatly into the above categories.</li>
 </ul>
 
-## Making changes to storybook
+## Making Changes to Storybook
 
 This section details how to make changes to Storybook, mainly by creating new categories or UI elements.
 
-### Adding a new category
+### Adding a New Category
 
 To add a new category, a new file needs to be added to the `/stories` directory. When creating a new file, the filename should be named using the following convention: `*Previous File Number + 1*-*Name of Story Capitalized*-stories.js`. For example, if the last file was 2-SideBar-stories.js, then the new file should be named `3-NameOfYourFile-stories.js`.
 In the file ensure you have this code:
@@ -44,7 +44,7 @@ export default {
 };
 ```
 
-### Adding a new UI element
+### Adding a New UI Element
 
 To add a new UI element to an existing category, add the following code to that category's file:
 
