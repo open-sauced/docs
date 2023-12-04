@@ -114,7 +114,7 @@ That should look like this:
 
 ![commit merge message](../../../static/img/contributing-resolve-merge-conflicts-commit-message.png)
 
-## Push Updated Pull Request
+## Push Changes
 
 One more security check to make sure your branch has not diverged and push:
 
