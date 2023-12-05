@@ -1,6 +1,6 @@
 ---
 id: welcome-to-the-community
-title: 'Welcome to the Community'
+title: 'Welcome to the OpenSauced Community'
 sidebar_label: Welcome to the Community
 keywords:
   - welcome to the community
