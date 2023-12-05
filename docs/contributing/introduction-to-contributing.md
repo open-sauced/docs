@@ -89,8 +89,10 @@ If you forget to run this command, automated PR checks will also run these comma
 6. Ensure the test suite passes.
 7. Make sure you address any lint warnings.
 8. If you improve the existing code, please let us know in your PR description.
-9. A PR description and title are required. The title is required to begin with "feat:" or "fix:"
-10. [Link to an issue](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls) in the project. Unsolicited code is welcomed, but an issue is required to announce your intentions. PRs without a linked issue will be marked invalid and closed.
+9. Completing the PR form is required. Make sure to fill the PR title, description, [link to an issue](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls), and all the necessary areas. 
+
+   - The title is required to begin with "feat:" or "fix:"
+   - Unsolicited code is welcomed, but an issue is required to announce your intentions. PRs without a linked issue will be marked invalid and closed.
 
 _**Note for maintainers**: All pull requests need a label to assist automation. See the [template](https://github.com/open-sauced/open-sauced/blob/HEAD/.github/release-drafter.yml) to guide which labels to use._
 
