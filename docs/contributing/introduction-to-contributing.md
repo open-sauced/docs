@@ -110,7 +110,7 @@ See [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for m
 
 _[3 tips for getting your Pull Request reviewed on GitHub](https://youtu.be/cuMeC-eZJJ4)_
 
-You can also experiment with conventional commits by doing:
+When contributing to OpenSauced projects, you can use this command to follow our conventional commits:
 
 ```shell
 npm run push
