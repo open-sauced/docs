@@ -61,14 +61,13 @@ For example, if you're on day one, you could say, "Today, I reviewed the documen
 
 Here's what you can do if you're ready to join this challenge:
 
-- [Sign up](https://docs.google.com/forms/d/e/1FAIpQLScoq6ORpkzUg3Cqxd3EeNnMP6HIJ3uemPhSHs8sYZALmbpeVg/viewform?usp=sharing) with OpenSauced to receive a coupon code for 12 months of free access to all of OpenSauced's paid features and for the chance to opt in to receive updates, event invites, and resources to help you succeed.
 - [Post your commitment today on X](https://twitter.com/intent/tweet?text=I%27m%20joining%20the%20%23100DaysOfOSS%20challenge%20with%20%40saucedopen%20to%20grow%20my%20skills%2C%20gain%20real-world%20experience%20in%20open%20source%2C%20and%20to%20make%20a%20positive%20impact%20on%20the%20OSS%20Community!) or share on your platform of choice!
 
 ## The Official Kickoff
 
-We're starting 100 days on July 23rd to the end of [Hacktoberfest](https://hacktoberfest.com/), a month-long celebration of open source contributions. We'll provide continuous support, daily inspirational tweets, and engaging events to help you stay motivated and make progress.
+We started our first #100DaysOfOSS on July 23rd and went to the end of [Hacktoberfest](https://hacktoberfest.com/), a month-long celebration of open source contributions. 
 
-Don't worry if you're unable to start on the same day as everyone else. The #100DaysOfOSS challenge is flexible; you can join in whenever you're ready. Just jump in at any point and begin with day one of your personal challenge.
+Don't worry if you didn't start then. The #100DaysOfOSS challenge is flexible; you can join in whenever you're ready. Just jump in at any point and begin with day one of your personal challenge.
 
 ## Support
 
@@ -88,7 +87,7 @@ If you're ready to start your #100DaysOfOSS journey, here are some tips to help 
 
 - **Find a project:** Explore the [OpenSauced](https://opensauced.pizza/) website to find a project that interests you. You can also check out the [weekly post](https://dev.to/bekahhw/series/) for exciting contribution opportunities.
 - **Take our Intro To Open Source Course:** If you're new to open source, we recommend taking our [Intro to Open Source](https://intro.opensauced.pizza/#/) course to learn more about open source and how to get started.
-- **Record your journey:** You will learn alot as you navigate this challenge, so we highly recommend using our [#100DaysOfOSS journal template](https://github.com/open-sauced/100-days-of-oss-template) on GitHub or [Notion](https://www.notion.so/a0m0rajab/100-Days-Of-Open-Source-2615e66772e14152897002e348c5f1bc?pvs=13) to help you reflect. Remember, this is _your_ journey, so feel free to customize them how ever you like.
+- **Record your journey:** You will learn a lot as you navigate this challenge, so we highly recommend using our [#100DaysOfOSS journal template](https://github.com/open-sauced/100-days-of-oss-template) on GitHub or [Notion](https://www.notion.so/a0m0rajab/100-Days-Of-Open-Source-2615e66772e14152897002e348c5f1bc?pvs=13) to help you reflect. Remember, this is _your_ journey, so feel free to customize them however you like.
 
 ## The Power of the #100DaysOfOSS Challenge
 
@@ -108,27 +107,6 @@ Our hope is that the community will provide a safe space to discuss challenges, 
 
 5. **Making a Positive Impact**: Your contributions benefit other contributors who rely on these projects, fostering a sense of fulfillment and giving back to the community.
 
-## Events
-
-We're hosting a series of events to help you stay motivated and make progress on your #100DaysOfOSS journey. Check out the events below and sign up for the ones that interest you.
-
-### Intro to Open Source Workshop
-
-Use the link to sign up for a session.
-
-- [July 24rd, 2023 | 8:30 a.m. ET](https://lu.ma/9phdjsbq)
-- [August 11th, 2023 | 3 p.m. ET](https://lu.ma/hm8xxk6k)
-- [August 28th, 2023 | 9 a.m. ET](https://lu.ma/2e9ixqx5)
-- [September 25th, 2023 | noon ET](https://lu.ma/6pevzkoq)
-
-### Weekly X Spaces
-
-Join us every Tuesday at 10:30 a.m. ET for our weekly X Spaces sessions, where we discuss open source topics, share insights, and connect with like-minded individuals. Follow us on [X](https://twitter.com/saucedopen) to stay updated on upcoming sessions.
-
-- [September 5 | 10:30 a.m. ET](https://twitter.com/i/spaces/1nAJErEOgDyxL?s=20)
-- [September 12 | 10:30 a.m. ET](https://twitter.com/i/spaces/1lPKqBvEMwYGb?s=20)
-
-More links to come!
 
 ### Weekly Office Hours
 
