@@ -128,7 +128,7 @@ GitHub supports [draft pull requests](https://github.blog/2019-02-14-introducing
 
 If you wish to work on an open issue, please comment on the issue with `.take`, and it will be assigned to you. If an issue is not assigned, it is assumed to be available for anyone to work on. Please assign yourself to an issue before working on it to avoid conflicts.
 
-If you contribute to the project for the first time, you can check issues with [good first issue](https://github.com/open-sauced/hot/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) or [bug](https://github.com/open-sauced/hot/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+bug%22) labels.
+If you contribute to the project for the first time, you can search for issues with `good first issue` or `bug` labels in the repository.
 
 In case you get stuck, feel free to ask for help in the [Discord](https://discord.gg/U2peSNf23P) server or [GitHub Discussions](https://github.com/orgs/open-sauced/discussions).
 
