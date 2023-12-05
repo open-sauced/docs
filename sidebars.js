@@ -16,11 +16,7 @@ module.exports = {
       type: "category",
       label: "Getting started",
       collapsed: false,
-      items: [
-        "welcome/opensauced-intro",
-        "welcome/glossary",
-        "welcome/faqs"
-      ],
+      items: ["welcome/opensauced-intro", "welcome/glossary", "welcome/faqs"],
     },
     {
       type: "category",
@@ -48,10 +44,7 @@ module.exports = {
       type: "category",
       label: "Community",
       collapsed: false,
-      items: [
-        "community/welcome-to-the-community",
-        "community/100-days-of-oss",
-      ],
+      items: ["community/welcome-to-the-community", "community/100-days-of-oss"],
     },
     {
       type: "category",
@@ -74,7 +67,7 @@ module.exports = {
                   type: "file",
                   label: "feature 1",
                   type: "doc",
-                  id:"tools/chrome-extension/code-explanation",
+                  id: "tools/chrome-extension/code-explanation",
                 },
                 {
                   type: "file",
@@ -128,7 +121,6 @@ module.exports = {
         },
       ],
     },
-    
     {
       type: "category",
       label: `OpenSauced Packages`,
@@ -139,6 +131,14 @@ module.exports = {
         "opensauced-packages/semantic-release",
       ],
     },
-    
+    {
+      type: "category",
+      label: "Job Seekers Guide",
+      collapsed: true,
+      items: [
+        "job-seekers-guide/job-seekers-guide-introduction",
+        "job-seekers-guide/job-seekers-guide-how-to-organize-your-open-source-contributions",
+      ],
+    },
   ],
 };

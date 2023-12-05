@@ -1,0 +1,190 @@
+---
+id: job-seekers-guide-how-to-organize-your-open-source-contributions
+title: "How to organize your open source contributions for jobs"
+sidebar_label: "How to organize your open source contributions for jobs"
+keywords:
+  - job-seekers-guide-how-to-organize-your-open-source-contributions
+---
+
+It is important to keep track of your open source contributions and show the impact you have left on the projects and organizations. By organizing your work, you will be able to talk about these meaningful contributions on your resume and in job interviews.
+
+In this guide, we have created a table that you can use to categorize and keep detailed notes for each contribution you have made. We will break down each of these table components and talk about how to use this in your resume and job profile.
+
+| **Section**                                               | **Details**                                    |
+| --------------------------------------------------------- | ---------------------------------------------- |
+| **Personal Information**                                  |                                                |
+| Name                                                      | [Your Name]                                    |
+| Contact Information                                       | [Your Contact Info]                            |
+| Professional Profile (LinkedIn/GitHub/OpenSauced profile) | [Links to Profiles]                            |
+| **Career Goals**                                          |                                                |
+| Desired Job Role                                          | [Your Desired Role]                            |
+| Key Skills to Develop                                     | [Skills to Focus On]                           |
+| Industry/Area of Interest                                 | [Frontend, Backend, Fullstack, ML, AI, etc.]   |
+| **Open Source Project Contribution No.1**                 |                                                |
+| Project Name                                              | [Project Name]                                 |
+| Project URL                                               | [Project URL]                                  |
+| Why This Project?                                         | [Reasons for Choosing This Project]            |
+| Type of Contribution                                      | [Code, Documentation, Community Support, etc.] |
+| **Learning and Development**                              |                                                |
+| New Skills Learned                                        | [List of New Skills]                           |
+| Challenges Overcome                                       | [Challenges Faced and Resolved]                |
+| Community Interaction                                     | [Meetups, Discussions, etc.]                   |
+| **Contribution Tracking**                                 |                                                |
+| Date                                                      | [Date of Contribution]                         |
+| Contribution Summary                                      | [Summary of Contribution with Links]           |
+| Feedback Received/Milestones Achieved                     | [Feedback and Achievements]                    |
+| **Networking and Professional Development**               |                                                |
+| Contacts Made                                             | [Contacts Made and Their Roles]                |
+| Insights Gained from Networking                           | [What You Learned from Networking]             |
+| Future Networking Opportunities                           | [Planned Networking Activities]                |
+| **Reflection and Next Steps**                             |                                                |
+| Key Takeaways from This Project                           | [What You Learned]                             |
+| Areas for Improvement                                     | [Areas to Work On for Future Projects]         |
+| Next Project/Contribution Goal                            | [Your Next Goal in Open Source Contribution]   |
+| **Resume and Professional Profile Update**                |                                                |
+| Updates Made to Resume/LinkedIn                           | [Details of Updates]                           |
+| Key Accomplishments Highlighted                           | [Key Points Highlighted]                       |
+| Future Plans for Profile Enhancement                      | [Plans for Further Enhancing Your Profile]     |
+| **Open Source Project Contribution No.2**                 |                                                |
+
+## Personal information
+
+In this section of the table, you can include information like your name, email, GitHub profile, LinkedIn profile, OpenSauced profile, blog, etc. When it comes to the professional profiles, think about which profiles you want to show off to employers that highlights your skills and experience relevant to the types of jobs you are interested in.
+
+| **Section**              | **Details** |
+| ------------------------ | ----------- |
+| **Personal Information** |             |
+| Name                     |             |
+| Contact Information      |             |
+| LinkedIn                 |             |
+| GitHub profile           |             |
+| OpenSauced profile       |             |
+
+## Career Goals
+
+If you are new to the industry, you will want to list out which area of tech you are interested in pursuing. If you are looking for your next tech role, then you can list your current role or the role you wish to switch to.
+
+If you are looking to level up in your role, you should list it in this section and list out the key skills required for that next level. You should also link to a few job posts to get an idea of key skills are required for that next level you are working towards.
+
+| **Section**               | **Details**                                  |
+| ------------------------- | -------------------------------------------- |
+| **Career Goals**          |                                              |
+| Desired Job Role          | [Your Desired Role]                          |
+| Desired Job level         | [Junior, Mid, Senior, etc]                   |
+| Key Skills to Develop     | [Skills to Focus On]                         |
+| Industry/Area of Interest | [Frontend, Backend, Fullstack, ML, AI, etc.] |
+| Example Job Links         | [Link to desired jobs]                       |
+
+## How to match job requirements to your current skills
+
+A common mistake for many job seekers is to send out the same resume template to all jobs. But in today's tech market it is important to stand out and tailor your resume to match your skills with the requirements listed.
+
+In the previous section, you identified desired roles and key skills needed for those jobs. When you are reading through job descriptions, you will want to identify key skills that are repeatedly mentioned and add that to your career goals section.
+
+As you fill out the remaining sections for project contributions, check to see if the contributions match the common skills requested in those jobs. If not, then you have just identified a skill gap and will need to find projects and issues that will allow you to strengthen those skills.
+
+## Finding Open Source projects to contribute to
+
+After you have filled out the career section of the table, you will want to find open source projects that align with your goals. You can use the explore feature on OpenSauced to explore new repositories in a variety of topics like [JavaScript](https://app.opensauced.pizza/javascript/dashboard/filter/recent?range=30), [Python](https://app.opensauced.pizza/python/dashboard/filter/recent?range=30), and [Machine learning](https://app.opensauced.pizza/ml/dashboard/filter/recent?range=30).
+
+![Explore Machine Learning projects in OpenSauced](../../static/img/ml-explore-page.png)
+
+Finding a good project to contribute to takes time. So make sure to look at the frequency of contributions to the project and the types of issues and features the project needs help with. If it aligns with your career goals, then start off with smaller issues and then move to larger features over time. You will also want to join the project's community chat room or Discord channel to connect with other contributors and core team members of the project.
+
+## Open Source Project Contribution
+
+In this next section, you will want to list out the meaningful contributions you have made to different open source projects. This can include documentation, code features, bug fixes, etc. Remember that, you will want to list out meaningful contributions that match the goals you laid out earlier.
+
+### Basic project information
+
+For each project contribution, you will want to list out the project name along with the PR and issue links. Then you will want to describe in a few short sentences why you chose this project and how it will help you with your career goals.
+
+| **Section**          | **Details**                                    |
+| -------------------- | ---------------------------------------------- |
+| Project Name         | [Project Name]                                 |
+| Project URL          | [Project URL]                                  |
+| Why This Project?    | [Reasons for Choosing This Project]            |
+| Type of Contribution | [Code, Documentation, Community Support, etc.] |
+
+### Learn and development
+
+Once your contribution has been approved and merged into the project, you will want to reflect on what you have learned during this process. What types of new skills or technologies did you learn while working on this issue? What challenges did you face? How did you interact with the community when you needed clarification on an issue or needed help with the pull request?
+
+Keeping track of this information is helpful because you can reference these experiences later when crafting your resume. Potential employers will want to see how you work with others, how you problem solve and how you deliver solutions in a project.
+
+Feel free to link to the pull request and issue discussions as references on how you worked with contributors in this project.
+
+| **Section**                  | **Details**                     |
+| ---------------------------- | ------------------------------- |
+| **Learning and Development** |                                 |
+| New Skills Learned           | [List of New Skills]            |
+| Challenges Overcome          | [Challenges Faced and Resolved] |
+| Community Interaction        | [Meetups, Discussions, etc.]    |
+
+### Contribution tracking
+
+For each project contribution, you will want to list the date and brief summary on what the issue was and how you solved it. It would also be good to list out any acknowledgements you received from other contributors or core team members on the project because it highlights the impact you left.
+
+| **Section**                           | **Details**                          |
+| ------------------------------------- | ------------------------------------ |
+| **Contribution Tracking**             |                                      |
+| Date                                  | [Date of Contribution]               |
+| Contribution Summary                  | [Summary of Contribution with Links] |
+| Feedback Received/Milestones Achieved | [Feedback and Achievements]          |
+
+### Networking and Professional Development
+
+Some larger features can lead to networking and other professional development opportunities, like speaking at meetups or writing for tech publications. It is important that you list out who you mainly corresponded with for each contribution and any opportunities that came from this contribution.
+
+If you have corresponded with the same core contributors and maintainers over the past few contributions, try reaching out about collaborating on other projects together. You never know where an opportunity will lead.
+
+| **Section**                                 | **Details**                        |
+| ------------------------------------------- | ---------------------------------- |
+| **Networking and Professional Development** |                                    |
+| Contacts Made                               | [Contacts Made and Their Roles]    |
+| Insights Gained from Networking             | [What You Learned from Networking] |
+| Future Networking Opportunities             | [Planned Networking Activities]    |
+
+### Using your OpenSauced Dev Card for networking
+
+Your [OpenSauced Dev card](../features/dev-card.md) serves as your "open source business card" to showcase all of your recent open source activities. You will find recent activity concerning the projects you contribute to, frequency of pull requests and projects you are interested in.
+
+You can easily share your Dev card on social media platforms like Twitter and LinkedIn to gain attention from potential recruiters and hiring managers.
+
+![OpenSauced Dev card](../../static/img/a-dev-card.png)
+
+### Using the OpenSauced Connections feature
+
+If you have OpenSauced Pro, you can leverage the Connections feature to connect with other developers on the project.
+
+![OpenSauced Connections](../../static/gif/connections.gif)
+
+To learn more about that feature, check out the detailed explanation [here](../features/connections.md).
+
+### Reflection and next steps
+
+In this section, you will want to reflect on what went well with this contribution and areas in which you struggled with.
+
+It is important to tie these reflections back to your career goals and desired job roles you defined earlier. If you are weaker in skills that are required for the jobs are seeking, use future open source contributions as a way to strengthen these skills.
+
+| **Section**                     | **Details**                                  |
+| ------------------------------- | -------------------------------------------- |
+| **Reflection and Next Steps**   |                                              |
+| Key Takeaways from This Project | [What You Learned]                           |
+| Areas for Improvement           | [Areas to Work On for Future Projects]       |
+| Next Project/Contribution Goal  | [Your Next Goal in Open Source Contribution] |
+
+### Using the Highlights feature to update your professional profile
+
+After each contribution, you will want to update your LinkedIn profile and resume to highlight what you have done recently. A lot of recruiters and hiring managers are on the look out for talented individuals on LinkedIn, so it is important to keep your profile up to date of your recent accomplishments.
+
+The Highlights feature allows you to post about your recent open source contributions on OpenSauced and share it with other social media outlets like Twitter and LinkedIn.
+
+![OpenSauced Highlights Feature](../../static/img/highlights.png)
+
+| **Section**                                | **Details**                                |
+| ------------------------------------------ | ------------------------------------------ |
+| **Resume and Professional Profile Update** |                                            |
+| Updates Made to Resume/LinkedIn            | [Details of Updates]                       |
+| Key Accomplishments Highlighted            | [Key Points Highlighted]                   |
+| Future Plans for Profile Enhancement       | [Plans for Further Enhancing Your Profile] |
