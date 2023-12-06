@@ -28,7 +28,7 @@ Your responsibilities may include:
 
 - Reviewing and merging pull requests (PRs).
 - Providing comments and responses on PRs, issues, discussions, and Discord messages.
-- [Triage issues](../contributing/triage-guide.md) and bug reports.
+- [Triage issues](../contributing/triage-guide.md#triage-process) and bug reports.
 - Maintaining project documentation.
 - Collaborating with the community.
 
@@ -46,4 +46,4 @@ As a maintainer, you must:
 2. Before merging in changes, always run the project locally if UI changes were made.
 3. **Squash and merge commits** when you merge in a PR.
 
-Thank you for your interest in becoming a maintainer! Please reach out in our [team discussions](https://github.com/open-sauced/docs/discussions/categories/team-discussions) if you need help, guidance, or clarification at any time.
+Thank you for being so interested in becoming a maintainer! Please reach out in our [team discussions](https://github.com/open-sauced/docs/discussions/categories/team-discussions) if you need help, guidance, or clarification at any time.

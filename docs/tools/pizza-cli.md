@@ -10,7 +10,7 @@ keywords:
 
 The OpenSauced Pizza CLI is a command-line utility designed specifically for OpenSauced. It provides a comprehensive set of functionalities that make it easier for users to gain insights and metrics and manage various tasks related to open source projects through OpenSauced.
 
-Beyond just code commits, the pizza CLI reports on different ways individuals contribute to the open source ecosystem, be it through community engagement, issue reporting, blog post writings, or pull request creations.
+Beyond just code commits, the pizza CLI reports on different ways individuals contribute to the open source ecosystem through community engagement, issue reporting, blog post writings, or pull request creations.
 
 ## Key Features
 
@@ -38,7 +38,7 @@ The pizza CLI provides multiple installation methods to cater to the varied pref
   npm i -g pizza
   ```
 
-- **Direct script install**: A quick way to get started by directly fetching the installation script from GitHub.
+- **Direct script**: A quick way to get started by directly fetching the installation script from GitHub.
 
   ```bash
   curl -fsSL https://raw.githubusercontent.com/open-sauced/pizza-cli/main/install.sh
@@ -78,7 +78,7 @@ To contribute to or modify the pizza CLI, you need a specific set of tools:
 - [**Docker**](https://docs.docker.com/engine/install/): Required for linting and other auxiliary tooling.
 - **Make**: A build automation tool.
 
-  Development Commands:
+  Development commands:
 
   - **Linting**: Ensure code quality with `make lint`.
   - **Testing**: Verify functionality with `make test`.

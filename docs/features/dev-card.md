@@ -10,7 +10,7 @@ The Dev Card feature is what we like to call your "open source business card."
 
 On the front of your card, you see your profile picture, username, the number of pull requests you have created, the number of repositories you contributed to, and a graph icon that describes your activity rate.
 
-When you click the card, you'll see the back of your card. It shows more information, including your profile's picture and headline, the number of pull requests you have created, date of your first contribution on GitHub, activity rate, [PR velocity](https://docs.opensauced.pizza/welcome/glossary/#pr-velocity) rate, and a `View Profile` button that takes you to your dashboard.
+You'll see the back side of your card when you click it. It shows more information, including your profile's picture and headline, the number of pull requests you have created, the date of your first contribution on GitHub, activity rate, [PR velocity](https://docs.opensauced.pizza/welcome/glossary/#pr-velocity) rate, and a `View Profile` button that takes you to your dashboard.
 
 ![front and back sides of a dev card](../../static/img/a-dev-card.png)
 

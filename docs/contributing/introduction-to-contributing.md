@@ -13,7 +13,7 @@ please read the [code of conduct](./code-of-conduct.md) and follow the direction
 
 1. Always leave screenshots for visual changes.
 2. Always leave a detailed description in the pull request. Leave nothing ambiguous for the reviewer.
-3. Always review your code first. Be sure to run the project locally and test it before requesting a review.
+3. Always review your code first. Run the project locally and test it before requesting a review.
 4. Always communicate in the GitHub repository. Whether in the issue or the pull request, keeping the lines of communication open and visible to everyone on the team helps everyone around you.
 
 ## Setup
@@ -29,12 +29,12 @@ Run `npm ci` to install the dependencies and set up the project.
 You can also use the shell commands below to get started once you have forked the repository:
 
 ```shell
-git clone https://github.com/<your-name>/open-sauced
-cd open-sauced
+git clone https://github.com/<GITHUB_USERNAME>/<REPO_NAME>.git
+cd <REPO_NAME>
 npm ci
 ```
 
-Make sure to replace `<your-name>` with your GitHub username.
+Make sure to replace `<GITHUB_USERNAME>` with your GitHub username.
 
 ## Building
 
@@ -82,14 +82,14 @@ If you forget to run this command, automated PR checks will also run these comma
 **_We actively welcome your pull requests. However, you must link your work to an existing issue._**
 
 1. Fork the repo and create your branch from the default branch.
-2. Name your branch to something descriptive of the work you are doing. i.e., `adds-new-thing` or `fixes-mobile`.
+2. Name your branch to something descriptive of your work, i.e., `add-navbar` or `fix-style`.
 3. If you've added code that should be tested, add tests.
 4. If you've changed APIs, update the documentation.
 5. If you make visual changes, screenshots are required.
 6. Ensure the test suite passes.
 7. Make sure you address any lint warnings.
 8. If you improve the existing code, please let us know in your PR description.
-9. Completing the PR form is required. Make sure to fill the PR title, description, [link to an issue](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls), and all the necessary areas.
+9. Completing the PR form is required. Make sure to fill in the PR title, description, [link to an issue](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls), and all the necessary areas.
 
    - The title is required to begin with "feat:" or "fix:"
    - Unsolicited code is welcomed, but an issue is required to announce your intentions. **_PRs without a linked issue will be marked invalid and closed_**.
@@ -113,7 +113,7 @@ GitHub supports [draft pull requests](https://github.blog/2019-02-14-introducing
 
 ### Additional Resources
 
-_[3 tips for getting your Pull Request reviewed on GitHub](https://youtu.be/cuMeC-eZJJ4)_
+- _[3 tips for getting your Pull Request reviewed on GitHub](https://youtu.be/cuMeC-eZJJ4)_
 
 ## Commits
 
@@ -141,15 +141,15 @@ Please follow our [code of conduct](./code-of-conduct.md) in all your interactio
 
 ## Triage Team
 
-The Triage team is inspired by [expressjs/express](https://github.com/expressjs/express/blob/HEAD/Triager-Guide.md). This team exists to create a path for making contributions to this project and open source. All Triage Team members are expected to follow this guide: [TRIAGE_GUIDE.md](./triage-guide.md)
+The Triage team is inspired by [expressjs/express](https://github.com/expressjs/express/blob/HEAD/Triager-Guide.md). This team exists to create a path for making contributions to this project and open source. All Triage Team members are expected to follow the [Triage Guide](./triage-guide.md).
 
 > **There are no minimum requirements to become a member of the Triage Team.**
 
-For those interested in getting involved in the project or just open source in general, please request an invite to the Triage Team in [this discussion.](https://github.com/open-sauced/open-sauced/discussions/638)
+For those interested in getting involved in the project or just open source in general and wanting to join the Triage Team, please comment in the `🍕opensauced-contributors-chat` channel on [Discord](https://discord.gg/U2peSNf23P).
 
 ## Funding
 
-OpenSauced is a part of GitHub Sponsors. If you would like to contribute, please note the [sponsor page](https://github.com/sponsors/open-sauced) for details on how funds are distributed. If you have made any contributions to the project directly or indirectly, please consider adding your profile to the [FUNDING.yml](https://github.com/open-sauced/.github/blob/main/FUNDING.yml).
+OpenSauced is a part of GitHub Sponsors. If you would like to contribute, please note the [sponsor page](https://github.com/sponsors/open-sauced) for details on how funds are distributed. If you have made any contributions to the project directly or indirectly, please consider adding your profile to the [`FUNDING.yml`](https://github.com/open-sauced/.github/blob/main/FUNDING.yml) file.
 
 ## Community
 

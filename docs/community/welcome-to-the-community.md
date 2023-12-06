@@ -15,7 +15,7 @@ We pledge to create a welcoming and inclusive community for everyone at OpenSauc
 - Be respectful and kind to others in the community.
 - Be patient with others and help them learn.
 - Be open to feedback and constructive criticism.
-- Adhere to the [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md).
+- Adhere to the [Code of Conduct](../contributing/code-of-conduct.md).
 
 ## Keeping Up with OpenSauced
 

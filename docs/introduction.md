@@ -8,7 +8,7 @@ keywords:
 
 ![Example banner](../static/img/what-is-opensauced-borderless.jpg)
 
-[Watch this on YouTube](https://www.youtube.com/watch?v=h8gwrzis-dY&list=PLHyZ0Wz_A44XAE-6Gbd69pZLTdqWdwlBx&index=1&t=2s)
+[Watch this on YouTube](https://www.youtube.com/watch?v=h8gwrzis-dY&list=PLHyZ0Wz_A44XAE-6Gbd69pZLTdqWdwlBx&index=1&t=2s).
 
 OpenSauced is a platform dedicated to empowering maintainers and teams and redefining the meaning of open source contributions. We believe that every contribution, big or small, is valuable and deserves to be recognized. Our platform provides a way to track contributions through a GitHub-powered dashboard, allowing users to showcase their contributions and gain insights into their open source projects.
 

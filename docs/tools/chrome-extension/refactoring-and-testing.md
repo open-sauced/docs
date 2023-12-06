@@ -9,12 +9,12 @@ keywords:
 
 ## Refactoring a Block of Code
 
-Refactor a block of code by using the blue plus button that is displayed when hovering over a line. To select a block of code, hover over the starting line, click and drag the blue plus button until the desired line.
+Refactor a block of code by using the blue plus button that is displayed when hovering over a line. To select a block of code, hover over the starting line, click, and drag the blue plus button until you reach the desired line.
 
 ![generate code refactor](../../../static/gif/pr-code-refactor.gif)
 
 ## Testing a Block of Code
 
-Generate tests for a block of code by using the blue plus button that is displayed when hovering over a line. To select a block of code, hover over the starting line, click and drag the blue plus button until the desired line.
+Generate tests for a block of code by using the blue plus button that is displayed when hovering over a line. To select a block of code, hover over the starting line, click, and drag the blue plus button until you reach the desired line.
 
 ![generate code refactor](../../../static/gif/pr-code-test.gif)

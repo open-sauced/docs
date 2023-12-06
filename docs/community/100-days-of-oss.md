@@ -65,7 +65,7 @@ Here's what you can do if you're ready to join this challenge:
 
 ## The Official Kickoff
 
-We started our first #100DaysOfOSS on July 23rd and went to the end of [Hacktoberfest](https://hacktoberfest.com/), a month-long celebration of open source contributions.
+We started our first #100DaysOfOSS on July 23rd, 2023, and went to the end of [Hacktoberfest](https://hacktoberfest.com/), a month-long celebration of open source contributions.
 
 Don't worry if you didn't start then. The #100DaysOfOSS challenge is flexible; you can join whenever you're ready. Just jump in at any point and begin with day one of your personal challenge.
 
@@ -75,11 +75,11 @@ To make the most of your #100DaysOfOSS journey, here are some additional resourc
 
 1. **Weekly X Spaces:** Join our weekly X Spaces sessions, where we discuss open source topics, share insights, and connect with like-minded individuals. Follow us on [X](https://twitter.com/saucedopen) to stay updated on upcoming sessions.
 
-2. **Community Events:** Discover a wide range of events on our [community docs page](https://docs.opensauced.pizza/community/welcome-to-the-community). Whether hack days, workshops, or office hours, these events provide excellent opportunities to learn, collaborate, and find new projects to contribute to.
+2. **Community events:** Discover a wide range of events on our [community docs page](https://docs.opensauced.pizza/community/welcome-to-the-community). Whether hack days, workshops, or office hours, these events provide excellent opportunities to learn, collaborate, and find new projects to contribute to.
 
-3. **Weekly Contribution Opportunities:** If you're actively looking for open source projects to contribute to, check out the [weekly post](https://dev.to/bekahhw/series/23323) for new contribution opportunities.
+3. **Weekly contribution opportunities:** If you're actively looking for open source projects to contribute to, check out the [weekly post](https://dev.to/bekahhw/series/23323) for new contribution opportunities.
 
-4. **Weekly Office Hours:** Have questions or need help? Join us on [Discord](https://discord.gg/dXvGd8mz) during our office hours or post on our `#100DaysOfOSS` channel. We're here to help you succeed!
+4. **Weekly office hours:** Have questions or need help? Join us on [Discord](https://discord.gg/dXvGd8mz) during our office hours or post on our `#100DaysOfOSS` channel. We're here to help you succeed!
 
 ## Where to Start?
 
@@ -97,15 +97,15 @@ Our hope is that the community will provide a safe space to discuss challenges, 
 
 ## Why Join the #100DaysOfOSS Challenge?
 
-1. **Skill Enhancement**: By working on real-world projects, you'll gain practical experience and exposure to different projects, documentation, communities, programming languages, frameworks, and tools. You'll also learn from experienced developers, receive feedback on your code, and improve your problem-solving abilities.
+1. **Skill enhancement**: By working on real-world projects, you'll gain practical experience and exposure to different projects, documentation, communities, programming languages, frameworks, and tools. You'll also learn from experienced developers, receive feedback on your code, and improve your problem-solving abilities.
 
-2. **Collaboration and Networking**: You'll have the opportunity to work alongside other contributors, collaborate on shared goals, and build professional relationships. This experience can lead to networking opportunities, mentorship, and exposure to diverse perspectives in tech.
+2. **Collaboration and networking**: You'll have the opportunity to work alongside other contributors, collaborate on shared goals, and build professional relationships. This experience can lead to networking opportunities, mentorship, and exposure to diverse perspectives in tech.
 
-3. **Resume and Portfolio Boost**: Experience in open source demonstrates your ability to work in a team, follow best practices, and contribute to larger codebases. Open source contributions are tangible evidence of your skills, commitment, and ability to grow.
+3. **Resume and portfolio boost**: Experience in open source demonstrates your ability to work in a team, follow best practices, and contribute to larger codebases. Open source contributions are tangible evidence of your skills, commitment, and ability to grow.
 
-4. **Learning from Peers**: By examining the codebase, participating in discussions, engaging in the community, and reviewing pull requests, contributors can gain insights into different approaches to community, projects, coding styles, architecture patterns, and software development best practices, accelerating a developer's learning curve.
+4. **Learning from peers**: By examining the codebase, participating in discussions, engaging in the community, and reviewing pull requests, contributors can gain insights into different approaches to community, projects, coding styles, architecture patterns, and software development best practices, accelerating a developer's learning curve.
 
-5. **Making a Positive Impact**: Your contributions benefit other contributors who rely on these projects, fostering a sense of fulfillment and giving back to the community.
+5. **Making a positive impact**: Your contributions benefit other contributors who rely on these projects, fostering a sense of fulfillment and giving back to the community.
 
 ### Weekly Office Hours
 
