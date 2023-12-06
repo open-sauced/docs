@@ -17,7 +17,7 @@ When a new issue or pull request (PR) is opened, the issue will be labeled with 
 
 ### Adding Issue and PR Labels
 
-Depending on the issue or PR, there are several labels they can add for further classification, as follows:
+Depending on the issue or PR, there are several labels the triage team can add for further classification, as follows:
 
 - `needs triage`: This can be kept if the triager is unsure which next steps to take.
 - `awaiting more info`: If more information has been requested from the author, apply this label.
@@ -68,8 +68,8 @@ If any of these happen, we will discuss them as a part of the triage portion of 
 
 - When reviewing the list of open issues, there are some common types and suggested actions:
   - **New/unattended issues or simple questions**: A good place to start.
-  - **Hard bugs & ongoing discussions**: Always feel free to chime in and help.
+  - **Hard bugs & ongoing discussions**: Feel free to chime in and help.
   - **Issues that imply gaps in the documentation**: Open PRs with changes or help the user to do so.
 - For recurring issues, it is helpful to create functional examples to demonstrate (publish as gists or a repo).
 - Review and identify the maintainers. If necessary, mention one or more of them with `@` if you are unsure what to do.
-- Ensure all your interactions are professional, welcoming and respectful to the parties involved.
+- Ensure all your interactions are professional, welcoming, and respectful to the parties involved.
