@@ -8,7 +8,7 @@ keywords:
 
 Inspired by the great work of the [#100DaysOfCode challenge](https://www.100daysofcode.com/), we're starting #100DaysOfOSS.
 
-With this challenge, OpenSauced hopes to help contributors enhance their skills, expand their abilities, gain practical experience over 100 days, support maintainers, onboard more contributors into open source, and expand the OSS community. With a focus on open source software (OSS), we encourage contributors of all technical backgrounds to immerse themselves in the world of collaborative development and engage with a supportive community.
+With this challenge, OpenSauced hopes to help contributors enhance their skills, expand their abilities, gain practical experience over 100 days, support maintainers, onboard more contributors into open source, and expand the open source community. With a focus on open source software (OSS), we encourage contributors of all technical backgrounds to immerse themselves in the world of collaborative development and engage with a supportive community.
 
 ## How to Participate
 
@@ -22,7 +22,7 @@ Love creating content? Here's how you can use this skill for the challenge:
 
 - Give a talk or presentation on OSS.
 - Participate in or even start an X Space.
-- Write a blog post or create a video.
+- Write a blog post or create a video about OSS.
 
 ### Project Management
 
@@ -30,12 +30,12 @@ Want to improve your project management skills? Need to get better at communicat
 
 - Review pull requests.
 - Triage issues.
-- Open meaningful discussions.
+- Start meaningful discussions.
 - Write issues to identify bugs or suggest new features.
 
 ### Community Engagement and Leadership
 
-Community experience is involved in many different tech jobs including support, success, Developer Relations, Developer Experience, and more. Community experience can be a valuable skill to develop. Some ways you can do this:
+Community experience is involved in many different tech jobs, including support, success, Developer Relations, Developer Experience, and more. Community experience can be a valuable skill to develop. Some ways you can do this:
 
 - Engage in the community by sharing your insights and knowledge.
 - Support contributors working on OSS projects, providing guidance and support.
@@ -43,7 +43,7 @@ Community experience is involved in many different tech jobs including support, 
 
 ### Technical Skills
 
-This is a great time to show your technical growth. Here are some paths you can take:
+Now is a great time to show your technical growth. Here are some paths you can take:
 
 - Update or write documentation to improve clarity and usability.
 - Maintain a project: review pull requests, triage issues, and respond to questions.
@@ -67,7 +67,7 @@ Here's what you can do if you're ready to join this challenge:
 
 We started our first #100DaysOfOSS on July 23rd and went to the end of [Hacktoberfest](https://hacktoberfest.com/), a month-long celebration of open source contributions.
 
-Don't worry if you didn't start then. The #100DaysOfOSS challenge is flexible; you can join in whenever you're ready. Just jump in at any point and begin with day one of your personal challenge.
+Don't worry if you didn't start then. The #100DaysOfOSS challenge is flexible; you can join whenever you're ready. Just jump in at any point and begin with day one of your personal challenge.
 
 ## Support
 
@@ -75,7 +75,7 @@ To make the most of your #100DaysOfOSS journey, here are some additional resourc
 
 1. **Weekly X Spaces:** Join our weekly X Spaces sessions, where we discuss open source topics, share insights, and connect with like-minded individuals. Follow us on [X](https://twitter.com/saucedopen) to stay updated on upcoming sessions.
 
-2. **Community Events:** Discover a wide range of events on our [community docs page](https://docs.opensauced.pizza/community/welcome-to-the-community). Whether it's hack days, workshops, or office hours, these events provide excellent opportunities to learn, collaborate, and find new projects to contribute to.
+2. **Community Events:** Discover a wide range of events on our [community docs page](https://docs.opensauced.pizza/community/welcome-to-the-community). Whether hack days, workshops, or office hours, these events provide excellent opportunities to learn, collaborate, and find new projects to contribute to.
 
 3. **Weekly Contribution Opportunities:** If you're actively looking for open source projects to contribute to, check out the [weekly post](https://dev.to/bekahhw/series/23323) for new contribution opportunities.
 
@@ -86,7 +86,7 @@ To make the most of your #100DaysOfOSS journey, here are some additional resourc
 If you're ready to start your #100DaysOfOSS journey, here are some tips to help you get started:
 
 - **Find a project:** Explore the [OpenSauced](https://opensauced.pizza/) website to find a project that interests you. You can also check out the [weekly post](https://dev.to/bekahhw/series/) for exciting contribution opportunities.
-- **Take our Intro To Open Source Course:** If you're new to open source, we recommend taking our [Intro to Open Source](https://intro.opensauced.pizza/#/) course to learn more about open source and how to get started.
+- **Take our Intro To Open Source course:** If you're new to open source, we recommend taking our [Intro to Open Source course](https://intro.opensauced.pizza/#/) to learn more about open source and how to get started.
 - **Record your journey:** You will learn a lot as you navigate this challenge, so we highly recommend using our [#100DaysOfOSS journal template](https://github.com/open-sauced/100-days-of-oss-template) on GitHub or [Notion](https://www.notion.so/a0m0rajab/100-Days-Of-Open-Source-2615e66772e14152897002e348c5f1bc?pvs=13) to help you reflect. Remember, this is _your_ journey, so feel free to customize them however you like.
 
 ## The Power of the #100DaysOfOSS Challenge
