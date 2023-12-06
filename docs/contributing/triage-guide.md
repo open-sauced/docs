@@ -59,10 +59,10 @@ Please be noted:
 There are a few cases where members can be removed from the triage role:
 
 - Breaking the [Code of Conduct](./code-of-conduct.md) or [project contributor guidelines](./introduction-to-contributing.md).
-- Abuse or misuse of the role as deemed by the TC.
+- Abuse or misuse of the role as deemed by the Triage Team.
 - Lack of participation for more than six months.
 
-If any of these happen, we will discuss them as a part of the triage portion of the regular TC meetings. If you have questions, feel free to contact any TC members.
+If any of these happen, we will discuss them as a part of the triage portion of the regular Triage Team meetings. If you have questions, feel free to contact any Triage Team members.
 
 ## Helpful Hints:
 
