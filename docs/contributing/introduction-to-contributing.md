@@ -94,7 +94,8 @@ If you forget to run this command, automated PR checks will also run these comma
    - The title is required to begin with "feat:" or "fix:"
    - Unsolicited code is welcomed, but an issue is required to announce your intentions. **_PRs without a linked issue will be marked invalid and closed_**.
 
-_**Note for maintainers**: All pull requests need a label to assist automation. See the [template](https://github.com/open-sauced/open-sauced/blob/HEAD/.github/release-drafter.yml) to guide which labels to use._
+> _**Note for maintainers**: All PRs need a label to assist automation. See [this guide](./triage-guide.md#adding-issue-and-pr-labels) to determine which labels to use._
+
 
 ### PR Validation
 
