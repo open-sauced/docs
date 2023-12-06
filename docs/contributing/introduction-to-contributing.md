@@ -114,6 +114,8 @@ GitHub supports [draft pull requests](https://github.blog/2019-02-14-introducing
 
 _[3 tips for getting your Pull Request reviewed on GitHub](https://youtu.be/cuMeC-eZJJ4)_
 
+## Commits
+
 When contributing to OpenSauced projects, you can use this command to follow our conventional commits:
 
 ```shell
