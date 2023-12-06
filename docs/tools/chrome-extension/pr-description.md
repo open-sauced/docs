@@ -15,12 +15,12 @@ _**Note**: This feature is not available on private repositories._
 
 You can use these settings to set the strictness and the tone of the generated AI. Below is the explanation of the settings:
 
-- **Description Length**: The output length.
-- **Temperature**: The similarity between the input text and the output. Higher temperature means more randomness and lower temperature means more strictness to input.
+- **Description Length**: The length of PR description in characters.
+- **Temperature**: The similarity between the input text and the output. Higher temperature means more randomness, and lower temperature means stricter rules for the input.
 - **Max Input Length.**
-- **Description Language:** This feature currently supports English, Spanish, French, German, Italian, Portuguese, Dutch, Russian, Chinese, and Korean.
-- **Description Tone:** The tone of the output. It can be "Exciting", "Persuasive", "Informative", "Humorous", "Formal".
-- **Description Source:** The source of the description that our AI will use to get the output. It can be a commit message, the difference between the files, or both.
+- **Description Language:** The languages that can be generated for the PR description. This feature currently supports English, Spanish, French, German, Italian, Portuguese, Dutch, Russian, Chinese, and Korean.
+- **Description Tone:** The tone of PR description. The available options are "Exciting", "Persuasive", "Informative", "Humorous", and "Formal".
+- **Description Source:** The source that our AI will use to generate the PR description. It can be based on the commit messages, the difference between files, or both.
 
 ![Setting screenshot](https://user-images.githubusercontent.com/18273833/241760972-aa10eabe-3c01-4921-956a-ab85bada1575.png)
 
