@@ -1,10 +1,10 @@
 ---
 id: refactoring-and-testing
-title: 'Refactoring and Testing'
-sidebar_label: Refactoring and Testing
+title: "Refactoring and Testing"
+sidebar_label: "Refactoring and Testing"
 keywords:
-  - refactoring
-  - testing
+  - "refactoring"
+  - "testing"
 ---
 
 ## Refactoring a Block of Code

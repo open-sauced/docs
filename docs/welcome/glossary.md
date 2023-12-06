@@ -1,9 +1,9 @@
 ---
 id: glossary
-title: 'OpenSauced Glossary'
-sidebar_label: OpenSauced Glossary
+title: "OpenSauced Glossary"
+sidebar_label: "OpenSauced Glossary"
 keywords:
-  - glossary
+  - "glossary"
 ---
 
 Welcome to the glossary, where we define concepts used on our platform to help you get the most out of OpenSauced.

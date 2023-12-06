@@ -1,9 +1,9 @@
 ---
 id: introduction-to-contributing
-title: 'Introduction to Contributing'
-sidebar_label: Introduction to Contributing
+title: "Introduction to Contributing"
+sidebar_label: "Introduction to Contributing"
 keywords:
-  - introduction to contributing
+  - "introduction to contributing"
 ---
 
 Contributions are always welcome, no matter how large or small. Before contributing,
@@ -89,7 +89,7 @@ If you forget to run this command, automated PR checks will also run these comma
 6. Ensure the test suite passes.
 7. Make sure you address any lint warnings.
 8. If you improve the existing code, please let us know in your PR description.
-9. Completing the PR form is required. Make sure to fill the PR title, description, [link to an issue](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls), and all the necessary areas. 
+9. Completing the PR form is required. Make sure to fill the PR title, description, [link to an issue](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls), and all the necessary areas.
 
    - The title is required to begin with "feat:" or "fix:"
    - Unsolicited code is welcomed, but an issue is required to announce your intentions. PRs without a linked issue will be marked invalid and closed.

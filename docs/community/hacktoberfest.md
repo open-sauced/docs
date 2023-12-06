@@ -1,9 +1,9 @@
 ---
 id: hacktoberfest
-title: 'Join us for Hacktoberfest! 🎃'
-sidebar_label: Join us for Hacktoberfest! 🎃
+title: "Join us for Hacktoberfest! 🎃"
+sidebar_label: "Join us for Hacktoberfest! 🎃"
 keywords:
-  - hacktoberfest
+  - "hacktoberfest"
 ---
 
 At OpenSauced, we love open source just as much as pizza! That's why we are participating in Hacktoberfest! 🎃

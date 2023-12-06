@@ -1,6 +1,6 @@
 ---
 slug: /
-sidebar_label: Introduction to OpenSauced 🍕
+sidebar_label: "Introduction to OpenSauced 🍕"
 ---
 
 # Introduction to OpenSauced

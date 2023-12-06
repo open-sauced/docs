@@ -1,9 +1,9 @@
 ---
 id: pizza-cli
-title: 'Introduction to the Pizza CLI'
-sidebar_label: Pizza CLI
+title: "Introduction to the Pizza CLI"
+sidebar_label: "Pizza CLI"
 keywords:
-  - introduction to the pizza CLI
+  - "introduction to the pizza cli"
 ---
 
 ## The OpenSauced Pizza CLI
@@ -77,9 +77,9 @@ To contribute to or modify the pizza CLI, you need a specific set of tools:
 - [**Go Toolchain**](https://go.dev/doc/install): The foundational tool for building and managing Go applications.
 - [**Docker**](https://docs.docker.com/engine/install/): Required for linting and other auxiliary tooling.
 - **Make**: A build automation tool.
-  
-    Development Commands:
 
-    - **Linting**: Ensure code quality with `make lint`.
-    - **Testing**: Verify functionality with `make test`.
-    - **Building**: Create the executable with `make build`.
+  Development Commands:
+
+  - **Linting**: Ensure code quality with `make lint`.
+  - **Testing**: Verify functionality with `make test`.
+  - **Building**: Create the executable with `make build`.

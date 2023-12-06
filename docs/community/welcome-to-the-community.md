@@ -1,9 +1,9 @@
 ---
 id: welcome-to-the-community
-title: 'Welcome to the OpenSauced Community'
-sidebar_label: Welcome to the Community
+title: "Welcome to the OpenSauced Community"
+sidebar_label: "Welcome to the Community"
 keywords:
-  - welcome to the community
+  - "welcome to the community"
 ---
 
 Welcome to the OpenSauced community! At OpenSauced, we strive to bring collaboration and inspiration to every open source contributor and help build a global community of open source developers, empowering you to grow, innovate, and achieve greatness in the open.

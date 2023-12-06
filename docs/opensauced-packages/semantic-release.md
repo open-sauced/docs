@@ -1,9 +1,9 @@
 ---
 id: semantic-release
-title: '@open-sauced/semantic-release-conventional-config'
-sidebar_label: '@open-sauced/semantic-release-conventional-config'
+title: "@open-sauced/semantic-release-conventional-config"
+sidebar_label: "@open-sauced/semantic-release-conventional-config"
 keywords:
-  - '@open-sauced/semantic-release-conventional-config'
+  - "@open-sauced/semantic-release-conventional-config"
 ---
 
 ## Description
@@ -139,7 +139,7 @@ You can opt to use this package in your local tooling. Proceed as you would norm
 npm install --save-dev @open-sauced/semantic-release-conventional-config
 ```
 
-The shareable config can then be configured in the [  `semantic-release` configuration file](https://github.com/semantic-release/semantic-release/blob/master/docs/usage/configuration.md#configuration):
+The shareable config can then be configured in the [ `semantic-release` configuration file](https://github.com/semantic-release/semantic-release/blob/master/docs/usage/configuration.md#configuration):
 
 ```json
 {

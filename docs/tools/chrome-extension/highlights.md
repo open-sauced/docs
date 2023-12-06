@@ -1,10 +1,10 @@
 ---
 id: highlights
-title: 'Highlight'
-sidebar_label: Highlight
+title: "Highlight"
+sidebar_label: "Highlight"
 keywords:
-  - highlights
-  - posting
+  - "highlights"
+  - "posting"
 ---
 
 You can generate and post a Highlight of your PR to your OpenSauced profile with our OpenSauced.ai Chrome extension.
@@ -13,7 +13,7 @@ A popup window will open when you click the extension button on your PR page on 
 
 ![location of post to highlight](https://user-images.githubusercontent.com/18273833/241761099-e7a745c8-204e-4a4d-b313-867ab99af0b2.png)
 
-If your Highlight is successfully posted, you will get a message with an option to see the Highlight on the OpenSauced website. 
+If your Highlight is successfully posted, you will get a message with an option to see the Highlight on the OpenSauced website.
 
 ![Successful message example](https://github.com/open-sauced/docs.opensauced.pizza/assets/18273833/723ac624-e996-45f8-acdf-0d3ff08af90b)
 

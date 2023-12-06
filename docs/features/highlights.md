@@ -1,9 +1,9 @@
 ---
 id: highlights
-title: 'Highlight Your Open Source Contributions'
-sidebar_label: Highlights
+title: "Highlight Your Open Source Contributions"
+sidebar_label: "Highlights"
 keywords:
-  - highlights
+  - "highlights"
 ---
 
 The Highlights feature is the place you can display your favorite open source contributions, share the story, and inspire others to join you in your open source journey. For maintainers, it's a great way to showcase your project and the issues that need support and attract new contributors.

@@ -1,9 +1,9 @@
 ---
 id: conventional-commit
-title: '@open-sauced/conventional-commit'
-sidebar_label: '@open-sauced/conventional-commit'
+title: "@open-sauced/conventional-commit"
+sidebar_label: "@open-sauced/conventional-commit"
 keywords:
-  - '@open-sauced/conventional-commit'
+  - "@open-sauced/conventional-commit"
 ---
 
 ## Description

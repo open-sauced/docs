@@ -1,10 +1,10 @@
 ---
 id: pr-description
-title: 'PR Description'
-sidebar_label: PR Description
+title: "PR Description"
+sidebar_label: "PR Description"
 keywords:
-  - ai
-  - pr descriptions
+  - "ai"
+  - "pr descriptions"
 ---
 
 The OpenSauced Chrome extension will help you create a PR based on the configuration you have in the extension. It will enable you to create the summary based on either commit messages, the difference between the files, or both. You can even set the message's length and tone using the same settings.

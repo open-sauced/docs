@@ -1,9 +1,9 @@
 ---
 id: setup-repo-with-git
-title: 'Setting Up a Repository with Git and GitHub'
-sidebar_label: Setting Up a Repository with Git and GitHub
+title: "Setting Up a Repository with Git and GitHub"
+sidebar_label: "Setting Up a Repository with Git and GitHub"
 keywords:
-  - setting up a repository with Git and GitHub
+  - "setting up a repository with Git and GitHub"
 ---
 
 ## Using the GitHub CLI

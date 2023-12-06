@@ -1,9 +1,9 @@
 ---
 id: 100-days-of-oss
-title: '#100DaysOfOSS: Growing Skills and Real-World Experience'
-sidebar_label: '#100DaysOfOSS'
+title: "#100DaysOfOSS: Growing Skills and Real-World Experience"
+sidebar_label: "#100DaysOfOSS"
 keywords:
-  - 100 days of open source
+  - "100 days of open source"
 ---
 
 Inspired by the great work of the [#100DaysOfCode challenge](https://www.100daysofcode.com/), we're starting #100DaysOfOSS.
@@ -65,7 +65,7 @@ Here's what you can do if you're ready to join this challenge:
 
 ## The Official Kickoff
 
-We started our first #100DaysOfOSS on July 23rd and went to the end of [Hacktoberfest](https://hacktoberfest.com/), a month-long celebration of open source contributions. 
+We started our first #100DaysOfOSS on July 23rd and went to the end of [Hacktoberfest](https://hacktoberfest.com/), a month-long celebration of open source contributions.
 
 Don't worry if you didn't start then. The #100DaysOfOSS challenge is flexible; you can join in whenever you're ready. Just jump in at any point and begin with day one of your personal challenge.
 
@@ -106,7 +106,6 @@ Our hope is that the community will provide a safe space to discuss challenges, 
 4. **Learning from Peers**: By examining the codebase, participating in discussions, engaging in the community, and reviewing pull requests, contributors can gain insights into different approaches to community, projects, coding styles, architecture patterns, and software development best practices, accelerating a developer's learning curve.
 
 5. **Making a Positive Impact**: Your contributions benefit other contributors who rely on these projects, fostering a sense of fulfillment and giving back to the community.
-
 
 ### Weekly Office Hours
 

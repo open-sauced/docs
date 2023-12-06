@@ -1,9 +1,9 @@
 ---
 id: triage-guide
-title: 'Triage Guide'
-sidebar_label: Triage Guide
+title: "Triage Guide"
+sidebar_label: "Triage Guide"
 keywords:
-  - triage guide
+  - "triage guide"
 ---
 
 ## How to Join the Triage Team
@@ -13,7 +13,7 @@ keywords:
 
 ## Issue Triage Process
 
-When a new issue or pull request is opened, the issue will be labeled with `needs triage`. If a triage team member is available, they can help ensure all the required information is provided. 
+When a new issue or pull request is opened, the issue will be labeled with `needs triage`. If a triage team member is available, they can help ensure all the required information is provided.
 
 Depending on the issue or PR, there are several labels they can add for further classification, as follows:
 

@@ -1,9 +1,9 @@
 ---
 id: resolve-merge-conflicts
-title: 'Resolve Merge Conflicts'
-sidebar_label: Resolve Merge Conflicts
+title: "Resolve Merge Conflicts"
+sidebar_label: "Resolve Merge Conflicts"
 keywords:
-  - resolve merge conflicts
+  - "resolve merge conflicts"
 ---
 
 You'll likely encounter merge conflicts when opening a pull request, as the release process generally updates `npm-shrinkwrap.json`.

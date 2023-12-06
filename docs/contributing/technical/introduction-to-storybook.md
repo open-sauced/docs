@@ -1,9 +1,9 @@
 ---
 id: introduction-to-storybook
-title: 'Introduction to Storybook'
-sidebar_label: Introduction to Storybook
+title: "Introduction to Storybook"
+sidebar_label: "Introduction to Storybook"
 keywords:
-  - introduction to storybook
+  - "introduction to storybook"
 ---
 
 Storybook is an open-source tool that helps developers build, test, and document UI components in isolation. It's being leveraged to mock out visual React components. [Follow this link](https://sauced-components.netlify.app/) to find the latest version of the OpenSauced design system.
@@ -25,6 +25,7 @@ Storybook is broken into several categories:
 
   - When no user is logged in.
   - When a user is logged in.
+
 - **Footer**: This represents the various footers for the project.
 - **Homepage**: This is the main component of the project homepage and shows the home page in its current form.
 - **Miscellaneous**: These are components that currently don't fit neatly into the above categories.
@@ -43,7 +44,7 @@ In the file ensure you have this code:
 
 ```javascript
 export default {
-    title: "*Name of category*"
+  title: "*Name of category*",
 };
 ```
 
