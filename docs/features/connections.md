@@ -19,4 +19,4 @@ Connections on OpenSauced serve as a way to build and nurture your professional 
 - **Following highlights**: After becoming 1st-degree connections, you can follow each other's highlights, keeping up-to-date with accomplishments, contributions, and other notable activities.
 - **Contact information**: Post-acceptance, you'll have access to contact information to foster direct communication and ongoing dialogue.
 
-Are you interested? Login to [OpenSauced](https://opensauced.pizza/), create your Pro account, or use a coupon to get this feature and start building!
+Are you interested? Navigate to [OpenSauced](https://opensauced.pizza/), create your Pro account, and start building!
