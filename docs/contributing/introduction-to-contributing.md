@@ -79,7 +79,7 @@ If you forget to run this command, automated PR checks will also run these comma
 
 ## Pull Requests (PR)
 
-**_We actively welcome your pull requests; however, linking your work to an existing issue is preferred._**
+**_We actively welcome your pull requests. However, you must link your work to an existing issue._**
 
 1. Fork the repo and create your branch from the default branch.
 2. Name your branch to something descriptive of the work you are doing. i.e., `adds-new-thing` or `fixes-mobile`.
@@ -92,7 +92,7 @@ If you forget to run this command, automated PR checks will also run these comma
 9. Completing the PR form is required. Make sure to fill the PR title, description, [link to an issue](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls), and all the necessary areas.
 
    - The title is required to begin with "feat:" or "fix:"
-   - Unsolicited code is welcomed, but an issue is required to announce your intentions. PRs without a linked issue will be marked invalid and closed.
+   - Unsolicited code is welcomed, but an issue is required to announce your intentions. **_PRs without a linked issue will be marked invalid and closed_**.
 
 _**Note for maintainers**: All pull requests need a label to assist automation. See the [template](https://github.com/open-sauced/open-sauced/blob/HEAD/.github/release-drafter.yml) to guide which labels to use._
 
