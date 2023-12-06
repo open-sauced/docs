@@ -29,17 +29,7 @@ Depending on the issue or PR, there are several labels they can add for further 
 
 In all cases, maintainers may close issues if they don't receive a timely response when further information is sought or when additional questions are asked.
 
-## Approaches and Best Practices for Getting Into Triage Contributions
-
-- Review the project's Contribution Guidelines if they are present. In a nutshell, commit to the community's standards and values.
-
-- Review the documentation; for most projects, it is just the `README.md`. Ensure you understand the key APIs, semantics, configurations, and use cases.
-
-- Writing your own test apps to reaffirm your understanding of the key functions might be helpful. This may identify some gaps in documentation; record those as they might be good PRs to open.
-
-- Skim through the issues backlog; identify low-hanging and mostly new issues. From those, attempt to recreate issues based on the OP description and ask questions if required. No question is a bad question!
-
-## Labeling `good first issue`
+### Labeling `good first issue`
 
 Issues labeled as `good first issue` represent a curated list of easy contributions for new contributors. These issues are meant to help folks make their first contribution to open source and should not require excessive research or triaging on the contributor's part.
 
@@ -53,6 +43,16 @@ Please be noted:
 
 - Issues that `needs triage` cannot be labeled as `good first issues`.
 - It is better to have no `good first issue` labeled issues than to have a `good first issue` confusing enough to deter a contributor from contributing.
+
+## Approaches and Best Practices for Getting Into Triage Contributions
+
+- Review the project's Contribution Guidelines if they are present. In a nutshell, commit to the community's standards and values.
+
+- Review the documentation; for most projects, it is just the `README.md`. Ensure you understand the key APIs, semantics, configurations, and use cases.
+
+- Writing your own test apps to reaffirm your understanding of the key functions might be helpful. This may identify some gaps in documentation; record those as they might be good PRs to open.
+
+- Skim through the issues backlog; identify low-hanging and mostly new issues. From those, attempt to recreate issues based on the OP description and ask questions if required. No question is a bad question!
 
 ## Removal of Triage Role
 
