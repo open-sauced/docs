@@ -52,7 +52,7 @@ Please be noted:
 
 - Writing your own test apps to reaffirm your understanding of the key functions might be helpful. This may identify some gaps in documentation; record those as they might be good PRs to open.
 
-- Skim through the issues backlog; identify low-hanging and mostly new issues. From those, attempt to recreate issues based on the OP description and ask questions if required. No question is a bad question!
+- Skim through the issues backlog; identify low-hanging and mostly new issues. From those, attempt to recreate issues based on the OP (Original Poster) description and ask questions if required. No question is a bad question!
 
 ## Removal of Triage Role
 
@@ -64,7 +64,7 @@ There are a few cases where members can be removed from the triage role:
 
 If any of these happen, we will discuss them as a part of the triage portion of the regular Triage Team meetings. If you have questions, feel free to contact any Triage Team members.
 
-## Helpful Hints:
+## Helpful Hints
 
 - When reviewing the list of open issues, there are some common types and suggested actions:
   - **New/unattended issues or simple questions**: A good place to start.
