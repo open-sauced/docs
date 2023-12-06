@@ -8,7 +8,7 @@ keywords:
 
 ## Description
 
-The `npm` package `@open-sauced/semantic-release-conventional-config` is designed to help `npm` packages auto-release to `npm` or `ghcr` registries while generating GitHub releases and changelog using conventional commit convention.
+The `npm` package `@open-sauced/semantic-release-conventional-config` is designed to help `npm` packages auto-release to `npm` or [`ghcr`](https://ghcr.io) registries while generating GitHub releases and changelog using conventional commit convention.
 
 Version 2 supports alpha and beta pre-releases using corresponding branches.
 
