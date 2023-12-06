@@ -106,7 +106,11 @@ Examples of valid PR titles:
 
 _**Note**: Since PR titles only have a single line, you have to use the `!` syntax for breaking changes._
 
-See [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for more examples.
+### Work in Progress
+
+GitHub supports [draft pull requests](https://github.blog/2019-02-14-introducing-draft-pull-requests/), which will disable the merge button until the PR is marked as ready for merge.
+
+### Additional Resources
 
 _[3 tips for getting your Pull Request reviewed on GitHub](https://youtu.be/cuMeC-eZJJ4)_
 
@@ -120,9 +124,7 @@ Using the `npm run push` command is an interactive replacement for `git commit`.
 
 Assuming you are dealing with code changes and you add them using `git add`, once you are ready to commit, there are two ways we can proceed: `git commit` or `npm run push`. The second method is preferred, as doing a subsequent `git push` and opening a PR would ensure the title conforms to our standards.
 
-### Work in Progress
-
-GitHub supports [draft pull requests](https://github.blog/2019-02-14-introducing-draft-pull-requests/), which will disable the merge button until the PR is marked as ready for merge.
+See [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for more examples.
 
 ## Issues
 
