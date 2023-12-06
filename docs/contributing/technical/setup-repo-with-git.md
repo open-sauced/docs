@@ -49,10 +49,10 @@ git remote -v
 You should see the following output:
 
 ```shell
-origin git@github.com:YOUR_GITHUB_USERNAME/open-sauced.git (fetch)
-origin git@github.com:YOUR_GITHUB_USERNAME/open-sauced.git (push)
-upstream git@github.com:open-sauced/open-sauced.git (fetch)
-upstream git@github.com:open-sauced/open-sauced.git (push)
+origin git@github.com:YOUR_GITHUB_USERNAME/app.git (fetch)
+origin git@github.com:YOUR_GITHUB_USERNAME/app.git (push)
+upstream git@github.com:open-sauced/app.git (fetch)
+upstream git@github.com:open-sauced/app.git (push)
 ```
 
 ### How to Add a Remote Repository
@@ -62,7 +62,7 @@ Adding a remote repository allows you to pull in changes from the original repos
 To add a remote repository, run the following command:
 
 ```shell
-git remote add upstream git@github.com:open-sauced/open-sauced.git
+git remote add upstream https://github.com/open-sauced/app.git
 ```
 
 ## Using the GitHub Website and the Command Line
