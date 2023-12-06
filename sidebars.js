@@ -137,7 +137,7 @@ module.exports = {
       collapsed: true,
       items: [
         "job-seekers-guide/job-seekers-guide-introduction",
-        "job-seekers-guide/job-seekers-guide-how-to-organize-your-open-source-contributions",
+        "job-seekers-guide/how-to-translate-open-source-contributions-into-career-opportunities",
       ],
     },
   ],

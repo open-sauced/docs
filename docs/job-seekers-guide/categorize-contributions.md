@@ -1,9 +1,9 @@
 ---
-id: job-seekers-guide-how-to-organize-your-open-source-contributions
-title: "How to organize your open source contributions for jobs"
-sidebar_label: "How to organize your open source contributions for jobs"
+id: how-to-translate-open-source-contributions-into-career-opportunities
+title: "How to Translate Open Source Contributions into Career Opportunities"
+sidebar_label: "How to Translate Open Source Contributions into Career Opportunities"
 keywords:
-  - job-seekers-guide-how-to-organize-your-open-source-contributions
+  - how-to-translate-open-source-contributions-into-career-opportunities
 ---
 
 It is important to keep track of your open source contributions and show the impact you have left on the projects and organizations. By organizing your work, you will be able to talk about these meaningful contributions on your resume and in job interviews.
@@ -132,6 +132,30 @@ For each project contribution, you will want to list the date and brief summary 
 | Contribution Summary                  | [Summary of Contribution with Links] |
 | Feedback Received/Milestones Achieved | [Feedback and Achievements]          |
 
+### Using the Highlights feature to track your contributions
+
+The [Highlights feature](../features/highlights.md) is the place you can display your favorite open source contributions, and share your open source story.
+
+![OpenSauced Highlights](../../static/gif/highlight.gif)
+
+You can use this feature to help you track the open source contributions that you are most proud of and share your accomplishments with your network.
+
+### Using the Lists feature to add people you interacted with during your contributions
+
+The [Lists feature](../features/lists.md) enables you to categorize, monitor, and analyze different groups of contributors within open source projects.
+
+![lists-page](../../static/img/lists-page.svg)
+
+You can use this feature to create a list of people you interacted with during your open source work. If you continually work with the same individuals, then they can act as referrals and references for jobs.
+
+Lists can also be used to track other people in your network to reach out to about their contributions.
+
+### Using the Insights feature to track the repositories you contributed to
+
+The [Insights feature](../features/insights.md) is a comprehensive view of a project's health and individual contributions. You can use it to track the repositories you contributed to or to track repositories of open source companies that are hiring.
+
+![insight-pages-demo](../../static/gif/insight-page-demo.gif)
+
 ### Networking and Professional Development
 
 Some larger features can lead to networking and other professional development opportunities, like speaking at meetups or writing for tech publications. It is important that you list out who you mainly corresponded with for each contribution and any opportunities that came from this contribution.
@@ -152,14 +176,6 @@ Your [OpenSauced Dev card](../features/dev-card.md) serves as your "open source 
 You can easily share your Dev card on social media platforms like Twitter and LinkedIn to gain attention from potential recruiters and hiring managers.
 
 ![OpenSauced Dev card](../../static/img/a-dev-card.png)
-
-### Using the OpenSauced Connections feature
-
-If you have OpenSauced Pro, you can leverage the Connections feature to connect with other developers on the project.
-
-![OpenSauced Connections](../../static/gif/connections.gif)
-
-To learn more about that feature, check out the detailed explanation [here](../features/connections.md).
 
 ### Reflection and next steps
 
