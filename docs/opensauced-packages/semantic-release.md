@@ -155,7 +155,7 @@ npx semantic-release
 
 ## 🔧 Configuration
 
-See each [plugin](#-plugins) documentation for the required installation and configuration steps.
+See each plugin official documentation for the required installation and configuration steps.
 
 ### `npm`
 
