@@ -38,6 +38,16 @@ gh repo fork open-sauced/<REPO_NAME>
 
 The GitHub CLI will fork the project in your GitHub account and will ask you if you want to clone the repository on your local machine.
 
+### How to Add a Remote Repository
+
+Adding a remote repository allows you to pull in changes from the original repository and keep your forked copy of the repository up to date.
+
+To add a remote repository, run the following command:
+
+```shell
+git remote add upstream https://github.com/open-sauced/app.git
+```
+
 ### How to View the Remote Repositories Locally
 
 To view the remote repositories that your local repository is connected to, run the following command:
@@ -53,16 +63,6 @@ origin git@github.com:YOUR_GITHUB_USERNAME/app.git (fetch)
 origin git@github.com:YOUR_GITHUB_USERNAME/app.git (push)
 upstream git@github.com:open-sauced/app.git (fetch)
 upstream git@github.com:open-sauced/app.git (push)
-```
-
-### How to Add a Remote Repository
-
-Adding a remote repository allows you to pull in changes from the original repository and keep your forked copy of the repository up to date.
-
-To add a remote repository, run the following command:
-
-```shell
-git remote add upstream https://github.com/open-sauced/app.git
 ```
 
 ## Using the GitHub Website and the Command Line
