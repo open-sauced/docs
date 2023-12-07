@@ -50,7 +50,7 @@ module.exports = {
       collapsed: false,
       items: [
         "community/welcome-to-the-community",
-        "community/100-days-of-oss",
+        "community/100-days-of-oss"
       ],
     },
     {
@@ -74,7 +74,7 @@ module.exports = {
                   type: "file",
                   label: "feature 1",
                   type: "doc",
-                  id:"tools/chrome-extension/code-explanation",
+                  id: "tools/chrome-extension/code-explanation",
                 },
                 {
                   type: "file",
@@ -128,7 +128,6 @@ module.exports = {
         },
       ],
     },
-
     {
       type: "category",
       label: `OpenSauced Packages`,
@@ -139,6 +138,14 @@ module.exports = {
         "opensauced-packages/semantic-release",
       ],
     },
-
+    {
+      type: "category",
+      label: "Job Seekers Guide",
+      collapsed: true,
+      items: [
+        "job-seekers-guide/job-seekers-guide-introduction",
+        "job-seekers-guide/how-to-translate-open-source-contributions-into-career-opportunities",
+      ],
+    },
   ],
 };

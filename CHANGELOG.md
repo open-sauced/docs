@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.56.0](https://github.com/open-sauced/docs/compare/v1.55.1...v1.56.0) (2023-12-07)
+
+
+### Features
+
+* adding job seekers guide ([#221](https://github.com/open-sauced/docs/issues/221)) ([8f8f1d5](https://github.com/open-sauced/docs/commit/8f8f1d53fa73c62c704b040b8475c25ac87ae927))
+
 ### [1.55.1](https://github.com/open-sauced/docs/compare/v1.55.0...v1.55.1) (2023-12-03)
 
 
