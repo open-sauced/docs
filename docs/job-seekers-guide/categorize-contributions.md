@@ -144,11 +144,12 @@ You can use this feature to help you track the open source contributions that yo
 
 The [Lists feature](../features/lists.md) enables you to categorize, monitor, and analyze different groups of contributors within open source projects.
 
-![lists-page](../../static/img/lists-page.svg)
-
 You can use this feature to create a list of people you interacted with during your open source work. If you continually work with the same individuals, then they can act as referrals and references for jobs.
 
 Lists can also be used to track other people in your network to reach out to about their contributions.
+
+![lists-page](../../static/img/lists-page.svg)
+
 
 ### Using the Insights feature to track the repositories you contributed to
 
