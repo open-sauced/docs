@@ -1,6 +1,6 @@
 ---
 id: job-seekers-guide-introduction
-title: "Learn how to land a tech job using OpenSauced"
+title: "Learn How to Land a Tech Job Using OpenSauced"
 sidebar_label: "Introduction"
 keywords:
   - job-seekers-guide-introduction

@@ -8,9 +8,9 @@ keywords:
 
 ## Description
 
-The `npm` package `@open-sauced/semantic-release-conventional-config` is designed to help `npm` packages auto-release to `npm` or `ghcr` registries while generating github releases and changelog using conventional commit convention.
+The `npm` package `@open-sauced/semantic-release-conventional-config` is designed to help `npm` packages auto-release to `npm` or [`ghcr`](https://ghcr.io) registries while generating GitHub releases and changelog using conventional commit convention.
 
-Version 2 supports alpha and beta pre-releases using coresponding branches.
+Version 2 supports alpha and beta pre-releases using corresponding branches.
 
 ## Dependencies
 
@@ -18,11 +18,11 @@ This package uses the following modules:
 
 - [`@semantic-release/commit-analyzer`](https://github.com/semantic-release/commit-analyzer)
 - [`@semantic-release/release-notes-generator`](https://github.com/semantic-release/release-notes-generator)
-- [`conventional-changelog-conventionalcommits`](https://github.com/conventional-changelog/conventional-changelog)
+- [`@conventional-changelog/conventional-changelog`](https://github.com/conventional-changelog/conventional-changelog)
 - [`@semantic-release/changelog`](https://github.com/semantic-release/changelog)
 - [`@semantic-release/npm`](https://github.com/semantic-release/npm)
 - [`@google/semantic-release-replace-plugin`](https://github.com/google/semantic-release-replace-plugin)
-- [`semantic-release-license`](https://github.com/cbhq/semantic-release-license)
+- [`@cbhq/semantic-release-license`](https://github.com/cbhq/semantic-release-license)
 - [`@semantic-release/git`](https://github.com/semantic-release/git)
 - [`@semantic-release/github`](https://github.com/semantic-release/github)
 - [`@eclass/semantic-release-docker`](https://github.com/eclass/semantic-release-docker)
@@ -37,7 +37,7 @@ Most important limitations are:
 - `NPM_TOKEN` for public `npm` library
 - `docker` containers need to be built beforehand
 
-You can skip here if you are using elevated [Private Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token), however we don't recommend going down that path.
+You can skip here if you are using an elevated [Private Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). However, we don't recommend going down that path.
 
 No force push or admin cherries branch protections for the following branches:
 
@@ -48,17 +48,17 @@ No force push or admin cherries branch protections for the following branches:
 - `next-major` - optional, next major
 - `vX[.X.X]` - maintenance releases
 
-If you use more than the main branch, optionally create an environment that is limiting where pushes can come from and enable the merge strategy.
+If you use more than the `main` branch, optionally create an environment that limits where pushes can come from and enable the merge strategy.
 
-We are using `production` in our examples, if you copy paste them you will find this new environment generated in your settings! 🍕
+We use `production` in our examples; if you copy-paste them, you will find this new environment generated in your settings! 🍕
 
-## 🧪 GitHub actions usage
+## 🧪 GitHub Actions Usage
 
-Since version 3 it is possible to use semantic-release without any trace of it or the open-sauced configuration anywhere in the dependency tree.
+Since version 3, it has been possible to use `semantic-release` without any trace of it or the OpenSauced configuration anywhere in the dependency tree.
 
-Docker containers are pushed as part of the release so they mirror the availability of `npm` packages.
+Docker containers are pushed as part of the release, so they mirror the availability of `npm` packages.
 
-The simplest use case for a typical NPM package, almost zero install downtime from ghcr and no more local tooling:
+The simplest use case for a typical `npm` package is almost zero install downtime from `ghcr` and no more local tooling:
 
 ```yaml
 name: "Release container"
@@ -95,7 +95,7 @@ jobs:
 
 Marketplace actions should default to the major tag and are essentially more stable as we have to curate every release.
 
-A more traditional approach, only thing really different here is a minor pull overhead and using set outputs instead of environment variables:
+A more traditional approach, the only thing really different here is a minor pull overhead and using set outputs instead of environment variables:
 
 ```yaml
 name: "Release"
@@ -131,15 +131,15 @@ jobs:
           echo ${{ steps.semantic-release.outputs.release-version }}
 ```
 
-## 📦 NPM usage
+## 📦 `npm` Usage
 
 You can opt to use this package in your local tooling. Proceed as you would normally would, replacing `npm` with your package manager of choice and install the package:
 
-```bash
+```shell
 npm install --save-dev @open-sauced/semantic-release-conventional-config
 ```
 
-The shareable config can then be configured in the [**semantic-release** configuration file](https://github.com/semantic-release/semantic-release/blob/master/docs/usage/configuration.md#configuration):
+The shareable config can then be configured in the [ `semantic-release` configuration file](https://github.com/semantic-release/semantic-release/blob/master/docs/usage/configuration.md#configuration):
 
 ```json
 {
@@ -147,7 +147,7 @@ The shareable config can then be configured in the [**semantic-release** configu
 }
 ```
 
-Now all you need to do is create a release:
+Now, all you need to do is create a release:
 
 ```shell
 npx semantic-release
@@ -155,15 +155,15 @@ npx semantic-release
 
 ## 🔧 Configuration
 
-See each [plugin](#-plugins) documentation for required installation and configuration steps.
+See each plugin official documentation for the required installation and configuration steps.
 
-### NPM
+### `npm`
 
-Set `private` to true in `package.json` if you want to disable `npm`, or, change the scope of package using `publishConfig`.
+Set `private` to true in `package.json` if you want to disable `npm` or change the scope of package using `publishConfig`.
 
-Keep one of `files` or `main` keys in your `package.json` accurate depending on whether you are building a library or an application.
+Keep one of the `files` or `main` keys in your `package.json` accurate, depending on whether you are building a library or an application.
 
-If you publish, make sure to also provide a valid `NPM_TOKEN` as `.npmrc` authentication is ignored in our config!
+If you publish, make sure to also provide a valid `NPM_TOKEN`, as `.npmrc` authentication is ignored in our config!
 
 ### GitHub Actions
 
@@ -177,7 +177,7 @@ Unless you have a `Dockerfile` present in your root folder, this module is not a
 
 If you have a `Dockerfile` present, our config will attempt to push to `ghcr.io`.
 
-### Environment variables
+### Environment Variables
 
 Using our configuration comes with some sensible defaults:
 
@@ -188,15 +188,15 @@ Using our configuration comes with some sensible defaults:
 - `GIT_AUTHOR_NAME` - parsed from commit `$GITHUB_SHA`
 - `GIT_AUTHOR_EMAIL` - parsed from commit `$GITHUB_SHA`
 
-Feel free to change any of the above to whatever suits your purpose, our motivation is to keep `GITHUB_TOKEN` and/or `NPM_TOKEN` the only necessary requirements.
+Feel free to change any of the above to whatever suits your purpose. Our motivation is to keep `GITHUB_TOKEN` and/or `NPM_TOKEN` the only necessary requirements.
 
-We are actively investigating ways to drop the 2 remaining variables as well!
+We are actively investigating ways to drop the two remaining variables as well!
 
-## Workflow examples
+## Workflow Examples
 
-### Node application
+### Node Application
 
-This example requires `"private": true,` in your `package.json` and simplifies the workflow to lightning fast deployment:
+This example requires `"private": true,` in your `package.json` and simplifies the workflow to lightning-fast deployment:
 
 ```yaml
 release:
@@ -232,9 +232,9 @@ release:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-### Npm library
+### `npm` Library
 
-For `npm` libraries we need to set the environment URL manually and set a `NPM_TOKEN` environment variable. This also disables docker builds:
+For `npm` libraries, we need to set the environment URL manually and set a `NPM_TOKEN` environment variable. This also disables `docker builds`:
 
 ```yaml
 name: "Release"
@@ -278,9 +278,9 @@ jobs:
 
 An up-to-date version of the example above is available at [@open-sauced/semantic-release-conventional-config](https://github.com/open-sauced/semantic-release-conventional-config/blob/main/.github/workflows/release.yml).
 
-### Docker image
+### Docker Image
 
-For docker builds it's best to build your node application in parallel with the container and re-use the artifact at a later stage:
+For `docker builds`, it's best to build your node application in parallel with the container and re-use the artifact at a later stage:
 
 ```yaml
 name: "Release"
@@ -423,7 +423,7 @@ jobs:
 
 An up-to-date version of the example above is available at [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced/blob/main/.github/workflows/release.yml).
 
-### Pre-releases
+### Pre-Releases
 
 This workflow requires the creation of `alpha` and `beta` protected branches while templating every commit to be conventional. It does not support squashing without creating extremely complex conflict resolution:
 
@@ -458,9 +458,9 @@ jobs:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 ```
 
-## FAQ
+## FAQs
 
-### Which assets are pushed to git
+### Which Assets are Pushed to Git?
 
 The following assets are added to git using `@semantic-release/git`:
 
@@ -481,7 +481,7 @@ The following assets are added to git using `@semantic-release/git`:
 }
 ```
 
-### What is the commit convention
+### What is the Commit Convention?
 
 The following commit rules are enforced by `@semantic-release/commit-analyzer`:
 
@@ -504,7 +504,7 @@ The following commit rules are enforced by `@semantic-release/commit-analyzer`:
 }
 ```
 
-### How to enrich the static distribution
+### How to Enrich the Static Distribution?
 
 The following assets are packed into the github release download using `@semantic-release/github`:
 
@@ -519,16 +519,16 @@ The following assets are packed into the github release download using `@semanti
 }
 ```
 
-### How to start using pre-releases
+### How to Start Using Pre-Releases?
 
-Create the `alpha` and/or `beta` branches and protect them from being deleted or pushed to directly by non-administrators.
+Create the `alpha` and/or `beta` branches and protect them from being deleted or pushed directly by non-administrators.
 
 Switch your branching strategy to `merge` and enable conventional commits checking.
 
-You will have to resolve merge conflicts between `alpha`, `beta` and `main` branches as described in the [semantic-releases recipes](https://github.com/semantic-release/semantic-release/tree/master/docs/recipes).
+As described in the [semantic-releases recipes](https://github.com/semantic-release/semantic-release/tree/master/docs/recipes), you will have to resolve merge conflicts between `alpha`, `beta`, and `main` branches.
 
 ## Contributing
 
 We're always happy to onboard people into open source!
 
-Check out the repository at [@open-sauced/semantic-release-conventional-config](https://github.com/open-sauced/semantic-release-conventional-config) ❤️
+Check out the repository at [@open-sauced/semantic-release-conventional-config](https://github.com/open-sauced/semantic-release-conventional-config). ❤️

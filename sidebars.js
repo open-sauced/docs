@@ -14,9 +14,13 @@ module.exports = {
     "introduction",
     {
       type: "category",
-      label: "Getting started",
+      label: "Getting Started",
       collapsed: false,
-      items: ["welcome/opensauced-intro", "welcome/glossary", "welcome/faqs"],
+      items: [
+        "welcome/opensauced-intro",
+        "welcome/glossary",
+        "welcome/faqs"
+      ],
     },
     {
       type: "category",
@@ -44,7 +48,10 @@ module.exports = {
       type: "category",
       label: "Community",
       collapsed: false,
-      items: ["community/welcome-to-the-community", "community/100-days-of-oss"],
+      items: [
+        "community/welcome-to-the-community",
+        "community/100-days-of-oss"
+      ],
     },
     {
       type: "category",
@@ -101,7 +108,7 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Contributing guide",
+      label: "Contributing Guide",
       collapsed: true,
       items: [
         "contributing/introduction-to-contributing",
@@ -111,7 +118,7 @@ module.exports = {
         "contributing/maintainers-guide",
         {
           type: "category",
-          label: "Technical guide",
+          label: "Technical Guide",
           collapsed: true,
           items: [
             "contributing/technical/introduction-to-storybook",

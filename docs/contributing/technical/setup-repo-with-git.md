@@ -1,20 +1,20 @@
 ---
 id: setup-repo-with-git
-title: Setting up a repository with Git and GitHub
-sidebar_label: Setting up a repository with Git and GitHub
+title: "Setting Up a Repository with Git and GitHub"
+sidebar_label: "Setting Up a Repository with Git and GitHub"
 keywords:
-  - Setting up a repository with Git and GitHub
+  - "setting up a repository with Git and GitHub"
 ---
 
 ## Using the GitHub CLI
 
-### How to install the GitHub CLI
+### How to Install the GitHub CLI
 
 The [GitHub CLI](https://cli.github.com/) allows you to fork repositories, create issues, pull requests, and more from the command line.
 
-The GitHub CLI can be installed on Mac, Windows or Linux. You can find the complete installation instructions [here](https://github.com/cli/cli#installation).
+Follow these [instructions to install GitHub CLI](https://github.com/cli/cli#installation) on Mac, Windows, or Linux.
 
-### How to authenticate with the GitHub CLI
+### How to Authenticate with the GitHub CLI
 
 From the terminal, you will need to authenticate with the GitHub CLI. You can do this by running the following command:
 
@@ -22,23 +22,33 @@ From the terminal, you will need to authenticate with the GitHub CLI. You can do
 gh auth login
 ```
 
-Follow the on screen prompts to authenticate with the GitHub CLI.
+Then, follow the prompts to authenticate with the GitHub CLI.
 
-### How to fork and clone a repository with the GitHub CLI
+### How to Fork and Clone a Repository with the GitHub CLI
 
-A fork is a copy of a repository and it allows you to freely experiment with changes without affecting the original project.
+A fork is a remote copy of a repository, allowing you to experiment freely with changes without affecting the original project.
 
-A clone is a local copy of a repository that includes all the files, branches, and commits.
+A clone is a local copy of a repository that includes all the files, branches and commits.
 
 To fork and clone a repository with the GitHub CLI, run the following command:
 
 ```shell
-gh repo fork open-sauced/REPO_NAME
+gh repo fork open-sauced/<REPO_NAME>
 ```
 
 The GitHub CLI will fork the project in your GitHub account and will ask you if you want to clone the repository on your local machine.
 
-### How to view the remote repositories locally
+### How to Add a Remote Repository
+
+Adding a remote repository allows you to pull in changes from the original repository and keep your forked copy of the repository up to date.
+
+To add a remote repository, run the following command:
+
+```shell
+git remote add upstream https://github.com/open-sauced/app.git
+```
+
+### How to View the Remote Repositories Locally
 
 To view the remote repositories that your local repository is connected to, run the following command:
 
@@ -49,22 +59,12 @@ git remote -v
 You should see the following output:
 
 ```shell
-origin git@github.com:YOUR_GITHUB_USERNAME/open-sauced.git (fetch)
-origin git@github.com:YOUR_GITHUB_USERNAME/open-sauced.git (push)
-upstream git@github.com:open-sauced/open-sauced.git (fetch)
-upstream git@github.com:open-sauced/open-sauced.git (push)
+origin git@github.com:YOUR_GITHUB_USERNAME/app.git (fetch)
+origin git@github.com:YOUR_GITHUB_USERNAME/app.git (push)
+upstream git@github.com:open-sauced/app.git (fetch)
+upstream git@github.com:open-sauced/app.git (push)
 ```
 
-### How to add a remote repository
+## Using the GitHub Website and the Command Line
 
-To pull in changes from the original repository, you will need to add a remote repository. To do this, run the following command:
-
-```shell
-git remote add upstream git@github.com:open-sauced/open-sauced.git
-```
-
-This will allow you to pull in changes from the original repository and keep your forked copy of the repository up to date.
-
-## Using the GitHub website and the command line
-
-If you prefer to setup your repository using the GitHub website and the command line, then you can follow this detailed guide from the [official GitHub documentation](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
+If you prefer to set up your repository using the GitHub website and the command line, follow this detailed guide from the [official GitHub documentation](https://docs.github.com/en/get-started/quickstart/fork-a-repo).

@@ -8,7 +8,7 @@ keywords:
 
 ## Description
 
-The `npm` package `@open-sauced/check-engines` is designed to help contributors install dependencies conforming to the `engines` property in package.json.
+The `npm` package `@open-sauced/check-engines` is designed to help contributors install dependencies conforming to the `engines` property in `package.json`.
 
 ## Dependencies
 
@@ -36,7 +36,7 @@ The reason why we provide `npx` in the `scripts` section is for the people using
 
 ## Usage
 
-Use your favourite package manager to install dependencies in your project or, if you set it as global verification system:
+Use your favorite package manager to install dependencies in your project or, if you set it as a global verification system:
 
 ```json
 {
@@ -48,7 +48,7 @@ Use your favourite package manager to install dependencies in your project or, i
 }
 ```
 
-## Advanced usage
+## Advanced Usage
 
 If you have an API or any other non-library type of application, you can decouple this package from any install scripts and just use it as a verification:
 
@@ -73,32 +73,32 @@ A more traditional approach not using `pre` or `post` scripts, this example enab
 }
 ```
 
-## FAQ
+## FAQs
 
-### Usage on older `node` and `npm` versions
+### Usage on an Older `node` and `npm` Versions
 
-Older `node` and `npm` versions won't be able to run this package, depending on versions the scripts section could be ignored completely.
+Older `node` and `npm` versions won't be able to run this package; depending on the versions, the scripts section could be ignored completely.
 
 If you have that use case, this package is only worth enabling for progressive contributors frequently missing the legacy support of the respective module and forcefully upgrading dependencies - them running newer versions will force the error message and explicitly disable.
 
-### Why not use `check-engines` or `engine-strict`
+### Why Not Use `check-engines` or `engine-strict`?
 
 As described in the `npm@6` [engine-strict docs](https://docs.npmjs.com/cli/v6/configuring-npm/package-json#enginestrict):
 
-> Prior to npm 3.0.0, this feature was used to treat this package as if the user had set engine-strict. It is no longer used.
+> Prior to npm 3.0.0, this feature was used to treat this package as if the user had set `engine-strict`. It is no longer used.
 
-In `npm@6` and later this was re-introduced as a [config flag](https://docs.npmjs.com/cli/v7/using-npm/config#engine-strict).
+In `npm@6` and later, this was re-introduced as a [config flag](https://docs.npmjs.com/cli/v7/using-npm/config#engine-strict).
 
 This package is designed with multiple legacy use cases in mind.
 
-### Library usage
+### Library Usage
 
-If you are using this module in a library package, be advised that any `*install` script will run in the parent module when installed.
+If you use this module in a library package, be advised that any `*install` script will run in the parent module when installed.
 
-For example, given a module `@demo-org/demo-package` with a `preinstall: "npx @open-sauced/check-engines"` script, running `npm install @demo-org/demo-package` will require your locally installed `node` and `npm` versions to match the `engines` section of your `package.json` - if that is not set, nothing should happen and this package is a stray dependency in either `@demo-org/demo-package` or the module you are running this command in.
+For example, given a module `@demo-org/demo-package` with a `preinstall: "npx @open-sauced/check-engines"` script, running `npm install @demo-org/demo-package` will require your locally installed `node` and `npm` versions to match the `engines` section of your `package.json`. If that is not set, nothing should happen, and this package is a stray dependency in either `@demo-org/demo-package` or the module you are running this command in.
 
 ## Contributing
 
 We're always happy to onboard people into open source!
 
-Check out the repository at [@open-sauced/check-engines](https://github.com/open-sauced/check-engines) ❤️
+Check out the repository at [@open-sauced/check-engines](https://github.com/open-sauced/check-engines). ❤️

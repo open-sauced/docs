@@ -1,9 +1,9 @@
 ---
 id: lists
-title: 'Organize and Monitor Your Contributors'
-sidebar_label: Lists
+title: "Organize and Monitor Your Contributors"
+sidebar_label: "Lists"
 keywords:
-  - lists
+  - "lists"
 ---
 
 The Lists feature enables you to categorize, monitor, and analyze different groups of contributors within open source projects. With the Lists feature, gain granular insights into each contributor's activity and contributions.
@@ -21,7 +21,7 @@ There are three ways to add a list:
 1. **Explore Contributors**: Use our explore tool to find contributors and create your list.
 2. **Sync your GitHub Team**: Connect to your GitHub to create a list from a team in your organization.
 3. **Import your GitHub Following**:
-   Connect to your GitHub to create a list with all the Contributors you follow.
+   Connect to your GitHub to create a list with all the contributors you follow.
 
 Once your list is created, you'll be able to see an overview of all the contributors in your list, a graph of their activity, and a detailed breakdown of the contributors.
 

@@ -1,10 +1,10 @@
 ---
 id: understanding-insights
-title: 'Understanding Insights Data'
-sidebar_label: Understanding Insights Data
+title: "Understanding Insights Data"
+sidebar_label: "Understanding Insights Data"
 keywords:
-  - maintainers
-  - guides
+  - "maintainers"
+  - "guides"
 ---
 
 Once your repositories are connected, it's time to understand the data provided in your Insight Page. Understanding this data is key to effectively managing your projects and contributors.
