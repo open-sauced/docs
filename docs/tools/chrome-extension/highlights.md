@@ -7,9 +7,7 @@ keywords:
   - "posting"
 ---
 
-You can generate and post a Highlight of your PR to your OpenSauced profile with our OpenSauced.ai Chrome extension.
-
-A popup window will open when you click the extension button on your PR page on GitHub. You can navigate to "Tools" at the bottom and select "Post Highlight". It will automatically populate the PR title, and you can generate a summary of the Highlight.
+You can access the post to highlight it from the popup window in the extension. When you clicked, it will automatically, populate the PR or issue title, here you can use our AI functions to get a summary of the highlight similar to the PR summary.
 
 ![location of post to highlight](https://user-images.githubusercontent.com/18273833/241761099-e7a745c8-204e-4a4d-b313-867ab99af0b2.png)
 
