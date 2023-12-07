@@ -5,6 +5,76 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.56.0](https://github.com/open-sauced/docs/compare/v1.55.1...v1.56.0) (2023-12-07)
+
+
+### Features
+
+* adding job seekers guide ([#221](https://github.com/open-sauced/docs/issues/221)) ([8f8f1d5](https://github.com/open-sauced/docs/commit/8f8f1d53fa73c62c704b040b8475c25ac87ae927))
+
+### [1.55.1](https://github.com/open-sauced/docs/compare/v1.55.0...v1.55.1) (2023-12-03)
+
+
+### Bug Fixes
+
+* updated link to PR Velocity  ([#220](https://github.com/open-sauced/docs/issues/220)) ([fb5adec](https://github.com/open-sauced/docs/commit/fb5adec5998138815f43be71a63ce4ea9241562a))
+
+## [1.55.0](https://github.com/open-sauced/docs/compare/v1.54.0...v1.55.0) (2023-11-30)
+
+
+### Features
+
+* add link to public calendar ([#218](https://github.com/open-sauced/docs/issues/218)) ([e8a0da5](https://github.com/open-sauced/docs/commit/e8a0da5f990ade7f9d8f214babe9be559b854f70))
+
+## [1.54.0](https://github.com/open-sauced/docs/compare/v1.53.0...v1.54.0) (2023-11-30)
+
+
+### Features
+
+* Update sidebar with new sections ([#217](https://github.com/open-sauced/docs/issues/217)) ([20f4dfe](https://github.com/open-sauced/docs/commit/20f4dfe8abc2bea0b5f4463e15c8f9d2de25e4d9))
+
+## [1.53.0](https://github.com/open-sauced/docs/compare/v1.52.0...v1.53.0) (2023-11-28)
+
+
+### Features
+
+* adds glossary  ([#212](https://github.com/open-sauced/docs/issues/212)) ([70f7925](https://github.com/open-sauced/docs/commit/70f79255f2af71783686fda8068bfa73c6929ac9))
+
+## [1.52.0](https://github.com/open-sauced/docs/compare/v1.51.0...v1.52.0) (2023-11-16)
+
+
+### Features
+
+* Add maintainers guide section ([#205](https://github.com/open-sauced/docs/issues/205)) ([d5ba31e](https://github.com/open-sauced/docs/commit/d5ba31e63ffec508e3273731dff4a3ec60255f98))
+
+## [1.51.0](https://github.com/open-sauced/docs/compare/v1.50.0...v1.51.0) (2023-11-15)
+
+
+### Documentation
+
+* Add Team Sync instructions to FAQs ([#207](https://github.com/open-sauced/docs/issues/207)) ([eb940a1](https://github.com/open-sauced/docs/commit/eb940a12631ed1061678d6db47cd116a837a83b8))
+
+## [1.50.0](https://github.com/open-sauced/docs/compare/v1.49.0...v1.50.0) (2023-11-06)
+
+
+### Features
+
+* Reorganize docs ([#201](https://github.com/open-sauced/docs/issues/201)) ([dc12081](https://github.com/open-sauced/docs/commit/dc120815281b018a5ec5038a07f8a2c532738225))
+
+## [1.49.0](https://github.com/open-sauced/docs/compare/v1.48.0...v1.49.0) (2023-10-31)
+
+
+### Features
+
+* Add lists to docs ([#193](https://github.com/open-sauced/docs/issues/193)) ([ceb5af5](https://github.com/open-sauced/docs/commit/ceb5af517c23446ba025403374275a1fe527cf72))
+
+## [1.48.0](https://github.com/open-sauced/docs/compare/v1.47.0...v1.48.0) (2023-10-24)
+
+
+### Documentation
+
+* adding section for the Hot OpenSauced Project ([#197](https://github.com/open-sauced/docs/issues/197)) ([4555cb8](https://github.com/open-sauced/docs/commit/4555cb8bfff265a0704e419c1f3ae9e30535f810))
+
 ## [1.47.0](https://github.com/open-sauced/docs/compare/v1.46.0...v1.47.0) (2023-10-20)
 
 

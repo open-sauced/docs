@@ -10,12 +10,6 @@ Pretty often when opening a pull request it is very likely to run into merge con
 
 To better illustrate the commands listed here at will use commits and screenshots from [open-sauced#1078](https://github.com/open-sauced/open-sauced/pull/1078).
 
-In literally every case it is advised _**not**_ to use the `Resolve conflicts` button as follows:
-
-![don't resolve conflicts like this](../../static/img/contributing-resolve-merge-conflicts-dont-do.png)
-
-The above will at best achieve a ready-to-merge pull request with visible inconsistencies.
-
 
 ## Repository setup
 
@@ -74,7 +68,7 @@ git merge origin/main --no-ff -v
 
 You will see something similar to:
 
-![proper merge but results in conflicts](../../static/img/contributing-resolve-merge-conflicts-merge-conflicts.png)
+![proper merge but results in conflicts](../../../static/img/contributing-resolve-merge-conflicts-merge-conflicts.png)
 
 ## Review changes
 
@@ -86,7 +80,7 @@ git diff package.json
 
 It will look like this:
 
-![review merge conflicts](../../static/img/contributing-resolve-merge-conflicts-review-conflicts.png)
+![review merge conflicts](../../../static/img/contributing-resolve-merge-conflicts-review-conflicts.png)
 
 ## Resolve conflicts
 
@@ -119,7 +113,7 @@ git commit
 
 That should look like this:
 
-![commit merge message](../../static/img/contributing-resolve-merge-conflicts-commit-message.png)
+![commit merge message](../../../static/img/contributing-resolve-merge-conflicts-commit-message.png)
 
 ## Push updated pull request
 
@@ -132,7 +126,7 @@ git push
 
 It should look something like this:
 
-![push updated pr](../../static/img/contributing-resolve-merge-conflicts-merge-success.png)
+![push updated pr](../../../static/img/contributing-resolve-merge-conflicts-merge-success.png)
 
 ## Review your pull request
 
@@ -140,11 +134,11 @@ The result of the above commands can be viewed at [283ff8cd788c550309ff0d1d5a9a5
 
 GitHub will conveniently display only your merge conflict changes:
 
-![view merge commit](../../static/img/contributing-resolve-merge-conflicts-view-merge-commit.png)
+![view merge commit](../../../static/img/contributing-resolve-merge-conflicts-view-merge-commit.png)
 
 And it's ready to merge:
 
-![ready to merge](../../static/img/contributing-resolve-merge-conflicts-ready-to-merge.png)
+![ready to merge](../../../static/img/contributing-resolve-merge-conflicts-ready-to-merge.png)
 
 ## Dependency updates
 

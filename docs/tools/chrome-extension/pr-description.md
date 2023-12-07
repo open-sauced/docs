@@ -11,7 +11,7 @@ This will help you to create a PR based on the configuration you have in the ext
 
 _Note: This feature is not available on private repositories._
 
-![generate pr description](../../static/gif/pr-description.gif)
+![generate pr description](../../../static/gif/pr-description.gif)
 
 You can use this settings to set the strictness and the tone of the generated AI, here is an explanation of those settings:
 

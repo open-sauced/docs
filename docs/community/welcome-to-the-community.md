@@ -27,18 +27,20 @@ The OpenSauced community is a group of open-source enthusiasts who are passionat
 - Join our [Discord](https://discord.gg/opensauced), and hang out with us in our weekly office hours.
 - Subscribe to our [YouTube channel](https://www.youtube.com/@OpenSauced) for the latest updates and video content for OpenSauced.
 - 📰 Subscribe to our [newsletter](https://news.opensauced.pizza/#/portal/signup) for all things OpenSauced and open source.
+- 🗓️ Check out the [calendar](https://calendar.google.com/calendar/u/0?cid=Y19kYWRhODM2MjlhZDg4ZWM2M2IxZGFmMTE5MDIyMDg0MjU2ZmQ4NmNjNWNhYmMxMjk5MDhjMGUxOTY3NjY4ZTg0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) for our next weekly community chat.
 
 ## How can I get involved?
 
 You can get involved in the OpenSauced community in a few ways:
 
-- Share your Contributions! We love to see what you're working on. Highlight your contributions on [OpenSauced](https://insights.opensauced.pizza/feed).
+- Share your Contributions! We love to see what you're working on. Highlight your contributions on [OpenSauced](https://app.opensauced.pizza/feed).
 - Open an issue or ask to be assigned to an existing issue on any of our [OpenSauced repositories](https://github.com/open-sauced).
 - Share what you're working on, ask questions, or mentor new contributors in our [Discord](https://discord.gg/opensauced).
+- Provide feedback on our [GitHub Discussions](https://github.com/orgs/open-sauced/discussions).
 
 ## Resources on Getting Started with Open Source
-Getting started with open source can be quite daunting for beginners, so we've put together some resources to help you get started.
+Getting started with open source can be challenging, so we've put together some resources to help you get started.
 
-- 📝 Check out our [Dev blog](https://dev.to/opensauced) where we provide resources for open-source contributors.
-- 📖 Take our [Intro to Open Source Course](https://intro.opensauced.pizza/#/) to help you get started with open-source.
+- 📝 Check out our [Dev blog](https://dev.to/opensauced) where we provide resources for open source contributors.
+- 📖 Take our [Intro to Open Source Course](https://intro.opensauced.pizza/#/) to help you get started with open source.
 - 📅 Join our [#100DaysOfOSS Challenge](https://docs.opensauced.pizza/community/100-days-of-oss/) to help you grow your skills and gain real-world experience in open source.

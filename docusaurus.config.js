@@ -77,20 +77,20 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "Docs",
+          title: "Learn",
           items: [
             {
               label: "Contributing guide",
               to: "/contributing/introduction-to-contributing/",
             },
             {
-              label: "Maintainer guide",
-              to: "/maintainers/setting-up-a-new-repository/",
+              label: "Chrome Extension Usage",
+              to: "/tools/chrome-extension/introduction-to-the-chrome-extension/",
             },
             {
-              label: "Chrome Extension Usage",
-              to: "/chrome-extension/introduction-to-the-chrome-extension/",
-            },
+              label: "Your Open Source Resume",
+              to: "https://intro.opensauced.pizza/#/06-the-secret-sauce?id=develop-your-open-source-resume",
+            }
           ],
         },
         {
@@ -105,8 +105,8 @@ module.exports = {
               href: "https://discord.com/invite/U2peSNf23P",
             },
             {
-              label: "Twitter",
-              href: "https://twitter.com/saucedopen",
+              label: "X",
+              href: "https://x.com/saucedopen",
             },
           ],
         },
@@ -120,7 +120,11 @@ module.exports = {
             {
               label: "Download book",
               href: "https://docs.opensauced.pizza/open-sauced-docs.pdf",
-            },
+            },{
+              label: "Watch our feature demos",
+              href: "https://www.youtube.com/playlist?list=PLHyZ0Wz_A44VRlE-YS9me5qxDNRgK5T3H"
+             }
+          
           ],
         },
       ],
