@@ -138,7 +138,7 @@ The [Highlights feature](../features/highlights.md) is the place you can display
 
 ![OpenSauced Highlights](../../static/gif/highlight.gif)
 
-You can use this feature to help you track the open source contributions that you are most proud of and share your accomplishments with your network.
+You can use this feature to help you track the open source contributions that you are most proud of and share your accomplishments with your network. All of your highlights will appear on your OpenSauced profile, so sharing your profile is another way to let potential employers see the types of contributions you've made and the highlight you've identified as the most important. 
 
 ### Using the Lists feature to add people you interacted with during your contributions
 
@@ -173,7 +173,7 @@ If you have corresponded with the same core contributors and maintainers over th
 
 Your [OpenSauced Dev card](../features/dev-card.md) serves as your "open source business card" to showcase all of your recent open source activities. You will find recent activity concerning the projects you contribute to, frequency of pull requests and projects you are interested in.
 
-You can easily share your Dev card on social media platforms like Twitter and LinkedIn to gain attention from potential recruiters and hiring managers.
+You can easily share your Dev card on social media platforms like X/Twitter and LinkedIn to gain attention from potential recruiters and hiring managers.
 
 ![OpenSauced Dev card](../../static/img/a-dev-card.png)
 
@@ -212,14 +212,14 @@ The Highlights feature allows you to post about your recent open source contribu
 | **Personal Information**                                  |                                                                                                                                                                        |
 | Name                                                      | Jane Smith                                                                                                                                                             |
 | Contact Information                                       | jane.smith@email.com                                                                                                                                                   |
-| Professional Profile (LinkedIn/GitHub/OpenSauced profile) | [LinkedIn](https://www.linkedin.com/in/janesmith) [GitHub](https://github.com/janesmith)                                                                               |
+| Professional Profile (LinkedIn/GitHub/OpenSauced profile) | [LinkedIn](https://www.linkedin.com/in/janesmith), [GitHub](https://github.com/janesmith), [OpenSauced](https://app.opensauced.pizza/BekahHW)                                                                               |
 | **Career Goals**                                          |                                                                                                                                                                        |
 | Desired Job Role                                          | Frontend Developer                                                                                                                                                     |
 | Key Skills to Develop                                     | React.js, CSS-in-JS, Web Accessibility                                                                                                                                 |
 | Industry/Area of Interest                                 | Web Development, UI/UX Design                                                                                                                                          |
 | **Open Source Project Contribution No.1**                 |                                                                                                                                                                        |
 | Project Name                                              | Awesome React Components                                                                                                                                               |
-| Project URL                                               | [GitHub Repository](https://github.com/awesome-react/components)                                                                                                       |
+| Project URL                                               | [GitHub Repository](https://github.com/awesome-react/components), [OpenSauced Insight Page](https://app.opensauced.pizza/pages/BekahHW/655/dashboard?range=30)                                                                                                       |
 | Why This Project?                                         | Interested in learning about creating reusable UI components.                                                                                                          |
 | Type of Contribution                                      | Implemented a new responsive carousel component.                                                                                                                       |
 | **Learning and Development**                              |                                                                                                                                                                        |
