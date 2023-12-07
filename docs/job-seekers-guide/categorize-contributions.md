@@ -10,7 +10,7 @@ It is important to keep track of your open source contributions and show the imp
 
 In this guide, we have created a table that you can use to categorize and keep detailed notes for each contribution you have made. We will break down each of these table components and talk about how to use this in your resume and job profile, and you can see a full example at the end of this guide.
 
-## Personal information
+## Personal Information
 
 In this section of the table, you can include information like your name, email, GitHub profile, LinkedIn profile, OpenSauced profile, blog, etc. When it comes to the professional profiles, think about which profiles you want to show off to employers that highlights your skills and experience relevant to the types of jobs you are interested in.
 
@@ -38,7 +38,7 @@ If you are looking to level up in your role, you should list it in this section 
 | Industry/Area of Interest | [Frontend, Backend, Fullstack, ML, AI, etc.] |
 | Example Job Links         | [Link to desired jobs]                       |
 
-## How to match job requirements to your current skills
+## How to Match Job Requirements to Your Current Skills
 
 A common mistake for many job seekers is to send out the same resume template to all jobs. But in today's tech market it is important to stand out and tailor your resume to match your skills with the requirements listed.
 
@@ -46,7 +46,7 @@ In the previous section, you identified desired roles and key skills needed for 
 
 As you fill out the remaining sections for project contributions, check to see if the contributions match the common skills requested in those jobs. If not, then you have just identified a skill gap and will need to find projects and issues that will allow you to strengthen those skills.
 
-## Finding Open Source projects to contribute to
+## Finding Open Source Projects to Contribute to
 
 After you have filled out the career section of the table, you will want to find open source projects that align with your goals. You can use the explore feature on OpenSauced to explore new repositories in a variety of topics like [JavaScript](https://app.opensauced.pizza/javascript/dashboard/filter/recent?range=30), [Python](https://app.opensauced.pizza/python/dashboard/filter/recent?range=30), and [Machine learning](https://app.opensauced.pizza/ml/dashboard/filter/recent?range=30).
 
@@ -58,7 +58,7 @@ Finding a good project to contribute to takes time. So make sure to look at the 
 
 In this next section, you will want to list out the meaningful contributions you have made to different open source projects. This can include documentation, code features, bug fixes, etc. Remember that, you will want to list out meaningful contributions that match the goals you laid out earlier.
 
-### Basic project information
+### Basic Project Information
 
 For each project contribution, you will want to list out the project name along with the PR and issue links. Then you will want to describe in a few short sentences why you chose this project and how it will help you with your career goals.
 
@@ -69,7 +69,7 @@ For each project contribution, you will want to list out the project name along 
 | Why This Project?    | [Reasons for Choosing This Project]            |
 | Type of Contribution | [Code, Documentation, Community Support, etc.] |
 
-### Learn and development
+### Learn and Development
 
 Once your contribution has been approved and merged into the project, you will want to reflect on what you have learned during this process. What types of new skills or technologies did you learn while working on this issue? What challenges did you face? How did you interact with the community when you needed clarification on an issue or needed help with the pull request?
 
@@ -84,7 +84,7 @@ Feel free to link to the pull request and issue discussions as references on how
 | Challenges Overcome          | [Challenges Faced and Resolved] |
 | Community Interaction        | [Meetups, Discussions, etc.]    |
 
-### Contribution tracking
+### Contribution Tracking
 
 For each project contribution, you will want to list the date and brief summary on what the issue was and how you solved it. It would also be good to list out any acknowledgements you received from other contributors or core team members on the project because it highlights the impact you left.
 
@@ -95,7 +95,7 @@ For each project contribution, you will want to list the date and brief summary 
 | Contribution Summary                  | [Summary of Contribution with Links] |
 | Feedback Received/Milestones Achieved | [Feedback and Achievements]          |
 
-### Using the Highlights feature to track your contributions
+### Using the Highlights Feature to Track Your Contributions
 
 The [Highlights feature](../features/highlights.md) is the place you can display your favorite open source contributions, and share your open source story.
 
@@ -103,7 +103,7 @@ The [Highlights feature](../features/highlights.md) is the place you can display
 
 You can use this feature to help you track the open source contributions that you are most proud of and share your accomplishments with your network. All of your highlights will appear on your OpenSauced profile, so sharing your profile is another way to let potential employers see the types of contributions you've made and the highlight you've identified as the most important.
 
-### Using the Lists feature to add people you interacted with during your contributions
+### Using the Lists Feature to Add People You Interacted with During Your Contributions
 
 The [Lists feature](../features/lists.md) enables you to categorize, monitor, and analyze different groups of contributors within open source projects.
 
@@ -113,7 +113,7 @@ Lists can also be used to track other people in your network to reach out to abo
 
 ![lists-page](../../static/img/lists-page.svg)
 
-### Using the Insights feature to track the repositories you contributed to
+### Using the Insights Feature to Track the Repositories You Contributed to
 
 The [Insights feature](../features/insights.md) is a comprehensive view of a project's health and individual contributions. You can use it to track the repositories you contributed to or to track repositories of open source companies that are hiring.
 
@@ -132,7 +132,7 @@ If you have corresponded with the same core contributors and maintainers over th
 | Insights Gained from Networking             | [What You Learned from Networking] |
 | Future Networking Opportunities             | [Planned Networking Activities]    |
 
-### Using your OpenSauced Dev Card for networking
+### Using Your OpenSauced Dev Card for Networking
 
 Your [OpenSauced Dev card](../features/dev-card.md) serves as your "open source business card" to showcase all of your recent open source activities. You will find recent activity concerning the projects you contribute to, frequency of pull requests and projects you are interested in.
 
@@ -140,7 +140,7 @@ You can easily share your Dev card on social media platforms like X/Twitter and 
 
 ![OpenSauced Dev card](../../static/img/a-dev-card.png)
 
-### Reflection and next steps
+### Reflection and Next Steps
 
 In this section, you will want to reflect on what went well with this contribution and areas in which you struggled with.
 
@@ -153,7 +153,7 @@ It is important to tie these reflections back to your career goals and desired j
 | Areas for Improvement           | [Areas to Work On for Future Projects]       |
 | Next Project/Contribution Goal  | [Your Next Goal in Open Source Contribution] |
 
-### Using the Highlights feature to update your professional profile
+### Using the Highlights Feature to Update Your Professional Profile
 
 After each contribution, you will want to update your LinkedIn profile and resume to highlight what you have done recently. A lot of recruiters and hiring managers are on the look out for talented individuals on LinkedIn, so it is important to keep your profile up to date of your recent accomplishments.
 
@@ -168,7 +168,7 @@ The Highlights feature allows you to post about your recent open source contribu
 | Key Accomplishments Highlighted            | [Key Points Highlighted]                   |
 | Future Plans for Profile Enhancement       | [Plans for Further Enhancing Your Profile] |
 
-## Example chart for Frontend developer
+## Example Chart for Frontend Developer
 
 | **Section**                                               | **Details**                                                                                                                                                            |
 | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
