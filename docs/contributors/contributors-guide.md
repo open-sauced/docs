@@ -16,7 +16,7 @@ OpenSauced is a platform dedicated to empowering you, the contributor, as you gr
 To get started, you will need to create an account on OpenSauced. You can do this by visiting the [app.opensauced.pizza](https://app.opensauced.pizza) and clicking the "Connect with GitHub" button. You will be prompted to sign in with your GitHub account. Once you have signed in, you will be redirected to the OpenSauced dashboard.
 
 ## Insights: Connecting Your Repositories
-
+<!-- revise this one tomorrow -->
 OpenSauced Insights provides contributors with a visual representation of your favorite project's health and contributor engagement. This feature also offers real-time data and analytics to understand contribution patterns, identify key contributors, and measure the project's growth. Insights can help you assess team activity, understand when bottlenecks occur, identify where resource allocation is needed, plan and identify key contributors, understand alumni contributors, or spot emerging trends.
 
 Insights features allow you to:
@@ -28,7 +28,7 @@ Insights features allow you to:
 - identify the current activity level and trends in activity of your contributors.
 
 ### Creating a New Insight Page
-
+<!-- work on this tomorrow -->
 To connect your repositories, click the "Insights" tab on the dashboard. You will be redirected to a page where you can create your new Insight Page.
 
 There are two ways to add repositories to your Insight Page:
