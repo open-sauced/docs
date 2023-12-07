@@ -243,3 +243,9 @@ The Highlights feature allows you to post about your recent open source contribu
 | Updates Made to Resume/LinkedIn                           | Successfully implemented a responsive carousel component, enhancing user experience and receiving positive feedback. Demonstrated expertise in React.js and CSS-in-JS. |
 | Key Accomplishments Highlighted                           | Highlighted successful implementation of the responsive carousel.                                                                                                      |
 | Future Plans for Profile Enhancement                      | Attend frontend development conferences and workshops.                                                                                                                 |
+
+## Additional Resources
+If you're looking for more resources about the job hunt, check out these OpenSauced posts:
+
+- [Building Your DevRel Resume with Open Source](https://dev.to/opensauced/building-your-devrel-resume-with-open-source-4km3)
+- [How to Talk About Your Open Source Experience in a Tech Interview](https://dev.to/opensauced/how-to-talk-about-your-open-source-experience-in-a-tech-interview-3l96)
