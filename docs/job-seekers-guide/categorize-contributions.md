@@ -8,44 +8,7 @@ keywords:
 
 It is important to keep track of your open source contributions and show the impact you have left on the projects and organizations. By organizing your work, you will be able to talk about these meaningful contributions on your resume and in job interviews.
 
-In this guide, we have created a table that you can use to categorize and keep detailed notes for each contribution you have made. We will break down each of these table components and talk about how to use this in your resume and job profile.
-
-| **Section**                                               | **Details**                                    |
-| --------------------------------------------------------- | ---------------------------------------------- |
-| **Personal Information**                                  |                                                |
-| Name                                                      | [Your Name]                                    |
-| Contact Information                                       | [Your Contact Info]                            |
-| Professional Profile (LinkedIn/GitHub/OpenSauced profile) | [Links to Profiles]                            |
-| **Career Goals**                                          |                                                |
-| Desired Job Role                                          | [Your Desired Role]                            |
-| Key Skills to Develop                                     | [Skills to Focus On]                           |
-| Industry/Area of Interest                                 | [Frontend, Backend, Fullstack, ML, AI, etc.]   |
-| **Open Source Project Contribution No.1**                 |                                                |
-| Project Name                                              | [Project Name]                                 |
-| Project URL                                               | [Project URL]                                  |
-| Why This Project?                                         | [Reasons for Choosing This Project]            |
-| Type of Contribution                                      | [Code, Documentation, Community Support, etc.] |
-| **Learning and Development**                              |                                                |
-| New Skills Learned                                        | [List of New Skills]                           |
-| Challenges Overcome                                       | [Challenges Faced and Resolved]                |
-| Community Interaction                                     | [Meetups, Discussions, etc.]                   |
-| **Contribution Tracking**                                 |                                                |
-| Date                                                      | [Date of Contribution]                         |
-| Contribution Summary                                      | [Summary of Contribution with Links]           |
-| Feedback Received/Milestones Achieved                     | [Feedback and Achievements]                    |
-| **Networking and Professional Development**               |                                                |
-| Contacts Made                                             | [Contacts Made and Their Roles]                |
-| Insights Gained from Networking                           | [What You Learned from Networking]             |
-| Future Networking Opportunities                           | [Planned Networking Activities]                |
-| **Reflection and Next Steps**                             |                                                |
-| Key Takeaways from This Project                           | [What You Learned]                             |
-| Areas for Improvement                                     | [Areas to Work On for Future Projects]         |
-| Next Project/Contribution Goal                            | [Your Next Goal in Open Source Contribution]   |
-| **Resume and Professional Profile Update**                |                                                |
-| Updates Made to Resume/LinkedIn                           | [Details of Updates]                           |
-| Key Accomplishments Highlighted                           | [Key Points Highlighted]                       |
-| Future Plans for Profile Enhancement                      | [Plans for Further Enhancing Your Profile]     |
-| **Open Source Project Contribution No.2**                 |                                                |
+In this guide, we have created a table that you can use to categorize and keep detailed notes for each contribution you have made. We will break down each of these table components and talk about how to use this in your resume and job profile, and you can see a full example at the end of this guide.
 
 ## Personal information
 
@@ -138,7 +101,7 @@ The [Highlights feature](../features/highlights.md) is the place you can display
 
 ![OpenSauced Highlights](../../static/gif/highlight.gif)
 
-You can use this feature to help you track the open source contributions that you are most proud of and share your accomplishments with your network. All of your highlights will appear on your OpenSauced profile, so sharing your profile is another way to let potential employers see the types of contributions you've made and the highlight you've identified as the most important. 
+You can use this feature to help you track the open source contributions that you are most proud of and share your accomplishments with your network. All of your highlights will appear on your OpenSauced profile, so sharing your profile is another way to let potential employers see the types of contributions you've made and the highlight you've identified as the most important.
 
 ### Using the Lists feature to add people you interacted with during your contributions
 
@@ -149,7 +112,6 @@ You can use this feature to create a list of people you interacted with during y
 Lists can also be used to track other people in your network to reach out to about their contributions.
 
 ![lists-page](../../static/img/lists-page.svg)
-
 
 ### Using the Insights feature to track the repositories you contributed to
 
@@ -213,14 +175,14 @@ The Highlights feature allows you to post about your recent open source contribu
 | **Personal Information**                                  |                                                                                                                                                                        |
 | Name                                                      | Jane Smith                                                                                                                                                             |
 | Contact Information                                       | jane.smith@email.com                                                                                                                                                   |
-| Professional Profile (LinkedIn/GitHub/OpenSauced profile) | [LinkedIn](https://www.linkedin.com/in/janesmith), [GitHub](https://github.com/janesmith), [OpenSauced](https://app.opensauced.pizza/BekahHW)                                                                               |
+| Professional Profile (LinkedIn/GitHub/OpenSauced profile) | [LinkedIn](https://www.linkedin.com/in/janesmith), [GitHub](https://github.com/janesmith), [OpenSauced](https://app.opensauced.pizza/BekahHW)                          |
 | **Career Goals**                                          |                                                                                                                                                                        |
 | Desired Job Role                                          | Frontend Developer                                                                                                                                                     |
 | Key Skills to Develop                                     | React.js, CSS-in-JS, Web Accessibility                                                                                                                                 |
 | Industry/Area of Interest                                 | Web Development, UI/UX Design                                                                                                                                          |
 | **Open Source Project Contribution No.1**                 |                                                                                                                                                                        |
 | Project Name                                              | Awesome React Components                                                                                                                                               |
-| Project URL                                               | [GitHub Repository](https://github.com/awesome-react/components), [OpenSauced Insight Page](https://app.opensauced.pizza/pages/BekahHW/655/dashboard?range=30)                                                                                                       |
+| Project URL                                               | [GitHub Repository](https://github.com/awesome-react/components), [OpenSauced Insight Page](https://app.opensauced.pizza/pages/BekahHW/655/dashboard?range=30)         |
 | Why This Project?                                         | Interested in learning about creating reusable UI components.                                                                                                          |
 | Type of Contribution                                      | Implemented a new responsive carousel component.                                                                                                                       |
 | **Learning and Development**                              |                                                                                                                                                                        |
@@ -245,6 +207,7 @@ The Highlights feature allows you to post about your recent open source contribu
 | Future Plans for Profile Enhancement                      | Attend frontend development conferences and workshops.                                                                                                                 |
 
 ## Additional Resources
+
 If you're looking for more resources about the job hunt, check out these OpenSauced posts:
 
 - [Building Your DevRel Resume with Open Source](https://dev.to/opensauced/building-your-devrel-resume-with-open-source-4km3)
