@@ -31,7 +31,7 @@ To learn more about how to use Insights, check out our [Maintainers Guide](../ma
 
 After you've created your insights page, share it with your team.
 An insight page is a dashboard containing selected repositories that you and your team can get insights from.
-The Insights page provides a centralized and detailed overview of our open-source projects, offering valuable data on contribution trends, community health, and project milestones. By sharing this page with teammates, it ensures that everyone is well-informed about the project's status and can collaborate more effectively. This shared understanding fosters a collaborative environment where team members can align their efforts, make informed decisions, and collectively work toward the organization's success.
+Sharing this page with teammates ensures that everyone is well-informed about the project's status and can collaborate more effectively. It fosters a collaborative environment where team members can align their efforts, make informed decisions, and collectively work toward the organization's success.
 
 ## Direction
 
