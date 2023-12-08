@@ -27,7 +27,7 @@ The Insights feature is your one-stop solution for understanding the pulse of yo
 To learn more about how to use Insights, check out our [Maintainers Guide](../maintainers/maintainers-guide.md) and our [Understanding Insights Data](../maintainers/understanding-insights.md) pages.
 
 
-## Sharing your your insight page with your teammates
+## Sharing Your Insights Page with Your Teammates
 
 After you've created your insights page, share it with your team.
 An insight page is a dashboard containing selected repositories that you and your team can get insights from.
