@@ -15,113 +15,6 @@ OpenSauced is a platform dedicated to empowering you, the contributor, as you gr
 
 To get started, you will need to create an account on OpenSauced. You can do this by visiting the [app.opensauced.pizza](https://app.opensauced.pizza) and clicking the "Connect with GitHub" button. You will be prompted to sign in with your GitHub account. Once you have signed in, you will be redirected to the OpenSauced dashboard.
 
-## Insights: Connecting Your Repositories
-<!-- revise this one tomorrow -->
-OpenSauced Insights provides contributors with a visual representation of your favorite project's health and contributor engagement. This feature also offers real-time data and analytics to understand contribution patterns, identify key contributors, and measure the project's growth. Insights can help you assess team activity, understand when bottlenecks occur, identify where resource allocation is needed, plan and identify key contributors, understand alumni contributors, or spot emerging trends.
-
-Insights features allow you to:
-
-- track the contributions of a specific team, a specific repository, or a group of repositories,
-- view the number of pull requests that are open, closed, in draft, and merged,
-- view the average number of days it takes for a pull request to be merged (PR velocity),
-- identify the top contributors to your project,
-- identify the current activity level and trends in activity of your contributors.
-
-### Creating a New Insight Page
-<!-- work on this tomorrow -->
-To connect your repositories, click the "Insights" tab on the dashboard. You will be redirected to a page where you can create your new Insight Page.
-
-There are two ways to add repositories to your Insight Page:
-
-1. **Sync GitHub organization**. Syncing your GitHub organization is a good idea for someone who seeks a comprehensive, unified view of your organization's open source project activities and trends, enabling streamlined management, strategic decision-making, and efficient allocation of resources across multiple repositories.
-2. **Connect individual repositories**. Connecting individual repositories is a good idea for someone who wants to track the contributions of a specific repository or group of repositories. For example, you might want to track projects you maintain that are not under the same organization, or you may want to track projects that align with your team's objectives.
-
-![sync team gif](../../static/gif/team-sync-insights.gif)
-
-### Using Your Insights Page
-
-Once you have connected your repositories, you will be redirected to your Insight Page. Here, you will see a dashboard with an overview of the repositories and the contributors who have contributed to them.
-
-There are three tabs that provide you with more information on these repositories:
-
-#### Reports
-
-The Reports tab allows paid users to filter for more information about their repositories over the last 30 days and to generate a Downloadable CSV. Filters include: Top 100 Repos, Minimum 5 Contributors, Recent, Most Active, and Spammed.
-
-#### Repositories
-
-The Repositories tab allows you to view more detailed information on each repository, including Activity, PR Overview, PR Velocity, Spam, Contributors, and activity over the last 30 days. To learn more about these features, see [Understanding Insights Data](understanding-insights.md).
-
-![repositories tab](../../static/img/repos-insights.png)
-
-#### Contributors
-
-The Contributors tab allows you to view more detailed information on each contributor, including Activity, Repositories, the date of their last contribution, Time Zone, and the number of contributions.
-
-To learn more about your contributors, you can select them and add them to a list.
-
-![contributors insight list](../../static/img/contributors-insights.png)
-
-There are two ways to add contributors to a list:
-
-1. Create a new list with selected contributors.
-2. Add selected contributors to an existing list.
-
-## Lists: Connecting with Contributors
-
-OpenSauced Lists feature allows you to categorize, monitor, and analyze various groups of contributors. You can use Lists to track the contributions of a specific team, a specific repository, or a group of repositories. This feature offers granular insights into each contributor's activities and contributions, helping maintainers to track individual contribution histories, identify active engagement, recognize new or alumni contributors, and compare the performance of different contributors.
-
-The Lists features allow you to:
-
-- track the commits and PRs of the contributors on your list,
-- filter your contributors by their activity level, including most active, new, and alumni,
-- view the repositories that your contributors have contributed to, the top programming languages they've used, and their time zones.
-
-### Why Create a List?
-
-There are many reasons to create a list, but here's some inspiration to get you started:
-
-- **Interacting contributors**: Keep tabs on contributors actively interacting with your repository.
-- **Organization's developers**: Monitor the contributions and performance of your internal team.
-- **VIP contributors**: Highlight and track at least five developers who are key maintainers or significant contributors.
-- **Sales leads**: Identify contributors whose engagement could potentially be turned into sales opportunities.
-- **Potential hires**: Observe contributors who exhibit skill and commitment, making them prime candidates for hiring.
-- **Alumni contributors**: Keep an eye on contributors who have decreased their engagement or left the project.
-
-### Creating a New List
-
-1. Click the "Lists" tab on the Insights hub to create a new list. You will be redirected to a page where you can create your new list.
-2. Click on the "New List" button to start a new list.
-3. Give your list a name.
-4. Choose your page visibility. You can choose to make your list public or private. By default, it is set to private.
-5. Add contributors to your list by searching for their GitHub username, syncing your GitHub Team, or importing your GitHub Following.
-
-![team sync gif](../../static/gif/team-sync.gif)
-
-## Using Your List
-
-Once you have created your list, you will be redirected to your List Page. Here, you will see a dashboard with an overview of the contributors.
-
-There are three tabs that provide you with more information on these repositories:
-
-### Overview
-
-The Overview tab gives you a high-level view of the contributors in your list, including the total number of commits in the last 30 days and the types of contributors on your list: Active, New, and Alumni.
-
-### Activity
-
-The Activity tab gives you a graph view with more detailed information on each contributor, including the type of activity, repositories they've contributed to, and how they compare to each other.
-
-You can filter your list by All Contributors, Active Contributors, New Contributors, and Alumni Contributors.
-
-![list graph](../../static/img/list-graph.png)
-
-### Contributors
-
-The Contributors tab gives you the list of the contributors and includes information like activity level, last repository contributed to, the date of their last contribution, time zone, programming languages used, and number of contributions.
-
-To learn more about these features, see [Understanding Lists Data](understanding-lists-data.md).
-
 ## Highlights: Connecting and Recognizing Contributions
 
 Leveraging OpenSauced's Highlights feature is a great way for maintainers to recognize and showcase the valuable contributions made to your open source projects, to curate and share key achievements, contributions, and milestones, and bring visibility to the hard work of your community.
@@ -176,3 +69,101 @@ Writing an effective highlight is key to attracting contributors to your project
 1. **Capture the essence**: Begin with an interesting blog post summary, capturing the main theme or message.
 2. **Discuss the relevance**: Explain why this blog post is important for your open source project or community. Is it about a major update, a community event, or sharing best practices?
 3. **Engage with a call-to-action**: Encourage readers to engage with the post, whether by reading, commenting, or sharing their thoughts on the topic.
+
+## Insights: Connecting Your Repositories
+
+OpenSauced Insights you to see the impact of your contributions. You can use insights pages to track repositories' growth, analyze work, and connect with others.
+
+## Why Create an Insights Page
+
+- Personal Contribution Tracking
+- Skill Development and Portfolio Building: Contributing to open source projects can be a great way to develop new skills. Your contributions can also be used as samples for your portfolio. Looking for ways to implement your open source experience in your job search journey? Check out our [job search guide](https://docs.opensauced.pizza/job-seekers-guide/job-seekers-guide-introduction/)! 😄
+- Identifying Potential Projects to Contribute To: Finding open source projects to contribute to can be difficult and this feature provides you access to a whole plethora of projects for you to chose from.
+Networking and Community Engagement - explanation
+- Curating Collections for Interest Groups (e.g., top open source React projects)
+
+### Creating a New Insight Page
+
+To connect your repositories, click the "Insights" tab on the dashboard. You will be redirected to a page where you can create your new Insight Page.
+
+There are two ways to add repositories to your Insight Page:
+
+1. **Sync GitHub organization**: Syncing your favorite GitHub organizations is a good idea for if you want to keep track of their open source project activities and trends.
+2. **Connect individual repositories**:  Connecting individual repositories is a good idea if you who wants to keep track the contributions of a specific repository or group of repositories. For example, you might want to track of projects you have contributed to or would like to contribute to in the future.
+
+![sync insights gif](../../static/gif/insight-page-demo.gif)
+
+### Using Your Insights Page
+
+Once you have connected your repositories, you will be redirected to your Insight Page. Here, you will see a dashboard with an overview of the repositories and the contributors who have contributed to them.
+
+There are three tabs that provide you with more information on these repositories:
+
+#### Reports
+
+The Reports tab allows paid users to filter for more information about their repositories over the last 30 days and to generate a Downloadable CSV. Filters include: Top 100 Repos, Minimum 5 Contributors, Recent, Most Active, and Spammed.
+
+#### Repositories
+
+The Repositories tab allows you to view more detailed information on each repository, including Activity, PR Overview, PR Velocity, Spam, Contributors, and activity over the last 30 days. To learn more about these features, see [Understanding Insights Data](https://docs.opensauced.pizza/maintainers/understanding-lists/#understanding-lists-contributor-data).
+
+![repositories tab](../../static/img/repos-insights.png)
+
+#### Contributors
+
+The Contributors tab allows you to view more detailed information about other contributors, including Activity, Repositories, the date of their last contribution, Time Zone, and the number of contributions. This can be a great way to find other people to collaborate with.
+
+To learn more about your contributors, you can select them and add them to a list.
+
+![contributors insight list](../../static/img/contributors-insights.png)
+
+There are two ways to add contributors to a list:
+
+1. Create a new list with selected contributors.
+2. Add selected contributors to an existing list.
+
+## Lists: Connecting with Contributors
+
+This feature helps you connect with other contributors or learn more about what others are up to in open source. With Lists, you can categorize, watch, and check out different groups of contributors within open source projects.
+
+### What You Can Do With Lists?
+
+There are many things you can do with this feature, but here's some ideas to get you started:
+
+- Learn about what other contributors are doing in open source
+- Learn about new projects
+- Make connections with other contributors who share your interests and come from other backgrounds
+
+### Creating a New List
+
+1. Click the "Lists" tab on the Insights hub to create a new list. You will be redirected to a page where you can create your new list.
+2. Click on the "New List" button to start a new list.
+3. Give your list a name.
+4. Choose your page visibility. You can choose to make your list public or private. By default, it is set to private.
+5. Add contributors to your list by searching for their GitHub username, syncing your GitHub Team, or importing your GitHub Following.
+
+![contribution sync gif](../../static/gif/contributors-sync-list.gif)
+
+## Using Your List
+
+Once you have created your list, you will be redirected to your List Page. Here, you will see a dashboard with an overview of the contributors.
+
+There are three tabs that provide you with more information on these repositories:
+
+### Overview
+
+The Overview tab gives you a high-level view of the contributors in your list, including the total number of commits in the last 30 days and the types of contributors on your list: Active, New, and Alumni.
+
+### Activity
+
+The Activity tab gives you a graph view with more detailed information on each contributor, including the type of activity, repositories they've contributed to, and how they compare to each other.
+
+You can filter your list by All Contributors, Active Contributors, New Contributors, and Alumni Contributors.
+
+![list graph](../../static/img/list-graph.png)
+
+### Contributors
+
+The Contributors tab gives you the list of the contributors and includes information like activity level, last repository contributed to, the date of their last contribution, time zone, programming languages used, and number of contributions.
+
+To learn more about these features, see [Understanding Lists Data](understanding-lists-data.md).
