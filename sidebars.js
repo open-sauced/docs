@@ -121,7 +121,6 @@ module.exports = {
           label: "Technical Guide",
           collapsed: true,
           items: [
-            "contributing/technical/introduction-to-storybook",
             "contributing/technical/setup-repo-with-git",
             "contributing/technical/resolve-merge-conflicts",
           ],
