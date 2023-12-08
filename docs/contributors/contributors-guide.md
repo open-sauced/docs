@@ -164,6 +164,6 @@ You can filter your list by All Contributors, Active Contributors, New Contribut
 
 ### Contributors
 
-The Contributors tab gives you the list of the contributors and includes information like activity level, last repository contributed to, the date of their last contribution, time zone, programming languages used, and number of contributions.
+The Contributors tab gives you the list of people that have contributed to other open source projects. It also includes information like activity level, last repository contributed to, the date of their last contribution, time zone, programming languages used, and number of contributions. This can be helpful if you're looking for other people to collaborate with.
 
-To learn more about these features, see [Understanding Lists Data](understanding-lists-data.md).
+To learn more about these features, see [Understanding Lists Data](https://docs.opensauced.pizza/maintainers/understanding-lists/#understanding-lists-contributor-data).
