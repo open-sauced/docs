@@ -29,8 +29,8 @@ To learn more about how to use Insights, check out our [Maintainers Guide](../ma
 
 ## Sharing Your Insights Page with Your Teammates
 
-After you've created your insights page, share it with your team.
-An insight page is a dashboard containing selected repositories that you and your team can get insights from.
+After you've created your Insights Page, share it with your team.
+
 Sharing this page with teammates ensures that everyone is well-informed about the project's status and can collaborate more effectively. It fosters a collaborative environment where team members can align their efforts, make informed decisions, and collectively work toward the organization's success.
 
 ## Direction
