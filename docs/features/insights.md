@@ -41,6 +41,4 @@ Sharing this page with teammates ensures that everyone is well-informed about th
 - Click on Create 
 - Click on share. The link will be copied, and then shared with your team members
 
-To learn more on how to use the insight page for effective collaboration, check out here
-
-[Invite Your Team](https://www.youtube.com/watch?v=L5ztLP1O7BY)
+To learn more about inviting your team, check out [this tutorial video](https://www.youtube.com/watch?v=L5ztLP1O7BY).
