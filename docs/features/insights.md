@@ -25,3 +25,22 @@ The Insights feature is your one-stop solution for understanding the pulse of yo
 - Find new contributors to support your project.
 
 To learn more about how to use Insights, check out our [Maintainers Guide](../maintainers/maintainers-guide.md) and our [Understanding Insights Data](../maintainers/understanding-insights.md) pages.
+
+
+## Sharing your your insight page with your teammates
+
+After you've created your insights page, share it with your team.
+An insight page is a dashboard containing selected repositories that you and your team can get insights from.
+The Insights page provides a centralized and detailed overview of our open source projects, offering valuable data on contribution trends, community health, and project milestones. By sharing this page with teammates, it ensure that everyone is well-informed about the project's status and can collaborate more effectively. This shared understanding fosters a collaborative environment where team members can align their efforts, make informed decisions, and collectively work towards the organization success.
+
+## Direction
+
+- Go to your open-sauced insight page
+- Click on create new insight at the top-right corner of the page.
+- Fill the form
+- Click on create 
+- Click on share. The link will be copy, then share to your team members
+
+To learn more on how to use insight page for effective collaboration, check out here
+
+[Invite Your Team](../https://www.youtube.com/watch?v=L5ztLP1O7BY)
