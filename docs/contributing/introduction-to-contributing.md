@@ -79,7 +79,7 @@ GitHub supports [draft pull requests](https://github.blog/2019-02-14-introducing
 
 ## Getting Started
 
-## Setup
+### Setup
 
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repository you're working on from [github/open-sauced](https://github.com/open-sauced) to your own GitHub account.
 2. Clone the forked repository to your local machine.
@@ -99,7 +99,7 @@ npm ci
 
 Make sure to replace `<GITHUB_USERNAME>` with your GitHub username.
 
-## Building
+### Building
 
 To generate a production-ready version of your code, run:
 
@@ -107,7 +107,7 @@ To generate a production-ready version of your code, run:
 npm run build
 ```
 
-## Testing
+### Testing
 
 For running the test suite, use the following command:
 
@@ -120,7 +120,7 @@ Since the tests run in watch mode by default, some users may encounter errors ab
 
 Check out this course, [Testing JavaScript](https://testingjavascript.com/), for more info on testing React and JavaScript.
 
-## Applying Lint Styleguide
+### Applying Lint Styleguide
 
 To check the code for formatting and linting errors, run the following command:
 
@@ -140,7 +140,7 @@ These commands use [ESLint](https://eslint.org/) to check and fix the code.
 
 If you forget to run this command, automated PR checks will also run these commands, but the PR will be blocked if there are any errors.
 
-## Coding Tips
+### Coding Tips
 
 - Ask questions if you are stuck.
 - Use [CSS variables.](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
