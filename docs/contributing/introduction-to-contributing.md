@@ -79,7 +79,7 @@ GitHub supports [draft pull requests](https://github.blog/2019-02-14-introducing
 
 ## Getting Started
 
-### Setup
+### Setting Up Projects Locally
 
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repository you're working on from [github/open-sauced](https://github.com/open-sauced) to your own GitHub account.
 2. Clone the forked repository to your local machine.
