@@ -77,6 +77,8 @@ GitHub supports [draft pull requests](https://github.blog/2019-02-14-introducing
 
 - _[3 tips for getting your Pull Request reviewed on GitHub](https://youtu.be/cuMeC-eZJJ4)_
 
+## Getting Started
+
 ## Setup
 
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repository you're working on from [github/open-sauced](https://github.com/open-sauced) to your own GitHub account.
