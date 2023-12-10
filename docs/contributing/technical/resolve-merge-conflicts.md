@@ -6,138 +6,79 @@ keywords:
   - "resolve merge conflicts"
 ---
 
-You'll likely encounter merge conflicts when opening a pull request, as the release process generally updates `npm-shrinkwrap.json`.
+When you are working on any of the OpenSauced repositories, you might run into a merge conflict. A merge conflict occurs when multiple conflicting changes are made to the same line in a file. Merge conflicts happen the most when you open a pull request, as the release process generally updates `npm-shrinkwrap.json`.
 
-To better illustrate the commands listed here, we will use commits and screenshots from [open-sauced#1078](https://github.com/open-sauced/open-sauced/pull/1078).
+In this guide, we will talk about how to resolve merge conflicts and how to keep your branch up to date.
 
-## Repository Setup
+## How to Check for Merge Conflicts Locally
 
-Fork and clone the project using the `gh` command line interface:
+If you are actively working on a change to an OpenSauced repository, you can check for potential merge conflicts by running a few commands in the terminal.
 
-```shell
-gh repo clone 0-vortex/open-sauced
+1. Make sure you are on the correct branch where the changes are being made
+
+```bash
+cd app
+git checkout <your-branch>
 ```
 
-Running `git remote -v` will output:
+2. Fetch the latest changes from the OpenSauced main repository.
 
-```shell
-origin git@github.com:0-vortex/open-sauced.git (fetch)
-origin git@github.com:0-vortex/open-sauced.git (push)
-upstream git@github.com:open-sauced/open-sauced.git (fetch)
-upstream git@github.com:open-sauced/open-sauced.git (push)
+```bash
+git fetch upstream
 ```
 
-Fork and clone the project using the `git` command line interface:
+3. See the differences between your branch and the OpenSauced main branch
 
-```shell
-git clone git@github.com:0-vortex/open-sauced.git
+```bash
+git diff <your-branch> upstream/main
 ```
 
-Running `git remote -v` will output:
+**NOTE**: Some of the OpenSauced repositories will use `main` for the main branch while others like the [app repository](https://github.com/open-sauced/app), will use `beta` for the main branch name.
 
-```shell
-origin git@github.com:0-vortex/open-sauced.git (fetch)
-origin git@github.com:0-vortex/open-sauced.git (push)
-```
+![git diff output review conflicts](../../../static/img/contributing-resolve-merge-conflicts-review-conflicts.png)
 
-As an additional step for this tutorial, we need to add the `upstream` remote:
+**NOTE**: If you have already opened up a pull request, then you can see if there is a conflict at the bottom of the PR. Even though it is possible to resolve conflicts through GitHub, it is best practice to resolve them locally.
 
-```shell
-git remote add upstream git@github.com:open-sauced/open-sauced.git
-```
+![merge conflicts git message](../../../static/img/contributing-resolve-merge-conflicts-dont-do.png)
 
-## Update
+## How to Resolve Merge Conflicts
 
-First, get the default branch changes:
+If you have merge conflicts, it is best to use a text editor to resolve them. Identify the conflicting files and open them up in your editor of choice. For the conflicting sections, you have an option to either keep the incoming changes, keep your changes or keep both sets of changes. The conflicting sections will be marked with `<<<<<<<`, `=======`, and `>>>>>>>` symbols.
 
-```shell
-git fetch origin --recurse-submodules=no --progress --prune
-git checkout main --
-git fetch upstream --recurse-submodules=no --progress --prune
-git merge upstream/main --no-stat -v
-```
+Here is a [guide](https://dev.to/adiatiayu/how-to-resolve-merge-conflicts-using-the-merge-editor-feature-on-vs-code-pic) for an in depth walkthrough of the process. Once you have resolved all of the conflicts, then you can stage, commit and push your changes to your branch.
 
-## Merge with `upstream`
-
-Then merge with the forked up-to-date `beta` (default branch):
-
-```shell
-git merge origin/main --no-ff -v
-```
-
-You will see something similar to:
-
-![proper merge but results in conflicts](../../../static/img/contributing-resolve-merge-conflicts-merge-conflicts.png)
-
-## Review Changes
-
-To see what the changes are, run the command below:
-
-```shell
-git diff package.json
-```
-
-It will look like this:
-
-![review merge conflicts](../../../static/img/contributing-resolve-merge-conflicts-review-conflicts.png)
-
-## Resolve Conflicts
-
-Since this pull request does not modify the `package.json` file, it is safe to fast-forward the changes from `origin/main`:
-
-```shell
-# overwrite with origin/main changes
-git show :3:package.json > package.json
-```
-
-A more traditional way of doing the same thing is:
-
-```shell
-# make a local copy of all changes and use --theirs
-# --theirs strategy overwrite with origin/main changes
-git show :1:package.json > base.package.json
-git show :2:package.json > branch.package.json
-git show :3:package.json > head.package.json
-git merge-file -p --theirs \
-    branch.package.json base.package.json head.package.json > package.json
-```
-
-## Commit Changes
-
-Not making any assumptions about editor preferences, running this will open the configured editor with a default commit message:
-
-```shell
-git commit
-```
-
-That should look like this:
-
-![commit merge message](../../../static/img/contributing-resolve-merge-conflicts-commit-message.png)
-
-## Push Changes
-
-One more security check to make sure your branch has not diverged and push:
-
-```shell
+```bash
 git status
+git add .
+git commit -m "fix: resolving merge conflicts"
 git push
 ```
 
-It should look something like this:
+## How to Keep Your Branch Updated
 
-![push updated pr](../../../static/img/contributing-resolve-merge-conflicts-merge-success.png)
+It is common for your branch to fall behind the main repository's branch. So it is important to keep it up to date as you are contributing.
 
-## Review Your Pull Request
+### Using GitHub
 
-The result of the above commands can be viewed at [283ff8cd788c550309ff0d1d5a9a5a97ec0731b2](https://github.com/open-sauced/open-sauced/pull/1078/commits/283ff8cd788c550309ff0d1d5a9a5a97ec0731b2).
+To update your branch on GitHub, you can go to your forked copy of the project and click on `Sync fork` and then the `Update branch` button.
 
-GitHub will conveniently display only your merge conflict changes:
+![syncing your branch on GitHub](../../../static/img/sync-branch-GH.png)
 
-![view merge commit](../../../static/img/contributing-resolve-merge-conflicts-view-merge-commit.png)
+### Using Git
 
-And it's ready to merge:
+To update your branch using Git and the terminal, you can use the following command:
 
-![ready to merge](../../../static/img/contributing-resolve-merge-conflicts-ready-to-merge.png)
+```bash
+git pull upstream <main-branch-name>
+```
+
+**NOTE**: Some of the OpenSauced repositories will use `main` for the main branch while others like the [app repository](https://github.com/open-sauced/app), will use `beta` for the main branch name.
+
+## Reviewing Your Pull Request
+
+Once you have pushed up your changes, you can create a pull request. Under the files changed tab, you will see all of the recent changes including all conflicts resolved.
+
+![files changed tab on GitHub](../../../static/img/files-changed-tab.png)
 
 ## Dependency Updates
 
