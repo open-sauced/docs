@@ -156,7 +156,7 @@ The Triage team is inspired by [expressjs/express](https://github.com/expressjs/
 
 > **There are no minimum requirements to become a member of the Triage Team.**
 
-For those interested in getting involved in the project or just open source in general and wanting to join the Triage Team, please comment in the `🍕opensauced-contributors-chat` channel on [Discord](https://discord.gg/U2peSNf23P).
+For those interested in getting involved in the project or just open source in general and wanting to join the Triage Team, please leave a comment in the `🍕opensauced-contributors-chat` channel on [Discord](https://discord.gg/U2peSNf23P).
 
 ## Funding
 
