@@ -35,7 +35,7 @@ You may not see your organization if you are not a "public" member. You can upda
 
 ### 2. I get an error when I try to select my team in "Sync your GitHub Team".
 
-If you see your organization but get an error when selecting a team, your organization likely has restricted third-party applications. You can check this if you are an ownder by going to "Your organizations" on GitHub, selecting "Settings", and then "Third-party Access".
+If you see your organization but get an error when selecting a team, your organization likely has restricted third-party applications. You can check this if you are an owner by going to "Your organizations" on GitHub, selecting "Settings", and then "Third-party Access".
 
 If you're an **owner** of the repository, you can select "Allow select third-party access" or specifically approve OpenSauced by following the directions in [this guide](https://docs.github.com/en/organizations/managing-oauth-access-to-your-organizations-data/approving-oauth-apps-for-your-organization).
 
