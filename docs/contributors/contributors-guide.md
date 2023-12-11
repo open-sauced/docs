@@ -103,19 +103,19 @@ There are three tabs that provide you with more information on these repositorie
 
 #### Reports
 
-The Reports tab allows paid users to filter for more information about their repositories over the last 30 days and to generate a Downloadable CSV. Filters include: Top 100 Repos, Minimum 5 Contributors, Recent, Most Active, and Spammed.
+The Reports tab allows paid users to filter for more information about their repositories over the last 30 days and to generate a Downloadable CSV. Filters include: Top 100 Repos, Minimum 5 Contributors, Recent, Most Active, and Spammed. This can be helpful if you're a beginner contributor who is looking for mentors or someone who is looking for potential maintainers for your project.
 
 #### Repositories
 
-The Repositories tab allows you to view more detailed information on each repository, including Activity, PR Overview, PR Velocity, Spam, Contributors, and activity over the last 30 days. To learn more about these features, see [Understanding Insights Data](https://docs.opensauced.pizza/maintainers/understanding-lists/#understanding-lists-contributor-data).
+If you're looking for an active project to contribute to, this tab can help you as it contains information such as Activity, PR Overview, PR Velocity, Spam, Contributors, and activity that has occurred over the last 30 days. This information is also a good way to connect with others on the project or where to find support.  To learn more about these features, see [Understanding Insights Data](https://docs.opensauced.pizza/maintainers/understanding-lists/#understanding-lists-contributor-data).
 
 ![repositories tab](../../static/img/repos-insights.png)
 
 #### Contributors
 
-The Contributors tab allows you to view more detailed information about other contributors, including Activity, Repositories, the date of their last contribution, Time Zone, and the number of contributions. This can be a great way to find other people to collaborate with.
+The Contributors tab allows you to view more detailed information about other contributors, including Activity, Repositories, the date of their last contribution, Time Zone, and the number of contributions. This can be a great way to find other people to collaborate with whether.
 
-To learn more about your contributors, you can select them and add them to a list.
+Want to learn more about your peers?  You can select them and add them to a list.
 
 ![contributors insight list](../../static/img/contributors-insights.png)
 
@@ -154,13 +154,13 @@ There are three tabs that provide you with more information on these repositorie
 
 ### Overview
 
-The Overview tab gives you a high-level view of the contributors in your list, including the total number of commits in the last 30 days and the types of contributors on your list: Active, New, and Alumni.
+The Overview tab gives you a high-level view of the contributors in your list, including the total number of commits in the last 30 days and the types of contributors on your list: Active, New, and Alumni. This can help be helpful for finding people to collaborate or individuals to learn from.
 
 ### Activity
 
 The Activity tab gives you a graph view with more detailed information on each contributor, including the type of activity, repositories they've contributed to, and how they compare to each other.
 
-You can filter your list by All Contributors, Active Contributors, New Contributors, and Alumni Contributors.
+You can filter your list by All Contributors, Active Contributors, New Contributors, and Alumni Contributors. This could be useful if you're new to the open source community and looking for potential mentors or an experienced contributor who is looking for people to collaborate with.
 
 ![list graph](../../static/img/list-graph.png)
 
