@@ -130,9 +130,9 @@ This feature helps you connect with other contributors or learn more about what 
 
 There are many things you can do with this feature, but here's some ideas to get you started:
 
-- Learn about what other contributors are doing in open source
-- Learn about new projects
-- Make connections with other contributors who share your interests and come from other backgrounds
+- Learn about what other contributors are doing in open source.
+- Learn about new projects.
+- Make connections with other contributors who share your interests and come from other backgrounds.
 
 ### Creating a New List
 
