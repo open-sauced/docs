@@ -70,6 +70,8 @@ Writing an effective highlight is key to showcasing your contributions and skill
 2. **Discuss the relevance**: Explain why this blog post is important for your open source project or community. Is it about a major update, a community event, or sharing best practices?
 3. **Engage with a call-to-action**: Encourage readers to engage with the post, whether by reading, commenting, or sharing their thoughts on the topic.
 
+If you want more tips on creating effective highlights, check our blog post, ["Choose Your Own Adventure in Open Source: Paths to Success"](https://dev.to/opensauced/choose-your-own-adventure-in-open-source-paths-to-success-167p). 
+
 ## Insights: Connecting Your Repositories
 
 OpenSauced Insights you to see the impact of your contributions. You can use insights pages to track repositories' growth, analyze work, and connect with others.
