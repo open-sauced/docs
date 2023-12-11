@@ -50,7 +50,7 @@ Finally, it's time to add the details of your highlight. You can add a descripti
 
 ### Writing an Effective Highlight
 
-Writing an effective highlight is key to attracting contributors to your project. Here are some tips to help you write an effective highlight:
+Writing an effective highlight is key to showcasing your contributions and skills, and attracting potential collaborators and recruiters. Here are some tips to help you write an effective highlight:
 
 #### Highlighting Issues
 
