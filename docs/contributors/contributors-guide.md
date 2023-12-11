@@ -76,8 +76,8 @@ OpenSauced Insights you to see the impact of your contributions. You can use ins
 
 ## Why Create an Insights Page
 
-- Personal Contribution Tracking
-- Skill Development and Portfolio Building: Contributing to open source projects can be a great way to develop new skills. Your contributions can also be used as samples for your portfolio. Looking for ways to implement your open source experience in your job search journey? Check out our [job search guide](https://docs.opensauced.pizza/job-seekers-guide/job-seekers-guide-introduction/)! 😄
+- Tracking Personal Contributions: Active involvement is key to thriving in the open source community, and this feature provides information such as contributor activity levels to help you stay consistent.  
+- Building Portfolios and Developing Skills: Contributing to open source projects can be a great way to develop new skills. Your contributions can also be used as samples for your portfolio. Looking for ways to implement your open source experience in your job search journey? Check out our [job search guide](https://docs.opensauced.pizza/job-seekers-guide/job-seekers-guide-introduction/)! 😄
 - Identifying Potential Projects to Contribute To: Finding open source projects to contribute to can be difficult and this feature provides you access to a whole plethora of projects for you to chose from.
 Networking and Community Engagement - explanation
 - Curating Collections for Interest Groups (e.g., top open source React projects)
