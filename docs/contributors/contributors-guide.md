@@ -124,7 +124,7 @@ There are two ways to add contributors to a list:
 
 ## Lists: Connecting with Contributors
 
-This feature helps you connect with other contributors or learn more about what others are up to in open source. With Lists, you can categorize, watch, and check out different groups of contributors within open source projects.
+[Lists](../features/lists.md) feature helps you connect with other contributors or learn more about what others are up to in open source. With this feature, you can categorize, watch, and check out different groups of contributors within open source projects.
 
 ### What You Can Do With Lists?
 
