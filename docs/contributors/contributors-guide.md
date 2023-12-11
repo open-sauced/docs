@@ -17,7 +17,7 @@ To get started, you will need to create an account on OpenSauced. You can do thi
 
 ## Highlights: Connecting and Recognizing Contributions
 
-Leveraging OpenSauced's Highlights feature is a great way for maintainers to recognize and showcase the valuable contributions made to your open source projects, to curate and share key achievements, contributions, and milestones, and bring visibility to the hard work of your community.
+Leveraging OpenSauced's [Highlights](../features/highlights.md) feature is a great way for you to showcase your valuable contributions to your favorite open source projects. You can curate and share your contribution achievements and milestones and bring visibility to your hard work.
 
 Highlights can be used to:
 
