@@ -28,15 +28,15 @@ Please follow our [code of conduct](./code-of-conduct.md) in all your interactio
 
 ## Commits
 
-When contributing to OpenSauced projects, you can use this command to follow our conventional commits:
+When contributing to OpenSauced projects, use this command to follow our conventional commits:
 
 ```shell
 npm run push
 ```
 
-Using the `npm run push` command is an interactive replacement for `git commit`. It enforces the conventional commit specification for writing commit messages, making it easier for developers and maintainers to understand the changes made in a particular commit.
+The `npm run push` command is an interactive replacement for `git commit`. It enforces the conventional commit specification for writing commit messages, making it easier for developers and maintainers to understand the changes made in a particular commit.
 
-Assuming you are dealing with code changes and you add them using `git add`, once you are ready to commit, there are two ways we can proceed: `git commit` or `npm run push`. The second method is preferred, as doing a subsequent `git push` and opening a PR would ensure the title conforms to our standards.
+After running this command, you can push your changes to the remote repo.
 
 See [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for more examples.
 
