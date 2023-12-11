@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.57.1](https://github.com/open-sauced/docs/compare/v1.57.0...v1.57.1) (2023-12-11)
+
+
+### Bug Fixes
+
+* simplified the merge conflicts section ([#232](https://github.com/open-sauced/docs/issues/232)) ([6ce00fa](https://github.com/open-sauced/docs/commit/6ce00fadc0ec9c219242a40c791ad3593c9c01d9))
+
 ## [1.57.0](https://github.com/open-sauced/docs/compare/v1.56.0...v1.57.0) (2023-12-10)
 
 
