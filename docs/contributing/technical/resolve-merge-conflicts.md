@@ -76,7 +76,7 @@ git pull upstream <main-branch-name>
 
 ## Reviewing Your Pull Request
 
-Once you have pushed up your changes, you can create a pull request. Under the files changed tab, you will see all of the recent changes including all conflicts resolved.
+Once you have pushed up your changes, you can review them in your pull request. Under the files changed tab, you will see all of the recent changes including all conflicts resolved.
 
 ![files changed tab on GitHub](../../../static/img/files-changed-tab.png)
 
