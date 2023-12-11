@@ -10,11 +10,44 @@ When you are working on any of the OpenSauced repositories, you might run into a
 
 In this guide, we will talk about how to resolve merge conflicts and how to keep your branch up to date.
 
+## How to Keep Your Branch Updated
+
+It is common for your branch to fall behind the main repository's branch. So it is important to keep it up to date as you are contributing.
+
+### Using GitHub
+
+To update your branch on GitHub, you can go to your forked copy of the project and click on `Sync fork` and then the `Update branch` button.
+
+![syncing your branch on GitHub](../../../static/img/sync-branch-GH.png)
+
+### Using Git
+
+To update your branch using Git and the terminal, you can use the following commands:
+
+1. Change directories to the correct project.
+
+```bash
+cd project-name
+```
+
+2. Add the `upstream` remote.
+
+```bash
+git remote add upstream https://github.com/upstream-username/upstream-repository.git
+```
+3. Pull the latest changes from the `upstream`.
+
+```bash
+git pull upstream main-branch-name
+```
+
+**NOTE**: Some of the OpenSauced repositories will use `main` for the main branch while others like the [app repository](https://github.com/open-sauced/app), will use `beta` for the main branch name.
+
 ## How to Check for Merge Conflicts Locally
 
 If you are actively working on a change to an OpenSauced repository, you can check for potential merge conflicts by running a few commands in the terminal.
 
-1. Make sure you are on the correct branch where the changes are being made
+1. Make sure you are on the correct branch where the changes are being made.
 
 ```bash
 cd app
@@ -45,7 +78,7 @@ git diff <your-branch> upstream/main
 
 If you have merge conflicts, it is best to use a text editor to resolve them. Identify the conflicting files and open them up in your editor of choice. For the conflicting sections, you have an option to either keep the incoming changes, keep your changes or keep both sets of changes. The conflicting sections will be marked with `<<<<<<<`, `=======`, and `>>>>>>>` symbols.
 
-Here is a [guide](https://dev.to/adiatiayu/how-to-resolve-merge-conflicts-using-the-merge-editor-feature-on-vs-code-pic) for an in depth walkthrough of the process. Once you have resolved all of the conflicts, then you can stage, commit and push your changes to your branch.
+Here is a [guide](https://dev.to/opensauced/keeping-your-branch-up-to-date-and-handling-merge-conflicts-while-waiting-for-pr-reviews-3b3h) for an in depth walkthrough of the process. Once you have resolved all of the conflicts, then you can stage, commit and push your changes to your branch.
 
 ```bash
 git status
@@ -53,26 +86,6 @@ git add .
 git commit -m "fix: resolving merge conflicts"
 git push
 ```
-
-## How to Keep Your Branch Updated
-
-It is common for your branch to fall behind the main repository's branch. So it is important to keep it up to date as you are contributing.
-
-### Using GitHub
-
-To update your branch on GitHub, you can go to your forked copy of the project and click on `Sync fork` and then the `Update branch` button.
-
-![syncing your branch on GitHub](../../../static/img/sync-branch-GH.png)
-
-### Using Git
-
-To update your branch using Git and the terminal, you can use the following command:
-
-```bash
-git pull upstream <main-branch-name>
-```
-
-**NOTE**: Some of the OpenSauced repositories will use `main` for the main branch while others like the [app repository](https://github.com/open-sauced/app), will use `beta` for the main branch name.
 
 ## Reviewing Your Pull Request
 
