@@ -41,7 +41,7 @@ git remote add upstream https://github.com/upstream-username/upstream-repository
 git pull upstream main-branch-name
 ```
 
-**NOTE**: Some of the OpenSauced repositories will use `main` for the main branch while others like the [app repository](https://github.com/open-sauced/app), will use `beta` for the main branch name.
+**Note**: Some of the OpenSauced repositories will use `main` for the main branch while others like the [app repository](https://github.com/open-sauced/app), will use `beta` for the main branch name.
 
 ## How to Check for Merge Conflicts Locally
 
@@ -60,13 +60,13 @@ git checkout <your-branch>
 git fetch upstream
 ```
 
-3. See the differences between your branch and the OpenSauced main branch
+3. See the differences between your branch and the OpenSauced main branch.
 
 ```bash
 git diff <your-branch> upstream/main
 ```
 
-**NOTE**: Some of the OpenSauced repositories will use `main` for the main branch while others like the [app repository](https://github.com/open-sauced/app), will use `beta` for the main branch name.
+**Note**: Some of the OpenSauced repositories will use `main` for the main branch while others, like the [app repository](https://github.com/open-sauced/app), will use `beta` for the main branch name.
 
 ![git diff output review conflicts](../../../static/img/contributing-resolve-merge-conflicts-review-conflicts.png)
 
