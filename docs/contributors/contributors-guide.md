@@ -54,15 +54,15 @@ Writing an effective highlight is key to showcasing your contributions and skill
 
 #### Highlighting Issues
 
-1. **Focus on the problem solved**: Begin by briefly describing the problem or challenge the issue addresses. This sets the context for why it was important.
-2. **Acknowledge contributor(s)**: Mention the contributor(s) who reported or worked on the issue, recognizing their effort.
-3. **Impact statement**: Explain how resolving this issue benefits the project, such as improving functionality, user experience, or security.
+1. **Describe the problem**: Begin by briefly describing the problem or challenge the issue addresses. This helps other contributors or recruiters gain a better understanding of why pointed out the problem.
+2. **Mention the contributor**: If you're using an issue you haven't raised as one as a highlight, this would exemplify your collaboration skills to recruiters and other contributors.
+3. **Mention the proposed solution**: Mention the solution that you propose in the issue. This would help highlight your problem solving skills to recruiters.
 
 #### Highlighting PRs
 
 1. **Summarize the changes**: Start with a clear summary of what the PR achieves. This could be a new feature, bug fix, or enhancement.
-2. **Credit the contributors**: Acknowledge everyone who contributed to the PR, including reviewers.
-3. **Highlight the value**: Explain the value of these changes to the project or its users. For instance, how it improves performance, adds a requested feature, or simplifies the codebase.
+2. **Highlight the impact**: Explain the impact these changes bring to the project or its users. For instance, how it makes it easier for users to post content, increases accessibility, or improves project's user interface. This can help show recruiters that you bring results.
+3. **Reflect on your experience**: Mention what you learned from working on the PR. For example, how to import images on with React.
 
 #### Highlighting Dev.to Blog Posts
 
