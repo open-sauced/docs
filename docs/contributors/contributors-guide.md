@@ -88,7 +88,7 @@ To connect your repositories, click the "Insights" tab on the dashboard. You wil
 
 There are two ways to add repositories to your Insight Page:
 
-1. **Sync GitHub organization**: Syncing your favorite GitHub organizations is a good idea for if you want to keep track of their open source project activities and trends.
+1. **Sync GitHub organization**: Syncing your favorite GitHub organizations is a good idea if you want to keep track of their open source project activities and trends.
 2. **Connect individual repositories**:  Connecting individual repositories is a good idea if you who wants to keep track the contributions of a specific repository or group of repositories. For example, you might want to track of projects you have contributed to or would like to contribute to in the future.
 
 ![sync insights gif](../../static/gif/insight-page-demo.gif)
