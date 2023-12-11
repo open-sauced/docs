@@ -76,11 +76,11 @@ OpenSauced Insights you to see the impact of your contributions. You can use ins
 
 ## Why Create an Insights Page
 
-- Tracking Personal Contributions: Active involvement is key to thriving in the open source community, and this feature provides information such as contributor activity levels to help you stay consistent.  
-- Building Portfolios and Developing Skills: Contributing to open source projects can be a great way to develop new skills. Your contributions can also be used as samples for your portfolio. Looking for ways to implement your open source experience in your job search journey? Check out our [job search guide](https://docs.opensauced.pizza/job-seekers-guide/job-seekers-guide-introduction/)! 😄
-- Identifying Potential Projects to Contribute To: Finding open source projects to contribute to can be difficult and this feature provides you access to a whole plethora of projects for you to chose from.
-Networking and Community Engagement - explanation
-- Curating Collections for Interest Groups (e.g., top open source React projects)
+- **Tracking Personal Contributions**: Add repositories that you contributed to and track your contributions.
+- **Building Portfolios and Developing Skills**: Contributing to open source projects can be a great way to develop new skills. Your contributions can also be used as samples for your portfolio. Looking for ways to implement your open source experience in your job search journey? Check out our [job search guide](../job-seekers-guide/introduction.md)! 😄
+- **Identifying Potential Projects to Contribute To**: Finding open source projects to contribute to can be difficult. The Insights feature can help you identify projects to contribute to.
+- **Networking and Community Engagement**: Through the feature's Contributors tab, you can find other people to connect and collaborate with.
+- **Curating Collections for Interest Groups**: You can curate repositories that interest you, for example, top Artificial Intelligence projects.
 
 ### Creating a New Insight Page
 
