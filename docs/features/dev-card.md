@@ -1,14 +1,19 @@
 ---
 id: dev-card
-title: "Showcase your open source stats with your dev card"
+title: "Showcase Your Open Source Stats with Your Dev Card"
 sidebar_label: "Dev Card"
 keywords:
-  - dev-card
+  - "dev card"
 ---
 
-The Dev card feature is what we like to call your "open source business card." On the front, you see your username, the number of pull requests you have created, repositories you contribute to, a `View Profile` button that takes you to your dashboard, and a green icon, which describes your activity rate. When you click on the back of your card, you see additional information, including your OpenSauced profile's headline, the date of your first contribution on GitHub, and your [PR velocity rate](https://docs.opensauced.pizza/welcome/glossary/#pr-velocity).
-![screenshot of front and back of a dev card](../../static/img/a-dev-card.png)
+The Dev Card feature is what we like to call your "open source business card."
 
-Whether you are a person who's just beginning their open source journey or a maintainer looking for more contributors and/or sponsors, the Dev Card is a shareable snapshot of your contributions, skills, and engagement in the open source community.
+On the front of your card, you see your profile picture, username, the number of pull requests you have created, the number of repositories you contributed to, and a graph icon that describes your activity rate.
 
-Eager to get your Dev Card? Create it today and share with your network!
+You'll see the back side of your card when you click it. It shows more information, including your profile's picture and headline, the number of pull requests you have created, the date of your first contribution on GitHub, activity rate, [PR velocity](https://docs.opensauced.pizza/welcome/glossary/#pr-velocity) rate, and a `View Profile` button that takes you to your dashboard.
+
+![front and back sides of a dev card](../../static/img/a-dev-card.png)
+
+Whether you are just beginning your open source journey or a maintainer looking for more contributors and sponsors, you can share your Dev Card as a snapshot of your contributions, skills, and engagement in the open source community.
+
+Eager to get your Dev Card? Create it today and share it with your network!

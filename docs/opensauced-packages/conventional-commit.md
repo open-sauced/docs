@@ -33,7 +33,7 @@ Add the verification scripts to your `scripts` section in the `package.json` fil
 }
 ```
 
-The reason why we provide `npx` in the `scripts` section is for the people using this as a development enhancement, interactive configurations or trimmed dependency trees, where using `npx` is preferred over installing all the dependencies at once.
+The reason why we provide `npx` in the `scripts` section is for the people using this as a development enhancement, interactive configurations, or trimmed dependency trees, where using `npx` is preferred over installing all the dependencies at once.
 
 ## Usage
 
@@ -45,7 +45,7 @@ npx @open-sauced/conventional-commit
 npx conventional-commit
 ```
 
-## Advanced usage
+## Advanced Usage
 
 The most common use case for this package is to run it instead of the `git commit` command inside your `npm` scripts:
 
@@ -77,10 +77,10 @@ If you want to ensure local-only usage:
 }
 ```
 
-## FAQ
+## FAQs
 
 ## Contributing
 
 We're always happy to onboard people into open source!
 
-Check out the repository at [@open-sauced/conventional-commit](https://github.com/open-sauced/conventional-commit) ❤️
+Check out the repository at [@open-sauced/conventional-commit](https://github.com/open-sauced/conventional-commit). ❤️

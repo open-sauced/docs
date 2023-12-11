@@ -1,9 +1,9 @@
 ---
 id: introduction-to-the-chrome-extension
-title: Introduction to the Chrome Extension
-sidebar_label: Introduction to the Chrome Extension
+title: "Introduction to the Chrome Extension"
+sidebar_label: "Introduction to the Chrome Extension"
 keywords:
-  - introduction to the chrome extension
+  - "introduction to the chrome extension"
 ---
 
 ## The OpenSauced Chrome Extension
@@ -12,4 +12,4 @@ The OpenSauced Chrome extension seamlessly integrates GitHub with the OpenSauced
 
 ## Installing the Chrome Extension
 
-To install the OpenSauced Chrome extension, navigate to the [Chrome Web Store](https://chrome.google.com/webstore/detail/opensauced/aebjdjjodmkdnmejakflnfpkadblfmdh) and click the "Add to Chrome" button.
+To install the OpenSauced Chrome extension, navigate to the [OpenSauced.ai extension on Chrome Web Store](https://chrome.google.com/webstore/detail/opensauced/aebjdjjodmkdnmejakflnfpkadblfmdh) and click the "Add to Chrome" button.
