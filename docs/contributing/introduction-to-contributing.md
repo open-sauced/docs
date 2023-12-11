@@ -85,9 +85,13 @@ GitHub supports [draft pull requests](https://github.blog/2019-02-14-introducing
 2. Clone the forked repository to your local machine.
 3. Check the project's README to determine how to run the project locally.
 
-For many of our repositories, you'll find the directions below work for running the project locally:
+#### Additional Information
 
-Run `npm ci` to install the dependencies and set up the project.
+For many of our repositories, you'll run `npm ci` to install the dependencies and set up the project locally.
+
+From the [npm official docs](https://docs.npmjs.com/cli/v10/commands/npm-ci#description):
+
+> The `npm ci` is a command that installs a project with a clean slate, skipping certain user-oriented features and being more strict than `npm install`.
 
 You can also use the shell commands below to get started once you have forked the repository:
 
