@@ -19,9 +19,9 @@ To get started, you will need to create an account on OpenSauced. You can do thi
 
 Leveraging OpenSauced's [Highlights](../features/highlights.md) feature is a great way for you to showcase your valuable contributions to your favorite open source projects. You can curate and share your contribution achievements and milestones and bring visibility to your hard work.
 
-Highlights can be used to:
+Highlights feature allows to:
 
-- publicize issues on your repository that you'd like to match with contributors,
+- list issues that you'd raised to spot bugs or request a feature,
 - share Dev.to blog posts you've written,
 - celebrate PRs for your project.
 
