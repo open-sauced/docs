@@ -54,8 +54,9 @@ See [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for m
 8. If you improve the existing code, please let us know in your PR description.
 9. Completing the PR form is required. Make sure to fill in the PR title, description, [link to an issue](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls), and all the necessary areas.
 
-   - The title is required to begin with "feat:" or "fix:"
-   - Unsolicited code is welcomed, but an issue is required to announce your intentions. **_PRs without a linked issue will be marked invalid and closed_**.
+   - The title must begin with "feat:", "fix:", or anything related to your changes. <br /> **Tips**: You can follow your chosen option when [committing](#commits) your changes.
+
+   - Unsolicited code is welcomed, but an issue is required to announce your intentions. <br /> **_PRs without a linked issue will be marked invalid and closed_**.
 
 > _**Note for maintainers**: All PRs need a label to assist automation. See [this guide](./triage-guide.md#adding-issue-and-pr-labels) to determine which labels to use._
 
