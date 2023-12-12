@@ -45,7 +45,7 @@ See [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for m
 **_We actively welcome your pull requests. However, you must link your work to an existing issue._**
 
 1. Fork the repo and create your branch from the default branch.
-2. Name your branch to something descriptive of your work, i.e., `add-navbar` or `fix-style`.
+2. Name your branch to something descriptive of your work, i.e., `add-navbar` or `fix/broken-links`.
 3. If you've added code that should be tested, add tests.
 4. If you've changed APIs, update the documentation.
 5. If you make visual changes, screenshots are required.
