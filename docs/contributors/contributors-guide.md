@@ -9,7 +9,7 @@ keywords:
 
 ## Introduction to OpenSauced for Contributors
 
-OpenSauced is a platform dedicated to empowering you, the contributor, as you grow in your open source journey. We offer a GitHub-powered dashboard for tracking your contributions and gaining insights into your favorite open source projects. You can also customize your Insights and Lists Pages with the repositories you choose and the contributors you want to see.
+OpenSauced is a platform dedicated to empowering you, the contributor, as you grow in your open source journey. We offer a GitHub-powered dashboard for tracking your contributions and gaining insights into your favorite open source projects. You can also customize your Insights and Lists Pages connect with other contributors, and use our Highlights feature to display your contributions to the world.
 
 ## Getting Started
 
@@ -21,21 +21,13 @@ Leveraging OpenSauced's [Highlights](../features/highlights.md) feature is a gre
 
 Highlights feature allows to:
 
-- list issues that you'd raised to spot bugs or request a feature,
-- share Dev.to blog posts you've written,
-- celebrate PRs for your project.
+- List issues that you raised to spot bugs, request a feature, or improve documentation.
+- Share Dev.to blog posts that you've written.
+- Display PRs that show your various tech skills.
 
 ### Creating a New Highlight
 
 There are two ways to create a new highlight:
-
-1. After clicking the [Highlights tab](https://app.opensauced.pizza/feed) in the top navigation, click the input that says "Post a highlight to show your work!"
-
-2. From your profile, click the input that says "Post a highlight to show your work!"
-
-After you've clicked the input, you'll see a form that allows you to create a new highlight.
-
-There are two ways to create a highlight:
 
 1. Paste the URL to your PR, Issue, or Dev.to blog post (shown in blue below).
 2. Choose from a list of suggestions (shown in orange below).
@@ -44,33 +36,33 @@ There are two ways to create a highlight:
 
 If you're adding a blog post, you'll need to associate it to a repository by clicking the "Add a repo" button.
 
-Finally, it's time to add the details of your highlight. You can add a description yourself or use the auto-summarize function to generate a description.
+Finally, it's time to add the details of your highlight. You can write the description yourself or use the auto-summarize button to generate one.
 
 ![gif of creating a highlight](../../static/gif/highlight.gif)
 
 ### Writing an Effective Highlight
 
-Writing an effective highlight is key to showcasing your contributions and skills, and attracting potential collaborators and recruiters. Here are some tips to help you write an effective highlight:
+Showing your contributions is one thing but writing about them is crucial to attract potential collaborators and recruiters. Here are some tips to help you write effective descriptions about your highlights:
 
 #### Highlighting Issues
 
-1. **Summarize the problem**: Begin by briefly describing the problem the project is currently facing. This helps other contributors or recruiters gain a better understanding of the situation.
-2. **Describe the impact:** Briefly state how the problem negatively impacts the project. This would exemplify the issue's significance. 
-3. **Describe a possible solution**: Mention the solution that you are considering to use to solve the issue. This would help display your problem solving skills to recruiters.
+1. **Summarize the problem**: Briefly describe the problem the project is currently facing. This helps other contributors or recruiters gain a better understanding of the situation.
+2. **Describe the impact:** Briefly state how the problem negatively impacts the project. This would exemplify the issue's significance and your planning skills to recruiters and contributors who are looking for others to collaborate with.
+3. **Describe a possible solution**: Mention the solution that you are considering to use to solve the issue. This would help display your problem solving skills to recruiters and people who are looking for potential maintainers to aid them in sustaining their projects.
 
 #### Highlighting PRs
 
-1. **Describe the problem**: Start with a clear summary of the problem that your PR addresses. This could be a bug, code needing to be more accessible, or enhancing a feature. 
+1. **Describe the problem**: Start with a clear summary of the problem that your PR addresses. This could be a bug, code needing to be more accessible, or enhancing a feature.
 2. **Highlight your solution and its impact**: Explain the changes you made and how they solve the problem and effect the project. For instance, adding an AI summarizer to the project's Chrome Extension makes it easier for people to quickly summarize their content. This can help show recruiters that you bring results.
 3. **Reflect on your experience**: Mention what you learned from working on the PR. For example, how to import images on with React.
 
 #### Highlighting Dev.to Blog Posts
 
-1. **Describe the topic**: Begin with an interesting summary of your blog post, helping your peers and recruiters understand what you've written. 
+1. **Describe the topic**: Begin with an interesting summary of your blog post, helping your peers and recruiters understand what you've written.
 2. **Discuss the inspiration**: Explain why this blog post is created. Is it to guide others on how to improve their coding skills, raise awareness about an issue in the tech community, or display your progress in learning a new programming language?
 3. **End with a call-to-action**: Encourage readers to read and engage with the post, whether by commenting or sharing it with others on social media.
 
-If you want more tips on creating effective highlights, check our blog post, ["Choose Your Own Adventure in Open Source: Paths to Success"](https://dev.to/opensauced/choose-your-own-adventure-in-open-source-paths-to-success-167p). 
+If you want more tips on creating effective highlights, check our blog post, ["Choose Your Own Adventure in Open Source: Paths to Success"](https://dev.to/opensauced/choose-your-own-adventure-in-open-source-paths-to-success-167p).
 
 ## Insights: Connecting Your Repositories
 
@@ -81,8 +73,8 @@ OpenSauced [Insights](../features/insights.md) allows you to see the impact of y
 - **Tracking Personal Contributions**: Add repositories that you contributed to and track your contributions.
 - **Building Portfolios and Developing Skills**: Contributing to open source projects can be a great way to develop new skills. Your contributions can also be used as samples for your portfolio. Looking for ways to implement your open source experience in your job search journey? Check out our [job search guide](../job-seekers-guide/introduction.md)! 😄
 - **Identifying Potential Projects to Contribute To**: Finding open source projects to contribute to can be difficult. The Insights feature can help you identify projects to contribute to.
-- **Networking and Community Engagement**: Through the feature's Contributors tab, you can find other people to connect and collaborate with.
-- **Curating Collections for Interest Groups**: You can curate repositories that interest you, for example, top Artificial Intelligence projects.
+- **Networking and Community Engagement**: Finding people to work and connect with can be very challenging. Through the feature's Contributors tab, you'll be able to quickly grow your network.
+- **Curating Collections for Interest Groups**: You can curate and share repositories that focus on sectors and programming languages you. For example, @CBID2 created [a page of projects led and founded by women](https://app.opensauced.pizza/pages/CBID2/288/dashboard?range=30).
 
 ### Creating a New Insight Page
 
@@ -113,7 +105,7 @@ If you're looking for an active project to contribute to, this tab can help you 
 
 #### Contributors
 
-The Contributors tab allows you to view more detailed information about other contributors, including Activity, Repositories, the date of their last contribution, Time Zone, and the number of contributions. This can be a great way to find other people to collaborate with whether.
+The Contributors tab allows you to view more detailed information about other contributors, including Activity, Repositories, the date of their last contribution, Time Zone, and the number of contributions. This can be a great way to find other people to collaborate with or recommend for jobs.
 
 Want to learn more about your peers?  You can select them and add them to a list.
 
