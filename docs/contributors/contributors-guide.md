@@ -74,7 +74,7 @@ If you want more tips on creating effective highlights, check our blog post, ["C
 
 ## Insights: Connecting Your Repositories
 
-OpenSauced Insights you to see the impact of your contributions. You can use insights pages to track repositories' growth, analyze work, and connect with others.
+OpenSauced [Insights](../features/insights.md) allows you to see the impact of your contributions. You can use Insights Pages to track repositories' growth, analyze work, and connect with others.
 
 ## Why Create an Insights Page
 
