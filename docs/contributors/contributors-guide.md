@@ -54,21 +54,21 @@ Writing an effective highlight is key to showcasing your contributions and skill
 
 #### Highlighting Issues
 
-1. **Describe the problem**: Begin by briefly describing the problem or challenge the issue addresses. This helps other contributors or recruiters gain a better understanding of why pointed out the problem.
-2. **Mention the contributor**: If you're using an issue you haven't raised as one as a highlight, this would exemplify your collaboration skills to recruiters and other contributors.
-3. **Mention the proposed solution**: Mention the solution that you propose in the issue. This would help highlight your problem solving skills to recruiters.
+1. **Summarize the problem**: Begin by briefly describing the problem the project is currently facing. This helps other contributors or recruiters gain a better understanding of the situation.
+2. **Describe the impact:** Briefly state how the problem negatively impacts the project. This would exemplify the issue's significance. 
+3. **Describe a possible solution**: Mention the solution that you are considering to use to solve the issue. This would help display your problem solving skills to recruiters.
 
 #### Highlighting PRs
 
-1. **Summarize the changes**: Start with a clear summary of what the PR achieves. This could be a new feature, bug fix, or enhancement.
-2. **Highlight the impact**: Explain the impact these changes bring to the project or its users. For instance, how it makes it easier for users to post content, increases accessibility, or improves project's user interface. This can help show recruiters that you bring results.
+1. **Describe the problem**: Start with a clear summary of the problem that your PR addresses. This could be a bug, code needing to be more accessible, or enhancing a feature. 
+2. **Highlight your solution and its impact**: Explain the changes you made and how they solve the problem and effect the project. For instance, adding an AI summarizer to the project's Chrome Extension makes it easier for people to quickly summarize their content. This can help show recruiters that you bring results.
 3. **Reflect on your experience**: Mention what you learned from working on the PR. For example, how to import images on with React.
 
 #### Highlighting Dev.to Blog Posts
 
-1. **Capture the essence**: Begin with an interesting blog post summary, capturing the main theme or message.
-2. **Discuss the relevance**: Explain why this blog post is important for your open source project or community. Is it about a major update, a community event, or sharing best practices?
-3. **Engage with a call-to-action**: Encourage readers to engage with the post, whether by reading, commenting, or sharing their thoughts on the topic.
+1. **Describe the topic**: Begin with an interesting summary of your blog post, helping your peers and recruiters understand what you've written. 
+2. **Discuss the inspiration**: Explain why this blog post is created. Is it to guide others on how to improve their coding skills, raise awareness about an issue in the tech community, or display your progress in learning a new programming language?
+3. **End with a call-to-action**: Encourage readers to read and engage with the post, whether by commenting or sharing it with others on social media.
 
 If you want more tips on creating effective highlights, check our blog post, ["Choose Your Own Adventure in Open Source: Paths to Success"](https://dev.to/opensauced/choose-your-own-adventure-in-open-source-paths-to-success-167p). 
 
