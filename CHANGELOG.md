@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.58.0](https://github.com/open-sauced/docs/compare/v1.57.1...v1.58.0) (2023-12-14)
+
+
+### Documentation
+
+* Reorganize Subsections in the Intro to Contributing ([#233](https://github.com/open-sauced/docs/issues/233)) ([935e09a](https://github.com/open-sauced/docs/commit/935e09a9ee0f82bc888187a1a35684e68ec72fa1))
+
 ### [1.57.1](https://github.com/open-sauced/docs/compare/v1.57.0...v1.57.1) (2023-12-11)
 
 
