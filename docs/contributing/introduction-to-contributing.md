@@ -1,9 +1,9 @@
 ---
 id: introduction-to-contributing
-title: Introduction to contributing
-sidebar_label: Introduction to contributing
+title: "Introduction to Contributing"
+sidebar_label: "Introduction to Contributing"
 keywords:
-  - introduction to contributing
+  - "introduction to contributing"
 ---
 
 Contributions are always welcome, no matter how large or small. Before contributing,
@@ -12,45 +12,120 @@ please read the [code of conduct](./code-of-conduct.md) and follow the direction
 ## Recommended Communication Style
 
 1. Always leave screenshots for visual changes.
-2. Always leave a detailed description in the Pull Request. Leave nothing ambiguous for the reviewer.
-3. Always review your code first. Be sure to run the project locally and test before asking for a review.
-4. Always communicate in the GitHub repository. Whether it is in the issue or the pull request, keeping the lines of communication open and visible to everyone on the team helps everyone around you.
+2. Always leave a detailed description in the pull request. Leave nothing ambiguous for the reviewer.
+3. Always review your code first. Run the project locally and test it before requesting a review.
+4. Always communicate in the GitHub repository. Whether in the issue or the pull request, keeping the lines of communication open and visible to everyone on the team helps everyone around you.
 
-## Setup
+## Issues
+
+If you wish to work on an open issue, please comment on the issue with `.take`, and it will be assigned to you. If an issue is not assigned, it is assumed to be available for anyone to work on. Please assign yourself to an issue before working on it to avoid conflicts.
+
+If you contribute to the project for the first time, you can search for issues with `good first issue` or `bug` labels in the repository.
+
+In case you get stuck, feel free to ask for help in the [Discord](https://discord.gg/U2peSNf23P) server or [GitHub Discussions](https://github.com/orgs/open-sauced/discussions).
+
+Please follow our [code of conduct](./code-of-conduct.md) in all your interactions with the project and its contributors.
+
+## Commits
+
+When contributing to OpenSauced projects, use this command to follow our conventional commits:
+
+```shell
+npm run push
+```
+
+The `npm run push` command is an interactive replacement for `git commit`. It enforces the conventional commit specification for writing commit messages, making it easier for developers and maintainers to understand the changes made in a particular commit.
+
+After running this command, you can push your changes to the remote repo.
+
+See [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for more examples.
+
+## Pull Requests (PR)
+
+**_We actively welcome your pull requests. However, you must link your work to an existing issue._**
+
+1. Fork the repo and create your branch from the default branch.
+2. Name your branch to something descriptive of your work, i.e., `add-navbar` or `fix/broken-links`.
+3. If you've added code that should be tested, add tests.
+4. If you've changed APIs, update the documentation.
+5. If you make visual changes, screenshots are required.
+6. Ensure the test suite passes.
+7. Make sure you address any lint warnings.
+8. If you improve the existing code, please let us know in your PR description.
+9. Completing the PR form is required. Make sure to fill in the PR title, description, [link to an issue](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls), and all the necessary areas.
+
+   - The title must begin with "feat:", "fix:", or anything related to your changes. <br /> **Tips**: You can follow your chosen option when [committing](#commits) your changes.
+
+   - Unsolicited code is welcomed, but an issue is required to announce your intentions. <br /> **_PRs without a linked issue will be marked invalid and closed_**.
+
+> _**Note for maintainers**: All PRs need a label to assist automation. See [this guide](./triage-guide.md#adding-issue-and-pr-labels) to determine which labels to use._
+
+### PR Validation
+
+Examples of valid PR titles:
+
+- fix: Correct typo.
+- feat: Add support for Node 12.
+- refactor!: Drop support for Node 6.
+
+_**Note**: For any breaking changes, you have to use the `!` syntax._
+
+### Work in Progress
+
+GitHub supports [draft pull requests](https://github.blog/2019-02-14-introducing-draft-pull-requests/), which will disable the merge button until the PR is marked as ready for merge.
+
+### Additional Resources
+
+- _[3 tips for getting your Pull Request reviewed on GitHub](https://youtu.be/cuMeC-eZJJ4)_
+
+## Getting Started
+
+### Setting Up Projects Locally
 
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repository you're working on from [github/open-sauced](https://github.com/open-sauced) to your own GitHub account.
 2. Clone the forked repository to your local machine.
-3. Check the README of the project to determine how to run the project locally. For many of our repositories, you'll find the directions below work for running the project locally.
-4. Run `npm ci` to install the dependencies and set up the project.
+3. Check the project's README to determine how to run the project locally.
 
-You can also use the shell commands below to get started once you have forked the repository.
-Make sure to replace `<your-name>` with your GitHub username.
+#### Additional Information
+
+For many of our repositories, you'll run `npm ci` to install the dependencies and set up the project locally.
+
+From the [npm official docs](https://docs.npmjs.com/cli/v10/commands/npm-ci#description):
+
+> The `npm ci` is a command that installs a project with a clean slate, skipping certain user-oriented features and being more strict than `npm install`.
+
+You can also use the shell commands below to get started once you have forked the repository:
 
 ```shell
-git clone https://github.com/<your-name>/open-sauced
-cd open-sauced
+git clone https://github.com/<GITHUB_USERNAME>/<REPO_NAME>.git
+cd <REPO_NAME>
 npm ci
 ```
 
-## Building
+Make sure to replace `<GITHUB_USERNAME>` with your GitHub username.
+
+### Building
+
 To generate a production-ready version of your code, run:
 
 ```shell
 npm run build
 ```
 
-## Testing
+### Testing
 
 For running the test suite, use the following command:
+
 ```shell
 # the tests will run in watch mode by default
 npm test
 ```
-Since the tests run in watch mode by default, some users may encounter errors about too many files being open. In this case, it may be beneficial to [install watchman](https://facebook.github.io/watchman/docs/install.html).
 
-For more info on testing React and JavaScript, check out this course [Testing JavaScript](https://testingjavascript.com/).
+Since the tests run in watch mode by default, some users may encounter errors about too many files being open. In this case, it may be beneficial to [install Watchman](https://facebook.github.io/watchman/docs/install.html).
 
-## Applying Lint Styleguide
+Check out this course, [Testing JavaScript](https://testingjavascript.com/), for more info on testing React and JavaScript.
+
+### Applying Lint Styleguide
 
 To check the code for formatting and linting errors, run the following command:
 
@@ -58,7 +133,7 @@ To check the code for formatting and linting errors, run the following command:
 npm run lint
 ```
 
-These errors will also be displayed during development, but won't prevent the code from compiling.
+These errors will also be displayed during development but won't prevent the code from compiling.
 
 To fix the formatting and linting errors, run the following command instead:
 
@@ -68,86 +143,31 @@ npm run format
 
 These commands use [ESLint](https://eslint.org/) to check and fix the code.
 
-If you forget to run this command, automated PR checks will also run these commands, but the PR will be blocked if there are any errors. 
+If you forget to run this command, automated PR checks will also run these commands, but the PR will be blocked if there are any errors.
 
-## Pull requests
-
-**_We actively welcome your pull requests, however linking your work to an existing issue is preferred._**
-
-1. Fork the repo and create your branch from the default branch.
-2. Name your branch something that is descriptive to the work you are doing. i.e. adds-new-thing or fixes-mobile
-3. If you've added code that should be tested, add tests.
-4. If you've changed APIs, update the documentation.
-5. If you make visual changes, screenshots are required.
-6. Ensure the test suite passes.
-7. Make sure you address any lint warnings.
-8. If you make the existing code better, please let us know in your PR description.
-9. A PR description and title are required. The title is required to begin with: "feat:" or "fix:"
-10. [Link to an issue](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls) in the project. Unsolicited code is welcomed, but an issue is required for an announcement your intentions. PR's without a linked issue will be marked invalid and closed.
-
-_note for maintainers: All pull requests need a label to assist automation. See the [template](https://github.com/open-sauced/open-sauced/blob/HEAD/.github/release-drafter.yml) to guide which labels to use._
-
-### PR validation
-
-Examples for valid PR titles:
-
-- fix: Correct typo.
-- feat: Add support for Node 12.
-- refactor!: Drop support for Node 6.
-
-_Note that since PR titles only have a single line, you have to use the ! syntax for breaking changes._
-
-See [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for more examples.
-
-_[3 tips for getting your Pull Request reviewed](https://youtu.be/cuMeC-eZJJ4)_
-
-You can also experiment with conventional commits by doing:
-
-```shell
-npm run push
-```
-
-Using the `npm run push` command is an interactive replacement for `git commit`. It enforces the conventional commits specification for writing commit messages, making it easier for developers and maintainers to understand the changes made in a particular commit.
-
-Assuming you are dealing with code changes and you add them using `git add`, once you are ready to commit, there are 2 ways we can proceed: `git commit` or `npm run push`. The second method is preferred, as doing a subsequent `git push` and then opening a PR would ensure the title is conforming to our standards.
-
-### Work in progress
-
-GitHub has support for draft pull requests, which will disable the merge button until the PR is marked as ready for merge.
-
-## Issues
-
-If you wish to work on an open issue, please comment on the issue with `.take` and it will be assigned to you. If an issue is not assigned, it is assumed to be open for anyone to work on. Please assign yourself to an issue before beginning work on it to avoid conflicts.
-
-If you are contributing to the project for the first time, please consider checking the [bug](https://github.com/open-sauced/hot/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+bug%22) or [good first issue](https://github.com/open-sauced/hot/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) labels.
-
-In case you get stuck, please feel free to ask for help in the [Discord](https://discord.gg/U2peSNf23P) server or GitHub Discussions.
-
-Please note that we have a [code of conduct](./code-of-conduct.md), please follow it in all your interactions with the project and it's contributors.
-
-## Triage team
-
-The Triage team is inspired by [expressjs/express](https://github.com/expressjs/express/blob/HEAD/Triager-Guide.md). This team exists to create a path for making contributions to this project and open source. All Triage Team members are expected to follow this guide: [TRIAGE_GUIDE.md](./triage-guide.md)
-
-> **There are no minimum requirements to become a member of the Triage Team.**
-
-For those interested in getting involved in the project or just open source in general, please request an invite to the Triage Team in [this discussion.](https://github.com/open-sauced/open-sauced/discussions/638)
-
-## Funding
-
-OpenSauced is a part of GitHub Sponsors. If you would like to contribute, please note the [sponsor page](https://github.com/sponsors/open-sauced) for details on how funds are distributed. If you have made any contributions to the project directly or indirectly, please consider adding your profile to the [FUNDING.yml](https://github.com/open-sauced/.github/blob/main/FUNDING.yml).
-
-## Community
-
-Do you have questions? Join the conversation in our [Discord](https://discord.gg/U2peSNf23P).
-
-## Coding tips
+### Coding Tips
 
 - Ask questions if you are stuck.
 - Use [CSS variables.](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 - Always use [rel="noreferrer" on all target="\_blank" links](https://web.dev/external-anchors-use-rel-noopener/).
 
+## Community
+
+Do you have questions? Join the conversation in our [Discord](https://discord.gg/U2peSNf23P).
+
+## Triage Team
+
+The Triage team is inspired by [expressjs/express](https://github.com/expressjs/express/blob/HEAD/Triager-Guide.md). This team exists to create a path for making contributions to this project and open source. All Triage Team members are expected to follow the [Triage Guide](./triage-guide.md).
+
+> **There are no minimum requirements to become a member of the Triage Team.**
+
+For those interested in getting involved in the project or just open source in general and wanting to join the Triage Team, please leave a comment in the `🍕opensauced-contributors-chat` channel on [Discord](https://discord.gg/U2peSNf23P).
+
+## Funding
+
+OpenSauced is a part of GitHub Sponsors. If you would like to contribute, please note the [sponsor page](https://github.com/sponsors/open-sauced) for details on how funds are distributed. If you have made any contributions to the project directly or indirectly, please consider adding your profile to the [`FUNDING.yml`](https://github.com/open-sauced/.github/blob/main/FUNDING.yml) file.
+
 ## License
 
 By contributing to the OpenSauced project, you agree that your contributions will be licensed
-by a specific License. This information can be found in the `LICENSE` file of the repo you are contributing to.
+by a specific License. You can find this information in the `LICENSE` file of the repo you are contributing to.

@@ -1,10 +1,10 @@
 ---
 id: understanding-lists
-title: 'Understanding Lists Data'
-sidebar_label: Understanding Lists Data
+title: "Understanding Lists Data"
+sidebar_label: "Understanding Lists Data"
 keywords:
-  - maintainers
-  - guides
+  - "maintainers"
+  - "guides"
 ---
 
 Once you've created your list of contributors, it's time to understand the data provided. Understanding this data is key to effectively managing your projects and contributors.

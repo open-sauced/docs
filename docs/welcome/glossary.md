@@ -1,9 +1,9 @@
 ---
 id: glossary
-title: 'OpenSauced Glossary'
-sidebar_label: OpenSauced Glossary
+title: "OpenSauced Glossary"
+sidebar_label: "OpenSauced Glossary"
 keywords:
-  - glossary
+  - "glossary"
 ---
 
 Welcome to the glossary, where we define concepts used on our platform to help you get the most out of OpenSauced.
@@ -47,4 +47,4 @@ PR Overview tells the story of the Pull Requests (PRs) submitted in the last 30 
 
 ## PR Velocity
 
-PR Velocity tracks how quickly Pull Requests (PRs) are being merged in by identifying the average time to completion from Pull Request.
+PR Velocity tracks how quickly Pull Requests (PRs) are being merged in by identifying the average time to completion from the request submission.

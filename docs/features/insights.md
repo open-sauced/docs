@@ -1,9 +1,9 @@
 ---
 id: insights
-title: 'Insights into Open Source Projects'
-sidebar_label: Insights
+title: "Insights into Open Source Projects"
+sidebar_label: "Insights"
 keywords:
-  - insights
+  - "insights"
 ---
 
 The Insights feature is your one-stop solution for understanding the pulse of your open source projects and contributions. This feature is designed to provide a comprehensive view of your project's health and your individual contributions. From contribution trends to community health, OpenSauced Insights helps you make data-driven decisions that align with your goals. It's not just about numbers; it's about providing data to help you make decisions that can define your approach to open source and tell the story of your project or contribution journey.
@@ -24,4 +24,4 @@ The Insights feature is your one-stop solution for understanding the pulse of yo
 - Identify contributors who are making an impact.
 - Find new contributors to support your project.
 
-To learn more about how to use Insights, check out our [Maintainers Guide](../maintainers/maintainers-guide.md) and our [Understanding Insights Data page](../maintainers/understanding-insights.md).
+To learn more about how to use Insights, check out our [Maintainers Guide](../maintainers/maintainers-guide.md) and our [Understanding Insights Data](../maintainers/understanding-insights.md) pages.
