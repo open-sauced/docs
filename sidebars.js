@@ -16,11 +16,7 @@ module.exports = {
       type: "category",
       label: "Getting Started",
       collapsed: false,
-      items: [
-        "welcome/opensauced-intro",
-        "welcome/glossary",
-        "welcome/faqs"
-      ],
+      items: ["welcome/opensauced-intro", "welcome/glossary", "welcome/faqs"],
     },
     {
       type: "category",
@@ -48,10 +44,7 @@ module.exports = {
       type: "category",
       label: "Community",
       collapsed: false,
-      items: [
-        "community/welcome-to-the-community",
-        "community/100-days-of-oss"
-      ],
+      items: ["community/welcome-to-the-community", "community/100-days-of-oss"],
     },
     {
       type: "category",
@@ -120,10 +113,15 @@ module.exports = {
           type: "category",
           label: "Technical Guide",
           collapsed: true,
+          
+          insight-page-update
           items: [
             "contributing/technical/setup-repo-with-git",
             "contributing/technical/resolve-merge-conflicts",
           ],
+      
+          items: ["contributing/technical/setup-repo-with-git", "contributing/technical/resolve-merge-conflicts"],
+  
         },
       ],
     },

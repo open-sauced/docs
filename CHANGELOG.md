@@ -5,6 +5,32 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.58.0](https://github.com/open-sauced/docs/compare/v1.57.1...v1.58.0) (2023-12-14)
+
+
+### Documentation
+
+* Reorganize Subsections in the Intro to Contributing ([#233](https://github.com/open-sauced/docs/issues/233)) ([935e09a](https://github.com/open-sauced/docs/commit/935e09a9ee0f82bc888187a1a35684e68ec72fa1))
+
+### [1.57.1](https://github.com/open-sauced/docs/compare/v1.57.0...v1.57.1) (2023-12-11)
+
+
+### Bug Fixes
+
+* simplified the merge conflicts section ([#232](https://github.com/open-sauced/docs/issues/232)) ([6ce00fa](https://github.com/open-sauced/docs/commit/6ce00fadc0ec9c219242a40c791ad3593c9c01d9))
+
+## [1.57.0](https://github.com/open-sauced/docs/compare/v1.56.0...v1.57.0) (2023-12-10)
+
+
+### Bug Fixes
+
+* remove storybook id from sidebar file ([#231](https://github.com/open-sauced/docs/issues/231)) ([f14b184](https://github.com/open-sauced/docs/commit/f14b1844575775f1dcabf0c8f1363f836dbb4a76))
+
+
+### Documentation
+
+* Provide Docs Feedback & Fix Markdown and Metadata for Consistency ([#213](https://github.com/open-sauced/docs/issues/213)) ([7264c3e](https://github.com/open-sauced/docs/commit/7264c3eee13417f100f2e54a311494daab44bbe0))
+
 ## [1.56.0](https://github.com/open-sauced/docs/compare/v1.55.1...v1.56.0) (2023-12-07)
 
 
