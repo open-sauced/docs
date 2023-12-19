@@ -99,7 +99,7 @@ The Reports tab allows paid users to filter for more information about their rep
 
 #### Repositories
 
-If you're looking for an active project to contribute to, this tab can help you as it contains information such as Activity, PR Overview, PR Velocity, Spam, Contributors, and activity that has occurred over the last 30 days. This information is also a good way to connect with others on the project or where to find support.  To learn more about these features, see [Understanding Insights Data](https://docs.opensauced.pizza/maintainers/understanding-lists/#understanding-lists-contributor-data).
+If you're looking for an active project to contribute to, this tab can help you as it contains information such as Activity, PR Overview, PR Velocity, Spam, Contributors, and activity that has occurred over the last 30 days. This information is also a good way to connect with others on the project or where to find support. To learn more about these features, see [Understanding Insights Data](../maintainers/understanding-insights.md).
 
 ![repositories tab](../../static/img/repos-insights.png)
 
