@@ -68,7 +68,7 @@ If you want more tips on creating effective highlights, check our blog post, ["C
 
 OpenSauced [Insights](../features/insights.md) allows you to see the impact of your contributions. You can use Insights Pages to track repositories' growth, analyze work, and connect with others.
 
-## Why Create an Insights Page
+### Why Create an Insights Page
 
 - **Tracking Personal Contributions**: Add repositories that you contributed to and track your contributions.
 - **Building Portfolios and Developing Skills**: Contributing to open source projects can be a great way to develop new skills. Your contributions can also be used as samples for your portfolio. Looking for ways to implement your open source experience in your job search journey? Check out our [job search guide](../job-seekers-guide/introduction.md)! 😄
