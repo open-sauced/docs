@@ -70,11 +70,11 @@ OpenSauced [Insights](../features/insights.md) allows you to see the impact of y
 
 ### Why Create an Insights Page
 
-- **Tracking Personal Contributions**: Add repositories that you contributed to and track your contributions.
-- **Building Portfolios and Developing Skills**: Contributing to open source projects can be a great way to develop new skills. Your contributions can also be used as samples for your portfolio. Looking for ways to implement your open source experience in your job search journey? Check out our [job search guide](../job-seekers-guide/introduction.md)! 😄
-- **Identifying Potential Projects to Contribute To**: Finding open source projects to contribute to can be difficult. The Insights feature can help you identify projects to contribute to.
-- **Networking and Community Engagement**: Finding people to work and connect with can be very challenging. Through the feature's Contributors tab, you'll be able to quickly grow your network.
-- **Curating Collections for Interest Groups**: You can curate and share repositories that focus on sectors and programming languages you. For example, @CBID2 created [a page of projects led and founded by women](https://app.opensauced.pizza/pages/CBID2/288/dashboard?range=30).
+- **Tracking personal contributions**: Add repositories you contributed to and track your contributions.
+- **Building portfolios and developing skills**: Contributing to open source projects can be a great way to develop new skills. Your contributions can also be used as samples for your portfolio. Looking for ways to implement your open source experience in your job search journey? Check out our [job search guide](../job-seekers-guide/introduction.md)!
+- **Identifying potential projects to contribute to**: Finding open source projects to contribute to can be difficult. The Insights feature can help you identify projects to contribute to.
+- **Networking and community engagement**: Finding people to work and connect with can be challenging. Through the feature's Contributors tab, you can quickly grow your network.
+- **Curating collections for interest groups**: You can curate and share repositories focusing on sectors and programming languages that interest you. For example, @CBID2 created [a page of projects led and founded by women](https://app.opensauced.pizza/pages/CBID2/288/dashboard?range=30).
 
 ### Creating a New Insight Page
 
