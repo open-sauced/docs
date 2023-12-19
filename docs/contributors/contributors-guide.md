@@ -122,7 +122,7 @@ There are two ways to add contributors to a list:
 
 ### What You Can Do With Lists?
 
-There are many things you can do with this feature, but here's some ideas to get you started:
+There are many things you can do with this feature, but here are some ideas to get you started:
 
 - Learn about what other contributors are doing in open source.
 - Learn about new projects.
