@@ -146,7 +146,7 @@ There are three tabs that provide you with more information on these repositorie
 
 ### Overview
 
-The Overview tab gives you a high-level view of the contributors in your list, including the total number of commits in the last 30 days and the types of contributors on your list: Active, New, and Alumni. This can help be helpful for finding people to collaborate or individuals to learn from.
+The Overview tab gives you a high-level view of the contributors in your list, including the total number of commits in the last 30 days and the types of contributors on your list: Active, New, and Alumni. This can be helpful for finding people to collaborate with or individuals to learn from.
 
 ### Activity
 
