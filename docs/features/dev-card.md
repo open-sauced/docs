@@ -16,4 +16,7 @@ You'll see the back side of your card when you click it. It shows more informati
 
 Whether you are just beginning your open source journey or a maintainer looking for more contributors and sponsors, you can share your Dev Card as a snapshot of your contributions, skills, and engagement in the open source community.
 
-Eager to get your Dev Card? Create it today and share it with your network!
+Eager to get your Dev Card? Here's how you can get yours today:
+1. Log in to your OpenSauced account.
+2. Navigate to your [profile](https://app.opensauced.pizza/user/{username}).
+3. Click the DevCard icon on your profile image.
