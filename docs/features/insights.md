@@ -34,10 +34,22 @@ Sharing this page with teammates ensures that everyone is well-informed about th
 
 ## How to Share Insights Page
 
-- Go to your open-sauced insight page
-- Click on Create New Insight at the top-right corner of the page.
-- Fill the form
-- Click on Create 
-- Click on share. The link will be copied and then shared with your team members
+To share your insights page on OpenSauced, you can follow these steps:
+
+#### Method 1: Using the Share Button (View Only)
+
+- Navigate to your OpenSauced insights page.
+- Click on "Explore" at the top left side.
+- Under Explore, you will find options like dashboard, reports, contributors, and activity.
+- At the top right corner, just below your profile picture, click on the "share" icon.
+- The insights page URL will be copied to the clipboard.
+- You can share this URL with anyone, and they will have view-only access to your insights page.
+  
+#### Method 2: Adding a Teammate (Options for Permissions)
+
+- Beside the share icon, you will see an "edit" option (where you can modify your insights page). Click on "edit."
+- Scroll down to find the "Add Team Members" section.
+- Enter the email address of the member you want to invite.
+- After entering the email addresses, click on "Send invite."
 
 To learn more about inviting your team, check out [this tutorial video](https://www.youtube.com/watch?v=L5ztLP1O7BY).
