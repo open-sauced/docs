@@ -32,24 +32,29 @@ After you've created your Insights Page, share it with your team.
 
 Sharing this page with teammates ensures that everyone is well-informed about the project's status and can collaborate more effectively. It fosters a collaborative environment where team members can align their efforts, make informed decisions, and collectively work toward the organization's success.
 
-## How to Share Insights Page
+### How to Share Insights Page
 
-To share your insights page on OpenSauced, you can follow these steps:
+There are two methods to share your Insights Page:
 
-#### Method 1: Using the Share Button (View Only)
+#### Method 1: Using the Share Button 
 
-- Navigate to your OpenSauced insights page.
-- Click on "Explore" at the top left side.
-- Under Explore, you will find options like dashboard, reports, contributors, and activity.
-- At the top right corner, just below your profile picture, click on the "share" icon.
-- The insights page URL will be copied to the clipboard.
-- You can share this URL with anyone, and they will have view-only access to your insights page.
+This method gives view-only access to your Insights Page.
+
+1. Click the "Insights" tab at the top bar.
+2. Click the page that you want to share.
+3. On the top right, click the "Share" button to copy the Insights Page URL to the clipboard.
+4. Share the URL with your team members.
   
-#### Method 2: Adding a Teammate (Options for Permissions)
+#### Method 2: Adding a Team Member
 
-- Beside the share icon, you will see an "edit" option (where you can modify your insights page). Click on "edit."
-- Scroll down to find the "Add Team Members" section.
-- Enter the email address of the member you want to invite.
-- After entering the email addresses, click on "Send invite."
+This method allows you to invite your team members to your Insights Page and offers you options to permit them to be an admin of the page, edit or view the page, or remove them from it.
+
+1. Click the "Insights" tab at the top bar.
+2. Click the page that you want to share.
+3. Click the "Edit Page" button on the top right.
+4. Scroll down to the "Add Team Members" section.
+5. Enter the email address of the team member you want to invite.
+6. Click the "Send invite" button. <br/> Once you click the button, your team member's email will be listed at the bottom.
+7. To select and give permission to your team member, click the arrow button on the right side of their email.
 
 To learn more about inviting your team, check out [this tutorial video](https://www.youtube.com/watch?v=L5ztLP1O7BY).
