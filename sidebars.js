@@ -113,15 +113,7 @@ module.exports = {
           type: "category",
           label: "Technical Guide",
           collapsed: true,
-          
-          insight-page-update
-          items: [
-            "contributing/technical/setup-repo-with-git",
-            "contributing/technical/resolve-merge-conflicts",
-          ],
-      
           items: ["contributing/technical/setup-repo-with-git", "contributing/technical/resolve-merge-conflicts"],
-  
         },
       ],
     },
