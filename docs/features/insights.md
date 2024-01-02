@@ -30,7 +30,7 @@ To learn more about how to use Insights, check out our [Maintainers Guide](../ma
 
 After you've created your Insights Page, share it with your team.
 
-Sharing this page with teammates ensures that everyone is well-informed about the project's status and can collaborate more effectively. It fosters a collaborative environment where team members can align their efforts, make informed decisions, and collectively work toward the organization's success.
+Sharing this page with your team ensures that everyone is well-informed about the project's status and can collaborate more effectively. It fosters a collaborative environment where team members can align their efforts, make informed decisions, and collectively work toward the organization's success.
 
 ### How to Share Insights Page
 
