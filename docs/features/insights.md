@@ -26,7 +26,7 @@ The Insights feature is your one-stop solution for understanding the pulse of yo
 
 To learn more about how to use Insights, check out our [Maintainers Guide](../maintainers/maintainers-guide.md) and our [Understanding Insights Data](../maintainers/understanding-insights.md) pages.
 
-## Sharing Your Insights Page with Your Teammates
+## Sharing Your Insights Page with Your Team
 
 After you've created your Insights Page, share it with your team.
 
