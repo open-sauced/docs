@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.59.0](https://github.com/open-sauced/docs/compare/v1.58.0...v1.59.0) (2024-01-04)
+
+
+### Features
+
+* Adds info on adding teammates to the insights page ([#230](https://github.com/open-sauced/docs/issues/230)) ([d6b4681](https://github.com/open-sauced/docs/commit/d6b46819d72515b17222ad23c080578be308bf39))
+
 ## [1.58.0](https://github.com/open-sauced/docs/compare/v1.57.1...v1.58.0) (2023-12-14)
 
 
