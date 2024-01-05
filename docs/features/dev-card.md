@@ -22,4 +22,4 @@ Eager to get your Dev Card? Here's how you can get yours today:
 2. Navigate to your [profile](https://app.opensauced.pizza/user/{username}).
 3. Click the Dev Card icon on your profile image.
 
-![dev card icon on user profile](../../static/img/<file-name>)
+![dev card icon on user profile](../../static/img/get-dev-card.png)
