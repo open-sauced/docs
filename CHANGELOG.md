@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.60.0](https://github.com/open-sauced/docs/compare/v1.59.0...v1.60.0) (2024-01-05)
+
+
+### Features
+
+* Adds image and instructions on how to get DevCard page ([#234](https://github.com/open-sauced/docs/issues/234)) ([b358c27](https://github.com/open-sauced/docs/commit/b358c277eaf1de543f066e2143eae048344026f1))
+
 ## [1.59.0](https://github.com/open-sauced/docs/compare/v1.58.0...v1.59.0) (2024-01-04)
 
 
