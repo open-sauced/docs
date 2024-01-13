@@ -91,6 +91,12 @@ module.exports = {
                   type: "doc",
                   id: "tools/chrome-extension/viewing-insights-and-invitations",
                 },
+                {
+                  type: "file",
+                  label: "feature 7",
+                  type: "doc",
+                  id: "tools/chrome-extension/linedin-feature",
+                },
               ],
             },
           ],
