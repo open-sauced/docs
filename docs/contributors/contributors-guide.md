@@ -126,7 +126,7 @@ There are many things you can do with this feature, but here are some ideas to g
 
 - Learn about what other contributors are doing in open source.
 - Learn about new projects.
-- Make connections with other contributors who share your interests and come from other backgrounds.
+- Connect with other contributors who share your interests and come from other backgrounds.
 
 ### Creating a New List
 
