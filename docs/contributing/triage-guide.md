@@ -4,6 +4,16 @@ title: "Triage Guide"
 sidebar_label: "Triage Guide"
 keywords:
   - "triage guide"
+  - "Issue triage best practices"
+  - "GitHub triage process"
+  - "Pull request triage steps"
+  - "Triage workflow tutorial"
+  - "Effective issue management"
+  - "Open source contribution triage"
+  - "Triage for project maintainers"
+  - "Streamlining triage efforts"
+  - "Collaborative issue handling"
+  - "Contributor triage assistance"
 ---
 
 ## How to Join the Triage Team

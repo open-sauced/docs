@@ -4,6 +4,11 @@ title: "Organize and Monitor Your Contributors"
 sidebar_label: "Lists"
 keywords:
   - "lists"
+  - "contributors"
+  - "organize"
+  - "Monitor Contributors"
+  - "Organize Contributors"
+  - "Contributor Lists Management"
 ---
 
 The Lists feature enables you to categorize, monitor, and analyze different groups of contributors within open source projects. With the Lists feature, gain granular insights into each contributor's activity and contributions.

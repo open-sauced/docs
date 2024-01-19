@@ -4,6 +4,11 @@ title: "Join us for Hacktoberfest! 🎃"
 sidebar_label: "Join us for Hacktoberfest! 🎃"
 keywords:
   - "hacktoberfest"
+  - "Open source contributions for Hacktoberfest"
+  - "Hacktoberfest participation guide"
+  - "Open source collaboration in October"
+  - "Hacktoberfest beginner-friendly projects"
+  - "How to get involved in Hacktoberfest"
 ---
 
 At OpenSauced, we love open source just as much as pizza! That's why we are participating in Hacktoberfest! 🎃

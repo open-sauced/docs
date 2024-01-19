@@ -4,6 +4,9 @@ title: "Introduction to OpenSauced 🍕"
 sidebar_label: "Introduction to OpenSauced 🍕"
 keywords:
   - "introduction"
+  - "introduction to opensauced"
+  - "opensauced introduction"
+  - "get to know opensauced"
 ---
 
 ![Example banner](../static/img/what-is-opensauced-borderless.jpg)

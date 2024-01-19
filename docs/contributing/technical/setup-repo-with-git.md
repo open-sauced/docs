@@ -4,7 +4,17 @@ title: "Setting Up a Repository with Git and GitHub"
 sidebar_label: "Setting Up a Repository with Git and GitHub"
 keywords:
   - "setting up a repository with Git and GitHub"
+  - "working with git and github"
+  - "GitHub repository creation"
+  - "GitHub repository workflow"
+  - "GitHub repository initialization"
+  - "GitHub repository hosting"
+  - "GitHub repository collaboration"
+  - "GitHub repository version control"
+  - "GitHub repository deployment"
+  - "GitHub repository setup"  
 ---
+
 
 ## Using the GitHub CLI
 

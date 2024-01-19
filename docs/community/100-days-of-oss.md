@@ -4,6 +4,12 @@ title: "#100DaysOfOSS: Growing Skills and Real-World Experience"
 sidebar_label: "#100DaysOfOSS"
 keywords:
   - "100 days of open source"
+  - "100 days of OSS"
+  - "Open source contribution"
+  - "Open source software development"
+  - "Open source projects for beginners"
+  - "Open source development"
+
 ---
 
 Inspired by the great work of the [#100DaysOfCode challenge](https://www.100daysofcode.com/), we're starting #100DaysOfOSS.
