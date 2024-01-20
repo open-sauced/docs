@@ -4,6 +4,17 @@ title: "Introduction to the Pizza CLI"
 sidebar_label: "Pizza CLI"
 keywords:
   - "introduction to the pizza cli"
+  - "Pizza CLI Overview"
+  - "Command-Line Interface Introduction"
+  - "CLI Basics"
+  - "Pizza Command-Line Tool"
+  - "CLI Usage Guide"
+  - "Pizza CLI Commands"
+  - "Introduction to Command-Line Interfaces"
+  - "Command-Line Tool Features"
+  - "CLI for Pizza Enthusiasts"
+  - "Pizza Ordering CLI"
+  - "Getting Started with Pizza CLI"
 ---
 
 ## The OpenSauced Pizza CLI

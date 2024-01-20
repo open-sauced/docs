@@ -5,6 +5,14 @@ sidebar_label: "PR Description"
 keywords:
   - "ai"
   - "pr descriptions"
+  - "pull request overview"
+  - "pr details"
+  - "pr review description"
+  - "Description Guidelines"
+  - "Contribution etiquette"
+  - "Pull Request Insight"
+  - "PR Context"
+  - "pull request description"
 ---
 
 The OpenSauced Chrome extension will help you create a PR based on the configuration you have in the extension. It will enable you to create the summary based on either commit messages, the difference between the files, or both. You can even set the message's length and tone using the same settings.

@@ -5,6 +5,15 @@ sidebar_label: "Understanding Insights Data"
 keywords:
   - "maintainers"
   - "guides"
+  - "Insights Interpretation"
+  - "Analytical Understanding"
+  - "Insights Overview"
+  - "Maintainer Insights"
+  - "Guide to Data Understanding"
+  - "Data Interpretation Methods"
+  - "Insightful Data Examination"
+  - "Guide to Understanding Data"
+
 ---
 
 Once your repositories are connected, it's time to understand the data provided in your Insight Page. Understanding this data is key to effectively managing your projects and contributors.
