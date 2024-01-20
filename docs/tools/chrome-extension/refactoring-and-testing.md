@@ -7,7 +7,7 @@ keywords:
   - "testing"
   - "refactoring and testing best practices"
   - "how to refactor and test code"
-  - benefits of refactoring and testing"
+  - "benefits of refactoring and testing"
   - "refactoring and testing tools"
   - "refactoring and testing techniques"
   - "refactoring and testing examples"
