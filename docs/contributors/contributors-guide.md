@@ -48,7 +48,7 @@ Showing your contributions is one thing, but writing about them is crucial to at
 
 1. **Summarize the problem**: Briefly describe the problem the project is currently facing. This helps other contributors or recruiters gain a better understanding of the situation.
 2. **Describe the impact:** Briefly state how the problem negatively impacts the project. This would exemplify the issue's significance and your planning skills to recruiters and contributors who are looking for others to collaborate with.
-3. **Describe a possible solution**: Mention the solution that you are considering to use to solve the issue. This would help display your problem solving skills to recruiters and people who are looking for potential maintainers to aid them in sustaining their projects.
+3. **Describe a possible solution**: Mention the solution you consider using to solve the issue. This would help display your problem-solving skills to recruiters and people who are looking for potential maintainers to aid them in sustaining their projects.
 
 #### Highlighting PRs
 
