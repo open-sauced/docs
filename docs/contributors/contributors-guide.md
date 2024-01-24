@@ -42,7 +42,7 @@ Finally, it's time to add the details of your highlight. You can write the descr
 
 ### Writing an Effective Highlight
 
-Showing your contributions is one thing but writing about them is crucial to attract potential collaborators and recruiters. Here are some tips to help you write effective descriptions about your highlights:
+Showing your contributions is one thing, but writing about them is crucial to attracting potential collaborators and recruiters. Here are some tips to help you write effective descriptions of your highlights:
 
 #### Highlighting Issues
 
