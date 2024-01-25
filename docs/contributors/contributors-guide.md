@@ -15,6 +15,10 @@ OpenSauced is a platform dedicated to empowering you, the contributor, as you gr
 
 To get started, you will need to create an account on OpenSauced. You can do this by visiting the [app.opensauced.pizza](https://app.opensauced.pizza) and clicking the "Connect with GitHub" button. You will be prompted to sign in with your GitHub account. Once you have signed in, you will be redirected to the OpenSauced dashboard.
 
+## Creating Your Profile
+
+After creating your account, click on Settings and you'll see your Public Section. From there, you will be asked to add your name, bio, links to your social media accounts, and other forms of contact information. This will help others learn more about and how they can contact you if they want to follow your open source journey or contact for an interview.  Next is the Interests section. There, you click on the buttons of various programming languages and topics such as React, JavaScript, and AI. This section helps us recommend you open source projects that you might be interested. You also have the option to manage your email preferences. This helps you control how often you want to receive updates from OpenSauced.
+
 ## Highlights: Connecting and Recognizing Contributions
 
 Leveraging OpenSauced's [Highlights](../features/highlights.md) feature is a great way for you to showcase your valuable contributions to your favorite open source projects. You can curate and share your contribution achievements and milestones and bring visibility to your hard work.
