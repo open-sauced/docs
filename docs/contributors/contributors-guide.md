@@ -17,7 +17,8 @@ To get started, you will need to create an account on OpenSauced. You can do thi
 
 ## Creating Your Profile
 
-After creating your account, click on Settings and you'll see your Public Section. From there, you will be asked to add your name, bio, links to your social media accounts, and other forms of contact information. This will help others learn more about and how they can contact you if they want to follow your open source journey or contact for an interview.  Next is the Interests section. There, you click on the buttons of various programming languages and topics such as React, JavaScript, and AI. This section helps us recommend you open source projects that you might be interested. You also have the option to manage your email preferences. This helps you control how often you want to receive updates from OpenSauced.
+After creating your account, click on Settings and you'll see your Public Section. From there, you will be asked to add your name, bio, links to your social media accounts, and other forms of contact information. This will help others learn more about and how they can contact you if they want to follow your open source journey or contact for an interview.  Next is the Interests section. There, you click on the buttons of various programming languages and topics such as React, JavaScript, and AI. This section helps us recommend you open source projects that you might be interested. You also have the option to manage your email preferences. This helps you control how often you want to receive updates from OpenSauced. 
+Once you have completed your profile, you will see your contact information on the left. Next to it, you will see four tabs: Highlights, Contributions, Connections, and Recommendations.
 
 ## Highlights: Connecting and Recognizing Contributions
 
@@ -67,6 +68,7 @@ Showing your contributions is one thing, but writing about them is crucial to at
 3. **End with a call-to-action**: Encourage readers to read and engage with the post, whether by commenting or sharing it with others on social media.
 
 If you want more tips on creating effective highlights, check our blog post, ["Choose Your Own Adventure in Open Source: Paths to Success"](https://dev.to/opensauced/choose-your-own-adventure-in-open-source-paths-to-success-167p).
+
 
 ## Insights: Connecting Your Repositories
 
