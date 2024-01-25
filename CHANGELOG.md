@@ -5,6 +5,34 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.60.0](https://github.com/open-sauced/docs/compare/v1.59.0...v1.60.0) (2024-01-05)
+
+
+### Features
+
+* Adds image and instructions on how to get DevCard page ([#234](https://github.com/open-sauced/docs/issues/234)) ([b358c27](https://github.com/open-sauced/docs/commit/b358c277eaf1de543f066e2143eae048344026f1))
+
+## [1.59.0](https://github.com/open-sauced/docs/compare/v1.58.0...v1.59.0) (2024-01-04)
+
+
+### Features
+
+* Adds info on adding teammates to the insights page ([#230](https://github.com/open-sauced/docs/issues/230)) ([d6b4681](https://github.com/open-sauced/docs/commit/d6b46819d72515b17222ad23c080578be308bf39))
+
+## [1.58.0](https://github.com/open-sauced/docs/compare/v1.57.1...v1.58.0) (2023-12-14)
+
+
+### Documentation
+
+* Reorganize Subsections in the Intro to Contributing ([#233](https://github.com/open-sauced/docs/issues/233)) ([935e09a](https://github.com/open-sauced/docs/commit/935e09a9ee0f82bc888187a1a35684e68ec72fa1))
+
+### [1.57.1](https://github.com/open-sauced/docs/compare/v1.57.0...v1.57.1) (2023-12-11)
+
+
+### Bug Fixes
+
+* simplified the merge conflicts section ([#232](https://github.com/open-sauced/docs/issues/232)) ([6ce00fa](https://github.com/open-sauced/docs/commit/6ce00fadc0ec9c219242a40c791ad3593c9c01d9))
+
 ## [1.57.0](https://github.com/open-sauced/docs/compare/v1.56.0...v1.57.0) (2023-12-10)
 
 
