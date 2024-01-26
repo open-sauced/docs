@@ -5,6 +5,11 @@ sidebar_label: "Maintainers Guide to OpenSauced"
 keywords:
   - "maintainers"
   - "guides"
+  - "open source maintainers guide" 
+  - "open source maintainer"
+  - "open-source project management"
+  - "community management in open-source" 
+  - "Maintainers Guide to OpenSauced"
 ---
 
 ## Introduction to OpenSauced for Maintainers

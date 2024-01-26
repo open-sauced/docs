@@ -5,6 +5,13 @@ sidebar_label: "Insights and Invitations"
 keywords:
   - "github"
   - "insights and invitations"
+  - "github insights and invitations"
+  - "how to view insights and invitations on github"
+  - "github insights dashboard"
+  - "github invitations management"
+  - "github insights and invitations tutorial"
+  - "github insights and invitations best practices"
+  - "github insights and invitations examples"
 ---
 
 View stats about open issues, PRs made, average PRs velocity, and contributed repos that are in the OpenSauced database. This page can be found by clicking the profile picture at the top left of the extension.
