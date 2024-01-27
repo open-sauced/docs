@@ -18,7 +18,15 @@ To get started, you will need to create an account on OpenSauced. You can do thi
 ## Creating Your Profile
 
 After creating your account, click on Settings and you'll see your Public Section. From there, you will be asked to add your name, bio, links to your social media accounts, and other forms of contact information. This will help others learn more about and how they can contact you if they want to follow your open source journey or contact for an interview.  Next is the Interests section. There, you click on the buttons of various programming languages and topics such as React, JavaScript, and AI. This section helps us recommend you open source projects that you might be interested. You also have the option to manage your email preferences. This helps you control how often you want to receive updates from OpenSauced. 
-Once you have completed your profile, you will see your contact information on the left. Next to it, you will see four tabs: Highlights, Contributions, Connections, and Recommendations.
+
+## Explore Tab: Showcasing and Finding Projects for contributions
+
+Once you have completed your profile, you will see your contact information on the left. Next to it, you will see the Highlights section, which you can learn more about [here](../contributors-guide.md#highlights:connecting-and-recognizing-contributions), and then the three other tabs: 
+- Contributions 
+- Connections  
+- Recommendations
+
+In the Contributions tab, you see a graph that shows the amount of Pull Requests you have opened, [the velocity of your Pull Requests](../welcome/glossary.md#pr-velocity), and the amount of repositories that you have contributed to. Underneath the graph, there is a "Latest PRs" chart, which shows a list of current and recent Pull Requests. This tab is helpful if you want to set goals for doing a certain amount of contributions for a project or have contributions that you think will be good as a highlight.  The Connections tab shows a list of people that you have invited to OpenSauced, which can be a great tool for networking. In the Recommendations tab, you will see a list of open source projects that are chosen based the programming languages you picked in the Interests section of your profile. This is a great tool if you're looking for other projects to contribute to and not want to do a deep search.
 
 ## Highlights: Connecting and Recognizing Contributions
 
