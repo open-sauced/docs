@@ -71,7 +71,7 @@ Showing your contributions is one thing, but writing about them is crucial to at
 
 #### Highlighting Dev.to Blog Posts
 
-1. **Describe the topic**: Begin with an interesting summary of your blog post, helping your peers and recruiters understand what you've written.
+1. **Describe the topic**: Begin with an interesting blog post summary to help your peers and potential recruiters understand your writing.
 2. **Discuss the inspiration**: Explain why this blog post is created. Is it to guide others on how to improve their coding skills, raise awareness about an issue in the tech community, or display your progress in learning a new programming language?
 3. **End with a call-to-action**: Encourage readers to read and engage with the post, whether by commenting or sharing it with others on social media.
 
