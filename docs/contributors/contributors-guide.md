@@ -66,7 +66,7 @@ Showing your contributions is one thing, but writing about them is crucial to at
 #### Highlighting PRs
 
 1. **Describe the problem**: Start with a clear summary of the problem that your PR addresses. This could be a bug, code needing to be more accessible, or enhancing a feature.
-2. **Highlight your solution and its impact**: Explain the changes you made and how they solve the problem and effect the project. For instance, adding an AI summarizer to the project's Chrome Extension makes it easier for people to quickly summarize their content. This can help show recruiters that you bring results.
+2. **Highlight your solution and its impact**: Explain your changes and how they solve the problem and affect the project. For instance, adding an AI summarizer to the project's Chrome Extension makes it easier for people to summarize their content quickly. This can help show recruiters that you bring results.
 3. **Reflect on your experience**: Mention what you learned from working on the PR. For example, how to import images on with React.
 
 #### Highlighting Dev.to Blog Posts
