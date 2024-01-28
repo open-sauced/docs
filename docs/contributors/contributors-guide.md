@@ -75,7 +75,7 @@ Showing your contributions is one thing, but writing about them is crucial to at
 2. **Discuss the inspiration**: Explain why you wrote this blog post. Is it to guide others on improving their coding skills, raise awareness about an issue in the tech community, or display your progress in learning a new programming language?
 3. **End with a call-to-action**: Encourage readers to read and engage with the post, whether by commenting or sharing it with others on social media.
 
-If you want more tips on creating effective highlights, check our blog post, ["Choose Your Own Adventure in Open Source: Paths to Success"](https://dev.to/opensauced/choose-your-own-adventure-in-open-source-paths-to-success-167p).
+For more tips on creating effective highlights, check our blog post, "[Choose Your Own Adventure in Open Source: Paths to Success](https://dev.to/opensauced/choose-your-own-adventure-in-open-source-paths-to-success-167p)".
 
 
 ## Insights: Connecting Your Repositories
