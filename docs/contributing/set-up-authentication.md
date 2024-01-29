@@ -4,6 +4,15 @@ title: "Set Up Authentication"
 sidebar_label: "Set Up Authentication"
 keywords:
   - "set up authentication"
+  - "Authentication setup guide"
+  - "Setting up secure login"
+  - "User authentication configuration"
+  - "Authentication system setup"
+  - "Authentication implementation steps"
+  - "Authentication setup tutorial"
+  - "Setting up user authorization"
+  - "Step-by-step authentication setup"
+  - "Authentication best practices"
 ---
 
 You need to obtain an authentication token to interact with the OpenSauced public API as an authenticated user.

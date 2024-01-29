@@ -4,6 +4,16 @@ title: "Grow Your Network with Our Connections Feature!"
 sidebar_label: "Connections"
 keywords:
   - "connections"
+  - "Network connections"
+  - "Professional connections"
+  - "Building connections"
+  - "Online connections"
+  - "Networking opportunities"
+  - "tech connections"
+  - "grow newtwork"
+  - "grow connection"
+  - "Community connections"
+
 ---
 
 ## What are Connections?

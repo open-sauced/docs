@@ -4,6 +4,16 @@ title: "Introduction to Contributing"
 sidebar_label: "Introduction to Contributing"
 keywords:
   - "introduction to contributing"
+  - "Getting started with contributions"
+  - "New contributor guide"
+  - "How to contribute effectively"
+  - "Contribution essentials"
+  - "Open source contribution guide"
+  - "Making your first contribution"
+  - "Beginner-friendly contributions"
+  - "Contributing to open source projects"
+  - "Starting your contribution journey"
+  -  "First-time contributor tips"
 ---
 
 Contributions are always welcome, no matter how large or small. Before contributing,
@@ -20,7 +30,7 @@ please read the [code of conduct](./code-of-conduct.md) and follow the direction
 
 If you wish to work on an open issue, please comment on the issue with `.take`, and it will be assigned to you. If an issue is not assigned, it is assumed to be available for anyone to work on. Please assign yourself to an issue before working on it to avoid conflicts.
 
-If you contribute to the project for the first time, you can search for issues with `good first issue` or `bug` labels in the repository.
+If you contribute to the project for the first time, you can search for issues with `good first issue` or `bug` labels in the repository. Please only self-assign a `good first issue` one time.
 
 In case you get stuck, feel free to ask for help in the [Discord](https://discord.gg/U2peSNf23P) server or [GitHub Discussions](https://github.com/orgs/open-sauced/discussions).
 
@@ -57,6 +67,9 @@ See [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for m
    - The title must begin with "feat:", "fix:", or anything related to your changes. <br /> **Tips**: You can follow your chosen option when [committing](#commits) your changes.
 
    - Unsolicited code is welcomed, but an issue is required to announce your intentions. <br /> **_PRs without a linked issue will be marked invalid and closed_**.
+  
+> [!IMPORTANT]  
+> Please do not DM Maintainers or contact them outside of GitHub if you want a PR Review. If you haven't received a review within a week, please tag them in the PR comments to ask for an estimated time of review.
 
 > _**Note for maintainers**: All PRs need a label to assist automation. See [this guide](./triage-guide.md#adding-issue-and-pr-labels) to determine which labels to use._
 

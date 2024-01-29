@@ -4,6 +4,11 @@ title: "OpenSauced Glossary"
 sidebar_label: "OpenSauced Glossary"
 keywords:
   - "glossary"
+  - "openSauced"
+  - "OpenSauced Glossary" 
+  - "Tech Glossary"
+  - "OpenSauced Glossary Guide" 
+  - "Open Source Project Glossary"
 ---
 
 Welcome to the glossary, where we define concepts used on our platform to help you get the most out of OpenSauced.

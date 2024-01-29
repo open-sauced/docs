@@ -4,6 +4,18 @@ title: "@open-sauced/conventional-commit"
 sidebar_label: "@open-sauced/conventional-commit"
 keywords:
   - "@open-sauced/conventional-commit"
+  - "commitizen conventional commit"
+  - "open source commit standards"
+  - "how to use @open-sauced/conventional-commit"
+  - "npm package for conventional commit"
+  - "open sauced commit guide"
+  - "conventional commit best practices"
+  - "Commit Message Standards"
+  - "Semantic Versioning"
+  - "Git Commit Conventions"
+  - "Standardized Commit Messages"
+  - "Version Control Best Practices"
+
 ---
 
 ## Description
