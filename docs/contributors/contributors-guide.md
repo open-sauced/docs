@@ -109,7 +109,7 @@ There are three tabs that provide you with more information on these repositorie
 
 #### Reports
 
-The Reports tab allows paid users to filter for more information about their repositories over the last 30 days and to generate a Downloadable CSV. Filters include: Top 100 Repos, Minimum 5 Contributors, Recent, Most Active, and Spammed. This can be helpful if you're a beginner contributor who is looking for mentors or someone who is looking for potential maintainers for your project.
+The Reports tab allows paid users to filter for more information about their repositories over the last 30 days and to generate a Downloadable CSV. Filters include: Top 100 Repos, Minimum 5 Contributors, Recent, Most Active, and Spammed. This can be helpful if you're a contributor who is looking for mentors, someone to collaborate with.
 
 #### Repositories
 
