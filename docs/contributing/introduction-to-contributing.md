@@ -67,6 +67,9 @@ See [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for m
    - The title must begin with "feat:", "fix:", or anything related to your changes. <br /> **Tips**: You can follow your chosen option when [committing](#commits) your changes.
 
    - Unsolicited code is welcomed, but an issue is required to announce your intentions. <br /> **_PRs without a linked issue will be marked invalid and closed_**.
+  
+> [!IMPORTANT]  
+> Please do not DM Maintainers or contact them outside of GitHub if you want a PR Review. If you haven't received a review within a week, please tag them in the PR comments to ask for an estimated time of review.
 
 > _**Note for maintainers**: All PRs need a label to assist automation. See [this guide](./triage-guide.md#adding-issue-and-pr-labels) to determine which labels to use._
 
