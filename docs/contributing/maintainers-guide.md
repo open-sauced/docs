@@ -6,7 +6,7 @@ keywords:
   - "maintainers guide"
   - "open source maintainers guide" 
   - "open source maintainer"
-  - "open-source project management"
+  - "open source project management"
   - "community management in open-source" 
 ---
 

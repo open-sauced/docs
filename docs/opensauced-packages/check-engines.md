@@ -3,7 +3,6 @@ id: check-engines
 title: "@open-sauced/check-engines"
 sidebar_label: "@open-sauced/check-engines"
 keywords:
-  - "@open-sauced/check-engines"
   - "open sauced check engines"
   - "npm install check engines"
   - "open source dependency verification"

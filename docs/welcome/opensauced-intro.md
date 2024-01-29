@@ -4,7 +4,6 @@ title: "What is OpenSauced?"
 sidebar_label: "What is OpenSauced?"
 keywords:
   - "opensauced"
-  - "open-sauced"
   - "what is opensauced?"
   - "get to know opensauced"
   ---
