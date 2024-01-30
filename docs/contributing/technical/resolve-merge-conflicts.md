@@ -4,7 +4,6 @@ title: "Resolve Merge Conflicts"
 sidebar_label: "Resolve Merge Conflicts"
 keywords:
   - "resolve merge conflicts"
-  - "merge-conflict"
   - "solve merge conflicts"
   - "Git merge conflict"
   - "Merge conflict resolution"

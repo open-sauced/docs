@@ -13,7 +13,7 @@ keywords:
   - "Beginner-friendly contributions"
   - "Contributing to open source projects"
   - "Starting your contribution journey"
-  -  "First-time contributor tips"
+  -  "First time contributor tips"
 ---
 
 Contributions are always welcome, no matter how large or small. Before contributing,

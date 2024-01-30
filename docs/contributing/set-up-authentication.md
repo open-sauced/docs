@@ -11,7 +11,6 @@ keywords:
   - "Authentication implementation steps"
   - "Authentication setup tutorial"
   - "Setting up user authorization"
-  - "Step-by-step authentication setup"
   - "Authentication best practices"
 ---
 

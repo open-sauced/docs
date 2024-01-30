@@ -3,7 +3,6 @@ id: conventional-commit
 title: "@open-sauced/conventional-commit"
 sidebar_label: "@open-sauced/conventional-commit"
 keywords:
-  - "@open-sauced/conventional-commit"
   - "commitizen conventional commit"
   - "open source commit standards"
   - "how to use @open-sauced/conventional-commit"
