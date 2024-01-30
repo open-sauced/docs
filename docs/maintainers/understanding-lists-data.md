@@ -10,7 +10,7 @@ keywords:
   - "Data Organization"
   - "Data Insight from Lists"
   - "List Visualization"
-  - "Data Representation in Lists
+  - "Data Representation in Lists"
   - "List Data Interpretation"
   - "Organizing Data in Lists"
 ---
