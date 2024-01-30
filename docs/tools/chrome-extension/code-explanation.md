@@ -6,7 +6,7 @@ keywords:
   - "ai"
   - "code explanations"
   - "Code Interpretation"
-  - "Programming Insights'
+  - "Programming Insights"
   - "Code Understanding"
   - "Code Walkthrough"
   - "Algorithm Explanation"
