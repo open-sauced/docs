@@ -4,9 +4,9 @@ title: "What is OpenSauced?"
 sidebar_label: "What is OpenSauced?"
 keywords:
   - "opensauced"
-  - "what is opensauced?"
+  - "what is opensauced"
   - "get to know opensauced"
-  ---
+---
 
 ## OpenSauced: Your Open Source Partner
 
