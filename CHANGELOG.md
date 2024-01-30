@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.62.0](https://github.com/open-sauced/docs/compare/v1.61.0...v1.62.0) (2024-01-30)
+
+
+### Features
+
+* Update API docs to v2 ([#239](https://github.com/open-sauced/docs/issues/239)) ([de93e7a](https://github.com/open-sauced/docs/commit/de93e7a940c62a2dfdce4d9fe8406117d5b46f57))
+
 ## [1.61.0](https://github.com/open-sauced/docs/compare/v1.60.0...v1.61.0) (2024-01-30)
 
 
