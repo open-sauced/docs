@@ -5,6 +5,25 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.62.0](https://github.com/open-sauced/docs/compare/v1.61.0...v1.62.0) (2024-01-30)
+
+
+### Features
+
+* Update API docs to v2 ([#239](https://github.com/open-sauced/docs/issues/239)) ([de93e7a](https://github.com/open-sauced/docs/commit/de93e7a940c62a2dfdce4d9fe8406117d5b46f57))
+
+## [1.61.0](https://github.com/open-sauced/docs/compare/v1.60.0...v1.61.0) (2024-01-30)
+
+
+### Features
+
+* update project documentation with SEO keywords ([#237](https://github.com/open-sauced/docs/issues/237)) ([664cc7f](https://github.com/open-sauced/docs/commit/664cc7f0edd23db9688bbc32044c00498e4e2581))
+
+
+### Bug Fixes
+
+* build error ([#240](https://github.com/open-sauced/docs/issues/240)) ([6f602a5](https://github.com/open-sauced/docs/commit/6f602a56ad2feff50b44ca816bbf59abf0b692b7))
+
 ## [1.60.0](https://github.com/open-sauced/docs/compare/v1.59.0...v1.60.0) (2024-01-05)
 
 

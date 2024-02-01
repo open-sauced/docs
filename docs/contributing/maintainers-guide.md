@@ -4,6 +4,10 @@ title: "OpenSauced Maintainers Guide"
 sidebar_label: "OpenSauced Maintainers Guide"
 keywords:
   - "maintainers guide"
+  - "open source maintainers guide" 
+  - "open source maintainer"
+  - "open source project management"
+  - "community management in open-source" 
 ---
 
 Welcome to the OpenSauced Maintainers Guide for contributors who are interested in being part of the maintainer team for OpenSauced repositories.

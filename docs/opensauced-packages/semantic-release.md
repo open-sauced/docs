@@ -3,7 +3,12 @@ id: semantic-release
 title: "@open-sauced/semantic-release-conventional-config"
 sidebar_label: "@open-sauced/semantic-release-conventional-config"
 keywords:
-  - "@open-sauced/semantic-release-conventional-config"
+  - "semantic release conventional config"
+  - "open sauced semantic release"
+  - "npm package for semantic release"
+  - "semantic release best practices"
+  - "semantic release shareable config"
+  - "semantic release plugins and presets"
 ---
 
 ## Description

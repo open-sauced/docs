@@ -4,6 +4,14 @@ title: "Set Up Authentication"
 sidebar_label: "Set Up Authentication"
 keywords:
   - "set up authentication"
+  - "Authentication setup guide"
+  - "Setting up secure login"
+  - "User authentication configuration"
+  - "Authentication system setup"
+  - "Authentication implementation steps"
+  - "Authentication setup tutorial"
+  - "Setting up user authorization"
+  - "Authentication best practices"
 ---
 
 You need to obtain an authentication token to interact with the OpenSauced public API as an authenticated user.
@@ -26,7 +34,7 @@ The following steps outline how to obtain an authentication token from the [hot.
 
    ```javascript
    const response = await fetch(
-     "https://api.opensauced.pizza/v1/auth/session",
+     "https://api.opensauced.pizza/v2/auth/session",
      {
        method: "GET",
        headers: {

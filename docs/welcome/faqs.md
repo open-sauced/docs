@@ -4,6 +4,9 @@ title: "Frequently Asked Questions"
 sidebar_label: "FAQs"
 keywords:
   - "faqs"
+  - "Frequently asked questions"
+  - "Popular FAQs guide"
+  - "most asked questions"
 ---
 
 ## Contributions

@@ -5,6 +5,17 @@ sidebar_label: "Highlight"
 keywords:
   - "highlights"
   - "posting"
+  - "Content Highlights"
+  - "Featured Content"
+  - "Noteworthy Points"
+  - "Key Takeaways"
+  - "Highlighted Information"
+  - "Standout Features"
+  - "Important Details"
+  - "Highlighted Sections"
+  - Posting Highlights"
+  - "Notable Content"
+  - "Highlighted Insights"
 ---
 
 You can access the post to highlight it from the popup window in the extension. When you clicked, it will automatically, populate the PR or issue title, here you can use our AI functions to get a summary of the highlight similar to the PR summary.

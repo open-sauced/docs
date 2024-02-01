@@ -4,6 +4,10 @@ title: "Welcome to the OpenSauced Community"
 sidebar_label: "Welcome to the Community"
 keywords:
   - "welcome to the community"
+  - "The community welcomes you"
+  - "Get involved in the community"
+  - "Join our community"
+  - "Greetings from the community"
 ---
 
 Welcome to the OpenSauced community! At OpenSauced, we strive to bring collaboration and inspiration to every open source contributor and help build a global community of open source developers, empowering you to grow, innovate, and achieve greatness in the open.
