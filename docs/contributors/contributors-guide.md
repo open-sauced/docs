@@ -37,6 +37,11 @@ On your profile, you will see the Highlights section, which you can learn more a
 
 ## Explore Tab: Showcasing and Finding Projects for contributions
 
+If you're looking for a new open source project to contribute to or you want to explore repositories for potential job opportunites, the Explore tab is a great place to start. Here, you can find a list of open source projects and filter them by language, top repos, recent, most active and more.
+
+Once you've selected your filters, you'll be able to see the contributors, spam, and activity level of the repository. Understanding the activity level and PR velocity of a repository can help you determine if it's a good fit for you to contribute to and what to expect when you submit a PR.
+
+For example, if you wanted to look for a JavaScript project to contribute to, you would select "JavaScript" from the language dropdown and "Most Active" from the filter dropdown. This would show you the most active JavaScript projects on GitHub.
 
 ## Highlights: Connecting and Recognizing Contributions
 
