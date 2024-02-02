@@ -87,6 +87,10 @@ Below are the circumstances when you can close pull requests:
 - Pull requests for issues that are not assigned to the contributors.
 - Stale pull requests.
 
+## OpenSauced Community Maintainers
+
+See the [@open-sauced/community](https://github.com/orgs/open-sauced/teams/community) team.
+
 ## OpenSauced Community Repositories
 
 |     | **Repository Name**                                       |
@@ -94,12 +98,3 @@ Below are the circumstances when you can close pull requests:
 | 1.  | [guestbook](https://github.com/open-sauced/guestbook)     |
 | 2.  | [pizza-verse](https://github.com/open-sauced/pizza-verse) |
 | 3.  | [intro](https://github.com/open-sauced/intro)             |
-
-## OpenSauced Community Maintainers
-
-| **Name**                   | **GitHub Handle **     |
-| :------------------------- | :--------------------- |
-| Community Maintainers Team | @open-sauced/community |
-| BekahHW                    | @BekahHW               |
-| Ayu Adiati                 | @adiati98              |
-| Christine Belzie           | @CBID2                 |
