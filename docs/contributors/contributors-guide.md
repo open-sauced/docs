@@ -20,7 +20,9 @@ To get started, you will need to create an account on OpenSauced. You can do thi
 1. After creating your account, navigate to Settings.
 ![settings](../../static/img/settings.png)
 
-2. Once there, you will be asked to add your name, bio, links to your social media accounts, timezone, and other forms of contact information. This will help people learn more about and how they can contact you if they want to collaborate on contributions or interview you for a potential role.  Next is the Interests section. Here, you click on the buttons of various programming languages and topics such as React, JavaScript, and AI. This helps us recommend you open source projects that fit your interests. You also have the option to manage your email preferences. 
+2. Once there, you will be asked to add your name, bio, links to your social media accounts, timezone, and other forms of contact information. This will help people learn more about and how they can contact you if they want to collaborate on contributions or interview you for a potential role.  
+3. Add your interestes. In the Interests section, select the various programming languages and topics that you are interested in. This helps us recommend open source projects to you that fit your interests. 
+4. Manage your email preferences. 
 
 ## Explore Tab: Showcasing and Finding Projects for contributions
 
