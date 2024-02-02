@@ -24,14 +24,19 @@ To get started, you will need to create an account on OpenSauced. You can do thi
 3. Add your interestes. In the Interests section, select the various programming languages and topics that you are interested in. This helps us recommend open source projects to you that fit your interests. 
 4. Manage your email preferences. 
 
+## Your Profile
+
+Your profile is a great resource for showcasing your contributions and sharing with others the open source work you've done. 
+
+![your profile](../../static/img/profile.png)
+
+On your profile, you will see the Highlights section, which you can learn more about [here](../contributors-guide.md#highlights:connecting-and-recognizing-contributions), and three other tabs:
+- **Contributions**: This tab includes a graph that shows the amount of Pull Requests you have opened, [the velocity of your Pull Requests](../welcome/glossary.md#pr-velocity), and the amount of repositories that you have contributed to. Underneath the graph, there is a "Latest PRs" chart, which shows a list of current and recent Pull Requests. This tab is helpful if you want to showcase a steady and consistent open source contribution experience. 
+- **Connections**: for pro accounts, you can reach out to other contributors and maintainers to collaborate on projects or to learn from them.  
+- **Recommendations**: This tab includes a list of open source projects that are chosen based the programming languages you picked in the Interests section of your public profile. This is useful if you're looking for new projects to contribute to.
+
 ## Explore Tab: Showcasing and Finding Projects for contributions
 
-Once you have completed your profile, you will see your public profile on the left. Next to it, you will see the Highlights section, which you can learn more about [here](../contributors-guide.md#highlights:connecting-and-recognizing-contributions), and three other tabs:
-- Contributions 
-- Connections  
-- Recommendations
-
-In the Contributions tab, you see a graph that shows the amount of Pull Requests you have opened, [the velocity of your Pull Requests](../welcome/glossary.md#pr-velocity), and the amount of repositories that you have contributed to. Underneath the graph, there is a "Latest PRs" chart, which shows a list of current and recent Pull Requests. This tab is helpful if you want to set goals for doing a certain amount of contributions for a project or have contributions that you think will be good as a highlight.  The Connections tab shows a list of people that you have invited to OpenSauced, which can be a great tool for networking. In the Recommendations tab, you will see a list of open source projects that are chosen based the programming languages you picked in the Interests section of your public profile. This is useful if you're looking for other projects to contribute to without having to do a deep search.
 
 ## Highlights: Connecting and Recognizing Contributions
 
