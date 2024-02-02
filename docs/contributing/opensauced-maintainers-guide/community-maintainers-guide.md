@@ -21,7 +21,7 @@ These guidelines provide expectations and responsibilities for OpenSauced Commun
 - **Open communication**: Always communicate everything as much as you can openly on GitHub to keep the community in the loop.
 - **Courtesy**: Always use polite and clear words when asking for changes or giving feedback.
 - **Intention**: Always tell the reason behind closing an issue or pull request.
-- **Take the time needed**: Maintainers are human. It’s okay to take time to respond when you’re having a bad day to avoid a bitter tone.
+- **Take the time needed**: Maintainers are human. It’s okay to take time to respond.
 
 ## Issues Management
 
