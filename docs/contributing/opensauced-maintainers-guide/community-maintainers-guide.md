@@ -78,6 +78,15 @@ Good first issues mainly aim for complete beginners and someone new to OpenSauce
 - When there is a request for changes, the one who requested changes or the last one whose requests got resolved is the one who merges the pull request.
 - Refrain from resolving conversations started by other maintainers even if the contributor has verified. When it's necessary to merge the pull request fast, tag the maintainer and ask them to do a final check before merging.
 - Do not approve changes or dismiss reviews from a maintainer even if the contributor has completed the change requests. Re-request review instead.
+- If you have the time, it's great to encourage contributors with a positive message like these:
+
+  - "Thanks for contributing, [name of contributor]. Join our [Discord](https://discord.com/invite/U2peSNf23P) community for more updates on OpenSauced and to find more projects."
+
+  - A personal message acknowledging their impact.
+
+  - Send a GIF like this one:
+
+    ![git merge](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2JhdGI5czh4MDlyeWhlNXpicmdrbGZ2Znk0MnM4dnV0ZHMyamNkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFkiFMDg3iFoI/giphy.gif)
 
 ### Closing Pull Requests
 
