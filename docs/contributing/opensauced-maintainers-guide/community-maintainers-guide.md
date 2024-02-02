@@ -44,7 +44,7 @@ These guidelines provide expectations and responsibilities for OpenSauced Commun
 Good first issues mainly aim for complete beginners and someone new to OpenSauced projects. A good first issue has to have:
 
 - **Clear description**: Why do you want to have the change? What do you want to achieve with the change?
-- **Proposed solution**: How can this issue be solved? Provide a checklist and ask contributors to include them in their pull requests.
+- **Proposed solution**: How can this issue be solved?
 - **Files and code blocks**: Point to the file and the code blocks causing the issue. Read the instructions on the GitHub documentation to [create a permanent link to a code snippet](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet).
 
 **Tip**: Add checkboxes to the issue and ask the contributor to check them as they complete them to help create a clear path to completion.
