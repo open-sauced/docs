@@ -112,8 +112,14 @@ module.exports = {
           label: "OpenSauced Maintainers Guide",
           collapsed: true,
           items: [
-            "contributing/opensauced-maintainers-guide/maintainers-guide",
-            "contributing/opensauced-maintainers-guide/community-maintainers-guide",
+            {
+              type: "doc",
+              id: "contributing/opensauced-maintainers-guide/maintainers-guide",
+            },
+            {
+              type: "doc",
+              id: "contributing/opensauced-maintainers-guide/community-maintainers-guide",
+            },
           ],
         },
         "contributing/set-up-authentication",
