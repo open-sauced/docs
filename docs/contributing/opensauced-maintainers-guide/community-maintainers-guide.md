@@ -52,7 +52,7 @@ Good first issues mainly aim for complete beginners and someone new to OpenSauce
 ### Assigning Issues
 
 - The `good first issue` can only be assigned **once per contributor**. <br /> Respond with something like, "Hey {username}, we appreciate all the contributions lately! We'd love to give someone new a chance to take on this good first issue, but keep checking back as we post new issues frequently."
-- Issues outside the `good first issue` can be assigned **max. 2 times per contributor** at a time. <br /> We love contributions. But we want to equip contributors to succeed by giving them time to complete issues. Through experience, we've found that two issues at a time allows them to focus on completing the issue and supports maintainers by not having issues open for long periods.
+- Issues outside the `good first issue` can be assigned **max. 2 issues per contributor at a time**. <br /> We love contributions. But we want to equip contributors to succeed by giving them time to complete issues. Through experience, we've found that two issues at a time allows them to focus on completing the issue and supports maintainers by not having issues open for long periods.
 
 ## Pull Request Management
 
