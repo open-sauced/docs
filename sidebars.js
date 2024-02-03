@@ -109,7 +109,7 @@ module.exports = {
         "contributing/triage-guide",
         {
           type: "category",
-          label: "OpenSauced Maintainers Guide",
+          label: "OpenSauced Maintainers Guides",
           collapsed: true,
           items: [
             {
