@@ -32,7 +32,7 @@ Your responsibilities may include:
 
 - Reviewing and merging pull requests (PRs).
 - Providing comments and responses on PRs, issues, discussions, and Discord messages.
-- [Triage issues](../contributing/triage-guide.md#triage-process) and bug reports.
+- [Triage issues](../triage-guide.md/#triage-process) and bug reports.
 - Maintaining project documentation.
 - Collaborating with the community.
 
@@ -40,13 +40,13 @@ Your responsibilities may include:
 
 As a maintainer, you must:
 
-- adhere to our [Code of Conduct](../contributing/code-of-conduct.md) and be an example for treating contributors with respect,
+- adhere to our [Code of Conduct](../code-of-conduct.md) and be an example for treating contributors with respect,
 - communicate with the other maintainers in a timely and reasonable manner,
 - understand and adhere to project standards.
 
 ## Committing and Merging Changes
 
-1. For commit and pull request standards, please refer to the [introduction to contributing](../contributing/introduction-to-contributing.md).
+1. For commit and pull request standards, please refer to the [introduction to contributing](../introduction-to-contributing.md).
 2. Before merging in changes, always run the project locally if UI changes were made.
 3. **Squash and merge commits** when you merge in a PR.
 
