@@ -21,12 +21,12 @@ To get started, you will need to create an account on OpenSauced. You can do thi
 ![settings](../../static/img/settings.png)
 
 2. Once there, you will be asked to add your name, bio, links to your social media accounts, timezone, and other forms of contact information. This will help people learn more about and how they can contact you if they want to collaborate on contributions or interview you for a potential role.  
-3. Add your interestes. In the Interests section, select the various programming languages and topics that you are interested in. This helps us recommend open source projects to you that fit your interests. 
-4. Manage your email preferences. 
+3. Add your interests: In the Interests section, select the various programming languages and topics that you are interested in. This helps us recommend open source projects to you that fit your interests. 
+4. Manage your email preferences: In this section, there are options to make your email public, receive product updates, and connection requests. What ever choice you pick, you have the power to control your OpenSauced experience.
 
 ## Your Profile
 
-Your profile is a great resource for showcasing your contributions and sharing with others the open source work you've done. 
+Your profile is a great resource for showcasing your contributions and sharing with others the open source work you've done.
 
 ![your profile](../../static/img/profile.png)
 
@@ -37,7 +37,7 @@ On your profile, you will see the Highlights section, which you can learn more a
 
 ## Explore Tab: Showcasing and Finding Projects for contributions
 
-If you're looking for a new open source project to contribute to or you want to explore repositories for potential job opportunites, the Explore tab is a great place to start. Here, you can find a list of open source projects and filter them by language, top repos, recent, most active and more.
+If you're looking for a new open source project to contribute to or you want to find repositories for potential job opportunites, the Explore tab is a great place to start. Here, you can find a list of open source projects and filter them by language, top repos, recent, most active and more.
 
 Once you've selected your filters, you'll be able to see the contributors, spam, and activity level of the repository. Understanding the activity level and PR velocity of a repository can help you determine if it's a good fit for you to contribute to and what to expect when you submit a PR.
 
