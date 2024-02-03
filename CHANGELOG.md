@@ -5,6 +5,18 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.63.0](https://github.com/open-sauced/docs/compare/v1.62.0...v1.63.0) (2024-02-03)
+
+
+### Bug Fixes
+
+* Revert "docs: add Community Maintainers Guidelines" ([#244](https://github.com/open-sauced/docs/issues/244)) ([21c3fcf](https://github.com/open-sauced/docs/commit/21c3fcfcc754bef8e7a6bdf5dffc474ce0b7f0bc)), closes [#243](https://github.com/open-sauced/docs/issues/243)
+
+
+### Documentation
+
+* add Community Maintainers Guidelines ([#243](https://github.com/open-sauced/docs/issues/243)) ([67f3118](https://github.com/open-sauced/docs/commit/67f3118e918a3d1483be9852b78537ba783ceba6))
+
 ## [1.62.0](https://github.com/open-sauced/docs/compare/v1.61.0...v1.62.0) (2024-01-30)
 
 
