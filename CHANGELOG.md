@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.63.2](https://github.com/open-sauced/docs/compare/v1.63.1...v1.63.2) (2024-02-05)
+
+
+### Bug Fixes
+
+* failed build from "OpenSauced Maintainers Guides" ([#247](https://github.com/open-sauced/docs/issues/247)) ([bec1ab7](https://github.com/open-sauced/docs/commit/bec1ab7f1bc336e29138ee2b1d264dd7e6e41e97))
+
 ### [1.63.1](https://github.com/open-sauced/docs/compare/v1.63.0...v1.63.1) (2024-02-05)
 
 
