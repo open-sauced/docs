@@ -32,7 +32,7 @@ Your responsibilities may include:
 
 - Reviewing and merging pull requests (PRs).
 - Providing comments and responses on PRs, issues, discussions, and Discord messages.
-- [Triage issues](../triage-guide.md/#triage-process) and bug reports.
+- [Triage issues](../triage-guide.md#triage-process) and bug reports.
 - Maintaining project documentation.
 - Collaborating with the community.
 

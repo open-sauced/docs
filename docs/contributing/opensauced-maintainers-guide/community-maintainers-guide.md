@@ -27,7 +27,7 @@ These guidelines provide expectations and responsibilities for OpenSauced Commun
 
 ### Triaging Issues
 
-- Label issues to classify them. Refer to the "[Adding Issue and PR Labels](../triage-guide.md/#adding-issue-and-pr-labels)" section on the OpenSauced docs.
+- Label issues to classify them. Refer to the "[Adding Issue and PR Labels](../triage-guide.md#adding-issue-and-pr-labels)" section on the OpenSauced docs.
 - If a feature request needs to be more convincing, ask contributors to convince you why OpenSauced wants to enhance the project with the feature.
 - When unsure whether to go on or close the issue, seek the opinions of other maintainers by tagging them in the comment.
 
