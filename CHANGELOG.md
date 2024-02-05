@@ -5,6 +5,14 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.63.1](https://github.com/open-sauced/docs/compare/v1.63.0...v1.63.1) (2024-02-05)
+
+
+### Bug Fixes
+
+* items array in OpenSauced Maintainers Guides sidebar ([#245](https://github.com/open-sauced/docs/issues/245)) ([aa0f249](https://github.com/open-sauced/docs/commit/aa0f2495a24ba12710e860033b32cdc1713c4882))
+* Revert "fix: items array in OpenSauced Maintainers Guides sidebar" ([#246](https://github.com/open-sauced/docs/issues/246)) ([bd9dfd1](https://github.com/open-sauced/docs/commit/bd9dfd14cda5cab91beb928860b123d48196026a)), closes [#245](https://github.com/open-sauced/docs/issues/245)
+
 ## [1.63.0](https://github.com/open-sauced/docs/compare/v1.62.0...v1.63.0) (2024-02-03)
 
 
