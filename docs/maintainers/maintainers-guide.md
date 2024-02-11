@@ -7,8 +7,6 @@ keywords:
   - "guides"
   - "open source maintainers guide" 
   - "open source maintainer"
-  - "open-source project management"
-  - "community management in open-source" 
   - "Maintainers Guide to OpenSauced"
 ---
 

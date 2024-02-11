@@ -107,8 +107,16 @@ module.exports = {
         "contributing/introduction-to-contributing",
         "contributing/code-of-conduct",
         "contributing/triage-guide",
+        {
+          type: "category",
+          label: "OpenSauced Maintainers Guides",
+          collapsed: true,
+          items: [
+            "contributing/opensauced-maintainers-guide/maintainers-guide",
+            "contributing/opensauced-maintainers-guide/community-maintainers-guide"
+          ],
+        },
         "contributing/set-up-authentication",
-        "contributing/maintainers-guide",
         {
           type: "category",
           label: "Technical Guide",

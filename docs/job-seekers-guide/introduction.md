@@ -3,7 +3,6 @@ id: job-seekers-guide-introduction
 title: "Learn How to Land a Tech Job Using OpenSauced"
 sidebar_label: "Introduction"
 keywords:
-  - "job-seekers-guide-introduction"
   - "open source tech job guide"
   - "open sauced tech job tips"
   - "open source career development"

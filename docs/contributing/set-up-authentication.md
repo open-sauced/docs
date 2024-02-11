@@ -11,7 +11,6 @@ keywords:
   - "Authentication implementation steps"
   - "Authentication setup tutorial"
   - "Setting up user authorization"
-  - "Step-by-step authentication setup"
   - "Authentication best practices"
 ---
 
@@ -35,7 +34,7 @@ The following steps outline how to obtain an authentication token from the [hot.
 
    ```javascript
    const response = await fetch(
-     "https://api.opensauced.pizza/v1/auth/session",
+     "https://api.opensauced.pizza/v2/auth/session",
      {
        method: "GET",
        headers: {

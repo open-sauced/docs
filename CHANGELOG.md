@@ -5,6 +5,52 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.63.2](https://github.com/open-sauced/docs/compare/v1.63.1...v1.63.2) (2024-02-05)
+
+
+### Bug Fixes
+
+* failed build from "OpenSauced Maintainers Guides" ([#247](https://github.com/open-sauced/docs/issues/247)) ([bec1ab7](https://github.com/open-sauced/docs/commit/bec1ab7f1bc336e29138ee2b1d264dd7e6e41e97))
+
+### [1.63.1](https://github.com/open-sauced/docs/compare/v1.63.0...v1.63.1) (2024-02-05)
+
+
+### Bug Fixes
+
+* items array in OpenSauced Maintainers Guides sidebar ([#245](https://github.com/open-sauced/docs/issues/245)) ([aa0f249](https://github.com/open-sauced/docs/commit/aa0f2495a24ba12710e860033b32cdc1713c4882))
+* Revert "fix: items array in OpenSauced Maintainers Guides sidebar" ([#246](https://github.com/open-sauced/docs/issues/246)) ([bd9dfd1](https://github.com/open-sauced/docs/commit/bd9dfd14cda5cab91beb928860b123d48196026a)), closes [#245](https://github.com/open-sauced/docs/issues/245)
+
+## [1.63.0](https://github.com/open-sauced/docs/compare/v1.62.0...v1.63.0) (2024-02-03)
+
+
+### Bug Fixes
+
+* Revert "docs: add Community Maintainers Guidelines" ([#244](https://github.com/open-sauced/docs/issues/244)) ([21c3fcf](https://github.com/open-sauced/docs/commit/21c3fcfcc754bef8e7a6bdf5dffc474ce0b7f0bc)), closes [#243](https://github.com/open-sauced/docs/issues/243)
+
+
+### Documentation
+
+* add Community Maintainers Guidelines ([#243](https://github.com/open-sauced/docs/issues/243)) ([67f3118](https://github.com/open-sauced/docs/commit/67f3118e918a3d1483be9852b78537ba783ceba6))
+
+## [1.62.0](https://github.com/open-sauced/docs/compare/v1.61.0...v1.62.0) (2024-01-30)
+
+
+### Features
+
+* Update API docs to v2 ([#239](https://github.com/open-sauced/docs/issues/239)) ([de93e7a](https://github.com/open-sauced/docs/commit/de93e7a940c62a2dfdce4d9fe8406117d5b46f57))
+
+## [1.61.0](https://github.com/open-sauced/docs/compare/v1.60.0...v1.61.0) (2024-01-30)
+
+
+### Features
+
+* update project documentation with SEO keywords ([#237](https://github.com/open-sauced/docs/issues/237)) ([664cc7f](https://github.com/open-sauced/docs/commit/664cc7f0edd23db9688bbc32044c00498e4e2581))
+
+
+### Bug Fixes
+
+* build error ([#240](https://github.com/open-sauced/docs/issues/240)) ([6f602a5](https://github.com/open-sauced/docs/commit/6f602a56ad2feff50b44ca816bbf59abf0b692b7))
+
 ## [1.60.0](https://github.com/open-sauced/docs/compare/v1.59.0...v1.60.0) (2024-01-05)
 
 

@@ -3,7 +3,6 @@ id: how-to-translate-open-source-contributions-into-career-opportunities
 title: "How to Translate Open Source Contributions into Career Opportunities"
 sidebar_label: "How to Translate Open Source Contributions into Career Opportunities"
 keywords:
-  - "how-to-translate-open-source-contributions-into-career-opportunities"
   - "how to get a job with open source contributions"
   - "benefits of open source contributions for career development"
   - "open source projects to boost your resume"

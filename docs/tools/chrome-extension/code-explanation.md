@@ -6,25 +6,12 @@ keywords:
   - "ai"
   - "code explanations"
   - "Code Interpretation"
-  - "Programming Insights'
+  - "Programming Insights"
   - "Code Understanding"
   - "Code Walkthrough"
   - "Algorithm Explanation"
   - "Software Development Insights"
   - "AI in Code"
-  - "Code Analysis"
-  - "Code Breakdown"
-  - "Code Commentary"
-  - "Source Code Explanation"
-  - "Software Engineering Insights"
-  - "Code Decoding"
-  - "Programming Logic Explanation"
-  - "Code Comprehension"
-  - "Explanation of Algorithms"
-  - "AI in Programming"
-  - "Code Insight"
-  - "Software Design Explanation"
-  - "Code Flow Explanation"
 ---
 
 Generate an explanation for a block of code using the blue plus button that is displayed when hovering over a line. To select a block of code, hover over the starting line, click, and drag the blue plus button until you reach the desired line.
