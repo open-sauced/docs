@@ -51,8 +51,11 @@ After running this command, you can push your changes to the remote repo.
 See [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for more examples.
 
 ## Pull Requests (PR)
+---
 
-_We actively welcome your pull requests. However, you must ensure that **you are assigned** to an existing issue before working on changes, and you need to **link your work to the issue** in your PR form._
+We actively welcome your pull requests. However, you must ensure that **you are assigned** to an existing issue before working on changes, and you need to **link your work to the issue** in your PR form.
+
+---
 
 1. Fork the repo and create your branch from the default branch.
 2. Name your branch to something descriptive of your work, i.e., `add-navbar` or `fix/broken-links`.
