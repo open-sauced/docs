@@ -13,18 +13,22 @@ OpenSauced is a platform dedicated to empowering you, the contributor, in your o
 
 ## Getting Started
 
-To get started, you will need to create an account on OpenSauced. You can do this by visiting the [app.opensauced.pizza](https://app.opensauced.pizza) and clicking the "Connect with GitHub" button. You will be prompted to sign in with your GitHub account. Once you have signed in, you will be redirected to the OpenSauced dashboard.
+To get started, you will need to create an account on OpenSauced. You can do this by visiting the [app.opensauced.pizza](https://app.opensauced.pizza) and clicking the "Connect with GitHub" button. You will be prompted to sign in with your GitHub account. Once you have signed in, you will be redirected to the OpenSauced dashboard. A great place to get started is by creating your profile.
 
 ## Creating Your Profile
+
+Creating your profile is a great way to showcase your open source contributions and connect with other contributors and maintainers. Here are some steps to help you get started:
 
 1. After creating your account, navigate to Settings.
 ![settings](../../static/img/settings.png)
 
-2. Once there, you will be asked to add your name, bio, links to your social media accounts, timezone, and other forms of contact information. This will help people learn more about and how they can contact you if they want to collaborate on contributions or interview you for a potential role.  
+2. Once there, you will be asked to add your name, bio, links to your social media accounts, timezone, and other forms of contact information. 
+  
+  > **Tip:** Don't forget to add your personal site, GitHub Sponsors URL, and LinkedIn so people can connect with you and learn more about your work.
 3. Add your interestes. In the Interests section, select the various programming languages and topics that you are interested in. This helps us recommend open source projects to you that fit your interests. 
 4. Manage your email preferences. 
 
-## Your Profile
+### Your Profile
 
 Your profile is a great resource for showcasing your contributions and sharing with others the open source work you've done. 
 
