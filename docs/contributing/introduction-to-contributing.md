@@ -52,7 +52,7 @@ See [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for m
 
 ## Pull Requests (PR)
 
-**_We actively welcome your pull requests. However, you must ensure that **you are assigned** to an existing issue before working on changes, and you need to **link your work to the issue** in your PR form._**
+_We actively welcome your pull requests. However, you must ensure that **you are assigned** to an existing issue before working on changes, and you need to **link your work to the issue** in your PR form._
 
 1. Fork the repo and create your branch from the default branch.
 2. Name your branch to something descriptive of your work, i.e., `add-navbar` or `fix/broken-links`.
