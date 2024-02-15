@@ -17,15 +17,16 @@ To get started, you will need to create an account on OpenSauced. You can do thi
 
 ## Creating Your Profile
 
-Creating your profile is a great way to showcase your open source contributions and connect with other contributors and maintainers. Here are some steps to help you get started:
+Creating your profile is a great way to showcase your open source contributions, connect with other contributors and maintainers, and share during a job search. Here are some steps to help you get started:
 
 1. After creating your account, navigate to Settings.
 ![settings](../../static/img/settings.png)
 
 2. Once there, you will be asked to add your name, bio, links to your social media accounts, timezone, and other forms of contact information. 
-  
-  > **Tip:** Don't forget to add your personal site, GitHub Sponsors URL, and LinkedIn so people can connect with you and learn more about your work.
-3. Add your interestes. In the Interests section, select the various programming languages and topics that you are interested in. This helps us recommend open source projects to you that fit your interests. 
+  :::tip
+   Don't forget to add your personal site, GitHub Sponsors URL, and LinkedIn so people can connect with you and learn more about your work.
+  :::
+3. In the Interests section, select the various programming languages and topics that you are interested in. This helps us recommend open source projects that fit your interests. 
 4. Manage your email preferences. 
 
 ### Your Profile
@@ -39,23 +40,23 @@ On your profile, you will see the Highlights section, which you can learn more a
 - **Connections**: for pro accounts, you can reach out to other contributors and maintainers to collaborate on projects or to learn from them.  
 - **Recommendations**: This tab includes a list of open source projects that are chosen based the programming languages you picked in the Interests section of your public profile. This is useful if you're looking for new projects to contribute to.
 
-## Explore Tab: Showcasing and Finding Projects for contributions
+## Explore Tab: Finding Your Next Open Source Project
 
 If you're looking for a new open source project to contribute to or you want to explore repositories for potential job opportunites, the Explore tab is a great place to start. Here, you can find a list of open source projects and filter them by language, top repos, recent, most active and more.
 
 Once you've selected your filters, you'll be able to see the contributors, spam, and activity level of the repository. Understanding the activity level and PR velocity of a repository can help you determine if it's a good fit for you to contribute to and what to expect when you submit a PR.
 
-For example, if you wanted to look for a JavaScript project to contribute to, you would select "JavaScript" from the language dropdown and "Most Active" from the filter dropdown. This would show you the most active JavaScript projects on GitHub.
+For example, if you wanted to look for a JavaScript project to contribute to, you would select "JavaScript" from the language dropdown and "Most Active" from the filter dropdown to see the most active JavaScript projects on GitHub. If you want to keep track of the repositories you're interested in contributing to, you can add them to your [Insights page](../features/insights.md).
 
 ## Highlights: Connecting and Recognizing Contributions
 
-Leveraging OpenSauced's [Highlights](../features/highlights.md) feature is a great way for you to showcase your valuable contributions to your favorite open source projects. You can curate and share your contribution achievements and milestones and bring visibility to your hard work.
+Leveraging OpenSauced's [Highlights](../features/highlights.md) feature is a great way for you to showcase your valuable contributions to open source projects. You can curate and share your achievements and milestones and bring visibility to your hard work.
 
-Highlights feature allows to:
+The Highlights feature allows you to:
 
-- List issues that you raised to spot bugs, request a feature, or improve documentation.
+- Talk about issues that you raised.
 - Share Dev.to blog posts that you've written.
-- Display PRs that show your various tech skills.
+- Display PRs that showcase your contributions.
 
 ### Creating a New Highlight
 
@@ -74,27 +75,25 @@ Finally, it's time to add the details of your highlight. You can write the descr
 
 ### Writing an Effective Highlight
 
-Showing your contributions is one thing, but writing about them is crucial to attracting potential collaborators and recruiters. Here are some tips to help you write effective descriptions of your highlights:
+Sharing the story of your hard work is an opportunity to connect with the reader, which could include potential collaborators or recruiters. Here are some tips to help you write effective stories for your highlights:
 
 #### Highlighting Issues
 
-1. **Summarize the problem**: Briefly describe the problem the project is currently facing. This helps other contributors or recruiters gain a better understanding of the situation.
-2. **Describe the impact:** Briefly state how the problem negatively impacts the project. This would exemplify the issue's significance and your planning skills to recruiters and contributors who are looking for others to collaborate with.
-3. **Describe a possible solution**: Mention the solution you consider using to solve the issue. This would help display your problem-solving skills to recruiters and people who are looking for potential maintainers to aid them in sustaining their projects.
+1. **Share your motivation**: Briefly explain why you raised the issue. For example, "I'm passionate about improving accessibility because I believe everyone should have equal access to information."
+2. **Summarize the issue**: Briefly describe the issue you wrote so your readers have context. For example, "I raised an issue to add alt text to images in the project's 'About Us' page."
+3. **Describe the impact:** Briefly state how the resolution of the issue will improve the project. For example, "This will help people who use screen readers to understand the content of the images."
 
 #### Highlighting PRs
 
-1. **Describe the problem**: Start with a clear summary of the problem that your PR addresses. This could be a bug, code needing to be more accessible, or enhancing a feature.
-2. **Highlight your solution and its impact**: Explain your changes and how they solve the problem and affect the project. For instance, adding an AI summarizer to the project's Chrome Extension makes it easier for people to summarize their content quickly. This can help show recruiters that you bring results.
-3. **Reflect on your experience**: Mention what you learned from working on the PR. For example, how to import images with React.
+1. **Describe the PR**: Start with a clear summary of what your PR accomplishes. For example, "I added a new feature to the project's Chrome Extension that allows users to summarize content."
+2. **Highlight your solution and its impact**: Briefly describe the solution, any challenges you faced, or any part of the PR you're particularly proud of. For example, "Initially, I faced challenges with the API, but I was able to resolve them by using a different endpoint."
+3. **Reflect on your experience**: Mention what you learned from working on the PR. For example, "I learned a lot about the Chrome Extension API and how to use it to create new features."
 
 #### Highlighting Dev.to Blog Posts
 
 1. **Describe the topic**: Begin with an interesting blog post summary to help your peers and potential recruiters understand your writing.
 2. **Discuss the inspiration**: Explain why you wrote this blog post. Is it to guide others on improving their coding skills, raise awareness about an issue in the tech community, or display your progress in learning a new programming language?
 3. **End with a call-to-action**: Encourage readers to read and engage with the post, whether by commenting or sharing it with others on social media.
-
-For more tips on creating effective highlights, check our blog post, "[Choose Your Own Adventure in Open Source: Paths to Success](https://dev.to/opensauced/choose-your-own-adventure-in-open-source-paths-to-success-167p)".
 
 
 ## Insights: Connecting Your Repositories
