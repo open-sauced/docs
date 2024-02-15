@@ -95,7 +95,6 @@ Sharing the story of your hard work is an opportunity to connect with the reader
 2. **Discuss the inspiration**: Explain why you wrote this blog post. Is it to guide others on improving their coding skills, raise awareness about an issue in the tech community, or display your progress in learning a new programming language?
 3. **End with a call-to-action**: Encourage readers to read and engage with the post, whether by commenting or sharing it with others on social media.
 
-
 ## Insights: Connecting Your Repositories
 
 OpenSauced [Insights](../features/insights.md) allows you to see the impact of your contributions. You can use Insights Pages to track repositories' growth, analyze work, and connect with others.
