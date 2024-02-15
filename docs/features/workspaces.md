@@ -15,7 +15,7 @@ In the OpenSauced app, your work unfolds within a Workspace, a virtual environme
 
 ## Understanding Workspaces
 
-The OpenSauced app is now divided into two main sections: **Workspaces** and **Insights**. 
+You can navigate your workspaces from the sidebar. Each workspace has its own dashboard, which includes a list of repositories and contributors, as well as settings for the workspace.
 
 ### The Sidebar
 
