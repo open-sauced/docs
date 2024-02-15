@@ -9,7 +9,7 @@ keywords:
 
 ## Introduction to OpenSauced for Contributors
 
-OpenSauced is a platform dedicated to empowering you, the contributor, in your open source journey. With OpenSauced, you can use to find repositories to contribute to, track your contributions, gain insights into your favorite open source projects, and find new open source contributors to connect with. 
+OpenSauced is a platform dedicated to empowering you, the contributor, in your open source journey. With OpenSauced, you can use to find repositories to contribute to, track your contributions, gain insights into your favorite open source projects, and find new open source contributors to connect with.
 
 ## Getting Started
 
@@ -31,18 +31,19 @@ Creating your profile is a great way to showcase your open source contributions,
 
 ### Your Profile
 
-Your profile is a great resource for showcasing your contributions and sharing with others the open source work you've done. 
+Your profile is a great resource for showcasing your contributions and sharing with others the open source work you've done.
 
 ![your profile](../../static/img/profile.png)
 
 On your profile, you will see the Highlights section, which you can learn more about [here](../contributors-guide.md#highlights:connecting-and-recognizing-contributions), and three other tabs:
-- **Contributions**: This tab includes a graph that shows the amount of Pull Requests you have opened, [the velocity of your Pull Requests](../welcome/glossary.md#pr-velocity), and the amount of repositories that you have contributed to. Underneath the graph, there is a "Latest PRs" chart, which shows a list of current and recent Pull Requests. This tab is helpful if you want to showcase a steady and consistent open source contribution experience. 
+
+- **Contributions**: This tab includes a graph that shows the amount of Pull Requests you have opened, [the velocity of your Pull Requests](../welcome/glossary.md#pr-velocity), and the amount of repositories that you have contributed to. Underneath the graph, there is a "Latest PRs" chart, which shows a list of current and recent Pull Requests. This tab is helpful if you want to showcase a steady and consistent open source contribution experience.
 - **Connections**: for pro accounts, you can reach out to other contributors and maintainers to collaborate on projects or to learn from them.  
 - **Recommendations**: This tab includes a list of open source projects that are chosen based the programming languages you picked in the Interests section of your public profile. This is useful if you're looking for new projects to contribute to.
 
 ## Explore Tab: Finding Your Next Open Source Project
 
-If you're looking for a new open source project to contribute to or you want to explore repositories for potential job opportunites, the Explore tab is a great place to start. Here, you can find a list of open source projects and filter them by language, top repos, recent, most active and more.
+If you're looking for a new open source project to contribute to or you want to find repositories for potential job opportunites, the Explore tab is a great place to start. Here, you can find a list of open source projects and filter them by language, top repos, recent, most active and more.
 
 Once you've selected your filters, you'll be able to see the contributors, spam, and activity level of the repository. Understanding the activity level and PR velocity of a repository can help you determine if it's a good fit for you to contribute to and what to expect when you submit a PR.
 
@@ -126,7 +127,7 @@ There are three tabs that provide you with more information on these repositorie
 
 #### Reports
 
-The Reports tab allows paid users to filter for more information about their repositories over the last 30 days and to generate a downloadable CSV. These filters include: Top 100 Repos, Minimum 5 Contributors, Recent, Most Active, and Spammed. This can be helpful if you're a contributor who is looking for mentors, someone to collaborate with, and review a contributor's merged or closed pull requests to get an idea on what to do and avoid when contributing to the same project. It can also be useful for finding the top open source projects that suit your needs and interests.
+The Reports tab allows paid users to filter for more information about their repositories over the last 30 days and to generate a downloadable CSV. Filters include: Top 100 Repos, Minimum 5 Contributors, Recent, Most Active, and Spammed. This can be helpful if you're a contributor who is looking for mentors, someone to collaborate with, and trying to find new ways to contribute to specific projects.
 
 #### Repositories
 
