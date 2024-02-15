@@ -28,6 +28,7 @@ module.exports = {
         "features/dev-card",
         "features/lists",
         "features/connections",
+        "features/workspaces"
       ],
     },
     {
