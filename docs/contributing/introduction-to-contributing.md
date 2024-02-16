@@ -71,9 +71,10 @@ We actively welcome your pull requests. However, you must ensure that **you are 
 
    - Unsolicited code is welcomed, but an issue is required to announce your intentions.
 
-⚠️ **PRs will be marked as invalid and may be closed if:**
-   - the issue is not assigned to the contributor who opened the PR
-   - no issue is linked to the PR
+⚠️ **PRs will be marked as invalid and may be closed if:**  
+
+- the issue is not assigned to the contributor who opened the PR  
+- no issue is linked to the PR  
 
 > **IMPORTANT:**
 > Please do not DM Maintainers or contact them outside of GitHub if you want a PR Review. If you haven't received a review within a week, please tag them in the PR comments to ask for an estimated time of review.
