@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.64.0](https://github.com/open-sauced/docs/compare/v1.63.2...v1.64.0) (2024-02-16)
+
+
+### Documentation
+
+* Add information about PR with unassigned issue to the contributing guidelines ([#252](https://github.com/open-sauced/docs/issues/252)) ([4ccd758](https://github.com/open-sauced/docs/commit/4ccd758485474b44a793fbc9242b0161ae4eaf40)), closes [#251](https://github.com/open-sauced/docs/issues/251) [#251](https://github.com/open-sauced/docs/issues/251)
+
 ### [1.63.2](https://github.com/open-sauced/docs/compare/v1.63.1...v1.63.2) (2024-02-05)
 
 
