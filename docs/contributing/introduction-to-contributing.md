@@ -76,7 +76,7 @@ We actively welcome your pull requests. However, you must ensure that **you are 
 - the issue is not assigned to the contributor who opened the PR  
 - no issue is linked to the PR  
 
-> **IMPORTANT:**
+> **IMPORTANT:** <br />
 > Please do not DM Maintainers or contact them outside of GitHub if you want a PR Review. If you haven't received a review within a week, please tag them in the PR comments to ask for an estimated time of review.
 
 > _**Note for maintainers**: All PRs need a label to assist automation. See [this guide](./triage-guide.md#adding-issue-and-pr-labels) to determine which labels to use._
