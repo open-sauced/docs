@@ -135,7 +135,7 @@ There are four tabs that provide you with more information on these repositories
 
 #### Repositories
 
-If you're looking for an active project to contribute to, this tab can help you as it contains information such as Activity, PR Overview, PR Velocity, Spam, Contributors, and activity that has occurred over the last 30 days. This information is also a good way to connect with others on the project or where to find support. To learn more about these features, see [Understanding Insights Data](../maintainers/understanding-insights.md).
+If you're looking for an active project to contribute to, this tab can help you as it contains information such as Activity, PR Overview, PR Velocity, Spam, Contributors, and activity that has occurred over the last 30 days. This information is also a good way to connect with others on the project or where to find support. 
 
 ![repositories tab](../../static/img/repos-insights.png)
 
@@ -149,6 +149,7 @@ The Contributors tab allows you to view more detailed information about other co
 Want to learn more about your peers?  You can select them and add them to a list.
 :::
 
+To learn more about these features, see [Understanding Insights Data](../maintainers/understanding-insights.md).
 
 ## Lists: Connecting with Contributors
 
@@ -158,9 +159,10 @@ The [Lists](../features/lists.md) feature helps you connect with other contribut
 
 There are many things you can do with this feature, but here are some ideas to get you started:
 
-- **Tracking personal contributions**: Add repositories you contributed to and track your contributions.
-- Learn about what other contributors are doing in open source.
-- Connect with other contributors who share your interests and come from other backgrounds.
+- **Track personal contributions**: If you create a list of your personal contributions, you can track your contributions and see how you're doing over time, as well as get a breakdown of the type of contributions you're making, including commits, created PRs, reviewed PRs, and created issues.
+- **Learn about what other contributors are doing in open source**: You can learn where other contributors are contributing, what they're working on, and how active they are in the open source community.
+- **See who's using OpenSauced Highlights Feature**: You can see who's using the Highlights feature and go show them support by giving an emoji reaction.
+- **Track Contributors for Job Opportunities**: If you're looking for a job, you can track the activity of the contributors you're interested in working with. This can help you understand the activity level of the repositories and the types of contributions that are being made, and even identify which company you're contribute to.
 
 ### Creating a New List
 
@@ -178,20 +180,14 @@ Once you have created your list, you will be redirected to your List Page. Here,
 
 There are three tabs that provide you with more information on these repositories:
 
-### Overview
-
-The Overview tab gives you a high-level view of the contributors in your list, including the total number of commits in the last 30 days and the types of contributors on your list: Active, New, and Alumni. This can be helpful for finding people to collaborate with or individuals to learn from.
-
-### Activity
-
-The Activity tab gives you a graph view with more detailed information on each contributor, including the type of activity, repositories they've contributed to, and how they compare to each other.
-
-You can filter your list by All Contributors, Active Contributors, New Contributors, and Alumni Contributors. This could be useful if you're new to the open source community and looking for potential mentors or an experienced contributor who is looking for people to collaborate with.
-
-![list graph](../../static/img/list-graph.png)
-
-### Contributors
-
-The Contributors tab gives you the list of people that have contributed to other open source projects. It also includes information like activity level, last repository contributed to, the date of their last contribution, time zone, programming languages used, and the number of contributions.This can be helpful if you're looking for others to collaborate with.
+- **Overview**: The Overview tab gives you a high-level view of the contributors in your list, including the total number of commits in the last 30 days and the types of contributors on your list: Active, New, and Alumni. 
+- **Activity**: The Activity tab gives you a graph view with more detailed information on each contributor, including the type of activity, repositories they've contributed to, and how they compare to each other.
+- **Highlights**: The Highlights tab gives you a list of the highlights that the contributors in your list have created. This is a great way to see what other contributors are up to and to show them support.
 
 To learn more about these features, see [Understanding Lists Data](../maintainers/understanding-lists-data.md).
+
+
+## Conclusion
+
+OpenSauced is a platform that is dedicated to empowering you, the contributor, in your open source journey. With OpenSauced, you can use to find repositories to contribute to, track your contributions, gain insights into your favorite open source projects, and find new open source contributors to connect with. We hope that this guide has helped you get started with OpenSauced and that you're excited to start using the platform to connect with other contributors and maintainers, track your contributions, and find new open source projects to contribute to. If you have any questions or need help with anything, please don't hesitate to reach out to us. We're here to help you succeed in your open source journey.
+```
