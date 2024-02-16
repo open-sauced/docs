@@ -127,10 +127,10 @@ Once you have connected your repositories, you will be redirected to your Insigh
 
 There are four tabs that provide you with more information on these repositories:
 
-- Reports: The Reports tab allows paid users to filter for more information about their repositories over the last 30 days and to generate a downloadable CSV
-- Repositories: This tab contains information such as Activity, PR Overview, PR Velocity, Spam, Contributors, and activity that has occurred over the last 30 days.
-- Contributors: The Contributors tab allows you to view more detailed information about other contributors, including Activity, Repositories, the date of their last contribution, Time Zone, and the number of contributions.
-- Activity: The Activity tab gives you a graph view with more detailed information on each contributor when you click their image, including their latest PRs and repositories they've contributed to.
+- **Reports**: The Reports tab allows paid users to filter for more information about their repositories over the last 30 days and to generate a downloadable CSV
+- **Repositories**: This tab contains information such as Activity, PR Overview, PR Velocity, Spam, Contributors, and activity that has occurred over the last 30 days.
+- **Contributors**: The Contributors tab allows you to view more detailed information about other contributors, including Activity, Repositories, the date of their last contribution, Time Zone, and the number of contributions.
+- **Activity**: The Activity tab gives you a graph view with more detailed information on each contributor when you click their image, including their latest PRs and repositories they've contributed to.
 
 
 #### Repositories
