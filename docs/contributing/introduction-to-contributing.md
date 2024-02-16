@@ -51,8 +51,11 @@ After running this command, you can push your changes to the remote repo.
 See [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for more examples.
 
 ## Pull Requests (PR)
+---
 
-**_We actively welcome your pull requests. However, you must link your work to an existing issue._**
+We actively welcome your pull requests. However, you must ensure that **you are assigned** to an existing issue before working on changes, and you need to **link your work to the issue** in your PR form.
+
+---
 
 1. Fork the repo and create your branch from the default branch.
 2. Name your branch to something descriptive of your work, i.e., `add-navbar` or `fix/broken-links`.
@@ -66,9 +69,14 @@ See [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for m
 
    - The title must begin with "feat:", "fix:", or anything related to your changes. <br /> **Tips**: You can follow your chosen option when [committing](#commits) your changes.
 
-   - Unsolicited code is welcomed, but an issue is required to announce your intentions. <br /> **_PRs without a linked issue will be marked invalid and closed_**.
-  
-> [!IMPORTANT]  
+   - Unsolicited code is welcomed, but an issue is required to announce your intentions.
+
+⚠️ **PRs will be marked as invalid and may be closed if:**  
+
+- the issue is not assigned to the contributor who opened the PR  
+- no issue is linked to the PR  
+
+> **IMPORTANT:** <br />
 > Please do not DM Maintainers or contact them outside of GitHub if you want a PR Review. If you haven't received a review within a week, please tag them in the PR comments to ask for an estimated time of review.
 
 > _**Note for maintainers**: All PRs need a label to assist automation. See [this guide](./triage-guide.md#adding-issue-and-pr-labels) to determine which labels to use._
