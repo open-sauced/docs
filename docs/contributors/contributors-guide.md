@@ -186,8 +186,17 @@ There are three tabs that provide you with more information on these repositorie
 
 To learn more about these features, see [Understanding Lists Data](../maintainers/understanding-lists-data.md).
 
+## Takeaways
+
+- **Create Your Profile**: Creating your profile is a great way to display your open source contributions, connect with other contributors and maintainers, and share during a job search.
+- **Explore Tab**: The Explore tab is a great place to find new open source projects to contribute to.
+- **Highlights**: Leveraging OpenSauced's Highlights feature is a great way for you to showcase your valuable contributions to open source projects.
+- **Insights**: OpenSauced Insights allows you to track open source projects that you are interested in.
+- **Lists**: The Lists feature helps you understand other contributors or track your own work in open source.
+
 
 ## Conclusion
 
 OpenSauced is a platform that is dedicated to empowering you, the contributor, in your open source journey. With OpenSauced, you can use to find repositories to contribute to, track your contributions, gain insights into your favorite open source projects, and find new open source contributors to connect with. We hope that this guide has helped you get started with OpenSauced and that you're excited to start using the platform to connect with other contributors and maintainers, track your contributions, and find new open source projects to contribute to. If you have any questions or need help with anything, please don't hesitate to reach out to us. We're here to help you succeed in your open source journey.
-```
+
+
