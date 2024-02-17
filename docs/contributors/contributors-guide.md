@@ -195,6 +195,4 @@ To learn more about these features, see [Understanding Lists Data](../maintainer
 
 ## Conclusion
 
-OpenSauced is a platform dedicated to empowering you, the contributor, in your open source journey. With OpenSauced, you can find repositories to contribute to, track your contributions, gain insights into your favorite open source projects, and find new contributors to connect with.
-
 We hope this guide has helped you get started with OpenSauced and that you're excited to use the platform to connect with other contributors and maintainers, track your contributions, and find new open source projects to contribute to. If you have any questions or need help, please don't hesitate to reach out to us. We're here to help you succeed in your open source journey.
