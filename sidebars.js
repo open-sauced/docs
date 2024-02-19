@@ -42,6 +42,12 @@ module.exports = {
     },
     {
       type: "category",
+      label: "Contributors",
+      collapsed: false,
+      items: ["contributors/contributors-guide-to-open-sauced"],
+    },
+    {
+      type: "category",
       label: "Community",
       collapsed: false,
       items: ["community/welcome-to-the-community", "community/100-days-of-oss"],
