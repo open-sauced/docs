@@ -17,43 +17,39 @@ Monitor individual commit histories, track who is actively engaged, identify alu
 
 Contributors can use Lists feature to track their own activity, while maintainers can use the feature to manage the community.
 
-## Lists Features for Contributors and Maintainers
-_For Contributors_
-
-- **Track Your Impact**: Monitor your commits and pull requests (PRs) across diverse projects, gaining a clear picture of your contributions.
-
-- **Benchmark Performance**: Compare your activity to others based on metrics like commits, created/reviewed PRs, and issue creation/commenting.
-
-- **Identify Peers & Alumni**: See who's actively involved, discover new contributors, and reconnect with returning members.
-
-- **Dive Deeper into Projects**: Explore contributors' repositories and top programming languages, gaining valuable insights into project landscapes.
-
-- **Understand Time Zones**: Collaborate more effectively with awareness of contributor time zones for streamlined communication.
-
-_For Maintainers_
-
-- **Monitor Project Health**: Track individual commit histories and gain an overall view of contributor activity and engagement.
-
-- **Identify Key Players**: Easily recognize new contributors, active members, and alumni, enabling you to nurture a thriving community.
-
-- **Foster Collaboration**: Facilitate smoother collaboration by understanding contributor activity and preferred communication times.
-
-- **Analyze Trends & Impact**: Gain valuable insights into project trends and contributor performance through detailed metrics analysis.
-
-- **Optimize Resource Allocation**: Identify areas where resources are needed based on contributor activity and skills.
-
-
 ![lists-page](../../static/img/lists-page.svg)
 
 ## Why Create Lists for Contributors and Maintainers?
 
 Creating lists for both contributors and maintainers offers a wealth of benefits, enhancing collaboration and building a stronger open-source community. There are many reasons to create a lists, but here are some inspiration to get you started either as a contributor or a maintainer:
 
-- **Increased Transparency**: Lists promote open communication by providing clear insights into project activity and individual contributions.
+_For Maintainers_
 
-- **Enhanced Collaboration**: Understanding each other's needs and contributions fosters smoother and more effective collaboration.
+There are many reasons to create a list, but here's some inspiration to get you started:
 
-- **Stronger Community**: Recognizing and appreciating contributors builds a more engaged and vibrant community.
+- **Interacting contributors**: Keep tabs on contributors actively interacting with your repository.
+
+- **Organization's developers**: Monitor the contributions and performance of your internal team.
+
+- **VIP contributors**: Highlight and track at least five developers who are key maintainers or significant contributors.
+
+- **Sales leads**: Identify contributors whose engagement could potentially be turned into sales opportunities.
+
+- **Potential hires**: Observe contributors who exhibit skill and commitment, making them prime candidates for hiring.
+
+- **Alumni contributors**: Keep an eye on contributors who have decreased their engagement or left the project.
+
+_For Contributors_
+
+There are many things you can do with this feature, but here are some ideas to get you started:
+
+- **Track personal contributions**: If you create a list of your personal contributions, you can track them and see how you're doing over time, as well as get a breakdown of the type of contributions you're making, including commits, created PRs, reviewed PRs, and created issues.
+
+- **Learn about what other contributors are doing in open source**: You can learn where other contributors are contributing, what they're working on, and how active they are in the open source community.
+
+- **See who's using OpenSauced Highlights feature**: You can see who's using the Highlights feature and show them support by giving an emoji reaction.
+
+- **Track contributors for job opportunities**: If you're looking for a job, you can track the activity of the contributors you're interested in working with. This helps you understand the activity level of the repositories and the types of contributions being made, and you can even identify which company you want to contribute to.
 
 There are three ways to add a list:
 
@@ -92,6 +88,7 @@ The Overview tab gives you a high-level view of the contributors in your list, i
 ## Activity
 
 The Activity tab gives you a graph view with more detailed information on each contributor, including the type of activity, repositories they've contributed to, and how they compare to each other.
+There's also the Highlights tab that shows any Highlights on OpenSauced that have been made by the contributors on the list.
 
 You can filter your list by All Contributors, Active Contributors, New Contributors, and Alumni Contributors.
 
