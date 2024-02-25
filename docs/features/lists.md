@@ -19,13 +19,9 @@ Contributors can use Lists feature to track their own activity, while maintainer
 
 ![lists-page](../../static/img/lists-page.svg)
 
-## Why Create Lists for Contributors and Maintainers?
+## Lists for Maintainers
 
-Creating lists for both contributors and maintainers offers a wealth of benefits, enhancing collaboration and building a stronger open-source community. There are many reasons to create a lists, but here are some inspiration to get you started either as a contributor or a maintainer:
-
-_For Maintainers_
-
-There are many reasons to create a list, but here's some inspiration to get you started:
+Lists offer a variety of opportunities to track contributors for various reasons, including:
 
 - **Interacting contributors**: Keep tabs on contributors actively interacting with your repository.
 
@@ -33,15 +29,15 @@ There are many reasons to create a list, but here's some inspiration to get you 
 
 - **VIP contributors**: Highlight and track at least five developers who are key maintainers or significant contributors.
 
-- **Sales leads**: Identify contributors whose engagement could potentially be turned into sales opportunities.
+- **Your GitHub Teams**: Track the activity of your teams to identify if contributors are still active. For example, if you have members on your triage team, you can see their activity level on your repositories to determine if they're still active enough to participate in that role.
 
 - **Potential hires**: Observe contributors who exhibit skill and commitment, making them prime candidates for hiring.
 
 - **Alumni contributors**: Keep an eye on contributors who have decreased their engagement or left the project.
 
-_For Contributors_
+## Lists for Contributors
 
-There are many things you can do with this feature, but here are some ideas to get you started:
+Lists offer contributors a way to gain insight into the world of open source contributions, including:
 
 - **Track personal contributions**: If you create a list of your personal contributions, you can track them and see how you're doing over time, as well as get a breakdown of the type of contributions you're making, including commits, created PRs, reviewed PRs, and created issues.
 
@@ -88,7 +84,31 @@ The Overview tab gives you a high-level view of the contributors in your list, i
 ## Activity
 
 The Activity tab gives you a graph view with more detailed information on each contributor, including the type of activity, repositories they've contributed to, and how they compare to each other.
+
 There's also the Highlights tab that shows any Highlights on OpenSauced that have been made by the contributors on the list.
+
+## Highlight Your Open Source Contributions
+
+The Highlights feature is the place you can display your favorite open source contributions, share the story, and inspire others to join you in your open source journey. For maintainers, it's a great way to showcase your project and the issues that need support and attract new contributors.
+
+There are currently three types of highlights you can add to your profile:
+
+- Dev.to blog post
+- Pull request
+- Issue
+
+## How to Add a Highlight
+
+- Go to [OpenSauced's Highlights feed](https://app.opensauced.pizza/feed).
+- Click the "Post a highlight to show your work!" input.
+- Paste the URL to your blog post, pull request, or issue in the bottom input.
+- Either use our Auto-Summarize feature or write your own summary.
+
+![Walkthrough](https://docs.opensauced.pizza/assets/images/highlight-e3a2da2446fe91467a31d225755bf40a.gif)
+
+For more examples of highlights, go to the [OpenSauced Highlights feed](https://intro.opensauced.pizza/#/06-the-secret-sauce?id=effectively-highlight-your-contributions).
+
+
 
 You can filter your list by All Contributors, Active Contributors, New Contributors, and Alumni Contributors.
 
