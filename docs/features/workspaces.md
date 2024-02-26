@@ -57,6 +57,12 @@ Within the repositories dashboard, you can view the following metrics, which are
 
 To create a workspace, start by accessing the **Workspace switcher** in the sidebar. From there, you can create a new workspace or view an existing one.
 
+:::tip
+
+Whenever you select Home, you'll be taken to the last workspace you opened.
+
+:::
+
 ### How to Add Repositories to a Workspace
 
 If you're creating a new workspace, you'll have the option to add repositories at the time of creation.
@@ -68,3 +74,4 @@ Start by creating a Workspace name, and then click `Add repositories`. You'll ha
 3. **Import Repositories**: Paste a list of repositories to add to your workspace.
 
 Once your repositories are added, you'll be able to see them in your repository dashboard. You can also edit your workspace to add or remove repositories at any time.
+
