@@ -1,5 +1,5 @@
 ---
-id: Repository Insights
+id: repo-insights
 title: "Repository Insights into Open Source Projects"
 sidebar_label: "Repository Insights"
 keywords:
