@@ -18,4 +18,4 @@ Open Source provides you the opportunity to showcase your code, documentation, c
 
 OpenSauced can help you craft an open source profile that is attractive to hiring managers and recruiters and help you land that next role.
 
-In this guide, you will learn how to use OpenSauced features like your personal [Dev Card](../features/dev-card.md), [Highlights](../features/highlights.md), [Lists](../features/lists.md) and [Insights](../features/insights.md) to showcase your open source work and build connections to help you land a job.
+In this guide, you will learn how to use OpenSauced features like your personal [Dev Card](../features/dev-card.md), [Highlights](../features/highlights.md), [Lists](../features/lists.md) and [Insights](../features/repo-insights.md) to showcase your open source work and build connections to help you land a job.

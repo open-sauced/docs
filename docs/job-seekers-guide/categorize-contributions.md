@@ -122,7 +122,7 @@ Lists can also be used to track other people in your network to reach out to abo
 
 ### Using the Insights Feature to Track the Repositories You Contributed to
 
-The [Insights feature](../features/insights.md) is a comprehensive view of a project's health and individual contributions. You can use it to track the repositories you contributed to or to track repositories of open source companies that are hiring.
+The [Insights feature](../features/repo-insights.md) is a comprehensive view of a project's health and individual contributions. You can use it to track the repositories you contributed to or to track repositories of open source companies that are hiring.
 
 ![insight-pages-demo](../../static/gif/insight-page-demo.gif)
 
