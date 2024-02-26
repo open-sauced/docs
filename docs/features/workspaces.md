@@ -15,7 +15,9 @@ In the OpenSauced app, your work unfolds within a Workspace, a virtual environme
 
 ## Understanding Workspaces
 
-You can navigate your workspaces from the sidebar. Each workspace has its own dashboard, which includes a list of repositories and contributors, as well as settings for the workspace.
+You can navigate your workspaces from the sidebar. Each workspace has its own dashboard, which includes the repositories you're tracking in the workspace.
+
+By default, all workspaces are public. This means that anyone with the link to your workspace can view it. If you want to make your workspace private, you can upgrade your account to a paid plan.
 
 ### The Sidebar
 
@@ -38,11 +40,7 @@ The expandable sidebar includes:
 
 { ADD AN IMAGE HERE }
 
-In your workspace dashboards, you can create, view, and manage your workspaces. You'll notice three dashboards in your Workspaces: 
-
-- **Repositories**: This dashboard allows you to view and manage the repositories in this Workspace. 
-- **Contributors**: This dashboard is where you can view and manage the contributors in this Workspace.
-- **Settings**: This dashboard is where you can view and manage the settings in this Workspace, including adding repostories and contributors to your workspace and deleting the workspace.
+In your workspace dashboards, you can create, view, and manage your workspaces. 
 
 #### Repositories Dashboard
 
@@ -52,11 +50,8 @@ Within the repositories dashboard, you can view the following metrics, which are
 
 - **Pull Requests**: This includes the total Opened and Merged Pull Requests for the repositories included in your workspace, as well as the velocity of pull requestions being merged.
 - **Issues**: This includes the total Opened and Closed Issues for the repositories included in your workspace, as well as the velocity of issues being closed.
-- **Engagement**: This includes the total stars, forks, and health for the repositories included in your workspace, as well as the health of these metrics.
+- **Engagement**: This includes the total stars, forks, and activity ratio for the repositories included in your workspace.
 
-#### Contributors Dashboard
-
-{ ADD AN IMAGE HERE }
 
 ## How to Create or Access a Workspace
 
