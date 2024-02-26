@@ -5,6 +5,20 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.65.0](https://github.com/open-sauced/docs/compare/v1.64.0...v1.65.0) (2024-02-19)
+
+
+### Features
+
+* Add a Contributors guide ([#229](https://github.com/open-sauced/docs/issues/229)) ([ec79f59](https://github.com/open-sauced/docs/commit/ec79f5901d3df35612b6814b23ada2d213b0d6a5))
+
+## [1.64.0](https://github.com/open-sauced/docs/compare/v1.63.2...v1.64.0) (2024-02-16)
+
+
+### Documentation
+
+* Add information about PR with unassigned issue to the contributing guidelines ([#252](https://github.com/open-sauced/docs/issues/252)) ([4ccd758](https://github.com/open-sauced/docs/commit/4ccd758485474b44a793fbc9242b0161ae4eaf40)), closes [#251](https://github.com/open-sauced/docs/issues/251) [#251](https://github.com/open-sauced/docs/issues/251)
+
 ### [1.63.2](https://github.com/open-sauced/docs/compare/v1.63.1...v1.63.2) (2024-02-05)
 
 
