@@ -30,7 +30,9 @@ The Repository Insights feature is your one-stop solution for understanding the 
 - Identify contributors who are making an impact.
 - Find new contributors to support your project.
 
-To learn more about how to use Repository Insights, check out our [Maintainers Guide](../maintainers/maintainers-guide.md) and our [Understanding Repository Insights Data](../maintainers/understanding-Repository Insights.md) pages.
+:::tip
+To learn more about how to use Repository Insights, check out our [Maintainers Guide](../maintainers/maintainers-guide.md) and our [Understanding Repository Insights Data](../maintainers/understanding-repo-insights.md) pages.
+:::
 
 ## Sharing Your Repository Insights Page with Your Team
 
@@ -46,21 +48,10 @@ There are two methods to share your Repository Insights Page:
 
 This method gives view-only access to your Repository Insights Page.
 
-1. Click the "Repository Insights" tab at the top bar.
-2. Click the page that you want to share.
+1. Navigate to your sidebar.
+2. Click the Repository Insight page that you want to share.
 3. On the top right, click the "Share" button to copy the Repository Insights Page URL to the clipboard.
 4. Share the URL with your team members.
-  
-#### Method 2: Adding a Team Member
 
-This method allows you to invite your team members to your Repository Insights Page and offers you options to permit them to be an admin of the page, edit or view the page, or remove them from it.
-
-1. Click the "Repository Insights" tab at the top bar.
-2. Click the page that you want to share.
-3. Click the "Edit Page" button on the top right.
-4. Scroll down to the "Add Team Members" section.
-5. Enter the email address of the team member you want to invite.
-6. Click the "Send invite" button. <br/> Once you click the button, your team member's email will be listed at the bottom.
-7. To select and give permission to your team member, click the arrow button on the right side of their email.
 
 To learn more about inviting your team, check out [this tutorial video](https://www.youtube.com/watch?v=L5ztLP1O7BY).
