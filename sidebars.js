@@ -43,8 +43,8 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Contributors",
-      collapsed: false,
+      label: "Contributors Guide to OpenSauced",
+      collapsed: true,
       items: ["contributors/contributors-guide-to-open-sauced"],
     },
     {

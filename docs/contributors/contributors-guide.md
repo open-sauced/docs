@@ -142,7 +142,7 @@ If you're looking for an active project to contribute to, this tab can help you 
 
 The "Contributors" tab allows you to view more detailed information about other contributors, including Activity, Repositories, the date of their last contribution, Time Zone, and the number of contributions. This can be a great way to find others to collaborate with or recommend for jobs.
 
-![contributors insight list](../../static/img/contributors-Repository Insights.png)
+![contributors insight list](../../static/img/contributors-insights.png)
 
 :::tip
 Want to learn more about your peers? You can select them and add them to a list.
