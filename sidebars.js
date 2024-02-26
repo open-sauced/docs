@@ -24,9 +24,9 @@ module.exports = {
       collapsed: false,
       items: [
         "features/highlights",
-        "features/insights",
+        "features/repo-insights",
         "features/dev-card",
-        "features/lists",
+        "features/contributor-insights",
         "features/connections",
         "features/workspaces"
       ],
