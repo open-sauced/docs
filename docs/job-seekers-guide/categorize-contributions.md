@@ -112,7 +112,7 @@ You can use this feature to help you track the open source contributions that yo
 
 ### Using the Lists Feature to Add People You Interacted with During Your Contributions
 
-The [Lists feature](../features/lists.md) enables you to categorize, monitor, and analyze different groups of contributors within open source projects.
+The [Lists feature](../features/contributor-insights.md) enables you to categorize, monitor, and analyze different groups of contributors within open source projects.
 
 You can use this feature to create a list of people you interacted with during your open source work. If you continually work with the same individuals, then they can act as referrals and references for jobs.
 
