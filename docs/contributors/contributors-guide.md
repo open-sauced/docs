@@ -112,9 +112,9 @@ OpenSauced [Repository Insights](../features/repo-insights.md) allows you to tra
 
 ### Creating a New Repository Insight Page
 
-To track the repositories, click the "Repository Insights" tab on the top left bar. You will be redirected to a page where you can create your new Insight Page.
+To track the repositories, click the "+" next to Insights in the sidebar, then select New Repository Insight. You will be redirected to a page where you can create your new Repository Insight Page.
 
-There are two ways to add repositories to your Insight Page:
+There are two ways to add repositories to your Repository Insight Page:
 
 1. **Sync GitHub organization**: Syncing your GitHub organizations is a good idea if you want to keep track of their open source project activities and trends.
 2. **Connect individual repositories**: Connecting individual repositories is a good idea if you want to keep track of the contributions of a specific repository or group of repositories.
@@ -123,7 +123,7 @@ There are two ways to add repositories to your Insight Page:
 
 ### Using Your Repository Insights Page
 
-Once you have connected your repositories, you will be redirected to your Insight Page. Here, you will see a dashboard with an overview of the repositories and the contributors who have contributed to them.
+Once you have connected your repositories, you will be redirected to your Repository Insight Page. Here, you will see a dashboard with an overview of the repositories and the contributors who have contributed to them.
 
 There are four tabs that provide you with more information on these repositories:
 
@@ -163,19 +163,19 @@ There are many things you can do with this feature, but here are some ideas to g
 - **See who's using OpenSauced Highlights feature**: You can see who's using the Highlights feature and show them support by giving an emoji reaction.
 - **Track contributors for job opportunities**: If you're looking for a job, you can track the activity of the contributors you're interested in working with. This helps you understand the activity level of the repositories and the types of contributions being made, and you can even identify which company you want to contribute to.
 
-### Creating a New List
+### Creating a New Contributor Insights Page
 
-1. Click the "Contributor Insights" tab on the Repository Insights hub to create a new list. You will be redirected to a page where you can create your new list.
-2. Click on the "New List" button to start a new list.
+1. Click the "+" next to Insights in your side bar. "Contributor Insights" tab on the Repository Insights hub to create a new list. You will be redirected to a page where you can create your new list.
+2. Select New Contributor Insight to start a new Contributor Insight Page.
 3. Give your list a name.
-4. Choose your page visibility. You can choose to make your list public or private. By default, it is set to private.
+4. Choose your page visibility. You can choose to make your list public or private. By default, it is set to public. To create a private page, you can upgrade your account to a paid plan.
 5. Add contributors to your list by searching for their GitHub username, syncing your GitHub Team, or importing your GitHub Following.
 
 ![contribution sync gif](../../static/gif/contributors-sync-list.gif)
 
-## Using Your List
+## Using Your Contributor Insights Page
 
-Once you have created your list, you will be redirected to your List Page. Here, you will see a dashboard with an overview of the contributors.
+Once you have created your list, you will be redirected to your Contributor Insights Page Page. Here, you will see a dashboard with an overview of the contributors.
 
 There are three tabs that provide you with more information on these repositories:
 
