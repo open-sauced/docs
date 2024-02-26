@@ -53,7 +53,7 @@ The Reports tab allows paid users to filter for more information about their rep
 
 #### Repositories
 
-The Repositories tab allows you to view more detailed information on each repository, including Activity, PR Overview, PR Velocity, Spam, Contributors, and activity over the last 30 days. To learn more about these features, see [Understanding Repository Insights Data](understanding-insights.md).
+The Repositories tab allows you to view more detailed information on each repository, including Activity, PR Overview, PR Velocity, Spam, Contributors, and activity over the last 30 days. To learn more about these features, see [Understanding Repository Insights Data](understanding-repo-insights.md).
 
 ![repositories tab](../../static/img/repos-insights.png)
 
@@ -126,7 +126,7 @@ You can filter your Contributor Insight Page by All Contributors, Active Contrib
 
 The Contributors tab gives you the list of the contributors and includes information like activity level, last repository contributed to, the date of their last contribution, time zone, programming languages used, and number of contributions.
 
-To learn more about these features, see [Understanding Contributor Insights  Data](understanding-list-data.md).
+To learn more about these features, see [Understanding Contributor Insights Data](understanding-contrib-insights.md).
 
 ## Highlights: Connecting and Recognizing Contributions
 

@@ -45,7 +45,7 @@ If you are looking to level up in your role, you should list it in this section 
 | Industry/Area of Interest | [Frontend, Backend, Fullstack, ML, AI, etc.] |
 | Example Job Links         | [Link to desired jobs]                       |
 
-## How to Match Job Requirements to Your Current Skills
+## Matching Job Requirements to Your Current Skills
 
 A common mistake for many job seekers is to send out the same resume template to all jobs. But in today's tech market it is important to stand out and tailor your resume to match your skills with the requirements listed.
 
@@ -110,15 +110,15 @@ The [Highlights feature](../features/highlights.md) is the place you can display
 
 You can use this feature to help you track the open source contributions that you are most proud of and share your accomplishments with your network. All of your highlights will appear on your OpenSauced profile, so sharing your profile is another way to let potential employers see the types of contributions you've made and the highlight you've identified as the most important.
 
-### Using the Lists Feature to Add People You Interacted with During Your Contributions
+### Using the Contributor Insight Feature to Follow People 
 
-The [Lists feature](../features/contributor-insights.md) enables you to categorize, monitor, and analyze different groups of contributors within open source projects.
+The [Contributor Insights feature](../features/contributor-insights.md) enables you to categorize, monitor, and analyze different groups of contributors within open source projects.
 
 You can use this feature to create a list of people you interacted with during your open source work. If you continually work with the same individuals, then they can act as referrals and references for jobs.
 
-Lists can also be used to track other people in your network to reach out to about their contributions.
+Contributor Insights can also be used to track other people in your network to reach out to about their contributions.
 
-![lists-page](../../static/img/lists-page.svg)
+![Contributor Insights -page](../../static/img/Contributor Insights -page.svg)
 
 ### Using the Repository Insights Feature to Track the Repositories You Contributed to
 

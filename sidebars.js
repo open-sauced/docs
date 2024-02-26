@@ -33,7 +33,7 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Maintainers",
+      label: "Maintainers Guide to OpenSauced",
       collapsed: false,
       items: [
         "maintainers/maintainers-guide-to-open-sauced",
@@ -50,7 +50,7 @@ module.exports = {
     {
       type: "category",
       label: "Tools",
-      collapsed: false,
+      collapsed: true,
       items: [
         "tools/hot-opensauced",
         "tools/pizza-cli",
