@@ -37,8 +37,8 @@ module.exports = {
       collapsed: false,
       items: [
         "maintainers/maintainers-guide-to-open-sauced",
-        "maintainers/understanding-insights",
-        "maintainers/understanding-lists",
+        "maintainers/understanding-repo-insights",
+        "maintainers/understanding-contribs-insights",
       ],
     },
     {
