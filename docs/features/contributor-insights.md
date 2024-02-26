@@ -1,25 +1,25 @@
 ---
-id: lists
+id: contributor-insights
 title: "Organize and Monitor Your Contributors"
-sidebar_label: "Lists"
+sidebar_label: "Contributor Insights"
 keywords:
-  - "lists"
+  - "contributor insights"
   - "contributors"
   - "organize"
   - "Monitor Contributors"
   - "Organize Contributors"
-  - "Contributor Lists Management"
+  - "Contributor Contributor Insights  Management"
 ---
 
-The Lists feature enables you to categorize, monitor, and analyze different groups of contributors within open source projects. With the Lists feature, gain granular insights into each contributor's activity and contributions.
+The Contributor Insights  feature enables you to categorize, monitor, and analyze different groups of contributors within open source projects. With the Contributor Insights  feature, gain granular insights into each contributor's activity and contributions.
 
 Monitor individual commit histories, track who is actively engaged, identify alumni or new contributors, and even compare the performance of contributors against each other. This encompasses a wide range of metrics such as code commits, created and reviewed Pull Requests (PRs), as well as issue creation and commenting.
 
-![lists-page](../../static/img/lists-page.svg)
+![Contributor Insights -page](../../static/img/Contributor Insights -page.svg)
 
-## How to Create a List
+## How to Create a Contributor Insight Page
 
-After logging in, navigate to your [Lists Page](https://app.opensauced.pizza/hub/lists/).
+After logging in, navigate to your [Contributor Insights  Page](https://app.opensauced.pizza/hub/Contributor Insights /).
 
 There are three ways to add a list:
 
