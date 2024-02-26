@@ -17,17 +17,19 @@ In the OpenSauced app, your work unfolds within a Workspace, a virtual environme
 
 You can navigate your workspaces from the sidebar. Each workspace has its own dashboard, which includes the repositories you're tracking in the workspace.
 
+![Workspace Access](../../static/img/access-workspace.png)
+
 By default, all workspaces are public. This means that anyone with the link to your workspace can view it. If you want to make your workspace private, you can upgrade your account to a paid plan.
 
 ### The Sidebar
-
-{ ADD AN IMAGE HERE }
 
 The expandable sidebar includes:
 
  - Options for creating and viewing workspaces.
  - Access to your Contributor and Repository Insights pages.
  - Links to support.
+
+ ![Sidebar](../../static/img/workspace-sidebar.png)
 
 :::tip
 
@@ -38,13 +40,11 @@ The expandable sidebar includes:
 
 ### Your Workspaces
 
-{ ADD AN IMAGE HERE }
-
 In your workspace dashboards, you can create, view, and manage your workspaces. 
 
 #### Repositories Dashboard
 
-{ ADD AN IMAGE HERE }
+![Workspaces](../../static/img/workspace.png)
 
 Within the repositories dashboard, you can view the following metrics, which are over a period of thirty days by default:
 
@@ -57,7 +57,7 @@ Within the repositories dashboard, you can view the following metrics, which are
 
 To create a workspace, start by accessing the **Workspace switcher** in the sidebar. From there, you can create a new workspace or view an existing one.
 
-### How to Add Repositories and Contributors to a Workspace
+### How to Add Repositories to a Workspace
 
 If you're creating a new workspace, you'll have the option to add repositories at the time of creation.
 
