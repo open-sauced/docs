@@ -42,10 +42,6 @@ Sharing this page with your team ensures that everyone is well-informed about th
 
 ### How to Share Repository Insights Page
 
-There are two methods to share your Repository Insights Page:
-
-#### Method 1: Using the Share Button 
-
 This method gives view-only access to your Repository Insights Page.
 
 1. Navigate to your sidebar.
