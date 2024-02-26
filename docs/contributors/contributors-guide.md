@@ -47,7 +47,7 @@ The "Explore" tab is a great place to start if you're looking for a new open sou
 
 Once you've selected your filters, you'll be able to see the contributors, spam, and activity levels of the repository. Understanding the activity level and PR velocity of a repository can help you determine if it's a good fit for you to contribute to and what to expect when you submit a PR.
 
-For example, if you wanted to look for a JavaScript project to contribute to, you would select "JavaScript" from the language dropdown and "Most Active" from the filter dropdown to see the most active JavaScript projects on GitHub. If you want to keep track of the repositories you're interested in contributing to, you can add them to your [Repository Insights page](../features/Repository Insights.md).
+For example, if you wanted to look for a JavaScript project to contribute to, you would select "JavaScript" from the language dropdown and "Most Active" from the filter dropdown to see the most active JavaScript projects on GitHub. If you want to keep track of the repositories you're interested in contributing to, you can add them to your [Repository Insights page](../features/repo-insights.md).
 
 ## Highlights: Connecting and Recognizing Contributions
 
@@ -98,7 +98,7 @@ Sharing the story of your hard work is an opportunity to connect with the reader
 
 ## Repository Insights: Connecting Your Repositories
 
-OpenSauced [Repository Insights](../features/Repository Insights.md) allows you to track open source projects you are interested in. You can use Repository Insights Pages to track repositories' growth, analyze work, and connect with others.
+OpenSauced [Repository Insights](../features/repo-insights.md) allows you to track open source projects you are interested in. You can use Repository Insights Pages to track repositories' growth, analyze work, and connect with others.
 
 ### Why Create an Repository Insights Page
 
@@ -152,7 +152,7 @@ To learn more about these features, see [Understanding Repository Insights Data]
 
 ## Contributor Insights: Connecting with Contributors
 
-The [Contributor Insights](../features/Contributor Insights.md) feature helps you connect with other contributors or learn more about what others are up to in open source. With this feature, you can categorize, watch, and check out different groups of contributors within open source projects.
+The [Contributor Insights](../features/contributor-insights.md) feature helps you connect with other contributors or learn more about what others are up to in open source. With this feature, you can categorize, watch, and check out different groups of contributors within open source projects.
 
 ### What You Can Do With Contributor Insights?
 
