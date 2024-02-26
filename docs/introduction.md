@@ -18,6 +18,6 @@ OpenSauced is a platform dedicated to empowering maintainers and teams and redef
 Our mission is to:
 
 - [**Empower maintainers and teams**](../docs/maintainers/maintainers-guide.md): Track and showcase your contributions and projects, connect with contributors, collaborate with your team, and gain insights into your open source projects.
-- **Support contributors**: Showcase your contributions, tell your story, connect with new projects and other contributors, and gain insights into your open source journey.
+- [**Support contributors**](../docs/contributors/contributors-guide.md): Showcase your contributions, tell your story, connect with new projects and other contributors, and gain insights into your open source journey.
 - [**Highlight success**](../docs/features/highlights.md): Showcase your contributions with our shareable Highlights, inspiring others to embark on their open source journey.
 - [**Unlock Insights**](./features/repo-insights.md): Understand the health of your project, track contributions, and make data-driven decisions with OpenSauced Insights.
