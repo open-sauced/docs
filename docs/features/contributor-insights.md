@@ -24,10 +24,10 @@ After logging in, navigate to your [Lists Page](https://app.opensauced.pizza/hub
 There are three ways to add a list:
 
 1. **Explore Contributors**: Use our explore tool to find contributors and create your list.
-2. **Sync your GitHub Team**: Connect to your GitHub to create a list from a team in your organization.
+2. **Sync your GitHub Team**: Connect to your GitHub to create a Contributor Insight Pagefrom a team in your organization.
 3. **Import your GitHub Following**:
-   Connect to your GitHub to create a list with all the contributors you follow.
+   Connect to your GitHub to create a Contributor Insight Pagewith all the contributors you follow.
 
-Once your list is created, you'll be able to see an overview of all the contributors in your list, a graph of their activity, and a detailed breakdown of the contributors.
+Once your Contributor Insight Pageis created, you'll be able to see an overview of all the contributors in your list, a graph of their activity, and a detailed breakdown of the contributors.
 
 If you're having trouble syncing your Organization or Team, check out our [Sync Your GitHub Team in our FAQs](../welcome/faqs.md#sync-your-github-team).

@@ -120,9 +120,9 @@ Lists can also be used to track other people in your network to reach out to abo
 
 ![lists-page](../../static/img/lists-page.svg)
 
-### Using the Insights Feature to Track the Repositories You Contributed to
+### Using the Repository Insights Feature to Track the Repositories You Contributed to
 
-The [Insights feature](../features/repo-insights.md) is a comprehensive view of a project's health and individual contributions. You can use it to track the repositories you contributed to or to track repositories of open source companies that are hiring.
+The [Repository Insights feature](../features/repo-insights.md) is a comprehensive view of a project's health and individual contributions. You can use it to track the repositories you contributed to or to track repositories of open source companies that are hiring.
 
 ![insight-pages-demo](../../static/gif/insight-page-demo.gif)
 
@@ -202,7 +202,7 @@ The Highlights feature allows you to post about your recent open source contribu
 | Feedback Received/Milestones Achieved                     | Positive feedback on the elegant design; milestone: merged into main branch.                                                                                           |
 | **Networking and Professional Development**               |                                                                                                                                                                        |
 | Contacts Made                                             | Connected with project maintainers and frontend enthusiasts.                                                                                                           |
-| Insights Gained from Networking                           | Learned about upcoming trends in frontend development.                                                                                                                 |
+| Repository Insights Gained from Networking                           | Learned about upcoming trends in frontend development.                                                                                                                 |
 | Future Networking Opportunities                           | Planning to attend the project's monthly virtual meetup.                                                                                                               |
 | **Reflection and Next Steps**                             |                                                                                                                                                                        |
 | Key Takeaways from This Project                           | Improved skills in component design and collaboration.                                                                                                                 |
