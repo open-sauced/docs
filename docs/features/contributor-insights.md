@@ -15,11 +15,11 @@ The Contributor Insights  feature enables you to categorize, monitor, and analyz
 
 Monitor individual commit histories, track who is actively engaged, identify alumni or new contributors, and even compare the performance of contributors against each other. This encompasses a wide range of metrics such as code commits, created and reviewed Pull Requests (PRs), as well as issue creation and commenting.
 
-![Contributor Insights -page](../../static/img/Contributor Insights -page.svg)
+![Contributor Insights -page](../../static/img/lists-page.svg)
 
 ## How to Create a Contributor Insight Page
 
-After logging in, navigate to your [Contributor Insights  Page](https://app.opensauced.pizza/hub/Contributor Insights /).
+After logging in, navigate to your [Contributor Insights Page](https://app.opensauced.pizza/hub/lists/).
 
 There are three ways to add a list:
 
