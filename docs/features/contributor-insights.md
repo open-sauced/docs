@@ -24,7 +24,7 @@ After logging in, navigate to your [Contributor Insights Page](https://app.opens
 There are three ways to add a list:
 
 1. **Explore Contributors**: Use our explore tool to find contributors and create your list.
-2. **Sync your GitHub Team**: Connect to your GitHub to create a Contributor Insight Pagefrom a team in your organization.
+2. **Sync your GitHub Team**: Connect to your GitHub to create a Contributor Insight Page from a team in your organization.
 3. **Import your GitHub Following**:
    Connect to your GitHub to create a Contributor Insight Pagewith all the contributors you follow.
 
