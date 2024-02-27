@@ -175,7 +175,7 @@ There are many things you can do with this feature, but here are some ideas to g
 
 ## Using Your Contributor Insights Page
 
-Once you have created your list, you will be redirected to your Contributor Insights Page Page. Here, you will see a dashboard with an overview of the contributors.
+Once you have created your list, you will be redirected to your Contributor Insights Page. Here, you will see a dashboard with an overview of the contributors.
 
 There are three tabs that provide you with more information on these repositories:
 
