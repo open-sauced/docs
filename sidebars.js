@@ -23,12 +23,12 @@ module.exports = {
       label: "Features",
       collapsed: false,
       items: [
-        "features/highlights",
+        "features/workspaces",
         "features/repo-insights",
-        "features/dev-card",
         "features/contributor-insights",
-        "features/connections",
-        "features/workspaces"
+        "features/highlights",
+        "features/dev-card",
+        "features/connections"
       ],
     },
     {
