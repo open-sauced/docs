@@ -9,7 +9,7 @@ keywords:
 
 ## Introduction to OpenSauced for Contributors
 
-OpenSauced is a platform dedicated to empowering you, the contributor, in your open source journey. With OpenSauced, you can find repositories to contribute to, track your contributions, gain Repository Insights into your favorite open source projects, and find new contributors to connect with.
+OpenSauced is a platform dedicated to empowering you, the contributor, in your open source journey. With OpenSauced, you can find repositories to contribute to, track your contributions, gain insights into your favorite open source projects, and find new contributors to connect with.
 
 ## Getting Started
 
