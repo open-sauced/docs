@@ -12,7 +12,7 @@ keywords:
 
 ## Introduction to OpenSauced for Maintainers
 
-OpenSauced is a platform dedicated to empowering maintainers and redefining open source contributions. We offer a GitHub-powered dashboard for tracking contributions and gaining insights into your open source projects. You can customize your Insights Pages and Contributor Insights  with the repositories you choose and the contributors you want to see.
+OpenSauced is a platform dedicated to empowering maintainers and redefining open source contributions. We offer a GitHub-powered dashboard for tracking contributions and gaining insights into your open source projects. You can customize your Insights Pages and Contributor Insights with the repositories you choose and the contributors you want to see.
 
 ## Getting Started
 
