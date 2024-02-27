@@ -20,13 +20,13 @@ There are currently three types of highlights you can add to your profile:
 
 ## How to Add a Highlight
 
-- Go to [OpenSauced's Highlights feed](https://insights.opensauced.pizza/feed).
+- Go to [OpenSauced's Highlights feed](https://app.opensauced.pizza/feed).
 - Click the "Post a highlight to show your work!" input.
 - Paste the URL to your blog post, pull request, or issue in the bottom input.
 - Either use our Auto-Summarize feature or write your own summary.
 
 ![highlights demo](../../static/gif/highlight.gif)
 
-For more examples of highlights, go to the [OpenSauced Highlights feed](https://insights.opensauced.pizza/feed).
+For more examples of highlights, go to the [OpenSauced Highlights feed](https://app.opensauced.pizza/feed).
 
 Eager to get started? Check out the [Effectively Highlight Your Contribution](https://intro.opensauced.pizza/#/06-the-secret-sauce?id=effectively-highlight-your-contributions) section in our free "Intro to Open Source" course to learn more.

@@ -29,13 +29,9 @@ Activity tracks Pull Requests (PRs) over the last 30 days:
 
 A contributor who has not been active on a project in the last 30 days.
 
-## Insights
+## Contributor Insights 
 
-The Insights feature is a one-stop solution for understanding the pulse of your open-source projects and contributions. This feature is designed to provide a comprehensive view of your project's health and your individual contributions.
-
-## Lists
-
-The Lists feature enables you to categorize, monitor, and analyze different groups of contributors within open source projects. With the Lists feature, gain granular insights into each contributor's activity and contributions.
+The Contributor Insights feature enables you to categorize, monitor, and analyze different groups of contributors within open source projects. With the Contributor Insights feature, gain granular insights into each contributor's activity and contributions.
 
 ## New Contributors
 
@@ -53,3 +49,7 @@ PR Overview tells the story of the Pull Requests (PRs) submitted in the last 30 
 ## PR Velocity
 
 PR Velocity tracks how quickly Pull Requests (PRs) are being merged in by identifying the average time to completion from the request submission.
+
+## Repository Insights
+
+The Repository Insights feature is a one-stop solution for understanding the pulse of your open-source projects and contributions. This feature is designed to provide a comprehensive view of your project's health and your individual contributions.

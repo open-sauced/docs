@@ -45,7 +45,7 @@ If you are looking to level up in your role, you should list it in this section 
 | Industry/Area of Interest | [Frontend, Backend, Fullstack, ML, AI, etc.] |
 | Example Job Links         | [Link to desired jobs]                       |
 
-## How to Match Job Requirements to Your Current Skills
+## Matching Job Requirements to Your Current Skills
 
 A common mistake for many job seekers is to send out the same resume template to all jobs. But in today's tech market it is important to stand out and tailor your resume to match your skills with the requirements listed.
 
@@ -110,19 +110,19 @@ The [Highlights feature](../features/highlights.md) is the place you can display
 
 You can use this feature to help you track the open source contributions that you are most proud of and share your accomplishments with your network. All of your highlights will appear on your OpenSauced profile, so sharing your profile is another way to let potential employers see the types of contributions you've made and the highlight you've identified as the most important.
 
-### Using the Lists Feature to Add People You Interacted with During Your Contributions
+### Using the Contributor Insight Feature to Follow People 
 
-The [Lists feature](../features/lists.md) enables you to categorize, monitor, and analyze different groups of contributors within open source projects.
+The [Contributor Insights feature](../features/contributor-insights.md) enables you to categorize, monitor, and analyze different groups of contributors within open source projects.
 
 You can use this feature to create a list of people you interacted with during your open source work. If you continually work with the same individuals, then they can act as referrals and references for jobs.
 
-Lists can also be used to track other people in your network to reach out to about their contributions.
+Contributor Insights can also be used to track other people in your network to reach out to about their contributions.
 
-![lists-page](../../static/img/lists-page.svg)
+![Contributor Insights page](../../static/img/lists-page.svg)
 
-### Using the Insights Feature to Track the Repositories You Contributed to
+### Using the Repository Insights Feature to Track the Repositories You Contributed to
 
-The [Insights feature](../features/insights.md) is a comprehensive view of a project's health and individual contributions. You can use it to track the repositories you contributed to or to track repositories of open source companies that are hiring.
+The [Repository Insights feature](../features/repo-insights.md) is a comprehensive view of a project's health and individual contributions. You can use it to track the repositories you contributed to or to track repositories of open source companies that are hiring.
 
 ![insight-pages-demo](../../static/gif/insight-page-demo.gif)
 
@@ -202,7 +202,7 @@ The Highlights feature allows you to post about your recent open source contribu
 | Feedback Received/Milestones Achieved                     | Positive feedback on the elegant design; milestone: merged into main branch.                                                                                           |
 | **Networking and Professional Development**               |                                                                                                                                                                        |
 | Contacts Made                                             | Connected with project maintainers and frontend enthusiasts.                                                                                                           |
-| Insights Gained from Networking                           | Learned about upcoming trends in frontend development.                                                                                                                 |
+| Repository Insights Gained from Networking                           | Learned about upcoming trends in frontend development.                                                                                                                 |
 | Future Networking Opportunities                           | Planning to attend the project's monthly virtual meetup.                                                                                                               |
 | **Reflection and Next Steps**                             |                                                                                                                                                                        |
 | Key Takeaways from This Project                           | Improved skills in component design and collaboration.                                                                                                                 |
