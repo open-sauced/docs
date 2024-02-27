@@ -1,6 +1,6 @@
 ---
 id: repo-insights
-title: "Repository Insights into Open Source Projects"
+title: "Insights into Open Source Repositories"
 sidebar_label: "Repository Insights"
 keywords:
   - "Repository Insights"
@@ -20,15 +20,22 @@ The Repository Insights feature is your one-stop solution for understanding the 
 
 ### Contributors
 
-- Track your contributions and the impact you're making.
-- Find new projects to contribute to.
-- Discover other contributors to collaborate with.
+- To track projects you're working on.
+- To identify potential projects to contribute to.
+- To discover other contributors to collaborate with.
+- To track the activity of a topic you're interested in.
+- To track the activity of your favorite programming languages.
+- To aid in the job search process.
+
+:::tip
+To learn more about how to use Repository Insights as a contributor, check out our [Contributors Guide to OpenSauced](../contributors/contributors-guide.md).
+:::
 
 ### Maintainers
 
-- Track the health of your project.
-- Identify contributors who are making an impact.
-- Find new contributors to support your project.
+- To track the health of your project.
+- To identify contributors who are making an impact.
+- To find new contributors to support your project.
 
 :::tip
 To learn more about how to use Repository Insights, check out our [Maintainers Guide](../maintainers/maintainers-guide.md) and our [Understanding Repository Insights Data](../maintainers/understanding-repo-insights.md) pages.
@@ -50,4 +57,3 @@ This method gives view-only access to your Repository Insights Page.
 4. Share the URL with your team members.
 
 
-To learn more about inviting your team, check out [this tutorial video](https://www.youtube.com/watch?v=L5ztLP1O7BY).
