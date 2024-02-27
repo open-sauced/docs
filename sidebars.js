@@ -28,7 +28,6 @@ module.exports = {
         "features/contributor-insights",
         "features/highlights",
         "features/dev-card",
-        "features/connections"
       ],
     },
     {
