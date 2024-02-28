@@ -19,7 +19,7 @@ Monitor individual commit histories, track who is actively engaged, identify alu
 
 ## How to Create a Contributor Insight Page
 
-After logging in, navigate to your [Contributor Insights Page](https://app.opensauced.pizza/workspaces/contributor-insights/).
+After logging in, navigate to your [Contributor Insights Page](https://app.opensauced.pizza/hub/lists/).
 
 There are three ways to add a list:
 
