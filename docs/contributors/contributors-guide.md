@@ -116,7 +116,7 @@ OpenSauced [Repository Insights](../features/repo-insights.md) allows you to tra
 
 ### Creating a New Repository Insight Page
 
-To track the repositories, click the "+" next to Insights in the sidebar, then select "New Repository Insight". You will be redirected to a page where you can create your new Repository Insight Page.
+To track the repositories, click the "+" next to "Insights" in the sidebar, then select "New Repository Insight". You will be redirected to a page where you can create your new Repository Insight Page.
 
 There are two ways to add repositories to your Repository Insight Page:
 
