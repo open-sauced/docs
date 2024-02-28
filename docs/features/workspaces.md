@@ -11,7 +11,7 @@ keywords:
   - "open source contributors"
 ---
 
-In the OpenSauced app, your work unfolds within a Workspace, a virtual environment designed to organize information for yourself, collaborating as a team, or operating across an entire company. Workspaces is a place to share, collaborate, and track open source projects and contributors.
+In the OpenSauced app, your work unfolds within a Workspace: a virtual environment for managing information—whether for individual productivity, team collaboration, or company-wide operations. Workspaces serve as a centralized hub for sharing, collaborating on, and monitoring open source projects and their contributors. This feature is designed to streamline your open source involvement, making it more efficient and interconnected.
 
 ## Understanding Workspaces
 
