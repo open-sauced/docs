@@ -55,7 +55,7 @@ Within the repositories dashboard, you can view the following metrics, which are
 
 To create a workspace, start by accessing the **Workspace switcher** in the sidebar. From there, you can create a new workspace or view an existing one.
 
-:::tip
+:::note
 
 Whenever you select "Home", you'll be taken to the last workspace you opened.
 
