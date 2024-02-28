@@ -5,7 +5,7 @@ sidebar_label: "Maintainers Guide to OpenSauced"
 keywords:
   - "maintainers"
   - "guides"
-  - "open source maintainers guide" 
+  - "open source maintainers guide"
   - "open source maintainer"
   - "Maintainers Guide to OpenSauced"
 ---
@@ -25,14 +25,14 @@ OpenSauced Repository Insights provides maintainers with a visual representation
 The Repository Insights feature allows you to:
 
 - track the contributions of a specific team, a specific repository, or a group of repositories,
-- view the number of pull requests that are open, closed, in draft, and merged,
-- view the average number of days it takes for a pull request to be merged (PR velocity),
+- view the number of PRs that are open, closed, in draft, and merged,
+- view the average number of days it takes for a PR to be merged (PR velocity),
 - identify the top contributors to your project,
-- identify the current activity level and trends in activity of your contributors.
+- identify the current activity level and trends in the activity of your contributors.
 
 ### Creating a New Repository Insight Page
 
-To connect your repositories, click the "Insights" tab on the dashboard. You will be redirected to a page where you can create your new Repository Insight Page.
+To connect and track your repositories, click the "+" next to "Insights" in the sidebar, then select "New Repository Insight". You will be redirected to a page where you can create your new Repository Insight Page.
 
 There are two ways to add repositories to your Repository Insight Page:
 
@@ -43,25 +43,25 @@ There are two ways to add repositories to your Repository Insight Page:
 
 ### Using Your Repository Insights Page
 
-Once you have connected your repositories, you will be redirected to your Insight Page. Here, you will see a dashboard with an overview of the repositories and the contributors who have contributed to them.
+Once you have connected your repositories, you will be redirected to your Repository Insight Page. Here, you will see a dashboard with an overview of the repositories and the contributors who have contributed to them.
 
 There are three tabs that provide you with more information on these repositories:
 
 #### Reports
 
-The Reports tab allows paid users to filter for more information about their repositories over the last 30 days and to generate a Downloadable CSV. Filters include: Top 100 Repos, Minimum 5 Contributors, Recent, Most Active, and Spammed.
+The "Reports" tab allows paid users to filter for more information about their repositories over the last 30 days and to generate a Downloadable CSV. Filters include: Top 100 Repos, Minimum 5 Contributors, Recent, Most Active, and Spammed.
 
 #### Repositories
 
-The Repositories tab allows you to view more detailed information on each repository, including Activity, PR Overview, PR Velocity, Spam, Contributors, and activity over the last 30 days. To learn more about these features, see [Understanding Repository Insights Data](understanding-repo-insights.md).
+The "Repositories" tab allows you to view more detailed information on each repository, including Activity, PR Overview, PR Velocity, Spam, Contributors, and activity over the last 30 days. To learn more about these features, see [Understanding Repository Insights Data](understanding-repo-insights.md).
 
 ![repositories tab](../../static/img/repos-insights.png)
 
 #### Contributors
 
-The Contributors tab allows you to view more detailed information on each contributor, including Activity, Repositories, the date of their last contribution, Time Zone, and the number of contributions.
+The "Contributors" tab allows you to view more detailed information on each contributor, including Activity, Repositories, the date of their last contribution, Time Zone, and the number of contributions.
 
-To learn more about your contributors, you can select them and add them to a Contributor Insight Page.
+You can select and add your contributors to a Contributor Insight Page to learn more about them.
 
 ![contributors insight list](../../static/img/contributors-insights.png)
 
@@ -70,7 +70,7 @@ There are two ways to add contributors to a Contributor Insight Page:
 1. Create a new Contributor Insight Page with selected contributors.
 2. Add selected contributors to an existing Contributor Insight Page.
 
-## Contributor Insights : Connecting with Contributors
+## Contributor Insights: Connecting with Contributors
 
 OpenSauced Contributor Insights feature allows you to categorize, monitor, and analyze various groups of contributors. You can use Contributor Insights to track the contributions of a specific team, a specific repository, or a group of repositories. This feature offers granular insights into each contributor's activities and contributions, helping maintainers to track individual contribution histories, identify active engagement, recognize new or alumni contributors, and compare the performance of different contributors.
 
@@ -78,7 +78,7 @@ The Contributor Insights features allow you to:
 
 - track the commits and PRs of the contributors on your list,
 - filter your contributors by their activity level, including most active, new, and alumni,
-- view the repositories that your contributors have contributed to, the top programming languages they've used, and their time zones.
+- view the repositories your contributors have contributed to, the top programming languages they've used, and their time zones.
 
 ### Why Create a Contributor Insight Page?
 
@@ -86,23 +86,23 @@ There are many reasons to create a Contributor Insight Page, but here's some ins
 
 - **Interacting contributors**: Keep tabs on contributors actively interacting with your repository.
 - **Organization's developers**: Monitor the contributions and performance of your internal team.
-- **VIP contributors**: Highlight and track contributors who you've identifies as key maintainers or significant contributors.
+- **VIP contributors**: Highlight and track contributors you've identified as key maintainers or significant contributors.
 - **Sales leads**: Identify contributors whose engagement could potentially be turned into sales opportunities.
 - **Potential hires**: Observe contributors who exhibit skill and commitment, making them prime candidates for hiring.
 - **Alumni contributors**: Keep an eye on contributors who have decreased their engagement or left the project.
 
 ### Creating a New Contributor Insight Page
 
-1. Click the + next to Insights in the sidebar to create a new insight page. You will be redirected to a page where you can create your new insight page.
+1. Click the "+" next to "Insights" in the sidebar.
+2. Click "New Contributor Insight". You will be redirected to a page where you can create your new Contributor Insight Page.
 
-![New Contributor Insight Page](../../static/img/contrib-insight-new.png)
+   ![New Contributor Insight Page](../../static/img/contrib-insight-new.png)
 
-2. Click on the "New Contributor Insight" to start a new insight page.
 3. Give your page a name.
 4. Choose your page visibility. You can choose to make your Contributor Insight Page public or private. By default, it is set to public.
 5. Add contributors to your page by searching for their GitHub username, syncing your GitHub Team, or importing your GitHub Following.
 
-![team sync gif](../../static/gif/team-sync.gif)
+   ![team sync gif](../../static/gif/team-sync.gif)
 
 ## Using Your Contributor Insight Page
 
@@ -112,11 +112,11 @@ There are three tabs that provide you with more information on these repositorie
 
 ### Overview
 
-The Overview tab gives you a high-level view of the contributors in your Contributor Insight Page, including the total number of commits in the last 30 days and the types of contributors: Active, New, and Alumni.
+The "Overview" tab gives you a high-level view of the contributors in your Contributor Insight Page, including the total number of commits in the last 30 days and the types of contributors: Active, New, and Alumni.
 
 ### Activity
 
-The Activity tab gives you a graph view with more detailed information on each contributor, including the type of activity, repositories they've contributed to, and how they compare to each other.
+The "Activity" tab gives you a graph view with more detailed information on each contributor, including the type of activity, repositories they've contributed to, and how they compare to each other.
 
 You can filter your Contributor Insight Page by All Contributors, Active Contributors, New Contributors, and Alumni Contributors.
 
@@ -124,13 +124,13 @@ You can filter your Contributor Insight Page by All Contributors, Active Contrib
 
 ### Contributors
 
-The Contributors tab gives you the list of the contributors and includes information like activity level, last repository contributed to, the date of their last contribution, time zone, programming languages used, and number of contributions.
+The "Contributors" tab gives you the list of the contributors and includes information like activity level, last repository they contributed to, the date of their last contribution, time zone, programming languages used, and the number of contributions.
 
 To learn more about these features, see [Understanding Contributor Insights Data](understanding-contrib-insights.md).
 
 ## Highlights: Connecting and Recognizing Contributions
 
-Leveraging OpenSauced's Highlights feature is a great way for maintainers to recognize and showcase the valuable contributions made to your open source projects, to curate and share key achievements, contributions, and milestones, and bring visibility to the hard work of your community.
+Leveraging OpenSauced's Highlights feature is a great way for maintainers to recognize and showcase the valuable contributions made to your open source projects, curate and share key achievements, contributions, and milestones, and bring visibility to the hard work of your community.
 
 Highlights can be used to:
 
@@ -142,7 +142,7 @@ Highlights can be used to:
 
 There are two ways to create a new highlight:
 
-1. After clicking the [Highlights tab](https://app.opensauced.pizza/feed) in the top navigation, click the input that says "Post a highlight to show your work!"
+1. After clicking the "[Highlights](https://app.opensauced.pizza/feed)" tab in the top navigation, click the input that says "Post a highlight to show your work!"
 
 2. From your profile, click the input that says "Post a highlight to show your work!"
 
@@ -155,7 +155,11 @@ There are two ways to create a highlight:
 
 ![highlight suggestions](../../static/img/highlights.png)
 
+:::note
+
 If you're adding a blog post, you'll need to associate it to a repository by clicking the "Add a repo" button.
+
+:::
 
 Finally, it's time to add the details of your highlight. You can add a description yourself or use the auto-summarize function to generate a description.
 
