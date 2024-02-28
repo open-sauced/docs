@@ -10,7 +10,7 @@ keywords:
   - "Online connections"
   - "Networking opportunities"
   - "tech connections"
-  - "grow newtwork"
+  - "grow network"
   - "grow connection"
   - "Community connections"
 ---
