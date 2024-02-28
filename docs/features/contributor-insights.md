@@ -19,7 +19,7 @@ Monitor individual commit histories, track who is actively engaged, identify alu
 
 ## How to Create a Contributor Insight Page
 
-After logging in, navigate to your [Contributor Insights Page](https://app.opensauced.pizza/hub/lists/).
+After logging in, navigate to your [Contributor Insights Page](https://app.opensauced.pizza/workspaces/contributor-insights/).
 
 There are three ways to add a list:
 
@@ -28,6 +28,6 @@ There are three ways to add a list:
 3. **Import your GitHub Following**:
    Connect to your GitHub to create a Contributor Insight Page with all the contributors you follow.
 
-Once your Contributor Insight Pageis created, you'll be able to see an overview of all the contributors in your list, a graph of their activity, and a detailed breakdown of the contributors.
+Once your Contributor Insight Page is created, you'll be able to see an overview of all the contributors in your list, a graph of their activity, and a detailed breakdown of the contributors.
 
-If you're having trouble syncing your Organization or Team, check out our [Sync Your GitHub Team in our FAQs](../welcome/faqs.md#sync-your-github-team).
+If you're having trouble syncing your Organization or Team, check out the [Sync Your GitHub Team section in our FAQs](../welcome/faqs.md#sync-your-github-team).
