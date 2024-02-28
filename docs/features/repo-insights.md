@@ -29,7 +29,7 @@ The Repository Insights feature is your one-stop solution for understanding the 
 
 :::tip
 
-Check out our [Contributors Guide to OpenSauced](../contributors/contributors-guide.md) to learn more about how to create and use Repository Insights as a contributor.
+Check out our [Contributors Guide to OpenSauced](../contributors/contributors-guide.md#repository-insights-connecting-your-repositories) to learn more about how to create and use Repository Insights as a contributor.
 
 :::
 
