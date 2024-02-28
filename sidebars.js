@@ -26,6 +26,7 @@ module.exports = {
         "features/workspaces",
         "features/repo-insights",
         "features/contributor-insights",
+        "features/connections",
         "features/highlights",
         "features/dev-card",
       ],
@@ -119,7 +120,7 @@ module.exports = {
           collapsed: true,
           items: [
             "contributing/opensauced-maintainers-guide/maintainers-guide",
-            "contributing/opensauced-maintainers-guide/community-maintainers-guide"
+            "contributing/opensauced-maintainers-guide/community-maintainers-guide",
           ],
         },
         "contributing/set-up-authentication",
