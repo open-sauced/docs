@@ -141,7 +141,7 @@ If you have corresponded with the same core contributors and maintainers over th
 
 ### Using Your OpenSauced Dev Card for Networking
 
-Your [OpenSauced Dev Card](../features/dev-card.md) serves as your "open source business card" to showcase all of your recent open source activities. You will find recent activity concerning the projects you contribute to, the frequency of pull requests, and projects you are interested in.
+Your [OpenSauced Dev Card](../features/dev-card.md) serves as your "open source business card" to showcase all of your recent open source activities. You will find recent activity concerning the projects you contribute to, the frequency of PRs, and projects you are interested in.
 
 You can easily share your Dev Card on social media platforms like X/Twitter and LinkedIn to gain attention from potential recruiters and hiring managers.
 
