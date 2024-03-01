@@ -93,9 +93,9 @@ The Highlights feature is the place you can display your favorite open source co
 
 There are currently three types of highlights you can add to your profile:
 
-- Dev.to blog post
-- Pull request
-- Issue
+- Dev.to blog post.
+- Pull request.
+- Issue.
 
 ## How to Add a Highlight
 
