@@ -61,7 +61,7 @@ The "Repositories" tab allows you to view more detailed information on each repo
 
 The "Contributors" tab allows you to view more detailed information on each contributor, including Activity, Repositories, the date of their last contribution, Time Zone, and the number of contributions.
 
-You can select and add your contributors to a Contributor Insight Page to learn more about them.
+You can select and add your contributors to a [Contributor Insight Page](#contributor-insights-connecting-with-contributors) to learn more about them.
 
 ![contributors insight list](../../static/img/contributors-insights.png)
 
