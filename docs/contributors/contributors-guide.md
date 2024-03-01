@@ -47,7 +47,7 @@ The "Explore" tab is a great place to start if you're looking for a new open sou
 
 Once you've selected your filters, you'll be able to see the contributors, spam, and activity levels of the repository. Understanding the activity level and PR velocity of a repository can help you determine if it's a good fit for you to contribute to and what to expect when you submit a PR.
 
-For example, if you wanted to look for a JavaScript project to contribute to, you would select "JavaScript" from the language dropdown and "Most Active" from the filter dropdown to see the most active JavaScript projects on GitHub. If you want to keep track of the repositories you're interested in contributing to, you can add them to your [Insights page](../features/insights.md).
+For example, if you wanted to look for a JavaScript project to contribute to, you would select "JavaScript" from the language dropdown and "Most Active" from the filter dropdown to see the most active JavaScript projects on GitHub. If you want to keep track of the repositories you're interested in contributing to, you can add them to your [Repository Insights page](../features/repo-insights.md).
 
 ## Highlights: Connecting and Recognizing Contributions
 
@@ -96,34 +96,34 @@ Sharing the story of your hard work is an opportunity to connect with the reader
 2. **Discuss the inspiration**: Explain why you wrote this blog post. Is it to guide others on improving their coding skills, raise awareness about an issue in the tech community, or display your progress in learning a new programming language?
 3. **End with a call-to-action**: Encourage readers to read and engage with the post, whether by commenting or sharing it with others on social media.
 
-## Insights: Connecting Your Repositories
+## Repository Insights: Connecting Your Repositories
 
-OpenSauced [Insights](../features/insights.md) allows you to track open source projects you are interested in. You can use Insights Pages to track repositories' growth, analyze work, and connect with others.
+OpenSauced [Repository Insights](../features/repo-insights.md) allows you to track open source projects you are interested in. You can use Repository Insights Pages to track repositories' growth, analyze work, and connect with others.
 
-### Why Create an Insights Page
+### Why Create an Repository Insights Page
 
 - **To track projects you're working on**: Tracking projects you're working on can help you stay up-to-date with the latest activity, trends, and connect with other contributors.
-- **To identify potential projects to contribute to**: If you're looking for a new project to contribute to, you can use the Insights feature to track active projects that are looking for contributors. You can use the Explore tool to find new projects to contribute to and track them with your Insights page.
+- **To identify potential projects to contribute to**: If you're looking for a new project to contribute to, you can use the Repository Insights feature to track active projects that are looking for contributors. You can use the Explore tool to find new projects to contribute to and track them with your Repository Insights page.
 - **To network and engage with the community**: Finding people to work and connect with can be challenging. Through the feature's "Contributors" tab, you can connect with your network.
-- **To track the activity of a topic you're interested in**: Keeping up with the latest trends and activity in a specific topic can be challenging. You can use the Insights feature to track the activity of a specific topic and find new projects to contribute to. For example, you can create an [Insight page for Active AI Repositories](https://app.opensauced.pizza/pages/BekahHW/1055/dashboard).
-- **To track the activity of your favorite programming languages**: If you're interested in tracking the activity of your favorite programming languages, you can use the Insights feature to track the open source projects that are using them.
-- **To aid in the job search**: If you're looking for a job, you can use the Insights feature to track the activity of the organizations you're interested in working on. This can help you understand the activity level of the repositories and the types of contributions that are being made, and even identify which company you want to contribute to.
+- **To track the activity of a topic you're interested in**: Keeping up with the latest trends and activity in a specific topic can be challenging. You can use the Repository Insights feature to track the activity of a specific topic and find new projects to contribute to. For example, you can create an [Insight page for Active AI Repositories](https://app.opensauced.pizza/pages/BekahHW/1055/dashboard).
+- **To track the activity of your favorite programming languages**: If you're interested in tracking the activity of your favorite programming languages, you can use the Repository Insights feature to track the open source projects that are using them.
+- **To aid in the job search**: If you're looking for a job, you can use the Repository Insights feature to track the activity of the organizations you're interested in working on. This can help you understand the activity level of the repositories and the types of contributions that are being made, and even identify which company you want to contribute to.
 - **Curating collections for interest groups**: You can curate and share repositories focusing on sectors and programming languages that interest you.
 
-### Creating a New Insight Page
+### Creating a New Repository Insight Page
 
-To track the repositories, click the "Insights" tab on the top left bar. You will be redirected to a page where you can create your new Insight Page.
+To track the repositories, click the "+" next to Insights in the sidebar, then select New Repository Insight. You will be redirected to a page where you can create your new Repository Insight Page.
 
-There are two ways to add repositories to your Insight Page:
+There are two ways to add repositories to your Repository Insight Page:
 
 1. **Sync GitHub organization**: Syncing your GitHub organizations is a good idea if you want to keep track of their open source project activities and trends.
 2. **Connect individual repositories**: Connecting individual repositories is a good idea if you want to keep track of the contributions of a specific repository or group of repositories.
 
-![sync insights gif](../../static/gif/insight-page-demo.gif)
+![sync Repository Insights gif](../../static/gif/insight-page-demo.gif)
 
-### Using Your Insights Page
+### Using Your Repository Insights Page
 
-Once you have connected your repositories, you will be redirected to your Insight Page. Here, you will see a dashboard with an overview of the repositories and the contributors who have contributed to them.
+Once you have connected your repositories, you will be redirected to your Repository Insight Page. Here, you will see a dashboard with an overview of the repositories and the contributors who have contributed to them.
 
 There are four tabs that provide you with more information on these repositories:
 
@@ -148,13 +148,13 @@ The "Contributors" tab allows you to view more detailed information about other 
 Want to learn more about your peers? You can select them and add them to a list.
 :::
 
-To learn more about these features, see [Understanding Insights Data](../maintainers/understanding-insights.md).
+To learn more about these features, see [Understanding Repository Insights Data](../maintainers/understanding-repo-insights.md).
 
-## Lists: Connecting with Contributors
+## Contributor Insights: Connecting with Contributors
 
-The [Lists](../features/lists.md) feature helps you connect with other contributors or learn more about what others are up to in open source. With this feature, you can categorize, watch, and check out different groups of contributors within open source projects.
+The [Contributor Insights](../features/contributor-insights.md) feature helps you connect with other contributors or learn more about what others are up to in open source. With this feature, you can categorize, watch, and check out different groups of contributors within open source projects.
 
-### What You Can Do With Lists?
+### What You Can Do With Contributor Insights?
 
 There are many things you can do with this feature, but here are some ideas to get you started:
 
@@ -163,19 +163,19 @@ There are many things you can do with this feature, but here are some ideas to g
 - **See who's using OpenSauced Highlights feature**: You can see who's using the Highlights feature and show them support by giving an emoji reaction.
 - **Track contributors for job opportunities**: If you're looking for a job, you can track the activity of the contributors you're interested in working with. This helps you understand the activity level of the repositories and the types of contributions being made, and you can even identify which company you want to contribute to.
 
-### Creating a New List
+### Creating a New Contributor Insights Page
 
-1. Click the "Lists" tab on the Insights hub to create a new list. You will be redirected to a page where you can create your new list.
-2. Click on the "New List" button to start a new list.
+1. Click the "+" next to Insights in your side bar. "Contributor Insights" tab on the Repository Insights hub to create a new list. You will be redirected to a page where you can create your new list.
+2. Select New Contributor Insight to start a new Contributor Insight Page.
 3. Give your list a name.
-4. Choose your page visibility. You can choose to make your list public or private. By default, it is set to private.
+4. Choose your page visibility. You can choose to make your list public or private. By default, it is set to public. To create a private page, you can upgrade your account to a paid plan.
 5. Add contributors to your list by searching for their GitHub username, syncing your GitHub Team, or importing your GitHub Following.
 
 ![contribution sync gif](../../static/gif/contributors-sync-list.gif)
 
-## Using Your List
+## Using Your Contributor Insights Page
 
-Once you have created your list, you will be redirected to your List Page. Here, you will see a dashboard with an overview of the contributors.
+Once you have created your list, you will be redirected to your Contributor Insights Page. Here, you will see a dashboard with an overview of the contributors.
 
 There are three tabs that provide you with more information on these repositories:
 
@@ -183,15 +183,15 @@ There are three tabs that provide you with more information on these repositorie
 - **Activity**: The "Activity" tab gives you a graph view with more detailed information on each contributor, including the type of activity, repositories they've contributed to, and how they compare to each other.
 - **Highlights**: The "Highlights" tab gives you a list of the highlights that the contributors in your list have created. This is a great way to see what other contributors are up to and to show them support.
 
-To learn more about these features, see [Understanding Lists Data](../maintainers/understanding-lists-data.md).
+To learn more about these features, see [Understanding Contributor Insights Data](../maintainers/understanding-contrib-insights.md).
 
 ## Takeaways
 
 - **Create Your Profile**: Creating your profile is a great way to display your open source contributions, connect with other contributors and maintainers, and share during a job search.
 - **Explore**: The "Explore" tab is a great place to find new open source projects to contribute to.
 - **Highlights**: Leveraging OpenSauced's Highlights feature is a great way for you to showcase your valuable contributions to open source projects.
-- **Insights**: OpenSauced Insights allows you to track open source projects you are interested in.
-- **Lists**: The Lists feature helps you understand other contributors or track your own work in open source.
+- **Repository Insights**: OpenSauced Repository Insights allows you to track open source projects you are interested in.
+- **Contributor Insights**: The Contributor Insights feature helps you understand other contributors or track your own work in open source.
 
 ## Conclusion
 

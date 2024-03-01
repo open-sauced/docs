@@ -1,7 +1,7 @@
 ---
-id: understanding-insights
-title: "Understanding Insights Data"
-sidebar_label: "Understanding Insights Data"
+id: understanding-repo-insights
+title: "Understanding Repo Insights Data"
+sidebar_label: "Understanding Repo Insights Data"
 keywords:
   - "maintainers"
   - "guides"
@@ -18,7 +18,7 @@ keywords:
 
 Once your repositories are connected, it's time to understand the data provided in your Insight Page. Understanding this data is key to effectively managing your projects and contributors.
 
-## Understanding Insights Repository Data
+## Understanding Repository Insights Data
 
 ### Analyzing Contribution Trends
 
@@ -32,7 +32,7 @@ Knowing the status of PRs (open, closed, draft, merged) helps in understanding t
 
 Track how quickly PRs are being merged. The average time taken for PRs to merge is a critical metric for understanding the efficiency of the code review and deployment process. Longer PR merge times might signal issues in the review process, resource allocation, or could indicate complex code changes that require more thorough checks. Use this data to set benchmarks and identify opportunities for streamlining your review and integration processes.
 
-## Understanding Insights Contributor Data
+## Understanding Repository Insights Contributor Data
 
 ### Identifying and Engaging with Key Contributors
 

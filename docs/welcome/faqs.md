@@ -24,7 +24,7 @@ However, sites like [Good First Issues](https://goodfirstissues.com/) and [First
 
 ### 2. My contribution does not show up on my OpenSauced profile. How do I fix it?
 
-Create an [Insights Page](https://app.opensauced.pizza/hub/insights) or add your merged pull request to a [Highlight](https://app.opensauced.pizza/feed).
+Create a [Repository Insights Page](https://app.opensauced.pizza/hub/insights) or add your merged pull request to a [Highlight](https://app.opensauced.pizza/feed).
 
 ### 3. I want to provide feedback on OpenSauced.
 
