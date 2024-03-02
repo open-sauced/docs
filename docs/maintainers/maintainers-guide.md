@@ -49,7 +49,9 @@ There are three tabs that provide you with more information on these repositorie
 
 #### Repositories Dashboard
 
-This tab allows you to view more detailed information on each repository, including Activity, PR Overview, PR Velocity, Spam, Contributors, and activity over the last 30 days. To learn more about these features, see [Understanding Repository Insights Data](understanding-repo-insights.md).
+This tab allows you to view more detailed information on each repository, including Activity, PR Overview, PR Velocity, Spam, Contributors, and activity over the last 30 days.
+
+To learn and understand more about the data provided, see [Understanding Repository Insights Data](understanding-repo-insights.md).
 
 ![repositories tab](../../static/img/repos-insights.png)
 

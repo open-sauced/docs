@@ -153,7 +153,7 @@ Want to learn more about your peers? You can select them and add them to a list.
 
 :::
 
-To learn more about these features, see [Understanding Repository Insights Data](../maintainers/understanding-repo-insights.md).
+To learn and understand more about the data provided, see [Understanding Repository Insights Data](../maintainers/understanding-repo-insights.md).
 
 ## Contributor Insights: Connecting with Contributors
 
