@@ -66,6 +66,12 @@ There are two ways to add selected contributors to a Contributor Insight Page:
 
 ![contributors insight list](../../static/img/contributors-insights.png)
 
+#### Activity
+
+The "Activity" tab gives you a graph of the last time each contributor contributed to your project and how many lines of code they've touched.
+
+It also provides more detailed information on each contributor when you click their image, including their latest PRs and repositories they've contributed to. This can help you learn about their engagement with your projects and general interests. It will be helpful if you want to recruit a maintainer for your project.
+
 ## Contributor Insights: Connecting with Contributors
 
 OpenSauced Contributor Insights feature allows you to categorize, monitor, and analyze various groups of contributors. You can use Contributor Insights to track the contributions of a specific team, a specific repository, or a group of repositories. This feature offers granular insights into each contributor's activities and contributions, helping maintainers to track individual contribution histories, identify active engagement, recognize new or alumni contributors, and compare the performance of different contributors.
