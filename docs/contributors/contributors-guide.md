@@ -155,6 +155,14 @@ Want to learn more about your peers? You can select and add them to a Contributo
 
 To learn and understand more about the data provided, see [Understanding Repository Insights Data](../maintainers/understanding-repo-insights.md).
 
+#### Activity
+
+The "Activity" tab shows a graph of the last time each contributor's PR got merged in and how many lines of code they've touched.
+
+It also provides more detailed information on each contributor when you hover over their image, including their latest PRs and repositories they've contributed to. Clicking their image will bring you to their profile on OpenSauced. This can help you find potential repositories to contribute to and peers to collaborate with or ask for mentorship.
+
+![activity graph](../../static/img/activity-repos-insights.png)
+
 ## Contributor Insights: Connecting with Contributors
 
 The [Contributor Insights](../features/contributor-insights.md) feature helps you connect with other contributors or learn more about what others are up to in open source. With this feature, you can categorize, watch, and check out different groups of contributors within open source projects.
