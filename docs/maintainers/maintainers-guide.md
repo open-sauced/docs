@@ -47,10 +47,6 @@ Once you have connected your repositories, you will be redirected to your Reposi
 
 There are three tabs that provide you with more information on these repositories:
 
-#### Reports
-
-The "Reports" tab allows paid users to filter for more information about their repositories over the last 30 days and to generate a Downloadable CSV. Filters include: Top 100 Repos, Minimum 5 Contributors, Recent, Most Active, and Spammed.
-
 #### Repositories
 
 The "Repositories" tab allows you to view more detailed information on each repository, including Activity, PR Overview, PR Velocity, Spam, Contributors, and activity over the last 30 days. To learn more about these features, see [Understanding Repository Insights Data](understanding-repo-insights.md).
