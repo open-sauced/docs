@@ -129,13 +129,13 @@ There are two ways to add repositories to your Repository Insight Page:
 
 Once you have connected your repositories, you will be redirected to your Repository Insight Page. Here, you will see a dashboard with an overview of the repositories and the contributors who have contributed to them.
 
-There are four tabs that provide you with more information on these repositories:
+There are three tabs that provide you with more information on these repositories:
 
-- **Repositories**: This tab contains information such as activity levels, PR overview, PR velocity, spam PRs, contributors, and activity stats over the last 30 days.
+- **Repositories Dashboard**: This dashboard contains information such as activity levels, PR overview, PR velocity, spam PRs, contributors, and activity stats over the last 30 days.
 - **Contributors**: The "Contributors" tab allows you to view more detailed information about other contributors, including Activity, Repositories, the date of their last contribution, Time Zone, and the number of contributions.
 - **Activity**: The "Activity" tab gives you a graph view with more detailed information on each contributor when you click their image, including their latest PRs and repositories they've contributed to.
 
-#### Repositories
+#### Repositories Dashboard
 
 If you're looking for an active project to contribute to, this tab can help you as it contains information such as Activity, PR Overview, PR Velocity, Spam, Contributors, and activity stats over the last 30 days. This information is also a good way to connect with others on the project or where to find support.
 
