@@ -68,9 +68,9 @@ There are two ways to add selected contributors to a Contributor Insight Page:
 
 #### Activity
 
-The "Activity" tab gives you a graph of the last time each contributor contributed to your project and how many lines of code they've touched.
+The "Activity" tab shows a graph of the last time each contributor contributed to your project and how many lines of code they've touched. It also provides more detailed information on each contributor when you hover over their image, including their latest PRs and repositories they've contributed to. Clicking their image will bring you to their profile on OpenSauced.
 
-It also provides more detailed information on each contributor when you click their image, including their latest PRs and repositories they've contributed to. This can help you learn about their engagement with your projects and general interests. It will be helpful if you want to recruit a maintainer for your project.
+![activity graph](../../static/img/activity-repos-insights.png)
 
 ## Contributor Insights: Connecting with Contributors
 
