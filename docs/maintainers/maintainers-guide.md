@@ -47,9 +47,9 @@ Once you have connected your repositories, you will be redirected to your Reposi
 
 There are three tabs that provide you with more information on these repositories:
 
-#### Repositories
+#### Repositories Dashboard
 
-The "Repositories" tab allows you to view more detailed information on each repository, including Activity, PR Overview, PR Velocity, Spam, Contributors, and activity over the last 30 days. To learn more about these features, see [Understanding Repository Insights Data](understanding-repo-insights.md).
+This tab allows you to view more detailed information on each repository, including Activity, PR Overview, PR Velocity, Spam, Contributors, and activity over the last 30 days. To learn more about these features, see [Understanding Repository Insights Data](understanding-repo-insights.md).
 
 ![repositories tab](../../static/img/repos-insights.png)
 
@@ -59,12 +59,12 @@ The "Contributors" tab allows you to view more detailed information on each cont
 
 You can select and add your contributors to a Contributor Insight Page to learn more about them.
 
+There are two ways to add selected contributors to a Contributor Insight Page:
+
+1. Create a new page.
+2. Add them to an existing page.
+
 ![contributors insight list](../../static/img/contributors-insights.png)
-
-There are two ways to add contributors to a Contributor Insight Page:
-
-1. Create a new Contributor Insight Page with selected contributors.
-2. Add selected contributors to an existing Contributor Insight Page.
 
 ## Contributor Insights: Connecting with Contributors
 
