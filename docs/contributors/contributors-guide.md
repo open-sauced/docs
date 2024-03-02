@@ -133,13 +133,13 @@ There are three tabs that provide you with more information on these repositorie
 
 #### Repositories Dashboard
 
-If you're looking for an active project to contribute to, this tab can help you as it contains information such as Activity, PR Overview, PR Velocity, Spam, Contributors, and activity stats over the last 30 days. This information is also a good way to connect with others on the project or where to find support.
+If you're looking for an active project to contribute to, this tab can help you as it contains information such as activity levels, PR overview, PR velocity, spam PRs, contributors, and activity stats over the last 30 days. This information is also a good way to connect with others on the project or where to find support.
 
 ![repositories tab](../../static/img/repos-insights.png)
 
 #### Contributors
 
-The "Contributors" tab allows you to view more detailed information about other contributors, including Activity, Repositories, the date of their last contribution, Time Zone, and the number of contributions. This can be a great way to find others to collaborate with or recommend for jobs.
+The "Contributors" tab allows you to view more detailed information about other contributors, including activity levels, the number of repositories they contributed to, the date of their last contribution, their most used language, their time zone, the number of contributions, and their activity stats over the last 30 days. This can be a great way to find others to collaborate with or recommend for jobs.
 
 ![contributors insight list](../../static/img/contributors-insights.png)
 
@@ -153,9 +153,9 @@ To learn and understand more about the data provided, see [Understanding Reposit
 
 #### Activity
 
-The "Activity" tab shows a graph of the last time each contributor's PR got merged in and how many lines of code they've touched.
+The "Activity" tab shows a graph of the last time individual contributors' PR got merged in and how many lines of code they've touched.
 
-It also provides more detailed information on each contributor when you hover over their image, including their latest PRs and repositories they've contributed to. Clicking their image will bring you to their profile on OpenSauced. This can help you find potential repositories to contribute to and peers to collaborate with or ask for mentorship.
+It also provides more detailed information on each contributor when you hover over their image, including their latest PRs and repositories they've contributed to. Clicking their image will bring you to their profile on OpenSauced. This information can help you find potential repositories to contribute to and peers to collaborate with or ask for mentorship.
 
 ![activity graph](../../static/img/activity-repos-insights.png)
 
