@@ -32,13 +32,13 @@ We love feedback. Post your suggestion in our [feedback repository](https://gith
 
 ## Sync your GitHub Team
 
-### 1. I don't see my organization on "Sync your GitHub Team".
+### 1. I don't see my organization on "Sync your GitHub Team."
 
 You may not see your organization if you are not a "public" member. You can update this by going to the organization on GitHub and selecting the "People" tab. Next, search for your name. You can then change "private" to "public." For complete instructions, see [this guide](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership).
 
-### 2. I get an error when I try to select my team in "Sync your GitHub Team".
+### 2. I get an error when I try to select my team in "Sync your GitHub Team."
 
-If you see your organization but get an error when selecting a team, your organization likely has restricted third-party applications. You can check this if you are an owner by going to "Your organizations" on GitHub, selecting "Settings", and then "Third-party Access".
+If you see your organization but get an error when selecting a team, your organization likely has restricted third-party applications. You can check this if you are an owner by going to "Your organizations" on GitHub, selecting "Settings", and then "Third-party Access."
 
 If you're an **owner** of the repository, you can select "Allow select third-party access" or specifically approve OpenSauced by following the directions in [this guide](https://docs.github.com/en/organizations/managing-oauth-access-to-your-organizations-data/approving-oauth-apps-for-your-organization).
 

@@ -33,7 +33,7 @@ The expandable sidebar includes:
 
 :::info
 
-We recently had a naming change. The [Contributors Insights](contributor-insights.md) section was previously called "Lists", and the [Repositories Insights](./repo-insights.md) section was previously called "Insights".
+We recently had a naming change. The [Contributors Insights](contributor-insights.md) section was previously called Lists, and the [Repositories Insights](./repo-insights.md) section was previously called Insights.
 
 :::
 
@@ -65,7 +65,7 @@ Whenever you select "Home", you'll be taken to the last workspace you opened.
 
 If you're creating a new workspace, you'll have the option to add repositories at the time of creation.
 
-Start by creating a Workspace name, and then click "Add repositories". You'll have three options for adding repositories:
+Start by creating a Workspace name, and then click "Add repositories." You'll have three options for adding repositories:
 
 1. **Search for Repositories**: Use our search tool by adding an organization name, followed by the repository name, and add them to your workspace.
 2. **Import a GitHub Organization**: Connect to your GitHub organizations to create a workspace from an organization.

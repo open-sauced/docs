@@ -32,7 +32,7 @@ The Repository Insights feature allows you to:
 
 ### Creating a New Repository Insight Page
 
-To connect and track your repositories, click the "+" next to "Insights" in the sidebar, then select "New Repository Insight". You will be redirected to a page where you can create your new Repository Insight Page.
+To connect and track your repositories, click the "+" next to "Insights" in the sidebar, then select "New Repository Insight." You will be redirected to a page where you can create your new Repository Insight Page.
 
 There are two ways to add repositories to your Repository Insight Page:
 
@@ -94,7 +94,7 @@ There are many reasons to create a Contributor Insight Page, but here's some ins
 ### Creating a New Contributor Insight Page
 
 1. Click the "+" next to "Insights" in the sidebar.
-2. Click "New Contributor Insight". You will be redirected to a page where you can create your new Contributor Insight Page.
+2. Click "New Contributor Insight." You will be redirected to a page where you can create your new Contributor Insight Page.
 
    ![New Contributor Insight Page](../../static/img/contrib-insight-new.png)
 

@@ -19,7 +19,7 @@ Monitor individual commit histories, track who is actively engaged, identify alu
 
 ## How to Create a Contributor Insight Page
 
-After logging in, navigate to "Insights" in the sidebar. Click the "+" next to it to be presented with options, and select "New Contributor Insight".
+After logging in, navigate to "Insights" in the sidebar. Click the "+" next to it to be presented with options, and select "New Contributor Insight."
 
 There are three ways to add a list:
 

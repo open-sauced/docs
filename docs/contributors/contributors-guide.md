@@ -19,7 +19,7 @@ To get started, you will need to create an account on OpenSauced. You can do thi
 
 Creating your profile is a great way to showcase your open source contributions, connect with other contributors and maintainers, and share during a job search. Here are some steps to help you get started:
 
-1. After creating your account, navigate to "Settings".
+1. After creating your account, navigate to "Settings."
    ![settings](../../static/img/settings.png)
 
 2. Once there, you will be asked to add your name, bio, links to your social media accounts, timezone, and other forms of contact information.
@@ -116,7 +116,7 @@ OpenSauced [Repository Insights](../features/repo-insights.md) allows you to tra
 
 ### Creating a New Repository Insight Page
 
-To track the repositories, click the "+" next to "Insights" in the sidebar, then select "New Repository Insight". You will be redirected to a page where you can create your new Repository Insight Page.
+To track the repositories, click the "+" next to "Insights" in the sidebar, then select "New Repository Insight." You will be redirected to a page where you can create your new Repository Insight Page.
 
 There are two ways to add repositories to your Repository Insight Page:
 
