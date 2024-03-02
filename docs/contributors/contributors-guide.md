@@ -149,7 +149,7 @@ The "Contributors" tab allows you to view more detailed information about other 
 
 :::tip
 
-Want to learn more about your peers? You can select them and add them to a list.
+Want to learn more about your peers? You can select and add them to a Contributor Insight Page.
 
 :::
 
