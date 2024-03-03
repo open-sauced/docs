@@ -47,8 +47,8 @@ In your workspace dashboards, you can create, view, and manage your workspaces.
 
 Within the repositories dashboard, you can view the following metrics, which are over a period of thirty days by default:
 
-- **Pull Requests**: This includes the total Opened and Merged Pull Requests for the repositories included in your workspace, as well as the velocity of pull requestions being merged.
-- **Issues**: This includes the total Opened and Closed Issues for the repositories included in your workspace, as well as the velocity of issues being closed.
+- **Pull Requests**: This includes the total opened and merged pull requests for the repositories included in your workspace, as well as the velocity of pull requests being merged.
+- **Issues**: This includes the total opened and closed issues for the repositories included in your workspace, as well as the velocity of issues being closed.
 - **Engagement**: This includes the total stars, forks, and activity ratio for the repositories included in your workspace.
 
 ## How to Create or Access a Workspace
@@ -65,7 +65,7 @@ Whenever you select "Home", you'll be taken to the last workspace you opened.
 
 If you're creating a new workspace, you'll have the option to add repositories at the time of creation.
 
-Start by creating a Workspace name, and then click "Add repositories." You'll have three options for adding repositories:
+Start by creating a workspace name, then click "Add repositories." You'll have three options for adding repositories:
 
 1. **Search for Repositories**: Use our search tool by adding an organization name, followed by the repository name, and add them to your workspace.
 2. **Import a GitHub Organization**: Connect to your GitHub organizations to create a workspace from an organization.
