@@ -30,14 +30,20 @@ please read the [Code of Conduct](./code-of-conduct.md) and follow the direction
 
 - If you wish to work on an open issue, please comment on the issue with `.take`, and it will be assigned to you.
 
-> [!TIP]
-> If an issue is not assigned, it is assumed to be available for anyone to work on. Please assign yourself to an issue before working on it to avoid conflicts.
+  :::info
+  
+  If an issue is not assigned, it is assumed to be available for anyone to work on. Please assign yourself to an issue _before_ working on it to avoid conflicts.
+
+  :::
 
 - Issues with the `needs triage` label are unavailable to `.take` until they are triaged and the label is removed. Feel free to check on the issue regularly if you want to work on it.
 - If you contribute to the project for the first time, you can search for issues with `good first issue` or `bug` labels in the repository. Please only self-assign a `good first issue` one time.
 
-> [!NOTE]
-> Please only self-assign a `good first issue` once.
+  :::note
+  
+  Please only self-assign a `good first issue` one time.
+
+  :::
 
 In case you get stuck, feel free to ask for help in the [Discord](https://discord.gg/U2peSNf23P) server or [GitHub Discussions](https://github.com/orgs/open-sauced/discussions).
 
