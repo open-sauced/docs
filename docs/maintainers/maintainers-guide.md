@@ -59,7 +59,7 @@ To learn and understand more about the data provided, see [Understanding Reposit
 
 The "Contributors" tab allows you to view more detailed information on each contributor, including activity levels, the number of repositories they contributed to, the date of their last contribution, their most used language, their time zone, the number of contributions, and their activity stats over the last 30 days.
 
-You can select and add your contributors to a Contributor Insight Page to learn more about them.
+You can select and add your contributors to a [Contributor Insight Page](#contributor-insights-connecting-with-contributors) to learn more about them.
 
 There are two ways to add selected contributors to a Contributor Insight Page:
 
