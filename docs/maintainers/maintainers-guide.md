@@ -132,7 +132,7 @@ You can filter your Contributor Insight Page by All Contributors, Active Contrib
 
 The "Contributors" tab gives you the list of the contributors and includes information like activity level, last repository they contributed to, the date of their last contribution, time zone, programming languages used, and the number of contributions.
 
-To learn more about these features, see [Understanding Contributor Insights Data](understanding-contrib-insights.md).
+To learn and understand more about the data provided, see [Understanding Contributor Insights Data](understanding-contrib-insights.md).
 
 ## Highlights: Connecting and Recognizing Contributions
 

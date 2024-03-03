@@ -193,7 +193,7 @@ There are three tabs that provide you with more information on these repositorie
 - **Activity**: The "Activity" tab gives you a graph view with more detailed information on each contributor, including the type of activity, repositories they've contributed to, and how they compare to each other.
 - **Highlights**: The "Highlights" tab gives you a list of the highlights that the contributors in your list have created. This is a great way to see what other contributors are up to and to show them support.
 
-To learn more about these features, see [Understanding Contributor Insights Data](../maintainers/understanding-contrib-insights.md).
+To learn and understand more about the data provided, see [Understanding Contributor Insights Data](../maintainers/understanding-contrib-insights.md).
 
 ## Takeaways
 
