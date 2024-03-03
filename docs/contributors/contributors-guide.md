@@ -153,7 +153,7 @@ To learn and understand more about the data provided, see [Understanding Reposit
 
 #### Activity
 
-The "Activity" tab shows a graph of the last time individual contributors' PR got merged in and how many lines of code they've touched.
+The "Activity" tab shows a graph of the last time each contributor created their PR and how many lines of code they've touched.
 
 It also provides more detailed information on each contributor when you hover over their image, including their latest PRs and repositories they've contributed to. Clicking their image will bring you to their profile on OpenSauced. This information can help you find potential repositories to contribute to and peers to collaborate with or ask for mentorship.
 

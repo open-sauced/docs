@@ -49,7 +49,7 @@ There are three tabs that provide you with more information on these repositorie
 
 #### Repositories Dashboard
 
-This tab allows you to view more detailed information on each repository, including Activity, PR Overview, PR Velocity, Spam, Contributors, and activity over the last 30 days.
+This tab allows you to view more detailed information on each repository, including activity levels, PR overview, PR velocity, spam PRs, contributors, and activity stats over the last 30 days.
 
 To learn and understand more about the data provided, see [Understanding Repository Insights Data](understanding-repo-insights.md).
 
@@ -57,7 +57,7 @@ To learn and understand more about the data provided, see [Understanding Reposit
 
 #### Contributors
 
-The "Contributors" tab allows you to view more detailed information on each contributor, including Activity, Repositories, the date of their last contribution, Time Zone, and the number of contributions.
+The "Contributors" tab allows you to view more detailed information on each contributor, including activity levels, the number of repositories they contributed to, the date of their last contribution, their most used language, their time zone, the number of contributions, and their activity stats over the last 30 days.
 
 You can select and add your contributors to a Contributor Insight Page to learn more about them.
 
@@ -70,7 +70,9 @@ There are two ways to add selected contributors to a Contributor Insight Page:
 
 #### Activity
 
-The "Activity" tab shows a graph of the last time each contributor contributed to your project and how many lines of code they've touched. It also provides more detailed information on each contributor when you hover over their image, including their latest PRs and repositories they've contributed to. Clicking their image will bring you to their profile on OpenSauced.
+The "Activity" tab shows a graph of the last time each contributor created their PR and how many lines of code they've touched.
+
+It also provides more detailed information on each contributor when you hover over their image, including their latest PRs and repositories they've contributed to. Clicking their image will bring you to their profile on OpenSauced. You can use the information in this tab to help you learn about their engagement and general interests. It will be helpful if you want to collaborate with them or consider recruiting a maintainer for your project.
 
 ![activity graph](../../static/img/activity-repos-insights.png)
 
