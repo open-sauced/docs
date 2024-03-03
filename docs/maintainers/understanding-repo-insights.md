@@ -13,10 +13,9 @@ keywords:
   - "Data Interpretation Methods"
   - "Insightful Data Examination"
   - "Guide to Understanding Data"
-
 ---
 
-Once your repositories are connected, it's time to understand the data provided in your Insight Page. Understanding this data is key to effectively managing your projects and contributors.
+Once your repositories are connected, it's time to understand the data provided in your page. Understanding this data is key to effectively managing your projects and contributors.
 
 ## Understanding Repository Insights Data
 
