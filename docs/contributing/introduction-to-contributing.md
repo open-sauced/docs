@@ -37,7 +37,7 @@ please read the [Code of Conduct](./code-of-conduct.md) and follow the direction
   :::
 
 - Issues with the `needs triage` label are unavailable to `.take` until they are triaged and the label is removed. Feel free to check on the issue regularly if you want to work on it.
-- If you contribute to the project for the first time, you can search for issues with `good first issue` or `bug` labels in the repository. Please only self-assign a `good first issue` one time.
+- If you contribute to the project for the first time, you can search for issues with `good first issue` or `bug` labels in the repository.
 
   :::note
   
