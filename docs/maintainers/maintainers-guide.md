@@ -12,7 +12,7 @@ keywords:
 
 ## Introduction to OpenSauced for Maintainers
 
-OpenSauced is a platform dedicated to empowering maintainers and redefining open source contributions. We offer a GitHub-powered dashboard for tracking contributions and gaining insights into your open source projects. You can customize your Insights Pages and Contributor Insights with the repositories you choose and the contributors you want to see.
+OpenSauced is a platform dedicated to empowering maintainers and redefining open source contributions. We offer a GitHub-powered dashboard for tracking contributions and gaining insights into your open source projects. You can customize your [Repository Insights](#repository-insights-connecting-your-repositories) and [Contributor Insights](#contributor-insights-connecting-with-contributors) with the repositories you choose and the contributors you want to see.
 
 ## Getting Started
 
@@ -57,22 +57,22 @@ To learn and understand more about the data provided, see [Understanding Reposit
 
 #### Contributors
 
-The "Contributors" tab allows you to view more detailed information on each contributor, including activity levels, the number of repositories they contributed to, the date of their last contribution, their most used language, their time zone, the number of contributions, and their activity stats over the last 30 days.
+The "Contributors" tab allows you to view more detailed information on each contributor, including their activity levels, the number of repositories they contributed to, the date of their last contribution, their most used language, their time zone, the number of contributions, and their activity stats over the last 30 days.
 
 You can select and add your contributors to a [Contributor Insight Page](#contributor-insights-connecting-with-contributors) to learn more about them.
 
 There are two ways to add selected contributors to a Contributor Insight Page:
 
-1. Create a new page.
-2. Add them to an existing page.
+1. Create a new list.
+2. Add them to an existing list.
 
 ![contributors insight list](../../static/img/contributors-insights.png)
 
 #### Activity
 
-The "Activity" tab shows a graph of the last time each contributor created their PR and how many lines of code they've touched.
+The "Activity" tab shows a graph of the last time each contributor created their PR and how many lines of code they've touched. It also provides more detailed information on each contributor when you hover over their image, including their latest PRs and repositories they've contributed to. Clicking their image will bring you to their profile on OpenSauced.
 
-It also provides more detailed information on each contributor when you hover over their image, including their latest PRs and repositories they've contributed to. Clicking their image will bring you to their profile on OpenSauced. You can use the information in this tab to help you learn about their engagement and general interests. It will be helpful if you want to collaborate with them or consider recruiting a maintainer for your project.
+You can use the information in this tab to help you learn about their engagement and general interests. It will be helpful if you want to collaborate with them or consider recruiting a maintainer for your project.
 
 ![activity graph](../../static/img/activity-repos-insights.png)
 
@@ -148,7 +148,7 @@ Highlights can be used to:
 
 There are two ways to create a new highlight:
 
-1. After clicking the "[Highlights](https://app.opensauced.pizza/feed)" tab in the top navigation, click the input that says "Post a highlight to show your work!"
+1. After clicking the "Highlights" tab in the top navigation, click the input that says "Post a highlight to show your work!"
 
 2. From your profile, click the input that says "Post a highlight to show your work!"
 
@@ -156,7 +156,7 @@ After you've clicked the input, you'll see a form that allows you to create a ne
 
 There are two ways to create a highlight:
 
-1. Paste the URL to your PR, Issue, or Dev.to blog post (shown in blue below).
+1. Paste the URL to your PR, issue, or Dev.to blog post (shown in blue below).
 2. Choose from a list of suggestions (shown in orange below).
 
 ![highlight suggestions](../../static/img/highlights.png)
