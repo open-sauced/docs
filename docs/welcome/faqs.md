@@ -30,7 +30,7 @@ Create a [Repository Insights Page](https://app.opensauced.pizza/hub/insights) o
 
 We love feedback. Post your suggestion in our [feedback repository](https://github.com/orgs/open-sauced/discussions).
 
-## Sync your GitHub Team
+## Sync Your GitHub Team
 
 ### 1. I don't see my organization on "Sync your GitHub Team."
 

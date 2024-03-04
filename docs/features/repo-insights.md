@@ -56,6 +56,6 @@ Sharing this page with your team ensures that everyone is well-informed about th
 This method gives view-only access to your Repository Insights Page.
 
 1. Navigate to your sidebar.
-2. Click the Repository Insight page that you want to share.
-3. On the top right, click the "Share" button to copy the Repository Insights Page URL to the clipboard.
+2. Click the Repository Insight Page that you want to share.
+3. On the top right, click the "Share" button to copy the Repository Insight Page URL to the clipboard.
 4. Share the URL with your team members.

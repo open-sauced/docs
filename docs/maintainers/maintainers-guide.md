@@ -124,7 +124,7 @@ The "Overview" tab gives you a high-level view of the contributors in your Contr
 
 The "Activity" tab gives you a graph view with more detailed information on each contributor, including the type of activity, repositories they've contributed to, and how they compare to each other.
 
-You can filter your Contributor Insight Page by All Contributors, Active Contributors, New Contributors, and Alumni Contributors.
+You can filter your Contributor Insight Page by "All Contributors", "Active Contributors", "New Contributors", and "Alumni Contributors."
 
 ![list graph](../../static/img/list-graph.png)
 
