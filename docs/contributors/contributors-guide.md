@@ -207,7 +207,7 @@ You can filter your Contributor Insight Page by All Contributors, Active Contrib
 
 ### Highlights
 
-The "Highlights" tab gives you a list of the highlights that the contributors listed in your page have created. This is a great way to see what other contributors are up to and to show them support.
+The "Highlights" tab gives you a list of the highlights that the contributors listed on your page have created. This is a great way to see what other contributors are up to and to show them support.
 
 To learn and understand more about the data provided, see [Understanding Contributor Insights Data](../maintainers/understanding-contrib-insights.md).
 

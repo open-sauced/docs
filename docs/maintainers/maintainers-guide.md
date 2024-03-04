@@ -118,19 +118,19 @@ There are three tabs that provide you with more information on these repositorie
 
 ### Overview
 
-The "Overview" tab gives you a high-level view of the contributors in your Contributor Insight Page, including the total number of commits in the last 30 days and the types of contributors: Active, New, and Alumni.
+The "Overview" tab gives you a high-level view of the contributors in your Contributor Insight Page, including the total number of commits in the last 30 days and the types of contributors: [Active](../welcome/glossary.md/#active-contributors), [New](../welcome/glossary.md#new-contributors), and [Alumni](../welcome/glossary.md#alumni-contributors).
 
 ### Activity
 
 The "Activity" tab gives you a graph view with more detailed information on each contributor, including the type of activity, repositories they've contributed to, and how they compare to each other.
 
-You can filter your Contributor Insight Page by "All Contributors", "Active Contributors", "New Contributors", and "Alumni Contributors."
+You can filter your Contributor Insight Page by All Contributors, Active Contributors, New Contributors, and Alumni Contributors.
 
 ![list graph](../../static/img/list-graph.png)
 
-### Contributors
+### Highlights
 
-The "Contributors" tab gives you the list of the contributors and includes information like activity level, last repository they contributed to, the date of their last contribution, time zone, programming languages used, and the number of contributions.
+The "Highlights" tab gives you a list of the highlights that the contributors listed on your page have created. This is a great way to see what other contributors are up to and to show them support.
 
 To learn and understand more about the data provided, see [Understanding Contributor Insights Data](understanding-contrib-insights.md).
 
