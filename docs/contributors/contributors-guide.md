@@ -154,7 +154,11 @@ Want to learn more about your peers? You can select and add them to a Contributo
 
 :::
 
+:::note
+
 To learn and understand more about the data provided, see [Understanding Repository Insights Data](../maintainers/understanding-repo-insights.md).
+
+:::
 
 #### Activity
 
@@ -209,7 +213,11 @@ You can filter your Contributor Insight Page by All Contributors, Active Contrib
 
 The "Highlights" tab gives you a list of the highlights that the contributors listed on your page have created. This is a great way to see what other contributors are up to and to show them support.
 
+:::note
+
 To learn and understand more about the data provided, see [Understanding Contributor Insights Data](../maintainers/understanding-contrib-insights.md).
+
+:::
 
 ## Takeaways
 

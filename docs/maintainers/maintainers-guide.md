@@ -51,7 +51,11 @@ There are three tabs that provide you with more information on these repositorie
 
 This tab allows you to view more detailed information on each repository, including activity levels, PR overview, PR velocity, spam PRs, contributors, and activity stats over the last 30 days.
 
+:::note
+
 To learn and understand more about the data provided, see [Understanding Repository Insights Data](understanding-repo-insights.md).
+
+:::
 
 ![repositories tab](../../static/img/repos-insights.png)
 
@@ -132,7 +136,11 @@ You can filter your Contributor Insight Page by All Contributors, Active Contrib
 
 The "Highlights" tab gives you a list of the highlights that the contributors listed on your page have created. This is a great way to see what other contributors are up to and to show them support.
 
+:::note
+
 To learn and understand more about the data provided, see [Understanding Contributor Insights Data](understanding-contrib-insights.md).
+
+:::
 
 ## Highlights: Connecting and Recognizing Contributions
 
