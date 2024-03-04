@@ -33,7 +33,7 @@ The expandable sidebar includes:
 
 :::info
 
-We recently had a naming change. The [Contributors Insights](contributor-insights.md) section was previously called Lists, and the [Repositories Insights](./repo-insights.md) section was previously called Insights.
+We recently had a naming change. The [Contributors Insights](contributor-insights.md) feature was previously called Lists, and the [Repositories Insights](./repo-insights.md) feature was previously called Insights.
 
 :::
 
