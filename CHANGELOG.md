@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.66.2](https://github.com/open-sauced/docs/compare/v1.66.1...v1.66.2) (2024-03-05)
+
+
+### Bug Fixes
+
+* format and wording adjustments in workspaces, contributors and repo insights sections ([#262](https://github.com/open-sauced/docs/issues/262)) ([37bddac](https://github.com/open-sauced/docs/commit/37bddace074327542d12d164a4b61e42303c8548))
+
 ### [1.66.1](https://github.com/open-sauced/docs/compare/v1.66.0...v1.66.1) (2024-03-04)
 
 
