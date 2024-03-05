@@ -15,7 +15,7 @@ keywords:
   - "Organizing Data in Contributor Insights "
 ---
 
-Once you've created your list of contributors, it's time to understand the data provided. Understanding this data is key to effectively managing your projects and contributors.
+Once you've created your Contributor Insight Page, it's time to understand the data provided. Understanding this data is key to effectively managing your projects and contributors.
 
 ## Understanding Contributor Insights Data
 

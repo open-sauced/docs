@@ -119,7 +119,7 @@ module.exports = {
           collapsed: true,
           items: [
             "contributing/opensauced-maintainers-guide/maintainers-guide",
-            "contributing/opensauced-maintainers-guide/community-maintainers-guide"
+            "contributing/opensauced-maintainers-guide/community-maintainers-guide",
           ],
         },
         "contributing/set-up-authentication",
