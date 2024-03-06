@@ -1,6 +1,6 @@
 {
   "name": "@open-sauced/docs.opensauced.pizza",
-  "version": "1.66.2",
+  "version": "1.66.3",
   "private": true,
   "engines": {
     "node": "^18",

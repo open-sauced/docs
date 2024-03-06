@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.66.3](https://github.com/open-sauced/docs/compare/v1.66.2...v1.66.3) (2024-03-06)
+
+
+### Bug Fixes
+
+* Update docs for 100 days of oss ([#271](https://github.com/open-sauced/docs/issues/271)) ([0a7f9aa](https://github.com/open-sauced/docs/commit/0a7f9aaa610e48b399775bcb1ac39c94caaf7f3c))
+
 ### [1.66.2](https://github.com/open-sauced/docs/compare/v1.66.1...v1.66.2) (2024-03-05)
 
 
