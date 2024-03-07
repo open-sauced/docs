@@ -87,6 +87,6 @@ You can share your workspace with others by copying the URL and sending it to th
 
 ### How to Add Someone to a Workspace
 
-In order to add someone to your Workspace, you must be on the paid plan. You can add someone to your workspace by clicking on the "Add People" button on the top right of the workspace dashboard.
+In order to add someone to your Workspace, you must be on the paid plan. You can add someone to your workspace by clicking on the "Edit" button on the top right of the workspace dashboard and then entering the username of the workspace member you would like to add.
 
 ![Add People](../../static/img/add-people.png)
