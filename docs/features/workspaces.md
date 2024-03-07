@@ -95,6 +95,6 @@ By upgrading to a team workspace, you'll have unlimited contributor and reposito
 
 You can add someone to your workspace by clicking on the "Edit" button on the top right of the workspace dashboard and then entering the username of the workspace member you would like to add.
 
-![Add People](../../static/img/add-people.png)
+![Add People](../../static/img/add-to-workspace.png)
 
 Once you add a member to a workspace, they will be able to view the workspace and its contents. You will also be able to edit their permissions for the workspace, including giving them edit and owner permissions.
