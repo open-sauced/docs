@@ -89,7 +89,7 @@ You can share your workspace with others by copying the URL and sending it to th
 
 ## Team Workspaces
 
-Team workspaces are part of the PRO plan and are designed to help teams collaborate on and understand open source projects. Team workspaces are private by default, and only members of the team can view the workspace.
+Team workspaces are part of the PRO plan and are designed to help teams collaborate on and understand open source projects. Team workspaces are public by default. You can switch it to private in your settings so only members of the team can view the workspace.
 
 By upgrading to a team workspace, you'll have unlimited contributor and repository insights, as well as the ability to toggle between private and public visibility. 
 
