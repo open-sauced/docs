@@ -76,3 +76,17 @@ Start by creating a workspace name, then click "Add repositories." You'll have t
 3. **Import Repositories**: Paste a list of repositories to add to your workspace.
 
 Once your repositories are added, you'll be able to see them in your repository dashboard. You can also edit your workspace to add or remove repositories anytime.
+
+### Changing Workspaces
+
+Anything you create in a workspace is specific to that workspace. When you switch workspaces, you'll see the repositories and contributors specific to that workspace.
+
+## How to Share a Workspace
+
+You can share your workspace with others by copying the URL and sending it to them. If your workspace is private (a PRO plan feature), only those with access to the workspace will be able to view it.
+
+### How to Add Someone to a Workspace
+
+In order to add someone to your Workspace, you must be on the paid plan. You can add someone to your workspace by clicking on the "Add People" button on the top right of the workspace dashboard.
+
+![Add People](../../static/img/add-people.png)
