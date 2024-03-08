@@ -95,7 +95,7 @@ By upgrading to a team workspace, you'll have unlimited contributor and reposito
 
 :::info
 
-The visibility of your insights pages is determined by the visibility of the workspace. If your workspace is public, your insights will be public. If your workspace is private, your insights will be private.
+The visibility of your Insights Pages is determined by the visibility of the workspace. If your workspace is public, your insights will be public. If your workspace is private, your insights will be private.
 
 :::
 
