@@ -93,6 +93,12 @@ Team workspaces are part of the PRO plan and are designed to help teams collabor
 
 By upgrading to a team workspace, you'll have unlimited contributor and repository insights, as well as the ability to toggle between private and public visibility. 
 
+:::info
+
+The visibility of your insights pages is determined by the visibility of the workspace. If your workspace is public, your insights will be public. If your workspace is private, your insights will be private.
+
+:::
+
 You can add someone to your workspace by clicking on the "Edit" button located at the top right of the workspace dashboard and entering the username of the workspace member you would like to add.
 
 ![Add People](../../static/img/add-to-workspace.png)
