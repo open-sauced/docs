@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.67.0](https://github.com/open-sauced/docs/compare/v1.66.3...v1.67.0) (2024-03-08)
+
+
+### Features
+
+* update workspace with more information on team plan ([#272](https://github.com/open-sauced/docs/issues/272)) ([2a82913](https://github.com/open-sauced/docs/commit/2a82913a1405875fd560cd24c22e22879f6f119d))
+
 ### [1.66.3](https://github.com/open-sauced/docs/compare/v1.66.2...v1.66.3) (2024-03-06)
 
 
