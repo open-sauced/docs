@@ -20,7 +20,7 @@ You can navigate your workspaces from the sidebar. Each workspace has its own da
 
 ![Workspace Access](../../static/img/access-workspace.png)
 
-By default, all workspaces are public. This means that anyone with the link to your workspace can view it and all of your Insight Pages. If you want to make your workspace private, you can upgrade your account to a paid plan.
+By default, all workspaces are public. This means that anyone with the link to your workspace can view it, including all of your Insight Pages in the workspace. If you want to make your workspace private, you can upgrade your account to a paid plan.
 
 ### The Sidebar
 
