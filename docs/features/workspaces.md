@@ -9,6 +9,7 @@ keywords:
   - "open source teams"
   - "open source companies"
   - "open source contributors"
+  - "open source maintainers"
 ---
 
 In the OpenSauced app, your work unfolds within a Workspace: a virtual environment for managing information—whether for individual productivity, team collaboration, or company-wide operations. Workspaces serve as a centralized hub for sharing, collaborating on, and monitoring open source projects and their contributors. This feature is designed to streamline your open source involvement, making it more efficient and interconnected.
@@ -76,3 +77,24 @@ Start by creating a workspace name, then click "Add repositories." You'll have t
 3. **Import Repositories**: Paste a list of repositories to add to your workspace.
 
 Once your repositories are added, you'll be able to see them in your repository dashboard. You can also edit your workspace to add or remove repositories anytime.
+
+### Changing Workspaces
+
+Anything you create in a workspace is specific to that workspace. When you switch workspaces, you'll see the repositories and contributors specific to that workspace.
+
+## How to Share a Workspace
+
+You can share your workspace with others by copying the URL and sending it to them. If your workspace is private (a PRO plan feature), only those with access to the workspace will be able to view it.
+
+
+## Team Workspaces
+
+Team workspaces are part of the PRO plan and are designed to help teams collaborate on and understand open source projects. Team workspaces are public by default. However, you can switch it to private in your settings so only team members can view the workspace.
+
+By upgrading to a team workspace, you'll have unlimited contributor and repository insights, as well as the ability to toggle between private and public visibility. 
+
+You can add someone to your workspace by clicking on the "Edit" button located at the top right of the workspace dashboard and entering the username of the workspace member you would like to add.
+
+![Add People](../../static/img/add-to-workspace.png)
+
+Once you add a member to a workspace, they will be able to view the workspace and its contents. You will also be able to edit their permissions for the workspace, including giving them edit and owner permissions.
