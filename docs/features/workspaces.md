@@ -93,7 +93,7 @@ Team workspaces are part of the PRO plan and are designed to help teams collabor
 
 By upgrading to a team workspace, you'll have unlimited contributor and repository insights, as well as the ability to toggle between private and public visibility. 
 
-You can add someone to your workspace by clicking on the "Edit" button on the top right of the workspace dashboard and then entering the username of the workspace member you would like to add.
+You can add someone to your workspace by clicking on the "Edit" button located at the top right of the workspace dashboard and entering the username of the workspace member you would like to add.
 
 ![Add People](../../static/img/add-to-workspace.png)
 
