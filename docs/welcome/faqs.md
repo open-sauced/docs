@@ -43,3 +43,8 @@ If you see your organization but get an error when selecting a team, your organi
 If you're an **owner** of the repository, you can select "Allow select third-party access" or specifically approve OpenSauced by following the directions in [this guide](https://docs.github.com/en/organizations/managing-oauth-access-to-your-organizations-data/approving-oauth-apps-for-your-organization).
 
 If you are not an owner of the organization, you will need to check with your organization's owner and request access. For complete instructions, see [this guide](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/requesting-organization-approval-for-oauth-apps).
+
+
+### 3. Do I need to grant authorization to connect GitHub to OpenSauced?
+
+Yes, auth access through GitHub OAuth is required to link your profile to a workspace/team. As an early stage startup, we chose this method for its simplicity. We also request read-only access to your GitHub organizations to gather Contributor Insights based on public GitHub Teams data. We ensure all data used is public and read-only.
