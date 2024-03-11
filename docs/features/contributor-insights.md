@@ -29,4 +29,10 @@ There are three ways to add a list:
 
 Once your Contributor Insight Page is created, you'll be able to see an overview of all the contributors in your list, a graph of their activity, and a detailed breakdown of the contributors.
 
-If you're having trouble syncing your Organization or Team, check out the "[Sync Your GitHub Team](../welcome/faqs.md#sync-your-github-team)" section in our FAQs.
+:::tip
+
+ If you're having trouble syncing your Organization or Team, check out the "[Sync Your GitHub Team](../welcome/faqs.md#sync-your-github-team)" section in our FAQs.
+
+:::
+
+By default, your Contributor Insight Page is public. If your Contributor Insight Page is private (a PRO plan feature), only those with access to your Workspace will be able to view it.
