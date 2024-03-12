@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.67.1](https://github.com/open-sauced/docs/compare/v1.67.0...v1.67.1) (2024-03-12)
+
+
+### Bug Fixes
+
+* update workspace images based on latest UI ([#277](https://github.com/open-sauced/docs/issues/277)) ([12c8ffd](https://github.com/open-sauced/docs/commit/12c8ffdb69c36a74b073c1fe594c9adc3d6206e4))
+
 ## [1.67.0](https://github.com/open-sauced/docs/compare/v1.66.3...v1.67.0) (2024-03-08)
 
 
