@@ -18,7 +18,7 @@ In the OpenSauced app, your work unfolds within a Workspace: a virtual environme
 
 You can navigate your workspaces from the sidebar. Each workspace has its own dashboard, which includes the repositories you're tracking in the workspace.
 
-![Workspace Access](../../static/img/access-workspace.png)
+![Workspace Access](../../static/img/workspace-access.png)
 
 By default, all workspaces are public. This means that anyone with the link to your workspace can view it, including all of your Insight Pages in the workspace. If you want to make your workspace private, you can upgrade your account to a PRO plan.
 
