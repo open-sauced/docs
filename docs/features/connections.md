@@ -10,19 +10,20 @@ keywords:
   - "Online connections"
   - "Networking opportunities"
   - "tech connections"
-  - "grow newtwork"
+  - "grow network"
   - "grow connection"
   - "Community connections"
-
 ---
 
 ## What are Connections?
 
-Connections on OpenSauced serve as a way to build and nurture your professional network within the open source ecosystem. Imagine you're searching for experts in Artificial Intelligence using our [Lists](lists.md) feature, and you come across several promising developers. What's next? With Connections, you can now send a request to connect, bringing these experts into your professional circle for easy communication and collaboration.
+Connections on OpenSauced serve as a way to build and nurture your professional network within the open source ecosystem. Imagine you're searching for experts in Artificial Intelligence using our [Contributor Insights](contributor-insights.md) feature, and you come across several promising developers. What's next?
+
+With Connections, you can now send a request to connect, bringing these experts into your professional circle for easy communication and collaboration.
 
 ![connections demo](../../static/gif/connections.gif)
 
-## How Do Connections Work?
+## How do Connections Work?
 
 - **Sending connection requests**: Once you identify users you'd like to connect with, you can send them a connection request.
 - **Acceptance**: Upon acceptance of your connection request, both parties become 1st-degree connections.

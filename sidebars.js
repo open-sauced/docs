@@ -23,22 +23,28 @@ module.exports = {
       label: "Features",
       collapsed: false,
       items: [
+        "features/workspaces",
+        "features/repo-insights",
+        "features/contributor-insights",
         "features/highlights",
-        "features/insights",
         "features/dev-card",
-        "features/lists",
-        "features/connections",
       ],
     },
     {
       type: "category",
-      label: "Maintainers",
+      label: "Maintainers Guide to OpenSauced",
       collapsed: false,
       items: [
         "maintainers/maintainers-guide-to-open-sauced",
-        "maintainers/understanding-insights",
-        "maintainers/understanding-lists",
+        "maintainers/understanding-repo-insights",
+        "maintainers/understanding-contribs-insights",
       ],
+    },
+    {
+      type: "category",
+      label: "Contributors Guide to OpenSauced",
+      collapsed: true,
+      items: ["contributors/contributors-guide-to-open-sauced"],
     },
     {
       type: "category",
@@ -49,7 +55,7 @@ module.exports = {
     {
       type: "category",
       label: "Tools",
-      collapsed: false,
+      collapsed: true,
       items: [
         "tools/hot-opensauced",
         "tools/pizza-cli",
@@ -113,7 +119,7 @@ module.exports = {
           collapsed: true,
           items: [
             "contributing/opensauced-maintainers-guide/maintainers-guide",
-            "contributing/opensauced-maintainers-guide/community-maintainers-guide"
+            "contributing/opensauced-maintainers-guide/community-maintainers-guide",
           ],
         },
         "contributing/set-up-authentication",
