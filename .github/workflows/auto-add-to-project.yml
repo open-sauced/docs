@@ -1,4 +1,4 @@
-name: Adds all issues opened in the /api repo to the Team Dashboard
+name: Adds all issues opened in the /docs repo to the Team Dashboard
 
 on:
   issues:
