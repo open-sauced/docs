@@ -123,3 +123,76 @@ Sharing the story of your hard work is an opportunity to connect with the reader
 
 ## Creating Your Workspace
 
+As a student working on multiple projects or contributing to various open source repositories, keeping track of progress, goals, and collaboration can be daunting. To keep track of the repositories that are most important to you or repositories that you're working on with a team, OpenSauced Workspaces can be your go-to tool for organizing and understanding your open source journey.
+
+Your Workspace helps you to:
+
+- **Understand projects at a high level**: Being able to look at all the repositories that are important to you and understand them at a high level makes it easier for you to share this information and collaborate with others.
+- **Enhance team collaboration**: If you're working with a group you can keep track of what everyone is working on. This transparency is key to teamwork and support, whether you're setting goals for a class project, contributing to a group assignment, or working together for accountability.
+- **Deepen your project insight**: Understanding the underlying activities of the projects you're tracking helps you to understand their progress, health, and the community of student contributors you're part of.
+- **Celebrate and communicate your achievements**: When it's time to talk about your experience, having analytics on the projects you worked on allows you to showcase your contributions, acknowledge the efforts of your peers, and clearly communicate the hard work invested.
+
+Workspaces offer a centralized platform that’s perfect for student's to organize, track, and analyze the open source projects they're working on. 
+
+### Creating a New Workspace
+
+To create a workspace, start by accessing the **Workspace switcher** in the sidebar. From there, you can create a new workspace or view an existing one.
+
+![workspace switcher](../../../static/img/workspace-switcher.png)
+
+<br/>
+
+:::note
+
+Whenever you select "Home", you'll be taken to the last workspace you opened.
+
+:::
+
+### Adding Repositories to Your Workspace
+
+If you're creating a new workspace, you'll have the option to add repositories at the time of creation.
+
+Start by creating a workspace name, then click "Add repositories". You'll have three options for adding repositories:
+
+1. **Search for Repositories**: Use our search tool by adding an organization name, followed by the repository name, and add them to your workspace.
+2. **Import a GitHub Organization**: Connect to your GitHub organizations to create a workspace from an organization. (If you're having trouble with this, see the "[Sync Your GitHub Team](../../welcome/faqs.md#sync-your-github-team)" section in our FAQs.)
+3. **Import Repositories**: Paste a list of repositories to add to your workspace.
+
+Once your repositories are added, you'll be able to see them in your repository dashboard. You can also edit your workspace to add or remove repositories anytime.
+
+### Navigating Your Workspace
+
+Once your repositories are connected, you'll enter your Workspace dashboard. In your workspace dashboards, you can create, view, and manage your workspaces.
+
+#### Repositories Dashboard
+
+![Workspaces](../../../static/img/workspace.png)
+
+Within the repositories dashboard, you can view the following metrics, which are over a period of thirty days by default:
+
+- **Pull Requests**: This includes the total opened and merged pull requests for the repositories included in your workspace, as well as the velocity of pull requests being merged.
+- **Issues**: This includes the total opened and closed issues for the repositories included in your workspace, as well as the velocity of issues being closed.
+- **Engagement**: This includes the total stars, forks, and activity ratio for the repositories included in your workspace.
+
+
+### Why Create a Workspace?
+
+There are many reasons to create a workspace. Here are a few:
+
+1. **Targeted Contributions**: Workspaces allow you to create a list of repositories you are interested in or actively contributing to, which can help you stay focused on projects that align with your interests or goals.
+
+2. **Job Search Organization**: You can create workspaces dedicated to tracking open source projects from companies that are known for hiring contributors, helping you find potential job opportunities.
+
+3. **Coursework Management**: For managing group open source projects or individual assignments, a workspace can be used to organize repositories that are part of the assignments, keeping all relevant repositories in one accessible location.
+
+4. **Skill-Specific Exploration**: You can use workspaces to follow repositories that help you build specific skills or understand certain technologies, creating a tailored learning environment that aligns with your career path or focus.
+
+5. **Community Engagement Tracking**: By adding repositories you're interested in, you can monitor and engage with the communities behind them, understanding the dynamics of open source collaboration, which is invaluable for both personal and professional networking.
+
+
+
+
+
+
+
+Beyond workspaces, you may want to get insights into other repositories and contributors to help you understand the health and growth of your projects. One way to do that is through Repository Insights.
