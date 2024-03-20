@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.68.0](https://github.com/open-sauced/docs/compare/v1.67.1...v1.68.0) (2024-03-20)
+
+
+### Documentation
+
+* Add section on workspaces to maintainers guide ([#279](https://github.com/open-sauced/docs/issues/279)) ([c0fe6b9](https://github.com/open-sauced/docs/commit/c0fe6b96869d88dff8205c05f32f754679ebc457))
+
 ### [1.67.1](https://github.com/open-sauced/docs/compare/v1.67.0...v1.67.1) (2024-03-12)
 
 
