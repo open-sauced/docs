@@ -42,6 +42,15 @@ module.exports = {
           "opensauced-guides/job-seekers-guide/job-seekers-guide-introduction",
           "opensauced-guides/job-seekers-guide/how-to-translate-open-source-contributions-into-career-opportunities",
         ],
+      },
+      {
+        type: "category",
+        label: "Student's Guide",
+        collapsed: true,
+        items: [
+          "opensauced-guides/students-guide/students-guide",
+
+        ],
       },],
     },
     {
