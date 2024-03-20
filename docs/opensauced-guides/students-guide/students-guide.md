@@ -87,7 +87,7 @@ There are two ways to create a new highlight:
 1. Paste the URL to your PR, issue, or Dev.to blog post (shown in blue below).
 2. Choose from a list of suggestions (shown in orange below).
 
-![highlight suggestions](../../static/img/highlights.png)
+![highlight suggestions](../../../static/img/highlights.png)
 
 :::note
 
@@ -155,7 +155,7 @@ If you're creating a new workspace, you'll have the option to add repositories a
 Start by creating a workspace name, then click "Add repositories". You'll have three options for adding repositories:
 
 1. **Search for Repositories**: Use our search tool by adding an organization name, followed by the repository name, and add them to your workspace.
-2. **Import a GitHub Organization**: Connect to your GitHub organizations to create a workspace from an organization. (If you're having trouble with this, see the "[Sync Your GitHub Team](../../welcome/faqs.md#sync-your-github-team)" section in our FAQs.)
+2. **Import a GitHub Organization**: Connect to your GitHub organizations to create a workspace from an organization. (If you're having trouble with this, see the "[Sync Your GitHub Team](../../welcome/faqs.md)" section in our FAQs.)
 3. **Import Repositories**: Paste a list of repositories to add to your workspace.
 
 Once your repositories are added, you'll be able to see them in your repository dashboard. You can also edit your workspace to add or remove repositories anytime.
@@ -192,7 +192,7 @@ There are many reasons to create a workspace. Here are a few:
 
 ## Repository Insights: Connecting Your Repositories
 
-OpenSauced [Repository Insights](../features/repo-insights.md) allows you to track open source projects you are interested in. You can use Repository Insights Pages to track repositories' growth, analyze work, and connect with others.
+OpenSauced [Repository Insights](../../features/repo-insights.md) allows you to track open source projects you are interested in. You can use Repository Insights Pages to track repositories' growth, analyze work, and connect with others.
 
 ### Why Create a Repository Insights Page
 
@@ -215,7 +215,7 @@ There are two ways to add repositories to your Repository Insight Page:
 1. **Sync GitHub organization**: Syncing your GitHub organizations is a good idea if you want to keep track of their open source project activities and trends.
 2. **Connect individual repositories**: Connecting individual repositories is a good idea if you want to keep track of the contributions of a specific repository or group of repositories.
 
-![sync Repository Insights gif](../../static/gif/insight-page-demo.gif)
+![sync Repository Insights gif](../../../static/gif/insight-page-demo.gif)
 
 ### Using Your Repository Insights Page
 
