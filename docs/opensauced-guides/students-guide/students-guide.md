@@ -306,3 +306,10 @@ The "Highlights" tab gives you a list of the highlights that the contributors li
 ## Conclusion
 
 Embarking on your open source journey with OpenSauced opens up a world of learning and development opportunities. It's a chance to apply your knowledge to real-world projects, collaborate with a global community, and build a portfolio that stands out to educators and employers alike. We're excited to support you on this journey and can't wait to see the contributions you'll make and the milestones you'll achieve. If you have any questions or need assistance, our community is here to help you navigate your path in open source.
+
+Here are some other resources you might find helpful in your journey:
+
+- [100 Days of OSS](../../community/100-days-of-oss.md)
+- [Intro to Open Source](https://intro.opensauced.pizza/#/)
+- [Resume Driven Contributions](https://opensauced.pizza/blog/resume-driven-contributions)
+- [Stop Burning Out Maintainers: An Empathetic Guide for Contributors](https://opensauced.pizza/blog/stop-burning-out-maintainers-an-empathetic-guide-for-contributors)
