@@ -46,7 +46,7 @@ Your profile is a great resource for showcasing your contributions and sharing y
 
 On your profile, you will see the "Highlights" tab, which you can learn more about [in this section](#highlights-connecting-and-recognizing-contributions). Other tabs you may find useful on your profile are: 
 
-- **Contributions**: This tab includes a graph showing the number of PRs you have opened, [the velocity of your PRs](../../welcome/glossary.md#pr-velocity), and the number of repositories you have contributed to in the last thirty days. Underneath the graph is a "Latest PRs" chart, which shows a list of current and recent PRs. This tab is helpful if you want to showcase a steady and consistent open source contribution experience.
+- **Contributions**: This tab includes a graph showing the number of PRs you have opened, [the velocity of your PRs](../../welcome/glossary.md), and the number of repositories you have contributed to in the last thirty days. Underneath the graph is a "Latest PRs" chart, which shows a list of current and recent PRs. This tab is helpful if you want to showcase a steady and consistent open source contribution experience.
 - **Recommendations**: This tab includes a list of open source projects that are chosen based on the programming languages you picked in the "Interests" section of your public profile. It is useful if you're looking for new projects to contribute to.
 
 :::tip
@@ -72,7 +72,7 @@ For example, if you wanted to look for a JavaScript project to contribute to, yo
 
 ## Highlights: Connecting and Recognizing Contributions
 
-Leveraging OpenSauced's [Highlights](../features/highlights.md) feature is a great way for you to showcase your valuable contributions to open source projects. You can curate and share your achievements and milestones and bring visibility to your hard work.
+Leveraging OpenSauced's [Highlights](../../features/highlights.md) feature is a great way for you to showcase your valuable contributions to open source projects. You can curate and share your achievements and milestones and bring visibility to your hard work.
 
 The Highlights feature allows you to:
 
@@ -281,7 +281,7 @@ There are three tabs that provide you with more information on these repositorie
 
 ### Overview
 
-The "Overview" tab gives you a high-level view of the contributors in your list, including the total number of commits in the last 30 days and the types of contributors: [Active](../../../welcome/glossary.md/#active-contributors), [New](../../../welcome/glossary.md#new-contributors), and [Alumni](../../../welcome/glossary.md#alumni-contributors).
+The "Overview" tab gives you a high-level view of the contributors in your list, including the total number of commits in the last 30 days and the types of contributors: Active, New, and Alumni.
 
 ### Activity
 
