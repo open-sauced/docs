@@ -107,7 +107,7 @@ Sharing the story of your hard work is an opportunity to connect with the reader
 
 1. **Share your motivation**: Briefly explain why you raised the issue. For example, "I'm passionate about improving accessibility because I believe everyone should have equal access to information."
 2. **Summarize the issue**: Briefly describe the issue you wrote so your readers have context. For example, "I raised an issue to add alt text to images in the project's 'About Us' page."
-3. **Describe the impact:** Briefly state how the resolution of the issue will improve the project. For example, "This will help people who use screen readers to understand the content better."
+3. **Describe the impact:** Briefly state how the resolution of the issue will improve the project. For example, "This will help people who use screen readers understand the content better."
 
 #### Highlighting PRs
 
