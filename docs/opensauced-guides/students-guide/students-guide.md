@@ -132,7 +132,7 @@ Your Workspace helps you to:
 - **Deepen your project insight**: Understanding the underlying activities of the projects you're tracking helps you to understand their progress, health, and the community of student contributors you're part of.
 - **Celebrate and communicate your achievements**: When it's time to talk about your experience, having analytics on the projects you worked on allows you to showcase your contributions, acknowledge the efforts of your peers, and clearly communicate the hard work invested.
 
-Workspaces offer a centralized platform that’s perfect for student's to organize, track, and analyze the open source projects they're working on. 
+Workspaces offer a centralized platform. It's perfect for students to organize, track, and analyze the open source projects they're working on.
 
 ### Creating a New Workspace
 
