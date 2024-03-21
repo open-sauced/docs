@@ -181,7 +181,7 @@ There are many reasons to create a workspace. Here are a few:
 
 1. **Targeted Contributions**: Workspaces allow you to create a list of repositories you are interested in or actively contributing to, which can help you stay focused on projects that align with your interests or goals.
 
-2. **Job Search Organization**: You can create workspaces dedicated to tracking open source projects from companies that are known for hiring contributors, helping you find potential job opportunities.
+2. **Job Search Organization**: You can create workspaces dedicated to tracking open source projects from companies known for hiring contributors, which can help you find potential job opportunities.
 
 3. **Coursework Management**: For managing group open source projects or individual assignments, a workspace can be used to organize repositories that are part of the assignments, keeping all relevant repositories in one accessible location.
 
