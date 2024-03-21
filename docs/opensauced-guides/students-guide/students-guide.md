@@ -155,7 +155,7 @@ If you're creating a new workspace, you'll have the option to add repositories a
 Start by creating a workspace name, then click "Add repositories". You'll have three options for adding repositories:
 
 1. **Search for Repositories**: Use our search tool by adding an organization name, followed by the repository name, and add them to your workspace.
-2. **Import a GitHub Organization**: Connect to your GitHub organizations to create a workspace from an organization. (If you're having trouble with this, see the "[Sync Your GitHub Team](../../welcome/faqs.md)" section in our FAQs.)
+2. **Import a GitHub Organization**: Connect to your GitHub organizations to create a workspace from an organization. (If you're having trouble with this, see the "[Sync Your GitHub Team](../../welcome/faqs.md#sync-your-github-team)" section in our FAQs.)
 3. **Import Repositories**: Paste a list of repositories to add to your workspace.
 
 Once your repositories are added, you'll be able to see them in your repository dashboard. You can also edit your workspace to add or remove repositories anytime.
