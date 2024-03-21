@@ -117,7 +117,7 @@ Sharing the story of your hard work is an opportunity to connect with the reader
 
 #### Highlighting Dev.to Blog Posts
 
-1. **Describe the topic**: Begin with an interesting blog post summary to help others to understand your writing.
+1. **Describe the topic**: Begin with an interesting blog post summary to help others understand your writing.
 2. **Discuss the inspiration**: Explain why you wrote this blog post. Is it to guide others on improving their coding skills, raise awareness about an issue in the tech community, or display your progress in learning a new programming language?
 3. **End with a call-to-action**: Encourage others to read and engage with the post.
 
