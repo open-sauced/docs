@@ -51,7 +51,7 @@ On your profile, you will see the "Highlights" tab, which you can learn more abo
 
 :::tip
 
-Don't just share your profile, include in on things like your resume, LinkedIn, your GitHub Readme, and  your personal website to showcase your most up-to-date open source contributions.
+Don't just share your profile, include a link to it on your resume, LinkedIn, your GitHub Readme, and  your personal website to showcase your most up-to-date open source contributions.
 
 :::
 
@@ -64,7 +64,7 @@ Another fun way to share your open source contributions is through your [Dev Car
 
 ## Explore: Finding Your Next Open Source Project
 
-The "Explore" tab is a great place to start if you're looking for a new open source project to contribute to or want to find repositories for potential job opportunities. Here, you can find a list of open source projects and filter them by language, top repos, recent, most active, and more.
+The "Explore" tab is a great place to start if you're looking for a new open source project to contribute to. Here, you can find a list of open source projects and filter them by language, top repos, recent, most active, and more.
 
 Once you've selected your filters, you'll be able to see the contributors, spam, and activity levels of the repository. Understanding a repository's activity level and PR velocity can help you determine if it's a good fit for you to contribute to and what to expect when you submit a PR.
 
