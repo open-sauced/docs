@@ -11,7 +11,7 @@ keywords:
 
 ## Introduction to OpenSauced for Students
 
-Welcome to the wonderful world of open source. As a student, you'll find countless opportunities to find contributing experiences, collaborate across global projects, and enhance your resume through meaningful contributions. You can use OpenSauced as a tool to enhance your open source journey by helping you to find interesting repositories that match your academic and personal interests, document your journey, learn from the community, and showcase your growth.
+Welcome to the wonderful world of open source. As a student, you'll find countless opportunities to contribute to projects, collaborate across global projects, and enhance your resume through meaningful contributions. You can use OpenSauced as a tool to enhance your open source journey by helping you to find interesting repositories that match your academic and personal interests, document your journey, learn from the community, and showcase your growth.
 
 In this guide, you will learn how to use OpenSauced features like your personal [Dev Card](../../features/dev-card.md), [Highlights](../../features/highlights.md), [Contributor Insights](../../features/contributor-insights.md), and [Repository Insights](../../features/repo-insights.md) to showcase your open source work and build connections to help you meet your next goals.
 
