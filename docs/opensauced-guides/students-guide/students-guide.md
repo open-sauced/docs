@@ -225,7 +225,7 @@ There are three tabs that provide you with more information on these repositorie
 
 #### Repositories Dashboard
 
-If you're looking for an active project to contribute to, this tab can help you as it contains information such as activity levels, PR overview, PR velocity, spam PRs, contributors, and activity stats over the last 30 days. This information is also a good way to connect with others on the project or where to find support.
+If you're looking for an active project to contribute to, this tab can help you. It contains information such as activity levels, PR overview, PR velocity, spam PRs, contributors, and activity stats over the last 30 days. This information is also a good way to connect with others on the project or where to find support.
 
 ![repositories tab](../../../static/img/repos-insights.png)
 
