@@ -35,7 +35,7 @@ Creating your profile is a great way to showcase your open source contributions,
 
    :::
 
-3. In the "Interests" section, select the various programming languages and topics you are interested in. Setting them helps us recommend open source projects that fit your interests.
+3. In the "Interests" section, select the various programming languages and topics you are interested in. Setting them up helps us recommend open source projects that fit your interests.
 4. Manage your email preferences.
 
 ### Your Profile
@@ -72,7 +72,7 @@ For example, if you wanted to look for a JavaScript project to contribute to, yo
 
 ## Highlights: Connecting and Recognizing Contributions
 
-Leveraging OpenSauced's [Highlights](../../features/highlights.md) feature is a great way for you to showcase your valuable contributions to open source projects. You can curate and share your achievements and milestones and bring visibility to your hard work.
+Leveraging OpenSauced's [Highlights](../../features/highlights.md) feature is a great way to showcase your valuable contributions to open source projects. You can curate and share your achievements and milestones, bringing visibility to your hard work.
 
 The Highlights feature allows you to:
 
@@ -117,7 +117,7 @@ Sharing the story of your hard work is an opportunity to connect with the reader
 
 #### Highlighting Dev.to Blog Posts
 
-1. **Describe the topic**: Begin with an interesting blog post summary to help others to understand your writing.
+1. **Describe the topic**: Begin with an interesting blog post summary to help others understand your writing.
 2. **Discuss the inspiration**: Explain why you wrote this blog post. Is it to guide others on improving their coding skills, raise awareness about an issue in the tech community, or display your progress in learning a new programming language?
 3. **End with a call-to-action**: Encourage others to read and engage with the post.
 
@@ -128,7 +128,7 @@ As a student working on multiple projects or contributing to various open source
 Your Workspace helps you to:
 
 - **Understand projects at a high level**: Being able to look at all the repositories that are important to you and understand them at a high level makes it easier for you to share this information and collaborate with others.
-- **Enhance team collaboration**: If you're working with a group you can keep track of what everyone is working on. This transparency is key to teamwork and support, whether you're setting goals for a class project, contributing to a group assignment, or working together for accountability.
+- **Enhance team collaboration**: If you're working with a group, you can keep track of what everyone is working on. This transparency is key to teamwork and support, whether you're setting goals for a class project, contributing to a group assignment, or working together for accountability.
 - **Deepen your project insight**: Understanding the underlying activities of the projects you're tracking helps you to understand their progress, health, and the community of student contributors you're part of.
 - **Celebrate and communicate your achievements**: When it's time to talk about your experience, having analytics on the projects you worked on allows you to showcase your contributions, acknowledge the efforts of your peers, and clearly communicate the hard work invested.
 
@@ -204,7 +204,7 @@ OpenSauced [Repository Insights](../../features/repo-insights.md) allows you to 
 - **To aid in the job search**: If you're looking for a job, you can use the Repository Insights feature to track the activity of the organizations you're interested in working on. This can help you understand the activity level of the repositories and the types of contributions being made, and even identify which company you want to contribute to.
 - **Curating collections for interest groups**: You can curate and share repositories focusing on sectors and programming languages that interest you.
 
-Within your workspace, you can create new lists of repositories, called Repository Insight Pages.
+Within your workspace, you can create new lists of repositories called Repository Insight Pages.
 
 ### Creating a New Repository Insight Page
 
@@ -225,7 +225,7 @@ There are three tabs that provide you with more information on these repositorie
 
 #### Repositories Dashboard
 
-If you're looking for an active project to contribute to, this tab can help you as it contains information such as activity levels, PR overview, PR velocity, spam PRs, contributors, and activity stats over the last 30 days. This information is also a good way to connect with others on the project or where to find support.
+If you're looking for an active project to contribute to, this tab can help you. It contains information such as activity levels, PR overview, PR velocity, spam PRs, contributors, and activity stats over the last 30 days. This information is also a good way to connect with others on the project or where to find support.
 
 ![repositories tab](../../../static/img/repos-insights.png)
 
