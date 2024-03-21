@@ -128,7 +128,7 @@ As a student working on multiple projects or contributing to various open source
 Your Workspace helps you to:
 
 - **Understand projects at a high level**: Being able to look at all the repositories that are important to you and understand them at a high level makes it easier for you to share this information and collaborate with others.
-- **Enhance team collaboration**: If you're working with a group you can keep track of what everyone is working on. This transparency is key to teamwork and support, whether you're setting goals for a class project, contributing to a group assignment, or working together for accountability.
+- **Enhance team collaboration**: If you're working with a group, you can keep track of what everyone is working on. This transparency is key to teamwork and support, whether you're setting goals for a class project, contributing to a group assignment, or working together for accountability.
 - **Deepen your project insight**: Understanding the underlying activities of the projects you're tracking helps you to understand their progress, health, and the community of student contributors you're part of.
 - **Celebrate and communicate your achievements**: When it's time to talk about your experience, having analytics on the projects you worked on allows you to showcase your contributions, acknowledge the efforts of your peers, and clearly communicate the hard work invested.
 
