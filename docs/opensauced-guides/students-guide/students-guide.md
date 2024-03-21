@@ -194,7 +194,7 @@ There are many reasons to create a workspace. Here are a few:
 
 OpenSauced [Repository Insights](../../features/repo-insights.md) allows you to track open source projects you are interested in. You can use Repository Insights Pages to track repositories' growth, analyze work, and connect with others.
 
-### Why Create a Repository Insights Page
+### Why Create a Repository Insights Page?
 
 - **To track projects you're working on**: Tracking projects you're working on can help you stay up-to-date with the latest activity, trends, and connect with other contributors.
 - **To identify potential projects to contribute to**: If you're looking for a new project to contribute to, you can use the Repository Insights feature to track active projects that are looking for contributors. You can use the "Explore" tab to find new projects to contribute to and track them with your Repository Insights page.
@@ -310,6 +310,6 @@ Embarking on your open source journey with OpenSauced opens up a world of learni
 Here are some other resources you might find helpful in your journey:
 
 - [100 Days of OSS](../../community/100-days-of-oss.md)
-- [Intro to Open Source](https://intro.opensauced.pizza/#/)
+- [Intro to Open Source Course](https://intro.opensauced.pizza/#/)
 - [Resume Driven Contributions](https://opensauced.pizza/blog/resume-driven-contributions)
 - [Stop Burning Out Maintainers: An Empathetic Guide for Contributors](https://opensauced.pizza/blog/stop-burning-out-maintainers-an-empathetic-guide-for-contributors)
