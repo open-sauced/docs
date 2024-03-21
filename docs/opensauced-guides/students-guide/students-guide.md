@@ -187,7 +187,7 @@ There are many reasons to create a workspace. Here are a few:
 
 4. **Skill-Specific Exploration**: You can use workspaces to follow repositories that help you build specific skills or understand certain technologies, creating a tailored learning environment that aligns with your career path or focus.
 
-5. **Community Engagement Tracking**: By adding repositories you're interested in, you can monitor and engage with the communities behind them, understanding the dynamics of open source collaboration, which is invaluable for both personal and professional networking.
+5. **Community Engagement Tracking**: By adding repositories you're interested in, you can monitor and engage with the communities behind them. This allows you to understand the dynamics of open source collaboration, which is invaluable for both personal and professional networking.
 
 
 ## Repository Insights: Connecting Your Repositories
