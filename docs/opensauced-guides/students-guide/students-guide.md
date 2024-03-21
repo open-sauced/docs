@@ -253,7 +253,7 @@ Beyond understanding repositories, you may want to get insights into other contr
 
 The [Contributor Insights](../../features/contributor-insights.md) feature helps you connect with other contributors or learn more about what others are up to in open source. With this feature, you can categorize, watch, and check out different groups of contributors within open source projects.
 
-### What You can do with Contributor Insights?
+### What Can You Do with Contributor Insights?
 
 There are many things you can do with this feature, but here are some ideas to get you started:
 
