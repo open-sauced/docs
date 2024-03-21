@@ -46,7 +46,7 @@ Your profile is a great resource for showcasing your contributions and sharing y
 
 On your profile, you will see the "Highlights" tab, which you can learn more about [in this section](#highlights-connecting-and-recognizing-contributions). Other tabs you may find useful on your profile are: 
 
-- **Contributions**: This tab includes a graph showing the number of PRs you have opened, [the velocity of your PRs](../../welcome/glossary.md), and the number of repositories you have contributed to in the last thirty days. Underneath the graph is a "Latest PRs" chart, which shows a list of current and recent PRs. This tab is helpful if you want to showcase a steady and consistent open source contribution experience.
+- **Contributions**: This tab includes a graph showing the number of PRs you have opened, [the velocity of your PRs](../../welcome/glossary.md#pr-velocity), and the number of repositories you have contributed to in the last thirty days. Underneath the graph is a "Latest PRs" chart, which shows a list of current and recent PRs. This tab is helpful if you want to showcase a steady and consistent open source contribution experience.
 - **Recommendations**: This tab includes a list of open source projects that are chosen based on the programming languages you picked in the "Interests" section of your public profile. It is useful if you're looking for new projects to contribute to.
 
 :::tip
@@ -155,7 +155,7 @@ If you're creating a new workspace, you'll have the option to add repositories a
 Start by creating a workspace name, then click "Add repositories". You'll have three options for adding repositories:
 
 1. **Search for Repositories**: Use our search tool by adding an organization name, followed by the repository name, and add them to your workspace.
-2. **Import a GitHub Organization**: Connect to your GitHub organizations to create a workspace from an organization. (If you're having trouble with this, see the "[Sync Your GitHub Team](../../welcome/faqs.md)" section in our FAQs.)
+2. **Import a GitHub Organization**: Connect to your GitHub organizations to create a workspace from an organization. (If you're having trouble with this, see the "[Sync Your GitHub Team](../../welcome/faqs.md#sync-your-github-team)" section in our FAQs.)
 3. **Import Repositories**: Paste a list of repositories to add to your workspace.
 
 Once your repositories are added, you'll be able to see them in your repository dashboard. You can also edit your workspace to add or remove repositories anytime.
