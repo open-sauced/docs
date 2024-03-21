@@ -204,7 +204,7 @@ OpenSauced [Repository Insights](../../features/repo-insights.md) allows you to 
 - **To aid in the job search**: If you're looking for a job, you can use the Repository Insights feature to track the activity of the organizations you're interested in working on. This can help you understand the activity level of the repositories and the types of contributions being made, and even identify which company you want to contribute to.
 - **Curating collections for interest groups**: You can curate and share repositories focusing on sectors and programming languages that interest you.
 
-Within your workspace, you can create new lists of repositories, called Repository Insight Pages.
+Within your workspace, you can create new lists of repositories called Repository Insight Pages.
 
 ### Creating a New Repository Insight Page
 
