@@ -51,7 +51,7 @@ On your profile, you will see the "Highlights" tab, which you can learn more abo
 
 :::tip
 
-Don't just share your profile, include a link to it on your resume, LinkedIn, your GitHub Readme, and  your personal website to showcase your most up-to-date open source contributions.
+To get the full benefit of your profile, share it on social media, include a link to it on your resume, LinkedIn, your GitHub Readme, and your personal website to showcase your most up-to-date open source contributions.
 
 :::
 
