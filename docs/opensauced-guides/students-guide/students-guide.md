@@ -72,7 +72,7 @@ For example, if you wanted to look for a JavaScript project to contribute to, yo
 
 ## Highlights: Connecting and Recognizing Contributions
 
-Leveraging OpenSauced's [Highlights](../../features/highlights.md) feature is a great way for you to showcase your valuable contributions to open source projects. You can curate and share your achievements and milestones and bring visibility to your hard work.
+Leveraging OpenSauced's [Highlights](../../features/highlights.md) feature is a great way to showcase your valuable contributions to open source projects. You can curate and share your achievements and milestones, bringing visibility to your hard work.
 
 The Highlights feature allows you to:
 
