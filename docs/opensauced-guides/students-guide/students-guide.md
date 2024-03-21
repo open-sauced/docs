@@ -17,7 +17,7 @@ In this guide, you will learn how to use OpenSauced features like your personal 
 
 ## Getting Started
 
-To get started, you will need to create an account on OpenSauced. You can do this by visiting the [app.opensauced.pizza](https://app.opensauced.pizza) and clicking the "Connect with GitHub" button. You will be prompted to sign in with your GitHub account. Once you have signed in, you will be redirected to the OpenSauced dashboard. The best place to get started is by creating your profile.
+To get started, you will need to create an account on OpenSauced. You can do this by visiting [app.opensauced.pizza](https://app.opensauced.pizza) and clicking the "Connect with GitHub" button. You will be prompted to sign in with your GitHub account. Once you have signed in, you will be redirected to the OpenSauced dashboard. The best place to get started is by creating your profile.
 
 ## Creating Your Profile
 
