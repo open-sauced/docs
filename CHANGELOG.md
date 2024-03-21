@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.69.0](https://github.com/open-sauced/docs/compare/v1.68.0...v1.69.0) (2024-03-21)
+
+
+### Features
+
+* Add student guide ([#283](https://github.com/open-sauced/docs/issues/283)) ([eb591fd](https://github.com/open-sauced/docs/commit/eb591fdf7aec5b31d3c1f18b88060c759a0f4815))
+
 ## [1.68.0](https://github.com/open-sauced/docs/compare/v1.67.1...v1.68.0) (2024-03-20)
 
 
