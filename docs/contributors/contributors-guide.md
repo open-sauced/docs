@@ -103,7 +103,7 @@ Sharing the story of your hard work is an opportunity to connect with the reader
 
 1. **Describe the topic**: Begin with an interesting blog post summary to help your peers and potential recruiters understand your writing.
 2. **Discuss the inspiration**: Explain why you wrote this blog post. Is it to guide others on improving their coding skills, raise awareness about an issue in the tech community, or display your progress in learning a new programming language?
-3. **End with a call-to-action**: Encourage readers to read and engage with the post, whether by commenting or sharing it with others on social media.
+3. **End with a call-to-action**: Encourage readers to read and engage with the post.
 
 ## Repository Insights: Connecting Your Repositories
 
