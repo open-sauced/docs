@@ -172,7 +172,7 @@ Within the repositories dashboard, you can view the following metrics, which are
 
 - **Pull Requests**: This includes the total number of opened and merged pull requests for the repositories in your workspace and the velocity of pull requests being merged.
 - **Issues**: This includes the total number of opened and closed issues for the repositories in your workspace and the velocity of issues being closed.
-- **Engagement**: This includes the total stars, forks, and activity ratio for the repositories included in your workspace.
+- **Engagement**: This includes the total number of stars, forks, and activity ratio for the repositories in your workspace.
 
 
 ### Why Create a Workspace?
