@@ -196,7 +196,7 @@ OpenSauced [Repository Insights](../../features/repo-insights.md) allows you to 
 
 ### Why Create a Repository Insights Page?
 
-- **To track projects you're working on**: Tracking projects you're working on can help you stay up-to-date with the latest activity, trends, and connect with other contributors.
+- **To track projects you're working on**: Tracking projects you're working on can help you stay up-to-date with the latest activity and trends and connect with other contributors.
 - **To identify potential projects to contribute to**: If you're looking for a new project to contribute to, you can use the Repository Insights feature to track active projects that are looking for contributors. You can use the "Explore" tab to find new projects to contribute to and track them with your Repository Insights page.
 - **To network and engage with the community**: Finding people to work and connect with can be challenging. You can connect with your network through the feature's "Contributors" tab.
 - **To track the activity of a topic you're interested in**: Keeping up with the latest trends and activity in a particular topic can be challenging. You can use the Repository Insights feature to track the activity of a specific topic and find new projects to contribute to. For example, you can create a [Repository Insight Page for Active AI Repositories](https://app.opensauced.pizza/pages/BekahHW/1055/dashboard).
