@@ -35,7 +35,7 @@ Creating your profile is a great way to showcase your open source contributions,
 
    :::
 
-3. In the "Interests" section, select the various programming languages and topics you are interested in. Setting them helps us recommend open source projects that fit your interests.
+3. In the "Interests" section, select the various programming languages and topics you are interested in. Setting them up helps us recommend open source projects that fit your interests.
 4. Manage your email preferences.
 
 ### Your Profile
