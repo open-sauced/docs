@@ -313,3 +313,5 @@ Here are some other resources you might find helpful in your journey:
 - [Intro to Open Source Course](https://intro.opensauced.pizza/#/)
 - [Resume Driven Contributions](https://opensauced.pizza/blog/resume-driven-contributions)
 - [Stop Burning Out Maintainers: An Empathetic Guide for Contributors](https://opensauced.pizza/blog/stop-burning-out-maintainers-an-empathetic-guide-for-contributors)
+- [GitHub Student Benefits](https://gh.io/AApppma)
+- [GitHub Student Developer Pack](https://gh.io/AApphwi)
