@@ -185,7 +185,7 @@ The "Activity" tab gives you a graph view with more detailed information on each
 
 You can filter your Contributor Insight Page by All Contributors, Active Contributors, New Contributors, and Alumni Contributors.
 
-![list graph](../../static/img/list-graph.png)
+![list graph](../../static/img/new-list-graph.png)
 
 ### Highlights
 
