@@ -10,6 +10,17 @@ on:
 permissions:
   pull-requests: write
 
+# The error here is the two job keys.
+# The other issues were similar, and one indentation issue - Kyle / TechSquidTV
+# fixed
 jobs:
   compliance:
     uses: open-sauced/hot/.github/workflows/compliance.yml@main
+  vale:
+    name: runner / vale
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: errata-ai/vale-action@reviewdog
+        with:
+          files: "path/to/.md"
