@@ -89,6 +89,8 @@ We actively welcome your pull requests. However, you must ensure that **you are 
 
 - the issue is not assigned to the contributor who opened the PR
 - no issue is linked to the PR
+- PR form is incomplete, or any section in the form is deleted
+- changes are made directly on the default (`main`, `beta`, etc.) branch
 
 > **IMPORTANT:** <br />
 > Please do not DM Maintainers or contact them outside of GitHub if you want a PR Review. If you haven't received a review within a week, please tag them in the PR comments to ask for an estimated time of review.
