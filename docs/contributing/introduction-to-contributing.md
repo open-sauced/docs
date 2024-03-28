@@ -13,7 +13,7 @@ keywords:
   - "Beginner-friendly contributions"
   - "Contributing to open source projects"
   - "Starting your contribution journey"
-  -  "First time contributor tips"
+  - "First time contributor tips"
 ---
 
 Contributions are always welcome, no matter how large or small. Before contributing,
@@ -31,7 +31,7 @@ please read the [Code of Conduct](./code-of-conduct.md) and follow the direction
 - If you wish to work on an open issue, please comment on the issue with `.take`, and it will be assigned to you.
 
   :::info
-  
+
   If an issue is not assigned, it is assumed to be available for anyone to work on. Please assign yourself to an issue _before_ working on it to avoid conflicts.
 
   :::
@@ -40,7 +40,7 @@ please read the [Code of Conduct](./code-of-conduct.md) and follow the direction
 - If you contribute to the project for the first time, you can search for issues with `good first issue` or `bug` labels in the repository.
 
   :::note
-  
+
   Please only self-assign a `good first issue` one time.
 
   :::
@@ -64,14 +64,15 @@ After running this command, you can push your changes to the remote repo.
 See [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for more examples.
 
 ## Pull Requests (PR)
+
 ---
 
 We actively welcome your pull requests. However, you must ensure that **you are assigned** to an existing issue before working on changes, and you need to **link your work to the issue** in your PR form.
 
 ---
 
-1. Fork the repo and create your branch from the default branch.
-2. Name your branch to something descriptive of your work, i.e., `add-navbar` or `fix/broken-links`.
+1. Fork and clone the repo.
+2. Creating a new branch is a must. Before working on your changes, create a new branch from the default (`main`, `beta`, etc.) branch. Name your branch with something descriptive of your work, i.e., `add-navbar` or `fix/broken-links`.
 3. If you've added code that should be tested, add tests.
 4. If you've changed APIs, update the documentation.
 5. If you make visual changes, screenshots are required.
@@ -84,10 +85,10 @@ We actively welcome your pull requests. However, you must ensure that **you are 
 
    - Unsolicited code is welcomed, but an issue is required to announce your intentions.
 
-⚠️ **PRs will be marked as invalid and may be closed if:**  
+⚠️ **PRs will be marked as invalid and may be closed if:**
 
-- the issue is not assigned to the contributor who opened the PR  
-- no issue is linked to the PR  
+- the issue is not assigned to the contributor who opened the PR
+- no issue is linked to the PR
 
 > **IMPORTANT:** <br />
 > Please do not DM Maintainers or contact them outside of GitHub if you want a PR Review. If you haven't received a review within a week, please tag them in the PR comments to ask for an estimated time of review.
