@@ -81,21 +81,31 @@ We actively welcome your pull requests. However, you must ensure that **you are 
 8. If you improve the existing code, please let us know in your PR description.
 9. Completing the PR form is required. Make sure to fill in the PR title, description, [link to an issue](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls), and all the necessary areas.
 
-   - The title must begin with "feat:", "fix:", or anything related to your changes. <br /> **Tips**: You can follow your chosen option when [committing](#commits) your changes.
-
+   - The title must begin with `feat:`, `fix:`, or anything related to your changes. <br /> **TIP:** You can follow your chosen option when [committing](#commits) your changes.
    - Unsolicited code is welcomed, but an issue is required to announce your intentions.
 
-⚠️ **PRs will be marked as invalid and may be closed if:**
+:::warning
+
+**PRs will be marked as invalid and may be closed if:**
 
 - the issue is not assigned to the contributor who opened the PR
 - no issue is linked to the PR
 - PR form is incomplete, or any section in the form is deleted
 - changes are made directly on the default (`main`, `beta`, etc.) branch
 
-> **IMPORTANT:** <br />
-> Please do not DM Maintainers or contact them outside of GitHub if you want a PR Review. If you haven't received a review within a week, please tag them in the PR comments to ask for an estimated time of review.
+:::
 
-> _**Note for maintainers**: All PRs need a label to assist automation. See [this guide](./triage-guide.md#adding-issue-and-pr-labels) to determine which labels to use._
+:::info
+
+**IMPORTANT** <br /> Please do not DM Maintainers or contact them outside of GitHub if you want a PR Review. If you haven't received a review within a week, please tag them in the PR comments to ask for an estimated time of review.
+
+:::
+
+:::note
+
+**For maintainers:** All PRs need a label to assist automation. See [this guide](./triage-guide.md#adding-issue-and-pr-labels) to determine which labels to use.
+
+:::
 
 ### PR Validation
 
@@ -105,7 +115,11 @@ Examples of valid PR titles:
 - feat: Add support for Node 12.
 - refactor!: Drop support for Node 6.
 
-_**Note**: For any breaking changes, you have to use the `!` syntax._
+:::note
+
+For any breaking changes, you have to use the `!` syntax.
+
+:::
 
 ### Work in Progress
 
@@ -196,7 +210,11 @@ Do you have questions? Join the conversation in our [Discord](https://discord.gg
 
 The Triage team is inspired by [expressjs/express](https://github.com/expressjs/express/blob/HEAD/Triager-Guide.md). This team exists to create a path for making contributions to this project and open source. All Triage Team members are expected to follow the [Triage Guide](./triage-guide.md).
 
-> **There are no minimum requirements to become a member of the Triage Team.**
+:::info
+
+There are no minimum requirements to become a member of the Triage Team.
+
+:::
 
 For those interested in getting involved in the project or just open source in general and wanting to join the Triage Team, please leave a comment in the `🍕opensauced-contributors-chat` channel on [Discord](https://discord.gg/U2peSNf23P).
 
