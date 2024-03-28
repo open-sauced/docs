@@ -41,7 +41,7 @@ please read the [Code of Conduct](./code-of-conduct.md) and follow the direction
 
   :::note
 
-  Please only self-assign a `good first issue` one time.
+  **Please only self-assign a `good first issue` one time**. <br /> Maintainers may remove you from the assignees and not accept your pull request if you choose to proceed.
 
   :::
 
