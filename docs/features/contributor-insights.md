@@ -18,7 +18,6 @@ Monitor individual commit histories, track who is actively engaged, identify alu
 ![Contributor Insights Page](../../static/img/lists-page.svg)
 
 
-
 ## Contributor Insight for Maintainers
 
 Contributor insight offer a variety of opportunities to track contributors for various reasons, including:
@@ -66,18 +65,14 @@ After logging in, navigate to your OpenSauced workspace. Click on the navigation
 
  [Contributor Insights Page](https://app.opensauced.pizza/hub/lists/).
 If you're having trouble syncing your Organization or Team, check out our [Sync Your GitHub Team in our FAQs](../welcome/faqs.md#sync-your-github-team).
-=======
+
 1. **Explore Contributors**: Use our explore tool to find contributors and create your list.
 2. **Sync your GitHub Team**: Connect to your GitHub to create a Contributor Insight Page from a team in your organization.
 3. **Import your GitHub Following**: Connect to your GitHub to create a Contributor Insight Page with all the contributors you follow.
 
 Once your Contributor Insight Page is created, you'll be able to see an overview of all the contributors in your list, a graph of their activity, and a detailed breakdown of the contributors.
 
-:::tip
-
  If you're having trouble syncing your Organization or Team, check out the "[Sync Your GitHub Team](../welcome/faqs.md#sync-your-github-team)" section in our FAQs.
-
-:::
 
 By default, your Contributor Insight Page is public. If your Contributor Insight Page is private (a PRO plan feature), only those with access to your Workspace will be able to view it.
 
