@@ -1,0 +1,24 @@
+name: Adds all issues opened in the /docs repo to the Team Dashboard
+
+on:
+  issues:
+    types:
+      - opened
+
+jobs:
+  add-to-project:
+    name: Add issue to project
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate token
+        id: generate_token
+        uses: tibdex/github-app-token@v1
+        with:
+          app_id: ${{ secrets.OS_GITHUB_APP_ID }}
+          private_key: ${{ secrets.OS_GITHUB_APP_PRIVATE_KEY }}
+    
+      - name: add issue to team dashboard
+        uses: actions/add-to-project@v0.5.0
+        with:
+          project-url: https://github.com/orgs/open-sauced/projects/25
+          github-token: ${{ steps.generate_token.outputs.token }}
