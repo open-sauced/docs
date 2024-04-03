@@ -6,13 +6,13 @@ keywords:
   - "Repository Insights"
   - "open source"
   - "projects"
-  - "Open Source Repository Insights" 
+  - "Open Source Repository Insights"
   - "Project Repository Insights"
   - "Repository Insights into Open Source Projects"
   - "Open Source Project Repository Insights"
 ---
 
-The Repository Insights feature is your one-stop solution for understanding the pulse of your open-source projects and contributions. This feature is designed to provide a comprehensive view of your project's health and your individual contributions. From contribution trends to community health, OpenSauced Repository Insights helps you make data-driven decisions that align with your goals. It's not just about numbers; it's about providing data to help you make decisions that can define your approach to open source and tell the story of your project or contribution journey.
+The Repository Insights feature is your one-stop solution for understanding the pulse of your open source projects and contributions. This feature is designed to provide a comprehensive view of open source project's health and contributions. From contribution trends to community health, OpenSauced Repository Insights helps you make data-driven decisions that align with your goals. It's not just about numbers; it's about providing data to help you make decisions that can define your approach to open source and tell the story of your project or contribution journey. 
 
 ![insight-pages-demo](../../static/gif/insight-page-demo.gif)
 
@@ -28,7 +28,9 @@ The Repository Insights feature is your one-stop solution for understanding the 
 - To aid in the job search process.
 
 :::tip
-To learn more about how to use Repository Insights as a contributor, check out our [Contributors Guide to OpenSauced](../contributors/contributors-guide.md).
+
+Check out our [Contributors Guide to OpenSauced](../contributors/contributors-guide.md#repository-insights-connecting-your-repositories) to learn more about how to create and use Repository Insights as a contributor.
+
 :::
 
 ### Maintainers
@@ -38,7 +40,9 @@ To learn more about how to use Repository Insights as a contributor, check out o
 - To find new contributors to support your project.
 
 :::tip
-To learn more about how to use Repository Insights, check out our [Maintainers Guide](../maintainers/maintainers-guide.md) and our [Understanding Repository Insights Data](../maintainers/understanding-repo-insights.md) pages.
+
+Check out our [Maintainers Guide to OpenSauced](../maintainers/maintainers-guide.md) and our [Understanding Repository Insights Data](../maintainers/understanding-repo-insights.md) pages to learn more about how to create and use Repository Insights as a maintainer.
+
 :::
 
 ## Sharing Your Repository Insights Page with Your Team
@@ -52,8 +56,8 @@ Sharing this page with your team ensures that everyone is well-informed about th
 This method gives view-only access to your Repository Insights Page.
 
 1. Navigate to your sidebar.
-2. Click the Repository Insight page that you want to share.
-3. On the top right, click the "Share" button to copy the Repository Insights Page URL to the clipboard.
+2. Click the Repository Insight Page that you want to share.
+3. On the top right, click the "Share" button to copy the Repository Insight Page URL to the clipboard.
 4. Share the URL with your team members.
 
-
+By default, your Repository Insights are public. If you want to make your Repository Insights private, you can upgrade your account to a PRO plan.
