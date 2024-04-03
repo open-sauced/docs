@@ -32,6 +32,29 @@ module.exports = {
     },
     {
       type: "category",
+      label: "Guides to OpenSauced",
+      collapsed: false,
+      items: [{
+        type: "category",
+        label: "Job Seekers Guide",
+        collapsed: true,
+        items: [
+          "opensauced-guides/job-seekers-guide/job-seekers-guide-introduction",
+          "opensauced-guides/job-seekers-guide/how-to-translate-open-source-contributions-into-career-opportunities",
+        ],
+      },
+      {
+        type: "category",
+        label: "Student's Guide",
+        collapsed: true,
+        items: [
+          "opensauced-guides/students-guide/students-guide",
+
+        ],
+      },],
+    },
+    {
+      type: "category",
       label: "Maintainers Guide to OpenSauced",
       collapsed: false,
       items: [
@@ -141,14 +164,6 @@ module.exports = {
         "opensauced-packages/semantic-release",
       ],
     },
-    {
-      type: "category",
-      label: "Job Seekers Guide",
-      collapsed: true,
-      items: [
-        "job-seekers-guide/job-seekers-guide-introduction",
-        "job-seekers-guide/how-to-translate-open-source-contributions-into-career-opportunities",
-      ],
-    },
+    
   ],
 };
