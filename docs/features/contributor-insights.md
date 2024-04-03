@@ -57,7 +57,15 @@ Once your contributor insight is created, you'll be able to see an overview of a
 
 ## How to Create a Contributor Insight Page
 
-After logging in, navigate to your OpenSauced workspace. Click on the navigation bar of your workspace home page. Click on the plus sign beside insight. Two options will display, which are ; New repository insight and New contributor insight. Click on the New contributor insight. Then add the contributors by searching for their names or import contributors by syncing your GitHub following.
+After logging in, navigate to your OpenSauced workspace. 
+Follow these steps:
+
+- Click on the navigation bar of your workspace home page. 
+- Click on the plus sign beside insight. 
+- Two options will display, which are ; 
+- New repository insight and New contributor insight. 
+- Click on the New contributor insight. 
+- Then add the contributors by searching for their names or import contributors by syncing your GitHub following.
 
  [Contributor Insights Page](https://app.opensauced.pizza/hub/lists/).
 If you're having trouble syncing your Organization or Team, check out our [Sync Your GitHub Team in our FAQs](../welcome/faqs.md#sync-your-github-team).
