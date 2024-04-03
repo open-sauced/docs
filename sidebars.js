@@ -61,6 +61,7 @@ module.exports = {
         "maintainers/maintainers-guide-to-open-sauced",
         "maintainers/understanding-repo-insights",
         "maintainers/understanding-contribs-insights",
+        "maintainers/growing-your-project",
       ],
     },
     {
