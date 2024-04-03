@@ -82,7 +82,10 @@ We actively welcome your pull requests. However, you must ensure that **you are 
 9. Completing the PR form is required. Make sure to fill in the PR title, description, [link to an issue](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls), and all the necessary areas.
 
    - The title must begin with `feat:`, `fix:`, or anything related to your changes. <br /> **TIP:** You can follow your chosen option when [committing](#commits) your changes.
+
    - Unsolicited code is welcomed, but an issue is required to announce your intentions.
+
+   > _**Note for maintainers:** All PRs need a label to assist automation. See [this guide](./triage-guide.md#adding-issue-and-pr-labels) to determine which labels to use._
 
 :::warning
 
@@ -92,12 +95,6 @@ We actively welcome your pull requests. However, you must ensure that **you are 
 - no issue is linked to the PR
 - PR form is incomplete, or any section in the form is deleted
 - changes are made directly on the default (`main`, `beta`, etc.) branch
-
-:::
-
-:::note
-
-**For maintainers:** All PRs need a label to assist automation. See [this guide](./triage-guide.md#adding-issue-and-pr-labels) to determine which labels to use.
 
 :::
 
