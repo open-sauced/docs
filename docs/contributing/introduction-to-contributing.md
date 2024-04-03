@@ -95,12 +95,6 @@ We actively welcome your pull requests. However, you must ensure that **you are 
 
 :::
 
-:::info
-
-**IMPORTANT** <br /> Please do not DM Maintainers or contact them outside of GitHub if you want a PR Review. If you haven't received a review within a week, please tag them in the PR comments to ask for an estimated time of review.
-
-:::
-
 :::note
 
 **For maintainers:** All PRs need a label to assist automation. See [this guide](./triage-guide.md#adding-issue-and-pr-labels) to determine which labels to use.
@@ -205,6 +199,12 @@ If you forget to run this command, automated PR checks will also run these comma
 ## Community
 
 Do you have questions? Join the conversation in our [Discord](https://discord.gg/U2peSNf23P).
+
+:::info
+
+**IMPORTANT** <br /> Please do not DM Maintainers or contact them outside of GitHub if you want a PR Review. If you haven't received a review within a week, please tag them in the PR comments to ask for an estimated time of review.
+
+:::
 
 ## Triage Team
 
