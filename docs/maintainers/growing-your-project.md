@@ -33,21 +33,18 @@ Once you have your list of potential candidates, [create an Insights page for yo
 - What types of contributions does this person frequently make to yours and other open source projects?
 From there, consider narrowing down your list to If you need more tips on how to pick people that can help grow your project, check out our blog post, ["How to Build Your Open Source Dream Team"](https://dev.to/opensauced/how-to-build-your-open-source-dream-team-a-guide-3i90).
 
-### Recruiting team members and contributors 
+### Recruiting team members and contributors
 
-When you're ready to recruit your team members, consider going to their OpenSauced profiles and send them a message via the contact information they provide. 
-:::
-
-:::tip
-When contacting your team members, consider doing as message such as "Hi there,  we've seen your growth in this project and we think you'd be a great member to our team. Do you want to join us?"
-:::
+When you're ready to recruit your team members, consider going to their OpenSauced profiles and send them a message via the contact information they provide. If you and they have a PRO account, you can also send them invites using the [connections feature](../../docs/features-connections.md). 
 
 To recruit new contributors, consider doing the following methods:
-- Do posts about your new releases via social media
-- Host live events via Twitch or your project's Slack or Discord servers 
-- Write blog posts about your project 
 
-Regardless which method you pick, you want to excite your potential team members and new contributors, so always come with a positive attitude. 
+- Do posts about your project's new releases via Linkedin, X(Twitter), and other forms of social media
+- Host events via Twitch or your project's Slack or Discord servers
+- Write blog posts about your project 
 
 ### Understanding team participation
 
+Once you have picked your official team members, it is crucial to monitior their participation to ensure that they are help the project run efficiently.  You can do this by using [the team sync feature](../docs/features/workspaces.md#team-workspaces). 
+
+![Add People](../../static/img/add-to-workspace.png)
