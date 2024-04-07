@@ -18,7 +18,7 @@ When it comes to deciding on whether your open source project is ready to grow, 
 - Are there tasks that are becoming too overwhelming for me and/or team?
 - How can I improve and maintaining my project's current and pending features?
 - How many stars and forks do I want to reach this time, and who can help me achieve it?
-If you have said yes to these questions, it's time to develop your growth strategies. If you haven't already, consider creating different teams for specific purposes. For example, you can create a docs team for documentation maintenance, a triage team for reviewing and approving issues, or a maintainer team to help you with overall oversight of the project.  Once you have decided the types of teams you want to add to your project, you can create separate pages for each team in your project's Workspace page. Check out the [Creating a New Repository Insights Page](../docs/maintainers-guide.md#adding-repositories-to-your-workspace).
+If you have said yes to these questions, it's time to develop your growth strategies. If you haven't already, consider creating different teams for specific purposes. For example, you can create a docs team for documentation maintenance, a triage team for reviewing and approving issues, or a maintainer team to help you with overall oversight of the project.  Once you have decided the types of teams you want to add to your project, it's time to start to building the open source team of your dreams.
 
 ### How to identify new contributors and team members
 
