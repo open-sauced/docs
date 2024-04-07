@@ -22,7 +22,7 @@ If you have said yes to these questions, it's time to develop your growth strate
 
 ### How to identify new contributors and team members
 
-When it comes to planning the growth strategies for your open source project, the people you bring on your team(s) and your project's contributors are key to its success, which is why picking the right people is important.  When doing this process, consider going to their OpenSauced profiles and checking their [dev card](../docs/features/dev-card.md). While you do this, ask yourself the following questions:
+When it comes to planning the growth strategies for your open source project, the people you bring on your team(s) and your project's contributors are key to its success, which is why picking the right people is important.  When doing this process, consider going to their [OpenSauced profile](../docs/contributors/contributors-guide.md#your-profile) and checking their [dev card](../docs/features/dev-card.md). While you do this, ask yourself the following questions:
 
 - How often do they contribute to yours and other open source projects in general?
 - Are they invested in your project's success?
@@ -31,7 +31,7 @@ Once you have your list of potential candidates, [create an a contributor insigh
 
 ::: tip
 
-To learn what to look for when monitoring your list of potential team members and contributors, check out our [Understanding Contributor Insights](../docs/maintainers/understanding-contrib-insights.md) guide
+To learn what to look for when monitoring your list of potential team members and contributors, check out our [Understanding Contributor Insights](../docs/maintainers/understanding-contrib-insights.md) guide.
 :::
 
 After you finished your observations, consider narrowing down your list to the contributors that suit your criteria the most. If you need more tips on how to pick people that can help grow your project, check out our blog post, ["How to Build Your Open Source Dream Team"](https://dev.to/opensauced/how-to-build-your-open-source-dream-team-a-guide-3i90).
