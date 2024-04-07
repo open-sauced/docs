@@ -42,6 +42,7 @@ When you're ready to recruit your team members, consider creating an [repository
 
 :::tip
 Consider checking our out [Understanding Repository Insights Data](../docs/features/understanding-repo-insights.md) guide to aid you in this process.
+:::
 
 Once you've finished your observations, recruit them. You can do this by going to their OpenSauced profiles and sending them a message via the contact information they provide.
 
