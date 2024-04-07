@@ -41,7 +41,7 @@ After you finished your observations, consider narrowing down your list to the c
 When you're ready to recruit your team members, consider creating an [repository insights page](../docs/features/repo-insights.md) with projects that are similar to yours. From there, determine which contributors you think suits your project, add them to a list, and monitor their progress.  
 
 :::tip
-Consider checking our out [Understanding Repository Insights Data](../docs/features/understanding-repo-insights.md) guide to aid you in this process.
+Consider checking out our [Understanding Repository Insights Data](../docs/features/understanding-repo-insights.md) guide to give you an idea on what to look for when narrowing down your list.
 :::
 
 Once you've finished your observations, recruit them. You can do this by going to their OpenSauced profiles and sending them a message via the contact information they provide.
