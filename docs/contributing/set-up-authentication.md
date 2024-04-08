@@ -22,7 +22,7 @@ The following steps outline how to obtain an authentication token from the [hot.
 
    ![Avatar in top right corner of the page](../../static/img/contributing-avatar-top-right.png)
 
-2. Click on the **Copy auth token** option to copy your auth token to clipboard
+2. Click on the "Copy auth token" option to copy your auth token to clipboard.
 
    ![Copy Auth Token](../../static/img/contributing-copy-auth-token.png)
 
