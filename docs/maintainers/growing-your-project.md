@@ -27,7 +27,7 @@ When it comes to planning the growth strategies for your open source project, th
 - How often do they contribute to yours and other open source projects in general?
 - Are they invested in your project's success?
 
-Once you have made your observations, [create an a contributor insights page for your project](../docs/maintainers/maintainers-guide.md#creating-a-new-contributor-insight-page). This will help you to make decisions about what steps you want to take next. Here are some approaches you can use to help you:
+Once you have made your observations, [create an a contributor insights page for your project](../maintainers/maintainers-guide.md#creating-a-new-contributor-insight-page). This will help you to make decisions about what steps you want to take next. Here are some approaches you can use to help you:
 
 - Monitor contributors to see if they are active enough in your repositories to contribute as a team member.
 - Identify your top contributors to extend an invitation to join a team.
@@ -37,16 +37,16 @@ If you need more tips on how to pick people that can help grow your project, che
 
 ### Recruiting team members and contributors
 
-When you're ready to recruit your team members, consider creating an [repository insights page](../docs/features/repo-insights.md) with projects that are similar to yours. From there, determine which contributors you think suits your project, add them to a list, and monitor their progress.  
+When you're ready to recruit your team members, consider creating an [repository insights page](../features/repo-insights.md) with projects that are similar to yours. From there, determine which contributors you think suits your project, add them to a list, and monitor their progress.  
 
 :::tip
-Consider checking out our [Understanding Repository Insights Data](../docs/features/understanding-repo-insights.md) guide to give you an idea on what to look for when narrowing down your list.
+Consider checking out our [Understanding Repository Insights Data](../features/repo-insights.md) guide to give you an idea on what to look for when narrowing down your list.
 :::
 
-Once you've finished your observations, recruit them. You can do this by going to their [OpenSauced profiles](../docs/contributors/contributors-guide.md#your-profile) and sending them a message via the contact information they provide.
+Once you've finished your observations, recruit them. You can do this by going to their [OpenSauced profiles](../contributors/contributors-guide.md#creating-your-profile) and sending them a message via the contact information they provide.
 
 ### Understanding team participation
 
-Once you have picked your official team members, consider adding them to your project's Contributors Insights page by using [the team sync feature](../docs/features/contributor-insights.md#how-to-create-a-contributor-insight-page). This can be useful in monitoring their progress.
+Once you have picked your official team members, consider adding them to your project's Contributors Insights page by using [the team sync feature](../features/contributor-insights.md#how-to-create-a-contributor-insight-page). This can be useful in monitoring their progress.
 
 ![team sync gif](../../static/gif/team-sync.gif)
