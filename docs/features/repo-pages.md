@@ -20,7 +20,7 @@ Repository pages allow you to view specific information (forks and stars) about 
 To view a repository page, follow these steps:
 
 Open a web browser and navigate to the following URL structure:
-https://app.opensauced.pizza/s/{org}/{repo}
+`https://app.opensauced.pizza/s/{org}/{repo}`
 
 Replace {org} with the name of the organization that owns the repository you want to view. Replace {repo} with the name of the specific repository.
 
@@ -36,8 +36,8 @@ Here's what that will look like:
 
 Here are some general things you might find on a repository page:
 
-- Repository name and organization/user: This is displayed prominently at the top of the page.
-- Metrics: This includes the number of stars and forks the repository has on GitHub.
+- **Repository name and organization/user**: This is displayed prominently at the top of the page.
+- **Metrics**: This includes the number of stars and forks the repository has on GitHub.
 
 You can use the time range filter to view the number of stars and forks over different periods, such as the last 7 days, month, or the last year.
 
