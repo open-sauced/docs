@@ -5,6 +5,69 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.70.0](https://github.com/open-sauced/docs/compare/v1.69.0...v1.70.0) (2024-04-04)
+
+
+### Features
+
+* update contributing guide ([#288](https://github.com/open-sauced/docs/issues/288)) ([1655c76](https://github.com/open-sauced/docs/commit/1655c76b4840325a02486e296d7a38d6474e6216))
+
+## [1.69.0](https://github.com/open-sauced/docs/compare/v1.68.0...v1.69.0) (2024-03-21)
+
+
+### Features
+
+* Add student guide ([#283](https://github.com/open-sauced/docs/issues/283)) ([eb591fd](https://github.com/open-sauced/docs/commit/eb591fdf7aec5b31d3c1f18b88060c759a0f4815))
+
+## [1.68.0](https://github.com/open-sauced/docs/compare/v1.67.1...v1.68.0) (2024-03-20)
+
+
+### Documentation
+
+* Add section on workspaces to maintainers guide ([#279](https://github.com/open-sauced/docs/issues/279)) ([c0fe6b9](https://github.com/open-sauced/docs/commit/c0fe6b96869d88dff8205c05f32f754679ebc457))
+
+### [1.67.1](https://github.com/open-sauced/docs/compare/v1.67.0...v1.67.1) (2024-03-12)
+
+
+### Bug Fixes
+
+* update workspace images based on latest UI ([#277](https://github.com/open-sauced/docs/issues/277)) ([12c8ffd](https://github.com/open-sauced/docs/commit/12c8ffdb69c36a74b073c1fe594c9adc3d6206e4))
+
+## [1.67.0](https://github.com/open-sauced/docs/compare/v1.66.3...v1.67.0) (2024-03-08)
+
+
+### Features
+
+* update workspace with more information on team plan ([#272](https://github.com/open-sauced/docs/issues/272)) ([2a82913](https://github.com/open-sauced/docs/commit/2a82913a1405875fd560cd24c22e22879f6f119d))
+
+### [1.66.3](https://github.com/open-sauced/docs/compare/v1.66.2...v1.66.3) (2024-03-06)
+
+
+### Bug Fixes
+
+* Update docs for 100 days of oss ([#271](https://github.com/open-sauced/docs/issues/271)) ([0a7f9aa](https://github.com/open-sauced/docs/commit/0a7f9aaa610e48b399775bcb1ac39c94caaf7f3c))
+
+### [1.66.2](https://github.com/open-sauced/docs/compare/v1.66.1...v1.66.2) (2024-03-05)
+
+
+### Bug Fixes
+
+* format and wording adjustments in workspaces, contributors and repo insights sections ([#262](https://github.com/open-sauced/docs/issues/262)) ([37bddac](https://github.com/open-sauced/docs/commit/37bddace074327542d12d164a4b61e42303c8548))
+
+### [1.66.1](https://github.com/open-sauced/docs/compare/v1.66.0...v1.66.1) (2024-03-04)
+
+
+### Bug Fixes
+
+* Issues Section ([#269](https://github.com/open-sauced/docs/issues/269)) ([785e75a](https://github.com/open-sauced/docs/commit/785e75a3285bf73fe4a81ec9432278998122a2ab))
+
+## [1.66.0](https://github.com/open-sauced/docs/compare/v1.65.0...v1.66.0) (2024-02-27)
+
+
+### Features
+
+* Add workspaces documentation ([#255](https://github.com/open-sauced/docs/issues/255)) ([103fda2](https://github.com/open-sauced/docs/commit/103fda209d0ed778db2e6534d8df17a62ffd1f3b))
+
 ## [1.65.0](https://github.com/open-sauced/docs/compare/v1.64.0...v1.65.0) (2024-02-19)
 
 

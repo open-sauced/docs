@@ -1,23 +1,23 @@
 ---
-id: understanding-lists
-title: "Understanding Lists Data"
-sidebar_label: "Understanding Lists Data"
+id: understanding-contribs-insights
+title: "Understanding Contributor Insights Data"
+sidebar_label: "Understanding Contributor Insights Data"
 keywords:
   - "maintainers"
   - "guides"
-  - "Lists Analysis"
+  - "Contributor Insights Analysis"
   - "List Data Exploration"
   - "Data Organization"
-  - "Data Insight from Lists"
+  - "Data Insight from Contributor Insights "
   - "List Visualization"
-  - "Data Representation in Lists"
+  - "Data Representation in Contributor Insights "
   - "List Data Interpretation"
-  - "Organizing Data in Lists"
+  - "Organizing Data in Contributor Insights "
 ---
 
-Once you've created your list of contributors, it's time to understand the data provided. Understanding this data is key to effectively managing your projects and contributors.
+Once you've created your Contributor Insight Page, it's time to understand the data provided. Understanding this data is key to effectively managing your projects and contributors.
 
-## Understanding Lists Contributor Data
+## Understanding Contributor Insights Data
 
 ### Interpreting Total Commits in the Last 30 Days
 

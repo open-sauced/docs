@@ -1,7 +1,7 @@
 ---
-id: understanding-insights
-title: "Understanding Insights Data"
-sidebar_label: "Understanding Insights Data"
+id: understanding-repo-insights
+title: "Understanding Repo Insights Data"
+sidebar_label: "Understanding Repo Insights Data"
 keywords:
   - "maintainers"
   - "guides"
@@ -13,26 +13,25 @@ keywords:
   - "Data Interpretation Methods"
   - "Insightful Data Examination"
   - "Guide to Understanding Data"
-
 ---
 
-Once your repositories are connected, it's time to understand the data provided in your Insight Page. Understanding this data is key to effectively managing your projects and contributors.
+Once your repositories are connected, it's time to understand the data provided on your page. Understanding this data is key to effectively managing your projects and contributors.
 
-## Understanding Insights Repository Data
+## Understanding Repository Insights Data
 
 ### Analyzing Contribution Trends
 
 Discover patterns in contributions over time. Look for spikes or drops in activity and correlate these with specific events or milestones. This can help you understand what drives engagement in your projects.
 
-### Monitoring Pull Request (PR) Activity
+### Monitoring PR Activity
 
 Knowing the status of PRs (open, closed, draft, merged) helps in understanding the workflow efficiency and backlog. High volumes of open or draft PRs might indicate a need for more resources or a revision of your review process. Conversely, a steady flow of merged PRs can indicate a healthy, active development process.
 
 ### Measuring and Improving PR Velocity
 
-Track how quickly PRs are being merged. The average time taken for PRs to merge is a critical metric for understanding the efficiency of the code review and deployment process. Longer PR merge times might signal issues in the review process, resource allocation, or could indicate complex code changes that require more thorough checks. Use this data to set benchmarks and identify opportunities for streamlining your review and integration processes.
+Track how quickly PRs are being merged. The average time taken for PRs to merge is a critical metric for understanding the efficiency of the code review and deployment process. Longer PR merge times might signal issues in the review process or resource allocation or could indicate complex code changes that require more thorough checks. Use this data to set benchmarks and identify opportunities for streamlining your review and integration processes.
 
-## Understanding Insights Contributor Data
+## Understanding Repository Insights Contributor Data
 
 ### Identifying and Engaging with Key Contributors
 

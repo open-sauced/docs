@@ -23,27 +23,51 @@ module.exports = {
       label: "Features",
       collapsed: false,
       items: [
+        "features/workspaces",
+        "features/repo-insights",
+        "features/contributor-insights",
+        "features/repo-pages",
         "features/highlights",
-        "features/insights",
         "features/dev-card",
-        "features/lists",
-        "features/connections",
       ],
     },
     {
       type: "category",
-      label: "Maintainers",
+      label: "Guides to OpenSauced",
+      collapsed: false,
+      items: [{
+        type: "category",
+        label: "Job Seekers Guide",
+        collapsed: true,
+        items: [
+          "opensauced-guides/job-seekers-guide/job-seekers-guide-introduction",
+          "opensauced-guides/job-seekers-guide/how-to-translate-open-source-contributions-into-career-opportunities",
+        ],
+      },
+      {
+        type: "category",
+        label: "Student's Guide",
+        collapsed: true,
+        items: [
+          "opensauced-guides/students-guide/students-guide",
+
+        ],
+      },],
+    },
+    {
+      type: "category",
+      label: "Maintainers Guide to OpenSauced",
       collapsed: false,
       items: [
         "maintainers/maintainers-guide-to-open-sauced",
-        "maintainers/understanding-insights",
-        "maintainers/understanding-lists",
+        "maintainers/understanding-repo-insights",
+        "maintainers/understanding-contribs-insights",
       ],
     },
     {
       type: "category",
-      label: "Contributors",
-      collapsed: false,
+      label: "Contributors Guide to OpenSauced",
+      collapsed: true,
       items: ["contributors/contributors-guide-to-open-sauced"],
     },
     {
@@ -55,7 +79,7 @@ module.exports = {
     {
       type: "category",
       label: "Tools",
-      collapsed: false,
+      collapsed: true,
       items: [
         "tools/hot-opensauced",
         "tools/pizza-cli",
@@ -119,7 +143,7 @@ module.exports = {
           collapsed: true,
           items: [
             "contributing/opensauced-maintainers-guide/maintainers-guide",
-            "contributing/opensauced-maintainers-guide/community-maintainers-guide"
+            "contributing/opensauced-maintainers-guide/community-maintainers-guide",
           ],
         },
         "contributing/set-up-authentication",
@@ -141,14 +165,6 @@ module.exports = {
         "opensauced-packages/semantic-release",
       ],
     },
-    {
-      type: "category",
-      label: "Job Seekers Guide",
-      collapsed: true,
-      items: [
-        "job-seekers-guide/job-seekers-guide-introduction",
-        "job-seekers-guide/how-to-translate-open-source-contributions-into-career-opportunities",
-      ],
-    },
+    
   ],
 };
