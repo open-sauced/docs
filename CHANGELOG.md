@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.71.0](https://github.com/open-sauced/docs/compare/v1.70.0...v1.71.0) (2024-04-10)
+
+
+### Features
+
+* Add repo pages ([#293](https://github.com/open-sauced/docs/issues/293)) ([3143b02](https://github.com/open-sauced/docs/commit/3143b02cb8691b6264c39fedfc2a20ad83ac6cb9))
+
 ## [1.70.0](https://github.com/open-sauced/docs/compare/v1.69.0...v1.70.0) (2024-04-04)
 
 
