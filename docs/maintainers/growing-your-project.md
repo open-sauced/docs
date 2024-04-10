@@ -47,6 +47,6 @@ Once you've finished your observations, recruit them. You can do this by going t
 
 ### Understanding team participation
 
-Once you have picked your official team members, it is crucial to monitor their participation to ensure that they are help the project run efficiently.  You can do this by using [the team sync feature](../docs/features/contributor-insights.md#how-to-create-a-contributor-insight-page).
+Once you have picked your official team members, consider adding them to your project's Contributors Insights page by using [the team sync feature](../docs/features/contributor-insights.md#how-to-create-a-contributor-insight-page). This can be useful in monitoring their progress.
 
 ![team sync gif](../../static/gif/team-sync.gif)
