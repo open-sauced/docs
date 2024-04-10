@@ -13,7 +13,7 @@ Growth is the the crucial aspect of a successful open source project. If you're 
 
 ### When to grow your project
 
-When it comes to deciding on whether your open source project is ready to grow, consider reviewing your project's repository insights page in its Workspace page and asking yourself the following questions:
+When it comes to deciding on whether your open source project is ready to grow, consider reviewing your project's Repository Insights page and asking yourself the following questions:
 
 - Are there tasks that are becoming too overwhelming for me and/or team?
 - How can I improve and maintaining my project's current and pending features?
@@ -22,12 +22,16 @@ If you have said yes to these questions, it's time to develop your growth strate
 
 ### How to identify new contributors and team members
 
-When it comes to planning the growth strategies for your open source project, the people you bring on your team(s) and your project's contributors are key to its success, which is why picking the right people is important.  When doing this process, consider going to their [OpenSauced profile](../docs/contributors/contributors-guide.md#your-profile) and checking their [dev card](../docs/features/dev-card.md). While you do this, ask yourself the following questions:
+When it comes to planning the growth strategies for your open source project, the people you bring on your team(s) and your project's contributors are key to its success, which is why picking the right people is important.  When doing this process, consider going to the Contributors tab in your project's Repository Insights page. While you do this, ask yourself the following questions:
 
 - How often do they contribute to yours and other open source projects in general?
 - Are they invested in your project's success?
 
-Once you have your list of potential candidates, [create an a contributor insights page for your project](../docs/features/contributor-insights.md), and add your candidates to the page. From there, monitor their progress.
+Once you have made your observations, [create an a contributor insights page for your project](../docs/maintainers/maintainers-guide.md#creating-a-new-contributor-insight-page). This will help you to make decisions about what steps you want to take next. Here are some approaches you can use to help you:
+
+- Monitor contributors to see if they are active enough in your repositories to contribute as a team member.
+- Identify your top contributors to extend an invitation to join a team.
+- Identify active contributors in other repositories who may be interested in joining your team.
 
 ::: tip
 
