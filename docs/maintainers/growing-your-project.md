@@ -33,12 +33,7 @@ Once you have made your observations, [create an a contributor insights page for
 - Identify your top contributors to extend an invitation to join a team.
 - Identify active contributors in other repositories who may be interested in joining your team.
 
-::: tip
-
-To learn what to look for when monitoring your list of potential team members and contributors, check out our [Understanding Contributor Insights](../docs/maintainers/understanding-contrib-insights.md) guide.
-:::
-
-After you finished your observations, consider narrowing down your list to the contributors that suit your criteria the most. If you need more tips on how to pick people that can help grow your project, check out our blog post, ["How to Build Your Open Source Dream Team"](https://dev.to/opensauced/how-to-build-your-open-source-dream-team-a-guide-3i90).
+If you need more tips on how to pick people that can help grow your project, check out our blog post, ["How to Build Your Open Source Dream Team"](https://dev.to/opensauced/how-to-build-your-open-source-dream-team-a-guide-3i90).
 
 ### Recruiting team members and contributors
 
