@@ -20,6 +20,7 @@ Repository pages allow you to view specific information (forks and stars) about 
 To view a repository page, follow these steps:
 
 Open a web browser and navigate to the following URL structure:
+
 `https://app.opensauced.pizza/s/{org}/{repo}`
 
 Replace {org} with the name of the organization that owns the repository you want to view. Replace {repo} with the name of the specific repository.
@@ -30,7 +31,7 @@ For example, to view the `next.js` repository created by the `Vercel` organizati
 
 Here's what that will look like:
 
-![next.js repository page](../../static/img/repo-page.png)
+[![next.js repository page](../../static/img/repo-page.png)](https://app.opensauced.pizza/s/vercel/next.js) 
 
 ## Understanding the Repository Page
 
