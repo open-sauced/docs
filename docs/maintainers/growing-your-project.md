@@ -17,8 +17,8 @@ Growth is the crucial aspect of a successful open source project. If you're at t
 
 When it comes to deciding on whether your open source project is ready to grow, consider reviewing your project's Repository Insights page and asking yourself the following questions:
 
-- Are there tasks that are becoming too overwhelming for me and/or team?
-- How can I improve and maintaining my project's current and pending features?
+- Are there tasks that are becoming too overwhelming for me and the team?
+- How can I improve and maintain my project's current and pending features?
 - How many stars and forks do I want to reach this time, and who can help me achieve it?
 If you have said yes to these questions, it's time to develop your growth strategies. If you haven't already, consider creating different teams for specific purposes. For example, you can create a docs team for documentation maintenance, a triage team for reviewing and approving issues, or a maintainer team to help you with overall oversight of the project.  Once you have decided the types of teams you want to add to your project, it's time to start to building the open source team of your dreams.
 
