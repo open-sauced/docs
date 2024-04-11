@@ -3,8 +3,10 @@ id: growing-your-project
 title: "Growing Your Project"
 sidebar_label: "Growing Your Project"
 keywords:
-  - "maintainers"
-  - "guides"
+  - "open source maintainers"
+  - "maintainers guides"
+  - "open source project success"
+  - "growing an open source project"
 ---
 
 ## Growing your project
