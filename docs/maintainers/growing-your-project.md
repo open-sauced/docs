@@ -42,7 +42,9 @@ If you need more tips on how to pick people that can help grow your project, che
 When you're ready to recruit your team members, consider creating an [repository insights page](../features/repo-insights.md) with projects that are similar to yours. From there, determine which contributors you think suits your project, add them to a list, and monitor their progress.  
 
 :::tip
+
 Consider checking out our [Understanding Repository Insights Data](../features/repo-insights.md) guide to give you an idea on what to look for when narrowing down your list.
+
 :::
 
 Once you've finished your observations, recruit them. You can do this by going to their [OpenSauced profiles](../contributors/contributors-guide.md#creating-your-profile) and sending them a message via the contact information they provide.
