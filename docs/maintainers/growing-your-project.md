@@ -24,7 +24,7 @@ If you have said yes to these questions, it's time to develop your growth strate
 
 ### How to identify new contributors and team members
 
-When it comes to planning the growth strategies for your open source project, the people you bring on your team(s) and your project's contributors are key to its success, which is why picking the right people is important.  When doing this process, consider going to the Contributors tab in your project's Repository Insights page. While you do this, ask yourself the following questions:
+When it comes to planning the growth strategies for your open source project, the people you bring on your team(s) and your project's contributors are key to its success, which is why picking the right people is important. When doing this process, consider going to the "Contributors" tab in your project's Repository Insight Page. While you do this, ask yourself the following questions:
 
 - How often do they contribute to yours and other open source projects in general?
 - Are they invested in your project's success?
