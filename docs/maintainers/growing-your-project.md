@@ -29,7 +29,7 @@ When it comes to planning the growth strategies for your open source project, th
 - How often do they contribute to yours and other open source projects in general?
 - Are they invested in your project's success?
 
-Once you have made your observations, [create an a contributor insights page for your project](../maintainers/maintainers-guide.md#creating-a-new-contributor-insight-page). This will help you to make decisions about what steps you want to take next. Here are some approaches you can use to help you:
+Once you have made your observations, [create a Contributor Insight Page for your project](../maintainers/maintainers-guide.md#creating-a-new-contributor-insight-page). This will help you to make decisions about what steps you want to take next. Here are some approaches you can use to help you:
 
 - Monitor contributors to see if they are active enough in your repositories to contribute as a team member.
 - Identify your top contributors to extend an invitation to join a team.
