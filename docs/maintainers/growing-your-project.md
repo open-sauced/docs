@@ -39,7 +39,7 @@ If you need more tips on how to pick people that can help grow your project, che
 
 ### Recruiting team members and contributors
 
-When you're ready to recruit your team members, consider creating an [repository insights page](../features/repo-insights.md) with projects that are similar to yours. From there, determine which contributors you think suits your project, add them to a list, and monitor their progress.  
+When you're ready to recruit your team members, consider creating a [Repository Insight Page](../features/repo-insights.md) with projects that are similar to yours. From there, determine which contributors suit your project, add them to a list, and monitor their progress.  
 
 :::tip
 
