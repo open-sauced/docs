@@ -22,15 +22,11 @@ The following steps outline how to obtain an authentication token from the [hot.
 
    ![Avatar in top right corner of the page](../../static/img/contributing-avatar-top-right.png)
 
-2. Click on the **Print auth token** option. Don't worry, this is a safe operation. The token is only printed to the console.
+2. Click on the "Copy auth token" option to copy your auth token to clipboard.
 
-   ![Print Auth Token](../../static/img/contributing-print-auth-token.png)
+   ![Copy Auth Token](../../static/img/contributing-copy-auth-token.png)
 
-3. Copy the token that is printed to the console.
-
-   ![Token printed to the console](../../static/img/contributing-token-printed-to-console.png)
-
-4. You can now use this token to make authenticated requests to the OpenSauced public API by including it in the Authorization header of your requests. For example:
+3. You can now use this token to make authenticated requests to the OpenSauced public API by including it in the Authorization header of your requests. For example:
 
    ```javascript
    const response = await fetch(
