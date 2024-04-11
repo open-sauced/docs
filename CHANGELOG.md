@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.72.0](https://github.com/open-sauced/docs/compare/v1.71.0...v1.72.0) (2024-04-11)
+
+
+### Documentation
+
+* Updated docs to retrieve auth token ([#280](https://github.com/open-sauced/docs/issues/280)) ([a2b087c](https://github.com/open-sauced/docs/commit/a2b087c28399e8ab185c67c6bced4fecc1514b65))
+
 ## [1.71.0](https://github.com/open-sauced/docs/compare/v1.70.0...v1.71.0) (2024-04-10)
 
 
