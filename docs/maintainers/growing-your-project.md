@@ -11,7 +11,7 @@ keywords:
 
 ## Growing your project
 
-Growth is the the crucial aspect of a successful open source project. If you're at this stage in your open source maintainer journey, here are some things to consider when thinking of growth strategies.
+Growth is the crucial aspect of a successful open source project. If you're at this stage in your open source maintainer journey, here are some things to consider when thinking of growth strategies.
 
 ### When to grow your project
 
