@@ -13,7 +13,7 @@ Growth is the crucial aspect of a successful open source project. If you're at t
 
 ## When to grow your project
 
-When it comes to deciding on whether your open source project is ready to grow, consider reviewing your project's Repository Insights page and asking yourself the following questions:
+When it comes to deciding on whether your open source project is ready to grow, consider reviewing your project's [Repository Insights page](../features/repo-insights.md) and asking yourself the following questions:
 
 - Are there tasks that are becoming too overwhelming for me and the team?
 - How can I improve and maintain my project's current and pending features?
