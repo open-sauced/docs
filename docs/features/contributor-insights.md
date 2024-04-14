@@ -32,10 +32,7 @@ Contributor insight offer a variety of opportunities to track contributors for v
 
 - **Potential hires**: Observe contributors who exhibit skill and commitment, making them prime candidates for hiring.
 
-- **Alumni contributors**: Keep an eye on contributors who have decreased their engagement or left the project.
-
-
-After logging in, navigate to "Insights" in the sidebar. Click the "+" next to it to be presented with options, and select "New Contributor Insight."
+- **Alumni contributors**: Keep an eye on contributors who have decreased their engagement or left the project
 
 
 ## Contributor Insight for Contributors
@@ -48,8 +45,6 @@ Contributor insight offer contributors a way to gain insight into the world of o
 - **Learn about what other contributors are doing in open source**: You can learn where other contributors are contributing, what they're working on, and how active they are in the open source community.
 
 - **See who's using OpenSauced Highlights feature**: You can see who's using the Highlights feature and show them support by giving an emoji reaction.
-
-- **Track contributors for job opportunities**: If you're looking for a job, you can track the activity of the contributors you're interested in working with. This helps you understand the activity level of the repositories and the types of contributions being made, and you can even identify which company you want to contribute to.
 
 There are Three ways to add contributors to track:
 
@@ -79,6 +74,8 @@ If you're having trouble syncing your Organization or Team, check out our [Sync 
 3. **Import your GitHub Following**: Connect to your GitHub to create a Contributor Insight Page with all the contributors you follow.
 
 Once your Contributor Insight Page is created, you'll be able to see an overview of all the contributors in your list, a graph of their activity, and a detailed breakdown of the contributors.
+
+- :::tip
 
  If you're having trouble syncing your Organization or Team, check out the "[Sync Your GitHub Team](../welcome/faqs.md#sync-your-github-team)" section in our FAQs.
 
