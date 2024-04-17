@@ -46,7 +46,7 @@ Consider checking out our [Understanding Repository Insights Data](../features/r
 
 :::
 
-Once you've finished your observations, recruit them. You can do this by going to their [OpenSauced profiles](../contributors/contributors-guide.md#creating-your-profile) and sending them a message via the contact information they provide.
+Once you've picked the people you want to join your project, recruit them. You can do this by going to their [OpenSauced profiles](../contributors/contributors-guide.md#creating-your-profile) and sending them a message via the contact information they provide.
 
 ## Understanding team participation
 
