@@ -1,8 +1,5 @@
----
-: ""
----
 <div align="center">
-  <br>
+  <br/>
 
   [![OpenSauced](https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png)](https://opensauced.pizza)
 

@@ -22,7 +22,7 @@ Open a web browser and navigate to the following URL structure:
 
 `https://app.opensauced.pizza/s/{org}/{repo}`
 
-Replace {org} with the name of the organization that owns the repository you want to view. Replace {repo} with the name of the specific repository.
+Replace `{org}` with the name of the organization that owns the repository you want to view. Replace `{repo}` with the name of the specific repository.
 
 For example, to view the `next.js` repository created by the `Vercel` organization, you would use the following URL:
 
