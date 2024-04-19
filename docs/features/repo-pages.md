@@ -2,15 +2,14 @@
 id: repo-pages
 title: "Check out Repository Activity"
 sidebar_label: "Repository Pages"
-keywords:
-  - "repository pages"
-  - "Repositories"
-  - "Open Source"
-  - "Open Source Repositories"
-  - "Showcase Repositories"
-  - "Repository forks"
-  - "Repository stars"
-
+keywords: 
+- "repository pages" 
+- "Repositories" 
+- "Open Source" 
+- "Open Source Repositories" 
+- "Showcase Repositories" 
+- "Repository forks" 
+- "Repository stars" 
 ---
 
 Repository pages allow you to view specific information (forks and stars) about a repository hosted on GitHub.

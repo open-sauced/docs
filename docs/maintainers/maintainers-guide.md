@@ -2,12 +2,12 @@
 id: maintainers-guide-to-open-sauced
 title: "Maintainers Guide to OpenSauced"
 sidebar_label: "Maintainers Guide to OpenSauced"
-keywords:
-  - "maintainers"
-  - "guides"
-  - "open source maintainers guide"
-  - "open source maintainer"
-  - "Maintainers Guide to OpenSauced"
+keywords: 
+- "maintainers" 
+- "guides" 
+- "open source maintainers guide" 
+- "open source maintainer" 
+- "Maintainers Guide to OpenSauced" 
 ---
 
 ## Introduction to OpenSauced for Maintainers

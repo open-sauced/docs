@@ -2,14 +2,14 @@
 id: community-maintainers-guide
 title: "OpenSauced Community Maintainers Guidelines"
 sidebar_label: "Community Maintainers Guidelines"
-keywords:
-  - "opensauced community maintainers guidelines"
-  - "opensauced community maintainers"
-  - "maintainers guidelines"
-  - "open source maintainers guidelines"
-  - "open source maintainer"
-  - "open source project management"
-  - "community management in open source"
+keywords: 
+- "opensauced community maintainers guidelines" 
+- "opensauced community maintainers" 
+- "maintainers guidelines" 
+- "open source maintainers guidelines" 
+- "open source maintainer" 
+- "open source project management" 
+- "community management in open source" 
 ---
 
 Welcome to OpenSauced Community Maintainers guidelines!

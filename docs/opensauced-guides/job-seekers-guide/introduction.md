@@ -2,13 +2,13 @@
 id: job-seekers-guide-introduction
 title: "Learn How to Land a Tech Job Using OpenSauced"
 sidebar_label: "Introduction"
-keywords:
-  - "open source tech job guide"
-  - "open sauced tech job tips"
-  - "open source career development"
-  - "open source projects for tech resume"
-  - "open source skills for tech employers"
-  - "land your dream tech job"
+keywords: 
+- "open source tech job guide" 
+- "open sauced tech job tips" 
+- "open source career development" 
+- "open source projects for tech resume" 
+- "open source skills for tech employers" 
+- "land your dream tech job" 
 ---
 
 When you are looking for a tech job, it is important to stand out amongst the sea of candidates. One great way to stand out and showcase your skills is through open source contributions.

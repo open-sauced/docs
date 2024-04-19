@@ -2,18 +2,18 @@
 id: introduction-to-contributing
 title: "Introduction to Contributing"
 sidebar_label: "Introduction to Contributing"
-keywords:
-  - "introduction to contributing"
-  - "Getting started with contributions"
-  - "New contributor guide"
-  - "How to contribute effectively"
-  - "Contribution essentials"
-  - "Open source contribution guide"
-  - "Making your first contribution"
-  - "Beginner-friendly contributions"
-  - "Contributing to open source projects"
-  - "Starting your contribution journey"
-  - "First time contributor tips"
+keywords: 
+- "introduction to contributing" 
+- "Getting started with contributions" 
+- "New contributor guide" 
+- "How to contribute effectively" 
+- "Contribution essentials" 
+- "Open source contribution guide" 
+- "Making your first contribution" 
+- "Beginner-friendly contributions" 
+- "Contributing to open source projects" 
+- "Starting your contribution journey" 
+- "First time contributor tips" 
 ---
 
 Contributions are always welcome, no matter how large or small. Before contributing,

@@ -2,9 +2,9 @@
 id: contributors-guide-to-open-sauced
 title: "Contributors Guide to OpenSauced"
 sidebar_label: Contributors Guide to OpenSauced
-keywords:
-  - contributors
-  - guides
+keywords: 
+- "contributors"
+- "guides"
 ---
 
 ## Introduction to OpenSauced for Contributors
