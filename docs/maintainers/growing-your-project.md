@@ -45,6 +45,6 @@ Once you've picked the people you want to join your project, recruit them. You c
 
 ## Understanding team participation
 
-Once you have recruited your official team members, consider adding them to your project's Contributors Insights page by using [the team sync feature](../features/contributor-insights.md#how-to-create-a-contributor-insight-page). This can be useful in monitoring their progress.
+Once you've identified the people you want to ask, reach out to them by providing a clear message and a list of expectations.
 
 ![team sync gif](../../static/gif/team-sync.gif)
