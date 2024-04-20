@@ -23,10 +23,7 @@ If you have said yes to these questions, it's time to develop your growth strate
 
 ## How to identify new contributors and team members
 
-If you have a reliable group of contributors, adding them to a [Contributor Insight Page](../maintainers/maintainers-guide.md#creating-a-new-contributor-insight-page) can help you to better understand their contributions to your project and the open source ecosystem
-
-
-Once you have made your observations, [create a Contributor Insight Page for your project](../maintainers/maintainers-guide.md#creating-a-new-contributor-insight-page). This will help you to make decisions about what steps you want to take next. Here are some approaches you can use to help you:
+If you have a reliable group of contributors, adding them to a [Contributor Insight Page](../maintainers/maintainers-guide.md#creating-a-new-contributor-insight-page) can help you to better understand their contributions to your project and the open source ecosystem. Here are some methods you can use in this process:
 
 - Monitor contributors to see if they are active enough in your repositories to contribute as a team member.
 - Identify your top contributors to extend an invitation to join a team.
@@ -34,7 +31,7 @@ Once you have made your observations, [create a Contributor Insight Page for you
 
 If you need more tips on how to pick people that can help grow your project, check out our blog post, ["How to Build Your Open Source Dream Team"](https://dev.to/opensauced/how-to-build-your-open-source-dream-team-a-guide-3i90).
 
-## Recruiting team members and contributors
+## Recruiting Team Members and Contributors Outside of Your Project 
 
 When you're ready to recruit your team members, consider creating a [Repository Insight Page](../features/repo-insights.md) with projects that are similar to yours. From there, determine which contributors suit your project, add them to a list, and monitor their progress.  
 
