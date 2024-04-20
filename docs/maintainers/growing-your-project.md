@@ -45,7 +45,7 @@ Once you've identified the people you want to ask, reach out to them, providing 
 
 ## Understanding team participation
 
-Once you've identified the people you want to ask, reach out to them by providing a clear message and a list of expectations.
+Once you've identified the people you want to ask, reach out to them by providing a clear message and a list of expectations. Then, [sync your team](../welcome/faqs.md#sync-your-github-team) to your project's Repository Insight page.
 
 :::note
 
