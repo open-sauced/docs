@@ -54,3 +54,6 @@ In order for the team sync feature to work, create the team on GitHub first. Che
 :::
 
 ![team sync gif](../../static/gif/team-sync.gif)
+
+## Creating Transparency and Communication With Your Team
+<!-- add paragraph here -->
