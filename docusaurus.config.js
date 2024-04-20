@@ -15,6 +15,7 @@ module.exports = {
   projectName: "docs.opensauced.pizza", // Usually your repo name.
   trailingSlash: true,
   themeConfig: {
+    metadata: [{name: 'keywords', content: 'open source, open source insights, OSS'}],
     algolia: {
       appId: "RH1WG3CUDK",
       apiKey: "ea723aba7d69f2f36feac9292f2d2fe9",
