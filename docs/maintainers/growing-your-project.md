@@ -23,10 +23,8 @@ If you have said yes to these questions, it's time to develop your growth strate
 
 ## How to identify new contributors and team members
 
-If you have a reliable group of contributors, adding them to a Contributor Insight Page can help you to better understand their contributions to your project and the open source ecosystem
+If you have a reliable group of contributors, adding them to a [Contributor Insight Page](../maintainers/maintainers-guide.md#creating-a-new-contributor-insight-page) can help you to better understand their contributions to your project and the open source ecosystem
 
-- How often do they contribute to yours and other open source projects in general?
-- Are they invested in your project's success?
 
 Once you have made your observations, [create a Contributor Insight Page for your project](../maintainers/maintainers-guide.md#creating-a-new-contributor-insight-page). This will help you to make decisions about what steps you want to take next. Here are some approaches you can use to help you:
 
