@@ -199,7 +199,7 @@ There are three tabs that provide you with more information on these repositorie
 
 ### Overview
 
-The "Overview" tab gives you a high-level view of the contributors in your list, including the total number of commits in the last 30 days and the types of contributors: [Active](../welcome/glossary.md/#active-contributors), [New](../welcome/glossary.md#new-contributors), and [Alumni](../welcome/glossary.md#alumni-contributors).
+The "Overview" tab gives you a high-level view of the contributors in your list, including the total number of commits in the last 30 days and the types of contributors: [Active](../welcome/glossary.md#active-contributors), [New](../welcome/glossary.md#new-contributors), and [Alumni](../welcome/glossary.md#alumni-contributors).
 
 ### Activity
 
