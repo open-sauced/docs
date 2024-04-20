@@ -31,7 +31,7 @@ If you have a reliable group of contributors, adding them to a [Contributor Insi
 
 If you need more tips on how to pick people that can help grow your project, check out our blog post, ["How to Build Your Open Source Dream Team"](https://dev.to/opensauced/how-to-build-your-open-source-dream-team-a-guide-3i90).
 
-## Recruiting Team Members and Contributors Outside of Your Project 
+## Recruiting Team Members and Contributors Outside of Your Project
 
 When you're ready to recruit your team members, consider creating a [Repository Insight Page](../features/repo-insights.md) with projects that are similar to yours. From there, determine which contributors suit your project, add them to a list, and monitor their progress.  
 
@@ -41,7 +41,7 @@ Consider checking out our [Understanding Repository Insights Data](../features/r
 
 :::
 
-Once you've picked the people you want to join your project, recruit them. You can do this by going to their [OpenSauced profiles](../contributors/contributors-guide.md#creating-your-profile) and sending them a message via the contact information they provide.
+Once you've identified the people you want to ask, reach out to them, providing a clear message and a list of expectations.
 
 ## Understanding team participation
 
