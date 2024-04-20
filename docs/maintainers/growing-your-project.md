@@ -47,4 +47,10 @@ Once you've identified the people you want to ask, reach out to them, providing 
 
 Once you've identified the people you want to ask, reach out to them by providing a clear message and a list of expectations.
 
+:::note
+
+In order for the team sync feature to work, create the team on GitHub first. Check out [their tutorial](https://docs.github.com/en/organizations/organizing-members-into-teams/creating-a-team) to learn how.
+
+:::
+
 ![team sync gif](../../static/gif/team-sync.gif)
