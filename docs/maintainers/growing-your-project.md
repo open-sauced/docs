@@ -67,3 +67,9 @@ In addition to having an active team, the methods use to work and communicate wi
 
 - Analyze the closed number Pull Requests and Issues tabs and the PR velocity to think of new ways to quickly review and merge people's contributions.
 - Use the amount of stars and forks displayed in the Engagement tab to discuss the effectiveness of current promotion strategies and to determine new methods to promote the project.
+
+## Additional Resources 
+If you're looking for more resources to aid you in your open source project's growth journey, check out these posts written by our team on Dev.to:
+
+- [Scaling Open Source Projects: Navigating Challenges](https://dev.to/opensauced/navigating-the-challenges-of-scaling-open-source-projects-11h2)
+- [Collaborate, Conquer, & Grow: Mastering the Art of Issue Management for Open Source Projects](https://dev.to/opensauced/collaborate-conquer-grow-mastering-the-art-of-issue-management-for-open-source-projects-49gi)
