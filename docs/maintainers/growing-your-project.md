@@ -63,7 +63,7 @@ If you see "Low" in the Act tab, consider messaging your team member about this 
 
 ## Creating Transparency and Communication With Your Team
 
-In addition to having an active team, the methods use to work and communicate with them plays a major role in your open source's growth strategy. Creating and sharing your project's workspace with your team members can be a great way to help you facilitate this kind of environment for your project. Once you create this page, here are some strategies you can use its information to connect with your team:
+The methods  utilized to collaborate and communicate with your team play a crucial role in the growth of your open source project.  Creating and sharing your project's [workspace](../features/workspaces.md) page with your team members can be helpful in fostering a collaborative environment. After creating this page, here are some ways to leverage its information to engage with your team:
 
 - Analyze the closed number Pull Requests and Issues tabs and the PR velocity to think of new ways to quickly review and merge people's contributions.
 - Use the amount of stars and forks displayed in the Engagement tab to discuss the effectiveness of current promotion strategies and to determine new methods to promote the project.
