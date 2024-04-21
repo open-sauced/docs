@@ -33,7 +33,7 @@ If you need more tips on how to pick people that can help grow your project, che
 
 ## Recruiting Team Members and Contributors Outside of Your Project
 
-When you're ready to recruit your team members, consider creating a [Repository Insight Page](../features/repo-insights.md) with projects that are similar to yours. From there, determine which contributors suit your project, add them to a list, and monitor their progress.  
+If you've looked at your project's[Repository Insight Page](../features/repo-insights.md) and realize there is no one that could help you, consider recruiting new contributors. To do that, create another repository insight page with projects that are similar to yours. From there, determine which contributors suit your project, add them to a list, and monitor their progress.  
 
 :::tip
 
@@ -43,19 +43,13 @@ Consider checking out our [Understanding Repository Insights Data](../features/r
 
 Once you've identified the people you want to ask, reach out to them, providing a clear message and a list of expectations.
 
-## Understanding team participation
-
-Once you've identified the people you want to ask, reach out to them by providing a clear message and a list of expectations on how they should partake in the project. Then, [sync your team](../welcome/faqs.md#sync-your-github-team) to your project's Repository Insight page.
-
-:::note
-
-In order for the team sync feature to work, create the team on GitHub first. Check out [their tutorial](https://docs.github.com/en/organizations/organizing-members-into-teams/creating-a-team) to learn how.
-
-:::
+After the people from your list has agreed to join your project, create [your team on GitHub](https://docs.github.com/en/organizations/organizing-members-into-teams/creating-a-team) and [sync it](../welcome/faqs.md#sync-your-github-team) to your project's Repository Insight page.
 
 ![team sync gif](../../static/gif/team-sync.gif)
 
-When monitoring their progress in the [Contributors tab](../maintainers/maintainers-guide.md#contributors), here are some strategies you can use to help you:
+## Understanding team participation
+
+To ensure that your open source project reaches it growth strategy goal(s), it is important to ensure that your members actively participate in the project as much as possible. The [Contributors tab](../maintainers/maintainers-guide.md#contributors) in your project's Repository Insights page can be helpful in fostering participation. Here are some strategies you can use this tab to monitor your team member's progress:
 
 - Identify the amount of repositories they contributed to in the Repositories section to see if they are immersed in the project.
 - Take note of the date of their recent contribution in the Last Contributed section to see if it aligns with the number in the Repositories section.
@@ -69,7 +63,7 @@ If you see "Low" in the Act tab, consider messaging your team member about this 
 
 ## Creating Transparency and Communication With Your Team
 
-While having a team is important in your open source project's growth strategy, the methods use to work and communicate with them plays a major role this journey. Creating and sharing your project's workspace with your team members can be a great way to help you facilitate this kind of environment for your project. Once you create this page, here are some strategies you can use its information to connect with your team:
+In addition to having an active team, the methods use to work and communicate with them plays a major role in your open source's growth strategy. Creating and sharing your project's workspace with your team members can be a great way to help you facilitate this kind of environment for your project. Once you create this page, here are some strategies you can use its information to connect with your team:
 
 - Analyze the closed number Pull Requests and Issues tabs and the PR velocity to think of new ways to quickly review and merge people's contributions.
 - Use the amount of stars and forks displayed in the Engagement tab to discuss the effectiveness of current promotion strategies and to determine new methods to promote the project.
