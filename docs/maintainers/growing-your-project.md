@@ -49,7 +49,7 @@ After the people from your list has agreed to join your project, create [your te
 
 ## Understanding team participation
 
-To ensure that your open source project reaches it growth strategy goal(s), it is important to ensure that your members actively participate in the project as much as possible. The [Contributors tab](../maintainers/maintainers-guide.md#contributors) in your project's Repository Insights page can be helpful in fostering participation. Here are some strategies you can use this tab to monitor your team member's progress:
+To ensure that your open source project reaches it growth strategy goal(s), it is important that your team members actively participate in the project as much as possible. The [Contributors tab](../maintainers/maintainers-guide.md#contributors) in your project's Repository Insights page can be helpful in fostering participation. Here are some strategies you can use this tab to monitor your team member's progress:
 
 - Identify the amount of repositories they contributed to in the Repositories section to see if they are immersed in the project.
 - Take note of the date of their recent contribution in the Last Contributed section to see if it aligns with the number in the Repositories section.
