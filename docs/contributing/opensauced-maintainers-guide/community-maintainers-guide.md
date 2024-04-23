@@ -51,7 +51,7 @@ Good first issues mainly aim for complete beginners and someone new to OpenSauce
 
 ### Assigning Issues
 
-- The `good first issue` can only be assigned **once per contributor**. <br /> Respond with something like, "Hey \{username}, we appreciate all the contributions lately! We'd love to give someone new a chance to take on this good first issue, but keep checking back as we post new issues frequently."
+- The `good first issue` can only be assigned **once per contributor**. <br /> Respond with something like, "Hey \{username}\, we appreciate all the contributions lately! We'd love to give someone new a chance to take on this good first issue, but keep checking back as we post new issues frequently."
 - Issues outside the `good first issue` can be assigned **max. 2 issues per contributor at a time**. <br /> We love contributions. But we want to equip contributors to succeed by giving them time to complete issues. Through experience, we've found that two issues at a time allows them to focus on completing the issue and supports maintainers by not having issues open for long periods.
 
 ## Pull Request Management
@@ -80,7 +80,7 @@ Good first issues mainly aim for complete beginners and someone new to OpenSauce
 - Do not approve changes or dismiss reviews from a maintainer even if the contributor has completed the change requests. Re-request review instead.
 - If you have the time, it's great to encourage contributors with a positive message like these:
 
-  - "Thanks for contributing, [name of contributor]. Join our [Discord](https://discord.com/invite/U2peSNf23P) community for more updates on OpenSauced and to find more projects."
+  - "Thanks for contributing, \{name of contributor}\. Join our [Discord](https://discord.com/invite/U2peSNf23P) community for more updates on OpenSauced and to find more projects."
 
   - A personal message acknowledging their impact.
 
