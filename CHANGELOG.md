@@ -5,6 +5,44 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.73.0](https://github.com/open-sauced/docs/compare/v1.72.0...v1.73.0) (2024-04-24)
+
+
+### Features
+
+* migrate to latest docusaurus version and provide necessary updates ([#295](https://github.com/open-sauced/docs/issues/295)) ([93df686](https://github.com/open-sauced/docs/commit/93df686460444b49eb6f1c0cca86c6436d19a2b1))
+
+---
+: ""
+---
+# 📦 open-sauced/docs changelog
+
+[![conventional commits](https://img.shields.io/badge/conventional%20commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+[![semantic versioning](https://img.shields.io/badge/semantic%20versioning-2.0.0-green.svg)](https://semver.org)
+
+> All notable changes to this project will be documented in this file
+
+## [1.72.0](https://github.com/open-sauced/docs/compare/v1.71.0...v1.72.0) (2024-04-11)
+
+
+### Documentation
+
+* Updated docs to retrieve auth token ([#280](https://github.com/open-sauced/docs/issues/280)) ([a2b087c](https://github.com/open-sauced/docs/commit/a2b087c28399e8ab185c67c6bced4fecc1514b65))
+
+## [1.71.0](https://github.com/open-sauced/docs/compare/v1.70.0...v1.71.0) (2024-04-10)
+
+
+### Features
+
+* Add repo pages ([#293](https://github.com/open-sauced/docs/issues/293)) ([3143b02](https://github.com/open-sauced/docs/commit/3143b02cb8691b6264c39fedfc2a20ad83ac6cb9))
+
+## [1.70.0](https://github.com/open-sauced/docs/compare/v1.69.0...v1.70.0) (2024-04-04)
+
+
+### Features
+
+* update contributing guide ([#288](https://github.com/open-sauced/docs/issues/288)) ([1655c76](https://github.com/open-sauced/docs/commit/1655c76b4840325a02486e296d7a38d6474e6216))
+
 ## [1.69.0](https://github.com/open-sauced/docs/compare/v1.68.0...v1.69.0) (2024-03-21)
 
 

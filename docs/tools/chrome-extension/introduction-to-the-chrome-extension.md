@@ -2,20 +2,20 @@
 id: introduction-to-the-chrome-extension
 title: "Introduction to the Chrome Extension"
 sidebar_label: "Introduction to the Chrome Extension"
-keywords:
-  - "introduction to the chrome extension"
-  - "Chrome Extension Overview"
-  - "Browser Extension Introduction"
-  - "Chrome Add-On Introduction"
-  - "Extension Development Basics"
-  - "Getting Started with Chrome Extension"
-  - "Browser Plugin Introduction"
-  - "Chrome Web Store Add-On"
-  - "Extension Development Guide"
-  - "Chrome Extension Features"
-  - "Introduction to Browser Extensions"
-  - "Chrome Extension Fundamentals"
-  - "Web Browser Plugin Basics"
+keywords: 
+- "introduction to the chrome extension" 
+- "Chrome Extension Overview" 
+- "Browser Extension Introduction" 
+- "Chrome Add-On Introduction" 
+- "Extension Development Basics" 
+- "Getting Started with Chrome Extension" 
+- "Browser Plugin Introduction" 
+- "Chrome Web Store Add-On" 
+- "Extension Development Guide" 
+- "Chrome Extension Features" 
+- "Introduction to Browser Extensions" 
+- "Chrome Extension Fundamentals" 
+- "Web Browser Plugin Basics" 
 ---
 
 ## The OpenSauced Chrome Extension

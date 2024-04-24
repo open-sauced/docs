@@ -1,5 +1,6 @@
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const { themes } = require('prism-react-renderer');
+const lightCodeTheme = themes.github;
+const darkCodeTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
@@ -14,6 +15,7 @@ module.exports = {
   projectName: "docs.opensauced.pizza", // Usually your repo name.
   trailingSlash: true,
   themeConfig: {
+    metadata: [{name: 'keywords', content: 'open source, open source insights, OSS'}],
     algolia: {
       appId: "RH1WG3CUDK",
       apiKey: "ea723aba7d69f2f36feac9292f2d2fe9",
@@ -71,10 +73,11 @@ module.exports = {
     footer: {
       logo: {
         alt: "OpenSauced Logo",
-        src: "img/logo.svg",
+        src: "img/logo_lightmode.png",
         href: "https://opensauced.pizza/",
+        height: 40,
       },
-      style: "dark",
+      style: "light",
       links: [
         {
           title: "Learn",
@@ -84,13 +87,9 @@ module.exports = {
               to: "/contributing/introduction-to-contributing/",
             },
             {
-              label: "Chrome Extension Usage",
-              to: "/tools/chrome-extension/introduction-to-the-chrome-extension/",
+              label: "Open Source Courses",
+              to: "https://intro.opensauced.pizza/#/",
             },
-            {
-              label: "Your Open Source Resume",
-              to: "https://intro.opensauced.pizza/#/06-the-secret-sauce?id=develop-your-open-source-resume",
-            }
           ],
         },
         {
@@ -118,9 +117,6 @@ module.exports = {
               href: "https://dev.to/opensauced",
             },
             {
-              label: "Download book",
-              href: "https://docs.opensauced.pizza/open-sauced-docs.pdf",
-            },{
               label: "Watch our feature demos",
               href: "https://www.youtube.com/playlist?list=PLHyZ0Wz_A44VRlE-YS9me5qxDNRgK5T3H"
              }

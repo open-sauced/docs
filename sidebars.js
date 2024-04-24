@@ -26,6 +26,7 @@ module.exports = {
         "features/workspaces",
         "features/repo-insights",
         "features/contributor-insights",
+        "features/repo-pages",
         "features/highlights",
         "features/dev-card",
       ],

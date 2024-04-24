@@ -2,20 +2,19 @@
 id: resolve-merge-conflicts
 title: "Resolve Merge Conflicts"
 sidebar_label: "Resolve Merge Conflicts"
-keywords:
-  - "resolve merge conflicts"
-  - "solve merge conflicts"
-  - "Git merge conflict"
-  - "Merge conflict resolution"
-  - "Merge conflict prevention"
-  - "Merge conflict handling"
-  - "Merge conflict management"
-  - "Merge conflict avoidance"
-  - "Merge conflict workflow"
-  - "Merge conflict strategies"
-  - "Merge conflict best practices"
-  - "Merge conflict tools"
-
+keywords: 
+- "resolve merge conflicts" 
+- "solve merge conflicts" 
+- "Git merge conflict" 
+- "Merge conflict resolution" 
+- "Merge conflict prevention" 
+- "Merge conflict handling" 
+- "Merge conflict management" 
+- "Merge conflict avoidance" 
+- "Merge conflict workflow" 
+- "Merge conflict strategies" 
+- "Merge conflict best practices" 
+- "Merge conflict tools" 
 ---
 
 When you are working on any of the OpenSauced repositories, you might run into a merge conflict. A merge conflict occurs when multiple conflicting changes are made to the same line in a file. Merge conflicts happen the most when you open a pull request, as the release process generally updates `npm-shrinkwrap.json`.
