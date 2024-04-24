@@ -2,18 +2,18 @@
 id: introduction-to-contributing
 title: "Introduction to Contributing"
 sidebar_label: "Introduction to Contributing"
-keywords:
-  - "introduction to contributing"
-  - "Getting started with contributions"
-  - "New contributor guide"
-  - "How to contribute effectively"
-  - "Contribution essentials"
-  - "Open source contribution guide"
-  - "Making your first contribution"
-  - "Beginner-friendly contributions"
-  - "Contributing to open source projects"
-  - "Starting your contribution journey"
-  -  "First time contributor tips"
+keywords: 
+- "introduction to contributing" 
+- "Getting started with contributions" 
+- "New contributor guide" 
+- "How to contribute effectively" 
+- "Contribution essentials" 
+- "Open source contribution guide" 
+- "Making your first contribution" 
+- "Beginner-friendly contributions" 
+- "Contributing to open source projects" 
+- "Starting your contribution journey" 
+- "First time contributor tips" 
 ---
 
 Contributions are always welcome, no matter how large or small. Before contributing,
@@ -31,7 +31,7 @@ please read the [Code of Conduct](./code-of-conduct.md) and follow the direction
 - If you wish to work on an open issue, please comment on the issue with `.take`, and it will be assigned to you.
 
   :::info
-  
+
   If an issue is not assigned, it is assumed to be available for anyone to work on. Please assign yourself to an issue _before_ working on it to avoid conflicts.
 
   :::
@@ -40,8 +40,8 @@ please read the [Code of Conduct](./code-of-conduct.md) and follow the direction
 - If you contribute to the project for the first time, you can search for issues with `good first issue` or `bug` labels in the repository.
 
   :::note
-  
-  Please only self-assign a `good first issue` one time.
+
+  **Please only self-assign a `good first issue` one time**. <br /> Maintainers may remove you from the assignees and not accept your pull request if you choose to proceed.
 
   :::
 
@@ -64,14 +64,15 @@ After running this command, you can push your changes to the remote repo.
 See [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for more examples.
 
 ## Pull Requests (PR)
+
 ---
 
 We actively welcome your pull requests. However, you must ensure that **you are assigned** to an existing issue before working on changes, and you need to **link your work to the issue** in your PR form.
 
 ---
 
-1. Fork the repo and create your branch from the default branch.
-2. Name your branch to something descriptive of your work, i.e., `add-navbar` or `fix/broken-links`.
+1. Fork and clone the repo.
+2. Creating a new branch is a must. Before working on your changes, create a new branch from the default (`main`, `beta`, etc.) branch. Name your branch with something descriptive of your work, i.e., `add-navbar` or `fix/broken-links`.
 3. If you've added code that should be tested, add tests.
 4. If you've changed APIs, update the documentation.
 5. If you make visual changes, screenshots are required.
@@ -80,19 +81,22 @@ We actively welcome your pull requests. However, you must ensure that **you are 
 8. If you improve the existing code, please let us know in your PR description.
 9. Completing the PR form is required. Make sure to fill in the PR title, description, [link to an issue](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls), and all the necessary areas.
 
-   - The title must begin with "feat:", "fix:", or anything related to your changes. <br /> **Tips**: You can follow your chosen option when [committing](#commits) your changes.
+   - The title must begin with `feat:`, `fix:`, or anything related to your changes. <br /> **TIP:** You can follow your chosen option when [committing](#commits) your changes.
 
    - Unsolicited code is welcomed, but an issue is required to announce your intentions.
 
-⚠️ **PRs will be marked as invalid and may be closed if:**  
+   > _**Note for maintainers:** All PRs need a label to assist automation. See [this guide](./triage-guide.md#adding-issue-and-pr-labels) to determine which labels to use._
 
-- the issue is not assigned to the contributor who opened the PR  
-- no issue is linked to the PR  
+:::warning
 
-> **IMPORTANT:** <br />
-> Please do not DM Maintainers or contact them outside of GitHub if you want a PR Review. If you haven't received a review within a week, please tag them in the PR comments to ask for an estimated time of review.
+**PRs will be marked as invalid and may be closed if:**
 
-> _**Note for maintainers**: All PRs need a label to assist automation. See [this guide](./triage-guide.md#adding-issue-and-pr-labels) to determine which labels to use._
+- the issue is not assigned to the contributor who opened the PR
+- no issue is linked to the PR
+- PR form is incomplete, or any section in the form is deleted
+- changes are made directly on the default (`main`, `beta`, etc.) branch
+
+:::
 
 ### PR Validation
 
@@ -102,7 +106,11 @@ Examples of valid PR titles:
 - feat: Add support for Node 12.
 - refactor!: Drop support for Node 6.
 
-_**Note**: For any breaking changes, you have to use the `!` syntax._
+:::note
+
+For any breaking changes, you have to use the `!` syntax.
+
+:::
 
 ### Work in Progress
 
@@ -189,11 +197,21 @@ If you forget to run this command, automated PR checks will also run these comma
 
 Do you have questions? Join the conversation in our [Discord](https://discord.gg/U2peSNf23P).
 
+:::info
+
+**IMPORTANT** <br /> Please do not DM Maintainers or contact them outside of GitHub if you want a PR Review. If you haven't received a review within a week, please tag them in the PR comments to ask for an estimated time of review.
+
+:::
+
 ## Triage Team
 
 The Triage team is inspired by [expressjs/express](https://github.com/expressjs/express/blob/HEAD/Triager-Guide.md). This team exists to create a path for making contributions to this project and open source. All Triage Team members are expected to follow the [Triage Guide](./triage-guide.md).
 
-> **There are no minimum requirements to become a member of the Triage Team.**
+:::info
+
+There are no minimum requirements to become a member of the Triage Team.
+
+:::
 
 For those interested in getting involved in the project or just open source in general and wanting to join the Triage Team, please leave a comment in the `🍕opensauced-contributors-chat` channel on [Discord](https://discord.gg/U2peSNf23P).
 

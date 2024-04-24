@@ -2,13 +2,13 @@
 id: code-of-conduct
 title: "Code of Conduct"
 sidebar_label: "Code of Conduct"
-keywords:
-  - "code of conduct"
-  - "Community guidelines"
-  - "Guidelines for behavior"
-  - "Interaction guidelines"
-  - "rules and guidelines"
-  - "Behavioral expectations"
+keywords: 
+- "code of conduct" 
+- "Community guidelines" 
+- "Guidelines for behavior" 
+- "Interaction guidelines" 
+- "rules and guidelines" 
+- "Behavioral expectations" 
 ---
 
 ## Our Pledge
