@@ -10,7 +10,7 @@
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "Deferred": () => (/* binding */ Deferred)
+/* harmony export */   Deferred: () => (/* binding */ Deferred)
 /* harmony export */ });
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-core/_version.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_version_js__WEBPACK_IMPORTED_MODULE_0__);
@@ -54,7 +54,7 @@ class Deferred {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "WorkboxError": () => (/* binding */ WorkboxError)
+/* harmony export */   WorkboxError: () => (/* binding */ WorkboxError)
 /* harmony export */ });
 /* harmony import */ var _models_messages_messageGenerator_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../models/messages/messageGenerator.js */ "./node_modules/workbox-core/models/messages/messageGenerator.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-core/_version.js");
@@ -106,7 +106,7 @@ class WorkboxError extends Error {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "assert": () => (/* binding */ finalAssertExports)
+/* harmony export */   assert: () => (/* binding */ finalAssertExports)
 /* harmony export */ });
 /* harmony import */ var _private_WorkboxError_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../_private/WorkboxError.js */ "./node_modules/workbox-core/_private/WorkboxError.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-core/_version.js");
@@ -196,7 +196,7 @@ const finalAssertExports =  false
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "cacheMatchIgnoreParams": () => (/* binding */ cacheMatchIgnoreParams)
+/* harmony export */   cacheMatchIgnoreParams: () => (/* binding */ cacheMatchIgnoreParams)
 /* harmony export */ });
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-core/_version.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_version_js__WEBPACK_IMPORTED_MODULE_0__);
@@ -256,7 +256,7 @@ async function cacheMatchIgnoreParams(cache, request, ignoreParams, matchOptions
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "cacheNames": () => (/* binding */ cacheNames)
+/* harmony export */   cacheNames: () => (/* binding */ cacheNames)
 /* harmony export */ });
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-core/_version.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_version_js__WEBPACK_IMPORTED_MODULE_0__);
@@ -321,7 +321,7 @@ const cacheNames = {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "canConstructResponseFromBodyStream": () => (/* binding */ canConstructResponseFromBodyStream)
+/* harmony export */   canConstructResponseFromBodyStream: () => (/* binding */ canConstructResponseFromBodyStream)
 /* harmony export */ });
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-core/_version.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_version_js__WEBPACK_IMPORTED_MODULE_0__);
@@ -372,7 +372,7 @@ function canConstructResponseFromBodyStream() {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "executeQuotaErrorCallbacks": () => (/* binding */ executeQuotaErrorCallbacks)
+/* harmony export */   executeQuotaErrorCallbacks: () => (/* binding */ executeQuotaErrorCallbacks)
 /* harmony export */ });
 /* harmony import */ var _private_logger_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../_private/logger.js */ "./node_modules/workbox-core/_private/logger.js");
 /* harmony import */ var _models_quotaErrorCallbacks_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../models/quotaErrorCallbacks.js */ "./node_modules/workbox-core/models/quotaErrorCallbacks.js");
@@ -423,7 +423,7 @@ async function executeQuotaErrorCallbacks() {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "getFriendlyURL": () => (/* binding */ getFriendlyURL)
+/* harmony export */   getFriendlyURL: () => (/* binding */ getFriendlyURL)
 /* harmony export */ });
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-core/_version.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_version_js__WEBPACK_IMPORTED_MODULE_0__);
@@ -454,7 +454,7 @@ const getFriendlyURL = (url) => {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "logger": () => (/* binding */ logger)
+/* harmony export */   logger: () => (/* binding */ logger)
 /* harmony export */ });
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-core/_version.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_version_js__WEBPACK_IMPORTED_MODULE_0__);
@@ -470,7 +470,7 @@ const logger = ( false
     : (() => {
         // Don't overwrite this value if it's already set.
         // See https://github.com/GoogleChrome/workbox/pull/2284#issuecomment-560470923
-        if (!('__WB_DISABLE_DEV_LOGS' in self)) {
+        if (!('__WB_DISABLE_DEV_LOGS' in globalThis)) {
             self.__WB_DISABLE_DEV_LOGS = false;
         }
         let inGroup = false;
@@ -535,7 +535,7 @@ const logger = ( false
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "timeout": () => (/* binding */ timeout)
+/* harmony export */   timeout: () => (/* binding */ timeout)
 /* harmony export */ });
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-core/_version.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_version_js__WEBPACK_IMPORTED_MODULE_0__);
@@ -569,7 +569,7 @@ function timeout(ms) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "waitUntil": () => (/* binding */ waitUntil)
+/* harmony export */   waitUntil: () => (/* binding */ waitUntil)
 /* harmony export */ });
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-core/_version.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_version_js__WEBPACK_IMPORTED_MODULE_0__);
@@ -608,7 +608,7 @@ function waitUntil(event, asyncFn) {
 
 // @ts-ignore
 try {
-    self['workbox:core:6.5.3'] && _();
+    self['workbox:core:7.0.0'] && _();
 }
 catch (e) { }
 
@@ -623,7 +623,7 @@ catch (e) { }
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "copyResponse": () => (/* binding */ copyResponse)
+/* harmony export */   copyResponse: () => (/* binding */ copyResponse)
 /* harmony export */ });
 /* harmony import */ var _private_canConstructResponseFromBodyStream_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_private/canConstructResponseFromBodyStream.js */ "./node_modules/workbox-core/_private/canConstructResponseFromBodyStream.js");
 /* harmony import */ var _private_WorkboxError_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./_private/WorkboxError.js */ "./node_modules/workbox-core/_private/WorkboxError.js");
@@ -698,7 +698,7 @@ async function copyResponse(response, modifier) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "messageGenerator": () => (/* binding */ messageGenerator)
+/* harmony export */   messageGenerator: () => (/* binding */ messageGenerator)
 /* harmony export */ });
 /* harmony import */ var _messages_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./messages.js */ "./node_modules/workbox-core/models/messages/messages.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../_version.js */ "./node_modules/workbox-core/_version.js");
@@ -739,7 +739,7 @@ const messageGenerator =  false ? 0 : generatorFunction;
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "messages": () => (/* binding */ messages)
+/* harmony export */   messages: () => (/* binding */ messages)
 /* harmony export */ });
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../_version.js */ "./node_modules/workbox-core/_version.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_version_js__WEBPACK_IMPORTED_MODULE_0__);
@@ -983,7 +983,7 @@ const messages = {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "quotaErrorCallbacks": () => (/* binding */ quotaErrorCallbacks)
+/* harmony export */   quotaErrorCallbacks: () => (/* binding */ quotaErrorCallbacks)
 /* harmony export */ });
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-core/_version.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_version_js__WEBPACK_IMPORTED_MODULE_0__);
@@ -1012,7 +1012,7 @@ const quotaErrorCallbacks = new Set();
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "PrecacheController": () => (/* binding */ PrecacheController)
+/* harmony export */   PrecacheController: () => (/* binding */ PrecacheController)
 /* harmony export */ });
 /* harmony import */ var workbox_core_private_assert_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! workbox-core/_private/assert.js */ "./node_modules/workbox-core/_private/assert.js");
 /* harmony import */ var workbox_core_private_cacheNames_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! workbox-core/_private/cacheNames.js */ "./node_modules/workbox-core/_private/cacheNames.js");
@@ -1327,7 +1327,7 @@ class PrecacheController {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "PrecacheFallbackPlugin": () => (/* binding */ PrecacheFallbackPlugin)
+/* harmony export */   PrecacheFallbackPlugin: () => (/* binding */ PrecacheFallbackPlugin)
 /* harmony export */ });
 /* harmony import */ var _utils_getOrCreatePrecacheController_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./utils/getOrCreatePrecacheController.js */ "./node_modules/workbox-precaching/utils/getOrCreatePrecacheController.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./_version.js */ "./node_modules/workbox-precaching/_version.js");
@@ -1391,7 +1391,7 @@ class PrecacheFallbackPlugin {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "PrecacheRoute": () => (/* binding */ PrecacheRoute)
+/* harmony export */   PrecacheRoute: () => (/* binding */ PrecacheRoute)
 /* harmony export */ });
 /* harmony import */ var workbox_core_private_logger_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! workbox-core/_private/logger.js */ "./node_modules/workbox-core/_private/logger.js");
 /* harmony import */ var workbox_core_private_getFriendlyURL_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! workbox-core/_private/getFriendlyURL.js */ "./node_modules/workbox-core/_private/getFriendlyURL.js");
@@ -1468,7 +1468,7 @@ class PrecacheRoute extends workbox_routing_Route_js__WEBPACK_IMPORTED_MODULE_2_
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "PrecacheStrategy": () => (/* binding */ PrecacheStrategy)
+/* harmony export */   PrecacheStrategy: () => (/* binding */ PrecacheStrategy)
 /* harmony export */ });
 /* harmony import */ var workbox_core_copyResponse_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! workbox-core/copyResponse.js */ "./node_modules/workbox-core/copyResponse.js");
 /* harmony import */ var workbox_core_private_cacheNames_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! workbox-core/_private/cacheNames.js */ "./node_modules/workbox-core/_private/cacheNames.js");
@@ -1782,7 +1782,7 @@ __webpack_require__.r(__webpack_exports__);
 
 // @ts-ignore
 try {
-    self['workbox:precaching:6.5.3'] && _();
+    self['workbox:precaching:7.0.0'] && _();
 }
 catch (e) { }
 
@@ -1797,7 +1797,7 @@ catch (e) { }
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "addPlugins": () => (/* binding */ addPlugins)
+/* harmony export */   addPlugins: () => (/* binding */ addPlugins)
 /* harmony export */ });
 /* harmony import */ var _utils_getOrCreatePrecacheController_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./utils/getOrCreatePrecacheController.js */ "./node_modules/workbox-precaching/utils/getOrCreatePrecacheController.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./_version.js */ "./node_modules/workbox-precaching/_version.js");
@@ -1835,7 +1835,7 @@ function addPlugins(plugins) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "addRoute": () => (/* binding */ addRoute)
+/* harmony export */   addRoute: () => (/* binding */ addRoute)
 /* harmony export */ });
 /* harmony import */ var workbox_routing_registerRoute_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! workbox-routing/registerRoute.js */ "./node_modules/workbox-routing/registerRoute.js");
 /* harmony import */ var _utils_getOrCreatePrecacheController_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./utils/getOrCreatePrecacheController.js */ "./node_modules/workbox-precaching/utils/getOrCreatePrecacheController.js");
@@ -1885,7 +1885,7 @@ function addRoute(options) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "cleanupOutdatedCaches": () => (/* binding */ cleanupOutdatedCaches)
+/* harmony export */   cleanupOutdatedCaches: () => (/* binding */ cleanupOutdatedCaches)
 /* harmony export */ });
 /* harmony import */ var workbox_core_private_cacheNames_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! workbox-core/_private/cacheNames.js */ "./node_modules/workbox-core/_private/cacheNames.js");
 /* harmony import */ var workbox_core_private_logger_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! workbox-core/_private/logger.js */ "./node_modules/workbox-core/_private/logger.js");
@@ -1936,7 +1936,7 @@ function cleanupOutdatedCaches() {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "createHandlerBoundToURL": () => (/* binding */ createHandlerBoundToURL)
+/* harmony export */   createHandlerBoundToURL: () => (/* binding */ createHandlerBoundToURL)
 /* harmony export */ });
 /* harmony import */ var _utils_getOrCreatePrecacheController_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./utils/getOrCreatePrecacheController.js */ "./node_modules/workbox-precaching/utils/getOrCreatePrecacheController.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./_version.js */ "./node_modules/workbox-precaching/_version.js");
@@ -1984,7 +1984,7 @@ function createHandlerBoundToURL(url) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "getCacheKeyForURL": () => (/* binding */ getCacheKeyForURL)
+/* harmony export */   getCacheKeyForURL: () => (/* binding */ getCacheKeyForURL)
 /* harmony export */ });
 /* harmony import */ var _utils_getOrCreatePrecacheController_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./utils/getOrCreatePrecacheController.js */ "./node_modules/workbox-precaching/utils/getOrCreatePrecacheController.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./_version.js */ "./node_modules/workbox-precaching/_version.js");
@@ -2034,18 +2034,18 @@ function getCacheKeyForURL(url) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "PrecacheController": () => (/* reexport safe */ _PrecacheController_js__WEBPACK_IMPORTED_MODULE_8__.PrecacheController),
-/* harmony export */   "PrecacheFallbackPlugin": () => (/* reexport safe */ _PrecacheFallbackPlugin_js__WEBPACK_IMPORTED_MODULE_11__.PrecacheFallbackPlugin),
-/* harmony export */   "PrecacheRoute": () => (/* reexport safe */ _PrecacheRoute_js__WEBPACK_IMPORTED_MODULE_9__.PrecacheRoute),
-/* harmony export */   "PrecacheStrategy": () => (/* reexport safe */ _PrecacheStrategy_js__WEBPACK_IMPORTED_MODULE_10__.PrecacheStrategy),
-/* harmony export */   "addPlugins": () => (/* reexport safe */ _addPlugins_js__WEBPACK_IMPORTED_MODULE_0__.addPlugins),
-/* harmony export */   "addRoute": () => (/* reexport safe */ _addRoute_js__WEBPACK_IMPORTED_MODULE_1__.addRoute),
-/* harmony export */   "cleanupOutdatedCaches": () => (/* reexport safe */ _cleanupOutdatedCaches_js__WEBPACK_IMPORTED_MODULE_2__.cleanupOutdatedCaches),
-/* harmony export */   "createHandlerBoundToURL": () => (/* reexport safe */ _createHandlerBoundToURL_js__WEBPACK_IMPORTED_MODULE_3__.createHandlerBoundToURL),
-/* harmony export */   "getCacheKeyForURL": () => (/* reexport safe */ _getCacheKeyForURL_js__WEBPACK_IMPORTED_MODULE_4__.getCacheKeyForURL),
-/* harmony export */   "matchPrecache": () => (/* reexport safe */ _matchPrecache_js__WEBPACK_IMPORTED_MODULE_5__.matchPrecache),
-/* harmony export */   "precache": () => (/* reexport safe */ _precache_js__WEBPACK_IMPORTED_MODULE_6__.precache),
-/* harmony export */   "precacheAndRoute": () => (/* reexport safe */ _precacheAndRoute_js__WEBPACK_IMPORTED_MODULE_7__.precacheAndRoute)
+/* harmony export */   PrecacheController: () => (/* reexport safe */ _PrecacheController_js__WEBPACK_IMPORTED_MODULE_8__.PrecacheController),
+/* harmony export */   PrecacheFallbackPlugin: () => (/* reexport safe */ _PrecacheFallbackPlugin_js__WEBPACK_IMPORTED_MODULE_11__.PrecacheFallbackPlugin),
+/* harmony export */   PrecacheRoute: () => (/* reexport safe */ _PrecacheRoute_js__WEBPACK_IMPORTED_MODULE_9__.PrecacheRoute),
+/* harmony export */   PrecacheStrategy: () => (/* reexport safe */ _PrecacheStrategy_js__WEBPACK_IMPORTED_MODULE_10__.PrecacheStrategy),
+/* harmony export */   addPlugins: () => (/* reexport safe */ _addPlugins_js__WEBPACK_IMPORTED_MODULE_0__.addPlugins),
+/* harmony export */   addRoute: () => (/* reexport safe */ _addRoute_js__WEBPACK_IMPORTED_MODULE_1__.addRoute),
+/* harmony export */   cleanupOutdatedCaches: () => (/* reexport safe */ _cleanupOutdatedCaches_js__WEBPACK_IMPORTED_MODULE_2__.cleanupOutdatedCaches),
+/* harmony export */   createHandlerBoundToURL: () => (/* reexport safe */ _createHandlerBoundToURL_js__WEBPACK_IMPORTED_MODULE_3__.createHandlerBoundToURL),
+/* harmony export */   getCacheKeyForURL: () => (/* reexport safe */ _getCacheKeyForURL_js__WEBPACK_IMPORTED_MODULE_4__.getCacheKeyForURL),
+/* harmony export */   matchPrecache: () => (/* reexport safe */ _matchPrecache_js__WEBPACK_IMPORTED_MODULE_5__.matchPrecache),
+/* harmony export */   precache: () => (/* reexport safe */ _precache_js__WEBPACK_IMPORTED_MODULE_6__.precache),
+/* harmony export */   precacheAndRoute: () => (/* reexport safe */ _precacheAndRoute_js__WEBPACK_IMPORTED_MODULE_7__.precacheAndRoute)
 /* harmony export */ });
 /* harmony import */ var _addPlugins_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./addPlugins.js */ "./node_modules/workbox-precaching/addPlugins.js");
 /* harmony import */ var _addRoute_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./addRoute.js */ "./node_modules/workbox-precaching/addRoute.js");
@@ -2108,7 +2108,7 @@ __webpack_require__.r(__webpack_exports__);
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "matchPrecache": () => (/* binding */ matchPrecache)
+/* harmony export */   matchPrecache: () => (/* binding */ matchPrecache)
 /* harmony export */ });
 /* harmony import */ var _utils_getOrCreatePrecacheController_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./utils/getOrCreatePrecacheController.js */ "./node_modules/workbox-precaching/utils/getOrCreatePrecacheController.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./_version.js */ "./node_modules/workbox-precaching/_version.js");
@@ -2154,7 +2154,7 @@ function matchPrecache(request) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "precache": () => (/* binding */ precache)
+/* harmony export */   precache: () => (/* binding */ precache)
 /* harmony export */ });
 /* harmony import */ var _utils_getOrCreatePrecacheController_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./utils/getOrCreatePrecacheController.js */ "./node_modules/workbox-precaching/utils/getOrCreatePrecacheController.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./_version.js */ "./node_modules/workbox-precaching/_version.js");
@@ -2204,7 +2204,7 @@ function precache(entries) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "precacheAndRoute": () => (/* binding */ precacheAndRoute)
+/* harmony export */   precacheAndRoute: () => (/* binding */ precacheAndRoute)
 /* harmony export */ });
 /* harmony import */ var _addRoute_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./addRoute.js */ "./node_modules/workbox-precaching/addRoute.js");
 /* harmony import */ var _precache_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./precache.js */ "./node_modules/workbox-precaching/precache.js");
@@ -2251,7 +2251,7 @@ function precacheAndRoute(entries, options) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "PrecacheCacheKeyPlugin": () => (/* binding */ PrecacheCacheKeyPlugin)
+/* harmony export */   PrecacheCacheKeyPlugin: () => (/* binding */ PrecacheCacheKeyPlugin)
 /* harmony export */ });
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-precaching/_version.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_version_js__WEBPACK_IMPORTED_MODULE_0__);
@@ -2297,7 +2297,7 @@ class PrecacheCacheKeyPlugin {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "PrecacheInstallReportPlugin": () => (/* binding */ PrecacheInstallReportPlugin)
+/* harmony export */   PrecacheInstallReportPlugin: () => (/* binding */ PrecacheInstallReportPlugin)
 /* harmony export */ });
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-precaching/_version.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_version_js__WEBPACK_IMPORTED_MODULE_0__);
@@ -2357,7 +2357,7 @@ class PrecacheInstallReportPlugin {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "createCacheKey": () => (/* binding */ createCacheKey)
+/* harmony export */   createCacheKey: () => (/* binding */ createCacheKey)
 /* harmony export */ });
 /* harmony import */ var workbox_core_private_WorkboxError_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! workbox-core/_private/WorkboxError.js */ "./node_modules/workbox-core/_private/WorkboxError.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-precaching/_version.js");
@@ -2430,7 +2430,7 @@ function createCacheKey(entry) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "deleteOutdatedCaches": () => (/* binding */ deleteOutdatedCaches)
+/* harmony export */   deleteOutdatedCaches: () => (/* binding */ deleteOutdatedCaches)
 /* harmony export */ });
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-precaching/_version.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_version_js__WEBPACK_IMPORTED_MODULE_0__);
@@ -2484,7 +2484,7 @@ const deleteOutdatedCaches = async (currentPrecacheName, substringToFind = SUBST
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "generateURLVariations": () => (/* binding */ generateURLVariations)
+/* harmony export */   generateURLVariations: () => (/* binding */ generateURLVariations)
 /* harmony export */ });
 /* harmony import */ var _removeIgnoredSearchParams_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./removeIgnoredSearchParams.js */ "./node_modules/workbox-precaching/utils/removeIgnoredSearchParams.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-precaching/_version.js");
@@ -2543,7 +2543,7 @@ function* generateURLVariations(url, { ignoreURLParametersMatching = [/^utm_/, /
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "getOrCreatePrecacheController": () => (/* binding */ getOrCreatePrecacheController)
+/* harmony export */   getOrCreatePrecacheController: () => (/* binding */ getOrCreatePrecacheController)
 /* harmony export */ });
 /* harmony import */ var _PrecacheController_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../PrecacheController.js */ "./node_modules/workbox-precaching/PrecacheController.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-precaching/_version.js");
@@ -2580,7 +2580,7 @@ const getOrCreatePrecacheController = () => {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "printCleanupDetails": () => (/* binding */ printCleanupDetails)
+/* harmony export */   printCleanupDetails: () => (/* binding */ printCleanupDetails)
 /* harmony export */ });
 /* harmony import */ var workbox_core_private_logger_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! workbox-core/_private/logger.js */ "./node_modules/workbox-core/_private/logger.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-precaching/_version.js");
@@ -2635,7 +2635,7 @@ function printCleanupDetails(deletedURLs) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "printInstallDetails": () => (/* binding */ printInstallDetails)
+/* harmony export */   printInstallDetails: () => (/* binding */ printInstallDetails)
 /* harmony export */ });
 /* harmony import */ var workbox_core_private_logger_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! workbox-core/_private/logger.js */ "./node_modules/workbox-core/_private/logger.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-precaching/_version.js");
@@ -2700,7 +2700,7 @@ function printInstallDetails(urlsToPrecache, urlsAlreadyPrecached) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "removeIgnoredSearchParams": () => (/* binding */ removeIgnoredSearchParams)
+/* harmony export */   removeIgnoredSearchParams: () => (/* binding */ removeIgnoredSearchParams)
 /* harmony export */ });
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-precaching/_version.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_version_js__WEBPACK_IMPORTED_MODULE_0__);
@@ -2746,7 +2746,7 @@ function removeIgnoredSearchParams(urlObject, ignoreURLParametersMatching = []) 
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "RegExpRoute": () => (/* binding */ RegExpRoute)
+/* harmony export */   RegExpRoute: () => (/* binding */ RegExpRoute)
 /* harmony export */ });
 /* harmony import */ var workbox_core_private_assert_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! workbox-core/_private/assert.js */ "./node_modules/workbox-core/_private/assert.js");
 /* harmony import */ var workbox_core_private_logger_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! workbox-core/_private/logger.js */ "./node_modules/workbox-core/_private/logger.js");
@@ -2838,7 +2838,7 @@ class RegExpRoute extends _Route_js__WEBPACK_IMPORTED_MODULE_2__.Route {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "Route": () => (/* binding */ Route)
+/* harmony export */   Route: () => (/* binding */ Route)
 /* harmony export */ });
 /* harmony import */ var workbox_core_private_assert_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! workbox-core/_private/assert.js */ "./node_modules/workbox-core/_private/assert.js");
 /* harmony import */ var _utils_constants_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./utils/constants.js */ "./node_modules/workbox-routing/utils/constants.js");
@@ -2917,7 +2917,7 @@ class Route {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "Router": () => (/* binding */ Router)
+/* harmony export */   Router: () => (/* binding */ Router)
 /* harmony export */ });
 /* harmony import */ var workbox_core_private_assert_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! workbox-core/_private/assert.js */ "./node_modules/workbox-core/_private/assert.js");
 /* harmony import */ var workbox_core_private_getFriendlyURL_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! workbox-core/_private/getFriendlyURL.js */ "./node_modules/workbox-core/_private/getFriendlyURL.js");
@@ -3333,7 +3333,7 @@ class Router {
 
 // @ts-ignore
 try {
-    self['workbox:routing:6.5.3'] && _();
+    self['workbox:routing:7.0.0'] && _();
 }
 catch (e) { }
 
@@ -3348,7 +3348,7 @@ catch (e) { }
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "registerRoute": () => (/* binding */ registerRoute)
+/* harmony export */   registerRoute: () => (/* binding */ registerRoute)
 /* harmony export */ });
 /* harmony import */ var workbox_core_private_logger_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! workbox-core/_private/logger.js */ "./node_modules/workbox-core/_private/logger.js");
 /* harmony import */ var workbox_core_private_WorkboxError_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! workbox-core/_private/WorkboxError.js */ "./node_modules/workbox-core/_private/WorkboxError.js");
@@ -3462,8 +3462,8 @@ function registerRoute(capture, handler, method) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "defaultMethod": () => (/* binding */ defaultMethod),
-/* harmony export */   "validMethods": () => (/* binding */ validMethods)
+/* harmony export */   defaultMethod: () => (/* binding */ defaultMethod),
+/* harmony export */   validMethods: () => (/* binding */ validMethods)
 /* harmony export */ });
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-routing/_version.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_version_js__WEBPACK_IMPORTED_MODULE_0__);
@@ -3511,7 +3511,7 @@ const validMethods = [
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "getOrCreateDefaultRouter": () => (/* binding */ getOrCreateDefaultRouter)
+/* harmony export */   getOrCreateDefaultRouter: () => (/* binding */ getOrCreateDefaultRouter)
 /* harmony export */ });
 /* harmony import */ var _Router_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../Router.js */ "./node_modules/workbox-routing/Router.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-routing/_version.js");
@@ -3554,7 +3554,7 @@ const getOrCreateDefaultRouter = () => {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "normalizeHandler": () => (/* binding */ normalizeHandler)
+/* harmony export */   normalizeHandler: () => (/* binding */ normalizeHandler)
 /* harmony export */ });
 /* harmony import */ var workbox_core_private_assert_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! workbox-core/_private/assert.js */ "./node_modules/workbox-core/_private/assert.js");
 /* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../_version.js */ "./node_modules/workbox-routing/_version.js");
@@ -3611,7 +3611,7 @@ const normalizeHandler = (handler) => {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "Strategy": () => (/* binding */ Strategy)
+/* harmony export */   Strategy: () => (/* binding */ Strategy)
 /* harmony export */ });
 /* harmony import */ var workbox_core_private_cacheNames_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! workbox-core/_private/cacheNames.js */ "./node_modules/workbox-core/_private/cacheNames.js");
 /* harmony import */ var workbox_core_private_WorkboxError_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! workbox-core/_private/WorkboxError.js */ "./node_modules/workbox-core/_private/WorkboxError.js");
@@ -3860,7 +3860,7 @@ class Strategy {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "StrategyHandler": () => (/* binding */ StrategyHandler)
+/* harmony export */   StrategyHandler: () => (/* binding */ StrategyHandler)
 /* harmony export */ });
 /* harmony import */ var workbox_core_private_assert_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! workbox-core/_private/assert.js */ "./node_modules/workbox-core/_private/assert.js");
 /* harmony import */ var workbox_core_private_cacheMatchIgnoreParams_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! workbox-core/_private/cacheMatchIgnoreParams.js */ "./node_modules/workbox-core/_private/cacheMatchIgnoreParams.js");
@@ -4402,7 +4402,7 @@ class StrategyHandler {
 
 // @ts-ignore
 try {
-    self['workbox:strategies:6.5.3'] && _();
+    self['workbox:strategies:7.0.0'] && _();
 }
 catch (e) { }
 
@@ -4417,18 +4417,18 @@ catch (e) { }
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "PrecacheController": () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.PrecacheController),
-/* harmony export */   "PrecacheFallbackPlugin": () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.PrecacheFallbackPlugin),
-/* harmony export */   "PrecacheRoute": () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.PrecacheRoute),
-/* harmony export */   "PrecacheStrategy": () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.PrecacheStrategy),
-/* harmony export */   "addPlugins": () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.addPlugins),
-/* harmony export */   "addRoute": () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.addRoute),
-/* harmony export */   "cleanupOutdatedCaches": () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.cleanupOutdatedCaches),
-/* harmony export */   "createHandlerBoundToURL": () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.createHandlerBoundToURL),
-/* harmony export */   "getCacheKeyForURL": () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.getCacheKeyForURL),
-/* harmony export */   "matchPrecache": () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.matchPrecache),
-/* harmony export */   "precache": () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.precache),
-/* harmony export */   "precacheAndRoute": () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.precacheAndRoute)
+/* harmony export */   PrecacheController: () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.PrecacheController),
+/* harmony export */   PrecacheFallbackPlugin: () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.PrecacheFallbackPlugin),
+/* harmony export */   PrecacheRoute: () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.PrecacheRoute),
+/* harmony export */   PrecacheStrategy: () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.PrecacheStrategy),
+/* harmony export */   addPlugins: () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.addPlugins),
+/* harmony export */   addRoute: () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.addRoute),
+/* harmony export */   cleanupOutdatedCaches: () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.cleanupOutdatedCaches),
+/* harmony export */   createHandlerBoundToURL: () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.createHandlerBoundToURL),
+/* harmony export */   getCacheKeyForURL: () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.getCacheKeyForURL),
+/* harmony export */   matchPrecache: () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.matchPrecache),
+/* harmony export */   precache: () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.precache),
+/* harmony export */   precacheAndRoute: () => (/* reexport safe */ _index_js__WEBPACK_IMPORTED_MODULE_0__.precacheAndRoute)
 /* harmony export */ });
 /* harmony import */ var _index_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./index.js */ "./node_modules/workbox-precaching/index.js");
 
@@ -4556,7 +4556,7 @@ function getPossibleURLs(url) {
 (async () => {
     const params = parseSwParams();
     // eslint-disable-next-line no-underscore-dangle
-    const precacheManifest = [{"revision":"2ea93883c3a2b7d5b534a3d1e7aa66ea","url":"404.html"},{"revision":"f75700e22f190a47ebe9ff2823787ff8","url":"assets/css/styles.d1157913.css"},{"revision":"de7d9418e7d983ab0ed86592db5d6cc4","url":"assets/js/0f97bf69.b028eb90.js"},{"revision":"47c191fb99f95bc084b388c2d72ff06d","url":"assets/js/163a28f8.b2562646.js"},{"revision":"59a0c6fdf99ad8dfce37b8e5d5e7348f","url":"assets/js/17896441.61a38f7a.js"},{"revision":"a407155aceb17556c6b020119d9d7c9e","url":"assets/js/1a4e3797.d09beb41.js"},{"revision":"a9c00f1a307add6a9b1aa230ed5d437c","url":"assets/js/1be78505.d9836bb4.js"},{"revision":"c889506ab8ce9a96bc9b6ace29bd92bb","url":"assets/js/1f391b9e.a10c7a6a.js"},{"revision":"8755aa3a7cb52a04c221df72d50b848c","url":"assets/js/230.03c96e7c.js"},{"revision":"ae4738c266b25941ed474c5c81c45ddc","url":"assets/js/247783bb.f8dda0e7.js"},{"revision":"a044615d298dd48e0373e0b335949677","url":"assets/js/272.1192485d.js"},{"revision":"ecb0baa3fd71a427dd903144d095b56e","url":"assets/js/32aa117d.070d3812.js"},{"revision":"c5b72d5b279f9240270ddaa6de866635","url":"assets/js/348cc82b.30ca4968.js"},{"revision":"98cff3c63a6f93a6e4021b2662c830e9","url":"assets/js/393be207.58935734.js"},{"revision":"1f778c366b016658abeb6cce64833d17","url":"assets/js/43ab1095.d7346d85.js"},{"revision":"3d5eebdbe134a74cb5f16d25ce8546ee","url":"assets/js/43d9ba09.b28a2796.js"},{"revision":"4a6dcfe4c819bda0c4a4685636c8c6b1","url":"assets/js/455b852b.4192afc2.js"},{"revision":"f09542615ea17d028023e7db4473b5be","url":"assets/js/48b9cea9.91b59f1d.js"},{"revision":"3a9bdffe1bb64af3654a63bb314c3e73","url":"assets/js/4972.769da039.js"},{"revision":"acac2a7ab12e516cbff525f034232713","url":"assets/js/4c2521ce.f99b13e4.js"},{"revision":"18b67f1fb937b3eb29328995f13e8560","url":"assets/js/4d1cfcdd.90a76afd.js"},{"revision":"9150b580d8c5dc8f5a229db9a4416dc5","url":"assets/js/5131.7108f3ad.js"},{"revision":"032367cb9f7384673dd38328a24d8b99","url":"assets/js/51fe39eb.3aa5a03c.js"},{"revision":"849c23cb2558c4c8032c9c4d20f00e7d","url":"assets/js/5283.adece1ab.js"},{"revision":"fdeb04ee7898490b16a80ef7fb1b9648","url":"assets/js/561e6817.e86713c0.js"},{"revision":"8c992b907616e377a2f51a4c4a1e4761","url":"assets/js/580fd761.907faf01.js"},{"revision":"09ec104eff0a4f29b8d449c4c88743d2","url":"assets/js/59b068d1.d7136326.js"},{"revision":"09e854a72e46c4843445f07deddca83b","url":"assets/js/5a367a69.ad5b7654.js"},{"revision":"3814d0bed777177e94ac9685fc75d38d","url":"assets/js/5c57b204.f6019fea.js"},{"revision":"599106a16341ad4464138e7a7d2d7d75","url":"assets/js/6308756d.470d0f79.js"},{"revision":"eda8279042e7b2ea5887a85e16a0e58e","url":"assets/js/6780.391805bd.js"},{"revision":"152145cc0fd50b93eb5676985fa5db8c","url":"assets/js/6945.f269f835.js"},{"revision":"e65e5c39f37a7295a26a6c347479f292","url":"assets/js/7132722c.d47cb579.js"},{"revision":"96f0a2af3dd8a7b112f42f66c6586621","url":"assets/js/731f462e.2ca47427.js"},{"revision":"fc88f7014b5bc2319b727209574deb80","url":"assets/js/814ea625.3cef5ce3.js"},{"revision":"bf95c4f5001b60923c57a66d187f5804","url":"assets/js/8894.1898a1c7.js"},{"revision":"c1083cb748f4886eee9570ea9ed4b1dd","url":"assets/js/88e6cb4a.4331c91c.js"},{"revision":"4636e503d6a13830d6302955ce4aca46","url":"assets/js/908b0867.a4a3cb85.js"},{"revision":"e56a4187d73504d747ade7dee12954b2","url":"assets/js/914479fa.c99d22db.js"},{"revision":"b45f55af51dd65078ec669f7dbe7b4f0","url":"assets/js/935f2afb.94c66219.js"},{"revision":"0196866e4c2594479b9ca2aa3b50eccf","url":"assets/js/9b3a7c99.c053c290.js"},{"revision":"aacc27f2c81996a4363302d3d56deb39","url":"assets/js/a09c2993.06b0cc42.js"},{"revision":"7192f2fbfb792e30b91fc063d1fcbd2b","url":"assets/js/a7434565.b24642f5.js"},{"revision":"c77cc7250ad9e2578cf6038e019e8e16","url":"assets/js/a93463cf.0ded9f8f.js"},{"revision":"38ba18877a2751dddadfbced1d6984f1","url":"assets/js/ac97b6b0.5ac7a27b.js"},{"revision":"80ccf4f80845ad8ec511d5aadc104ff0","url":"assets/js/aef95fb0.226846ae.js"},{"revision":"f60aac9a0ab3206e95336eab87cec0e5","url":"assets/js/b44b9bb7.848d9943.js"},{"revision":"100706238bb49347bc47a48330ae9cdd","url":"assets/js/b77a626d.f327e4f3.js"},{"revision":"2c7d3810b215bbf1267ea92ae94ca8e2","url":"assets/js/b8d96084.254e7560.js"},{"revision":"bdacea924d8544d4de508ccef52bd65d","url":"assets/js/c01322eb.1132e2b7.js"},{"revision":"d9dd99b9d606a14f1b0b7a1fcc62e9f3","url":"assets/js/cf3cdde3.6b22b1a0.js"},{"revision":"053ae373a7cac19414758f2eeb3c9b93","url":"assets/js/d55a4e5f.91d02e07.js"},{"revision":"325df945b4d479fdebeb706ff70d3077","url":"assets/js/dd5175af.bd08cef2.js"},{"revision":"2f5f31491622cbdcc40317b867dbf5d6","url":"assets/js/e0315c91.1b1eaa99.js"},{"revision":"0bcca19f09eec7dfd03718f65c642331","url":"assets/js/e4e25c8b.9f77d7cc.js"},{"revision":"acce2eeb416ae21625e081aa6ccb1e55","url":"assets/js/e5a72a0c.12117172.js"},{"revision":"719032216ce61ef43c58783afc55a8c5","url":"assets/js/ea6e505e.c4d3a724.js"},{"revision":"67f0e87f47406d8a125417fbd957f837","url":"assets/js/f3a8e19a.6dc4238b.js"},{"revision":"59a826207bf4c9981df0c28c955fe369","url":"assets/js/f8d965ab.b203773f.js"},{"revision":"7755c0fdb11b169f4493bed310b981dd","url":"assets/js/main.59f6ac3d.js"},{"revision":"5eea56179f757c630155646f83247fd0","url":"assets/js/runtime~main.2b767723.js"},{"revision":"27c542398745250fb90eb0be464b1b9e","url":"community/100-days-of-oss/index.html"},{"revision":"49860a0a9e7fe1ab63bcc0633fc124e0","url":"community/hacktoberfest/index.html"},{"revision":"ca4ceda874aadf3082c8f6cb3dd87037","url":"community/welcome-to-the-community/index.html"},{"revision":"af4f1bb4759d89153722ef457d9c2974","url":"contributing/code-of-conduct/index.html"},{"revision":"1bac62f8ffba5c58a0b1e3f61e09cc2c","url":"contributing/introduction-to-contributing/index.html"},{"revision":"d45f1d20b2038dfa7a2f540ebeb587f0","url":"contributing/opensauced-maintainers-guide/community-maintainers-guide/index.html"},{"revision":"b6791149392a4d5bf20d90a8f92837ae","url":"contributing/opensauced-maintainers-guide/maintainers-guide/index.html"},{"revision":"1cf2d5a657e32a63b1bc6bc01a4e44a2","url":"contributing/set-up-authentication/index.html"},{"revision":"8cf9413d3b0f7f1a2cff59bfd58cafdf","url":"contributing/technical/resolve-merge-conflicts/index.html"},{"revision":"ab5c1bda2ad9aa579392e21fffefac1c","url":"contributing/technical/setup-repo-with-git/index.html"},{"revision":"f2fd8f070e3355114fc7b2c1c817ab92","url":"contributing/triage-guide/index.html"},{"revision":"8327c00b81b4ce4831aea2a541f862eb","url":"contributors/contributors-guide-to-open-sauced/index.html"},{"revision":"2b22998b0048c6fbd77913c76970c57b","url":"features/connections/index.html"},{"revision":"10a7bdb9938ea41be5c77d032dafaf59","url":"features/contributor-insights/index.html"},{"revision":"a4bb968ed52384a7e818a0be9042223d","url":"features/dev-card/index.html"},{"revision":"1ca962fd35ca48cb467b5618f5187c86","url":"features/highlights/index.html"},{"revision":"3d4984c220abbddfd73caade801a7e80","url":"features/repo-insights/index.html"},{"revision":"29399f5ccd07530384462b9ace79d78a","url":"features/repo-pages/index.html"},{"revision":"26fb155b8ebdd48b6cb96e90671ade6b","url":"features/workspaces/index.html"},{"revision":"9612987dfaa0127e0e47136769e8aec2","url":"index.html"},{"revision":"74027c09fec2cea15289e4699b9b5314","url":"maintainers/maintainers-guide-to-open-sauced/index.html"},{"revision":"5000171aebabeca62de659370c220233","url":"maintainers/understanding-contribs-insights/index.html"},{"revision":"1553b17331121e70619ec81da544e341","url":"maintainers/understanding-repo-insights/index.html"},{"revision":"5c749681ffc49561041a053082f4e1ef","url":"manifest.json"},{"revision":"28f383f109774f05965b1bd5ecbef43e","url":"markdown-page/index.html"},{"revision":"e733ed82253ecbd58c51d130c38fecd6","url":"opensauced-guides/job-seekers-guide/how-to-translate-open-source-contributions-into-career-opportunities/index.html"},{"revision":"edf2cf438b80b5f5b3b7808944a0198b","url":"opensauced-guides/job-seekers-guide/job-seekers-guide-introduction/index.html"},{"revision":"636d0da1c5ce1b8c55398f041610adde","url":"opensauced-guides/students-guide/index.html"},{"revision":"a981b9a53ffadcd2553a0f5b63b76f3c","url":"opensauced-packages/check-engines/index.html"},{"revision":"5d60d70c21f645fa02f648150358b5f8","url":"opensauced-packages/conventional-commit/index.html"},{"revision":"aa593da390a4f0940088bcdcdf9e9453","url":"opensauced-packages/semantic-release/index.html"},{"revision":"f9bd08b6c0bd6ba8b096d29fbc62838d","url":"search/index.html"},{"revision":"49997af98b831aa4f56d28b3eb297474","url":"tools/chrome-extension/code-explanation/index.html"},{"revision":"e3451075055d4381a61d04a3b8380139","url":"tools/chrome-extension/highlights/index.html"},{"revision":"04743013a1c1026c0d050b781e70a543","url":"tools/chrome-extension/introduction-to-the-chrome-extension/index.html"},{"revision":"7a4695ceef08fa21fba7564177a8238c","url":"tools/chrome-extension/pr-description/index.html"},{"revision":"7a419aef58ca54290deca4011d52e84a","url":"tools/chrome-extension/refactoring-and-testing/index.html"},{"revision":"a3293f6325be62c16b047e5978284ac7","url":"tools/chrome-extension/viewing-insights-and-invitations/index.html"},{"revision":"c4e3fa0cad4296b158d13675c9f9b283","url":"tools/hot-opensauced/index.html"},{"revision":"7965f007f4a7495de1f2a216dc40d14d","url":"tools/pizza-cli/index.html"},{"revision":"abe6465810ff25f9d9cc2d5bf1e8ead1","url":"welcome/faqs/index.html"},{"revision":"d65c5570a09787f11a7437dc4475ab4a","url":"welcome/glossary/index.html"},{"revision":"1f6006656dc293e0472e4a10849a8d91","url":"welcome/opensauced-intro/index.html"},{"revision":"f5d6709f185ff81514bf813df9ae10ca","url":"android-chrome-192x192.png"},{"revision":"6697696aa02fc51b60faa764d9250e49","url":"android-chrome-512x512.png"},{"revision":"dfdb48dea188986dd0e6a33561798096","url":"apple-touch-icon.png"},{"revision":"3b659a442044a121fe671e755541a016","url":"assets/images/a-dev-card-f7b01f48467c20d93ddb9814e8e54918.png"},{"revision":"a6e7a658c3e7de14ed8efb7824506298","url":"assets/images/activity-repos-insights-3734baf3ab38356a4de96d43dde41a3d.png"},{"revision":"0873d0ce794b97956bf633883c5edd1c","url":"assets/images/add-to-workspace-e8e843efa9c124bbce60110af201612a.png"},{"revision":"60ef20a5c4a5312ff3ea0bb2eb0688b0","url":"assets/images/contrib-insight-new-f821e7b17235b6c7ea7d7d1dedf9573b.png"},{"revision":"2ab3790e660caaa214c129c94fce8cdc","url":"assets/images/contributing-avatar-top-right-9fa9249bf532c85c0f86a4511ca92110.png"},{"revision":"9d3381157d2b3920a2b83dd3e8cc9f3c","url":"assets/images/contributing-copy-auth-token-41b11f49db098dcbd83cbb5a22952579.png"},{"revision":"85e7a50783c05df9e5464199a331861a","url":"assets/images/contributing-resolve-merge-conflicts-dont-do-9703e3dffc76ef8c046f2fd7b506676f.png"},{"revision":"5aab0048cfc3e35936e9729bef39a5be","url":"assets/images/contributing-resolve-merge-conflicts-review-conflicts-5df5a5e4934e39d9e07bcd96e53d7c3f.png"},{"revision":"942127fb6ee320d2e55ca762a71fe1a4","url":"assets/images/contributors-insights-1bc09dd6a32c3a16eba8b63ec351157f.png"},{"revision":"b65c2ad76632446c06cdda363c423f0d","url":"assets/images/extension-invite-b7bf72c8cbdf9a9d68614971b05896c1.png"},{"revision":"5ce6e21f511a9b5ea33b6ec78faa034b","url":"assets/images/extension-popup-0c8898c6c29c0a9a694fc95d24ecdc94.png"},{"revision":"0b5ccc70714107fb6ecb154f6e16bff3","url":"assets/images/extension-view-18fe042acf7d3e3b94aad7476a6dfd83.png"},{"revision":"3df8f23080b4f1b9627ccff3cbe9ad29","url":"assets/images/files-changed-tab-867f60b1281f09ba23cea7234e7703b5.png"},{"revision":"c7436a5635cd411e208b2eb74599bd2a","url":"assets/images/get-dev-card-c62768aa8c13ad8dd99b2ee0e83cfa12.png"},{"revision":"a1afe2023011c6bbd77041f038a1ca5b","url":"assets/images/highlight-e3a2da2446fe91467a31d225755bf40a.gif"},{"revision":"8bb7ed044e608471e304f769be869aaa","url":"assets/images/highlights-fcc750f036bb2ea7c11166c8338d7f6c.png"},{"revision":"6a711ec870f753c330c44591e6252ce8","url":"assets/images/insight-page-demo-cc2291df69361b2d476ccffcdbd1ee25.gif"},{"revision":"1e5dc68194c89ec354432460b9712c0f","url":"assets/images/list-graph-a730e101fea2e18df0d76faed967f4e6.png"},{"revision":"f004ac39bce807729f0a357970e8be3f","url":"assets/images/lists-page-ba64789ac5cf5f607e2784276240dc5e.svg"},{"revision":"adff7c9d6e841375c19ba9db67d5f0b2","url":"assets/images/ml-explore-page-704a5b0153e392938e6f0e34a7e3a82d.png"},{"revision":"7f28dce5ced388db21864a84165ebb88","url":"assets/images/popular-repos-hot-opensauced-05f55b2302e73e41e51817408de73de9.png"},{"revision":"e77039e4f94628cd0c7fedf9150c7849","url":"assets/images/pr-code-explain-4dde1737ae1b0792fc287750ae7de5fd.gif"},{"revision":"ddb33f547ba11f150595627a14955a08","url":"assets/images/pr-code-refactor-2b26ff383ff3a6351a5b4feda98abafd.gif"},{"revision":"91c2ff76bfaa8872b1272d4b50204230","url":"assets/images/pr-code-test-90211422d3a31f62a0d0c8e073d7454a.gif"},{"revision":"fa8f293ee36f4ca34c56336e202c434f","url":"assets/images/pr-description-e9b163f4d321927a53dd90d340fec85f.gif"},{"revision":"200693f2d62b5719ccf6ef6d09400326","url":"assets/images/profile-d4fae85bbb516b6a5b5837a3d137c223.png"},{"revision":"d4d51e87a9594ed0b3c7e482183d2791","url":"assets/images/repo-page-8aa97dcd65bdca42d1e5a0e5edb92685.png"},{"revision":"ccde64e85c920d1f1b6f58850981dd3e","url":"assets/images/repos-insights-2db5d8c668cee2f528f47ae986d664c7.png"},{"revision":"c7aa7ae15965cf4e1dafb25bcccedcd5","url":"assets/images/settings-748558f026c2a0b1c23cbb3648bf3a05.png"},{"revision":"a94d3e179e3bb5babcb57ca086e74434","url":"assets/images/sync-branch-GH-36c4d46d1782388d799fee76fe10398b.png"},{"revision":"c02e7355bbfc772590e19c89c1ee888c","url":"assets/images/team-sync-09e7e2ab7b54fae335f5b4c40cce94b1.gif"},{"revision":"c61edff8017536f394e500a38fd935be","url":"assets/images/team-sync-insights-d4d7794d5e28b72ffb375595c988cd37.gif"},{"revision":"31a4fb0bc61245920f543b0bb1c16ead","url":"assets/images/upvoted-repos-hot-opensauced-7b2cb4c0ada4836c56ad7b8e0484f907.png"},{"revision":"640588166e56d1eaf1560ae7fc235ec7","url":"assets/images/what-is-opensauced-borderless-0a51e6d81902d2866db643a60eae78c7.jpg"},{"revision":"0194702a05865952ba81c4c8f7a8b1e6","url":"assets/images/workspace-644e59bed496d2a0df7502aaa833129e.png"},{"revision":"5081ad3b60c74f4fba7caf1391823728","url":"assets/images/workspace-access-72e8f9933caa4b45be55046d94f84fdb.png"},{"revision":"3db4d3ccb70f6cd4a9d416a6c45d1103","url":"assets/images/workspace-sidebar-258a48d99ed9cb31f7449da2de965d86.png"},{"revision":"01e77187fc3ad1d8300016a28ec01ff3","url":"assets/images/workspace-switcher-b2400ec5c309a762f822268b44779930.png"},{"revision":"dd1a3c1387fea50127026053ac769d8d","url":"favicon-16x16.png"},{"revision":"fb9bbd843e90e21de842ce787c8eacb0","url":"favicon-32x32.png"},{"revision":"2f44b184c82e0099cd08ea8779bcabbe","url":"favicon.ico"},{"revision":"a1afe2023011c6bbd77041f038a1ca5b","url":"gif/highlight.gif"},{"revision":"6a711ec870f753c330c44591e6252ce8","url":"gif/insight-page-demo.gif"},{"revision":"e77039e4f94628cd0c7fedf9150c7849","url":"gif/pr-code-explain.gif"},{"revision":"ddb33f547ba11f150595627a14955a08","url":"gif/pr-code-refactor.gif"},{"revision":"91c2ff76bfaa8872b1272d4b50204230","url":"gif/pr-code-test.gif"},{"revision":"fa8f293ee36f4ca34c56336e202c434f","url":"gif/pr-description.gif"},{"revision":"c61edff8017536f394e500a38fd935be","url":"gif/team-sync-insights.gif"},{"revision":"c02e7355bbfc772590e19c89c1ee888c","url":"gif/team-sync.gif"},{"revision":"de0de7f3698fca5b09bb81ee582efa52","url":"icon-144x144.png"},{"revision":"a90cf80d4a11415fc061ac639e8598ef","url":"icon-192x192.png"},{"revision":"daaaa50e6ddecab8ed1331fa46eb80e5","url":"icon-72x72.png"},{"revision":"c34b89463566422f2b3b45138e5a76d4","url":"icon-96x96.png"},{"revision":"3b659a442044a121fe671e755541a016","url":"img/a-dev-card.png"},{"revision":"9a30a9699adaa6743d03943c7277f51a","url":"img/access-workspace.png"},{"revision":"a6e7a658c3e7de14ed8efb7824506298","url":"img/activity-repos-insights.png"},{"revision":"0873d0ce794b97956bf633883c5edd1c","url":"img/add-to-workspace.png"},{"revision":"60ef20a5c4a5312ff3ea0bb2eb0688b0","url":"img/contrib-insight-new.png"},{"revision":"2ab3790e660caaa214c129c94fce8cdc","url":"img/contributing-avatar-top-right.png"},{"revision":"9d3381157d2b3920a2b83dd3e8cc9f3c","url":"img/contributing-copy-auth-token.png"},{"revision":"181e0b93aebb788b42302b6929fea593","url":"img/contributing-maintainers-create-repository.png"},{"revision":"fcb1e1d3ec3de5da9da2b3adc6f07b02","url":"img/contributing-maintainers-env.png"},{"revision":"2ccd24487c12e0ab164d8093efdcca56","url":"img/contributing-maintainers-merge-protections.png"},{"revision":"409c1762e7d639f5c252d7f05d7db45f","url":"img/contributing-maintainers-merge-settings.png"},{"revision":"895411932aa5e2237c378d596fdfd069","url":"img/contributing-resolve-merge-conflicts-commit-message.png"},{"revision":"85e7a50783c05df9e5464199a331861a","url":"img/contributing-resolve-merge-conflicts-dont-do.png"},{"revision":"70c651fd54dd4e84b8fa185dd96d5db7","url":"img/contributing-resolve-merge-conflicts-merge-conflicts.png"},{"revision":"195b8ef6ea85ca5648fe8525c727e7b4","url":"img/contributing-resolve-merge-conflicts-merge-success.png"},{"revision":"3499b11290765adda0584d9d7a5a86bf","url":"img/contributing-resolve-merge-conflicts-ready-to-merge.png"},{"revision":"5aab0048cfc3e35936e9729bef39a5be","url":"img/contributing-resolve-merge-conflicts-review-conflicts.png"},{"revision":"a25e9ab7aab5320b491f573b7dba0f36","url":"img/contributing-resolve-merge-conflicts-view-merge-commit.png"},{"revision":"3339aa4e65067f863272c668dffad3a0","url":"img/contributing-token-printed-to-console.png"},{"revision":"942127fb6ee320d2e55ca762a71fe1a4","url":"img/contributors-insights.png"},{"revision":"b65c2ad76632446c06cdda363c423f0d","url":"img/extension-invite.png"},{"revision":"710464e74af65c4fd024cd416832c642","url":"img/extension-links.png"},{"revision":"5ce6e21f511a9b5ea33b6ec78faa034b","url":"img/extension-popup.png"},{"revision":"0b5ccc70714107fb6ecb154f6e16bff3","url":"img/extension-view.png"},{"revision":"876d22e3510bda31ab816add5c9c8e5b","url":"img/favicon.ico"},{"revision":"3df8f23080b4f1b9627ccff3cbe9ad29","url":"img/files-changed-tab.png"},{"revision":"c7436a5635cd411e208b2eb74599bd2a","url":"img/get-dev-card.png"},{"revision":"8bb7ed044e608471e304f769be869aaa","url":"img/highlights.png"},{"revision":"1e5dc68194c89ec354432460b9712c0f","url":"img/list-graph.png"},{"revision":"f004ac39bce807729f0a357970e8be3f","url":"img/lists-page.svg"},{"revision":"3b6c5d852ad7542f4b897254717810db","url":"img/logo_darkmode.png"},{"revision":"e93cdf20a7ce8d4792cd4c536e6e811d","url":"img/logo_lightmode.png"},{"revision":"0bc5e10806a22fbd376651dc8b2bd49c","url":"img/logo.svg"},{"revision":"adff7c9d6e841375c19ba9db67d5f0b2","url":"img/ml-explore-page.png"},{"revision":"76ed877972409e62d57b101ca7ed3563","url":"img/openSauced-icon.png"},{"revision":"7f28dce5ced388db21864a84165ebb88","url":"img/popular-repos-hot-opensauced.png"},{"revision":"6d7df3fb8347bf78540107b0a466c0c7","url":"img/pr-velocity-example.png"},{"revision":"200693f2d62b5719ccf6ef6d09400326","url":"img/profile.png"},{"revision":"d4d51e87a9594ed0b3c7e482183d2791","url":"img/repo-page.png"},{"revision":"ccde64e85c920d1f1b6f58850981dd3e","url":"img/repos-insights.png"},{"revision":"c7aa7ae15965cf4e1dafb25bcccedcd5","url":"img/settings.png"},{"revision":"a94d3e179e3bb5babcb57ca086e74434","url":"img/sync-branch-GH.png"},{"revision":"31a4fb0bc61245920f543b0bb1c16ead","url":"img/upvoted-repos-hot-opensauced.png"},{"revision":"640588166e56d1eaf1560ae7fc235ec7","url":"img/what-is-opensauced-borderless.jpg"},{"revision":"83d91aa6d9976e8e6f7092ba727f611b","url":"img/what-is-opensauced.jpg"},{"revision":"d30381155966797309fb49a060270cd0","url":"img/what-is-opensauced.png"},{"revision":"5081ad3b60c74f4fba7caf1391823728","url":"img/workspace-access.png"},{"revision":"3db4d3ccb70f6cd4a9d416a6c45d1103","url":"img/workspace-sidebar.png"},{"revision":"01e77187fc3ad1d8300016a28ec01ff3","url":"img/workspace-switcher.png"},{"revision":"0194702a05865952ba81c4c8f7a8b1e6","url":"img/workspace.png"}];
+    const precacheManifest = [{"revision":"03fdf654f1ae018da38e757e30bb1114","url":"404.html"},{"revision":"ecb9e0c6acb64d2d2fd3b785d57f84ff","url":"assets/css/styles.d5f77bc0.css"},{"revision":"22af117ff011061ce0a9297f7888ea60","url":"assets/js/0f97bf69.c2645024.js"},{"revision":"79f98421942a320d1cbcf04c55aca30d","url":"assets/js/163a28f8.12405bb2.js"},{"revision":"fd1d70448181d50658329fb832a7a1ae","url":"assets/js/17896441.2a3024fa.js"},{"revision":"8f24da7e26fd0b05ce2da523edba2bac","url":"assets/js/1a4e3797.55a8ad01.js"},{"revision":"1929960f8c1cafbb293ac462de47d4f0","url":"assets/js/1f391b9e.876b02a4.js"},{"revision":"b8202afe2f87b736d68e7a1009382ea0","url":"assets/js/247783bb.80dc25fa.js"},{"revision":"63f18d7e6f97cac4b75372f7ffecbca1","url":"assets/js/3081.344b9132.js"},{"revision":"ec55ff628e196ea18424f2b78621ef35","url":"assets/js/32aa117d.9433ec11.js"},{"revision":"6010ceef6c53bf87787362260ef377ba","url":"assets/js/348cc82b.d6e4cf86.js"},{"revision":"25b64f434177b06168d7f8c0bf5ff6dd","url":"assets/js/393be207.66bd39e7.js"},{"revision":"9857402e990abf4e1180c50787769512","url":"assets/js/4240.8a5c4a88.js"},{"revision":"b3cd4a3ff1c072a0ce91458fc02281da","url":"assets/js/43ab1095.e644ee65.js"},{"revision":"9d4aaf1888b747a566542c6587a97576","url":"assets/js/43d9ba09.55919d8b.js"},{"revision":"cf57b99830a4162f2d0a940863072bed","url":"assets/js/455b852b.3aac833f.js"},{"revision":"5d73166fdb2a116b53c364d256d95fe5","url":"assets/js/48b9cea9.61dbf9a7.js"},{"revision":"0fbebca6910984d99db395fcc58a7dd0","url":"assets/js/4c2521ce.1798e495.js"},{"revision":"468af2ec7ee9657f209eaafe789326b7","url":"assets/js/4d1cfcdd.992472d9.js"},{"revision":"9d7ceb8837469bb00dcd2664affc1480","url":"assets/js/5049.3d802a7b.js"},{"revision":"e0ff199e6b2a633f1312548dc6a72714","url":"assets/js/51fe39eb.4242f79c.js"},{"revision":"3045e51f7b1d5d03444b80b31d884c18","url":"assets/js/561e6817.0afe7869.js"},{"revision":"1c7e901f9ccfd7c1dd8bde7ceab8911e","url":"assets/js/580fd761.b18ca9cc.js"},{"revision":"3597ab3f8b5e29ed85bf55834aa4b249","url":"assets/js/59b068d1.b328da75.js"},{"revision":"871410da365b2e5aa853cd5bea9ae840","url":"assets/js/5a367a69.f8a79e04.js"},{"revision":"565e192cb7e17df6c0de6a88a2c8b3d8","url":"assets/js/5c57b204.52bb199d.js"},{"revision":"ca4036266d76f89fe1d1d97791c6fc3f","url":"assets/js/5e95c892.49829268.js"},{"revision":"9858384381adf6c46977eacecad8f411","url":"assets/js/6308756d.c7d73e7b.js"},{"revision":"f82d44d7428b83951416d8999a679625","url":"assets/js/706.f0b08fee.js"},{"revision":"4b07e1772ccd142ef838defa1f555b23","url":"assets/js/7132722c.4715dd9a.js"},{"revision":"221f72a9607c576a868c7b9ac09ef7d8","url":"assets/js/731f462e.5d3c6baf.js"},{"revision":"29957542f93753efb89a093a297ece66","url":"assets/js/814ea625.8333d478.js"},{"revision":"be3946a572156930b535543bcfa43eff","url":"assets/js/88e6cb4a.249514ef.js"},{"revision":"ac6beeaf39fe7eee454e7605aec1972d","url":"assets/js/8913.1ce52230.js"},{"revision":"19027c00414e92be4c9fdfe69166f18e","url":"assets/js/908b0867.a5630175.js"},{"revision":"5628c5c35fcebb3c7d4fb65b56f39b36","url":"assets/js/914479fa.8b47833c.js"},{"revision":"7315d6d5df6d6a4a19db391f7b202dd8","url":"assets/js/935f2afb.51561ff0.js"},{"revision":"33c8987cba46ce87fc02c83a64e80690","url":"assets/js/9462.50390443.js"},{"revision":"589b0aa74bb701f18089f61430809eb9","url":"assets/js/9473.933b7678.js"},{"revision":"08be48cf6c93af2a2efdd87e6df96179","url":"assets/js/9730.f4cacaf6.js"},{"revision":"238e6c31b0762c07378f2eeed91830c1","url":"assets/js/9b3a7c99.90180268.js"},{"revision":"2136a87269b2687d190e62375818cd16","url":"assets/js/a09c2993.ccaa4c45.js"},{"revision":"7975ebf1cb85bd964a7436cc7c46407c","url":"assets/js/a7434565.756ba327.js"},{"revision":"02698e1d91e91ed061ce6460f2c2e50e","url":"assets/js/a7bd4aaa.4bd587ff.js"},{"revision":"b97e244910eb0153948279a4e697a9bf","url":"assets/js/a93463cf.b9b2c963.js"},{"revision":"a6984bc579c7542c8e493e734d490a63","url":"assets/js/a94703ab.ffdfe76d.js"},{"revision":"0778959ef933d60bb52f28e536edae58","url":"assets/js/ac97b6b0.36d0895e.js"},{"revision":"267d521e8e591d547d09bae3deec6167","url":"assets/js/aef95fb0.2fe5005b.js"},{"revision":"25b4a4cb76e4c328266fe0fb543644a4","url":"assets/js/b44b9bb7.87557491.js"},{"revision":"efb4b7a3e185b49c8ec446147de85fa7","url":"assets/js/b77a626d.5068a669.js"},{"revision":"e83b7927a3d31aad93961fc241322f52","url":"assets/js/b8d96084.dabff5b2.js"},{"revision":"d84bceead30d5a76b34cb2c9610f86da","url":"assets/js/c01322eb.c3614070.js"},{"revision":"77976024dbab87b28481458573bcc579","url":"assets/js/cf3cdde3.bfc5cc29.js"},{"revision":"def08a0ece9987bf395e1edd7c805039","url":"assets/js/d55a4e5f.3f4001ad.js"},{"revision":"256dc5d78558f8b102f790c3d03dea23","url":"assets/js/dd5175af.5be2edc1.js"},{"revision":"3d5bb2a2dda416d6f64ab6861a3ccffa","url":"assets/js/e0315c91.f9fac5ce.js"},{"revision":"3a588d4ba13ee1eb87d441cabc3264ca","url":"assets/js/e4e25c8b.161ce753.js"},{"revision":"9fe43340c75a3100a401769ada16b052","url":"assets/js/e5a72a0c.3180fabf.js"},{"revision":"c86f320fef658e4a05acea151f5a1b21","url":"assets/js/ea6e505e.8adc8fff.js"},{"revision":"823ef68d5a76f120422f74d7e3e9538d","url":"assets/js/f3a8e19a.a0cda6f0.js"},{"revision":"8976ada328363274f4364e3b9ab13203","url":"assets/js/f8d965ab.8da122bc.js"},{"revision":"7e18cef5d8ca4a6005ced4e7a9bade84","url":"assets/js/main.00916c94.js"},{"revision":"5ebf469b8cbd35591780ba61deafda47","url":"assets/js/runtime~main.2423d7e9.js"},{"revision":"435bc42e0b289ce26cf51e519da62a60","url":"community/100-days-of-oss/index.html"},{"revision":"39181f302d7a411ab03b600aa079a628","url":"community/hacktoberfest/index.html"},{"revision":"89de71e9ab9e07533f0981396365b406","url":"community/welcome-to-the-community/index.html"},{"revision":"b70ec6da0c5ae5f9c0d355bcbde9fe78","url":"contributing/code-of-conduct/index.html"},{"revision":"60df51a9a6483df35ec86166340d04e5","url":"contributing/introduction-to-contributing/index.html"},{"revision":"19aa8f8e4f4020a89a39c209cb87970c","url":"contributing/opensauced-maintainers-guide/community-maintainers-guide/index.html"},{"revision":"7f62273c032738022a7c45d5d681eac9","url":"contributing/opensauced-maintainers-guide/maintainers-guide/index.html"},{"revision":"4a15a059e65a34211135b60752bbaf7b","url":"contributing/set-up-authentication/index.html"},{"revision":"92e2ac3c744e9424f037c47bc37deb01","url":"contributing/technical/resolve-merge-conflicts/index.html"},{"revision":"950948eb6ebd138ac0d41ef7d15205ed","url":"contributing/technical/setup-repo-with-git/index.html"},{"revision":"7286ebb55e1af953a2c24593b0b061ff","url":"contributing/triage-guide/index.html"},{"revision":"e124e6664eff41739e25921642284c04","url":"contributors/contributors-guide-to-open-sauced/index.html"},{"revision":"72c37bdfc98d1a1da88842af4e4e23d5","url":"features/connections/index.html"},{"revision":"340451c40addc157050bc9d1fa99e124","url":"features/contributor-insights/index.html"},{"revision":"7d4913a71c956d319b44791ea5e49a6f","url":"features/dev-card/index.html"},{"revision":"b036a47e5bed38ea169860dca0442c74","url":"features/highlights/index.html"},{"revision":"ac2d87789b30f1dc07f2e3fefca0ec4b","url":"features/repo-insights/index.html"},{"revision":"23c387fe1652a4f490968910c4266a82","url":"features/repo-pages/index.html"},{"revision":"dd2591bad04327d0308df872ab07770b","url":"features/workspaces/index.html"},{"revision":"fa402f84a1748c5e1cca344224642084","url":"index.html"},{"revision":"e2cb4406032ec47137f77127fc5ab07d","url":"maintainers/maintainers-guide-to-open-sauced/index.html"},{"revision":"8d0053000a93231d7ccefa232c770c90","url":"maintainers/understanding-contribs-insights/index.html"},{"revision":"7389bcb3233e89be8c62b2df95f85165","url":"maintainers/understanding-repo-insights/index.html"},{"revision":"5c749681ffc49561041a053082f4e1ef","url":"manifest.json"},{"revision":"28a2fd2f31183ccb8dc0df5607a4e97f","url":"markdown-page/index.html"},{"revision":"39a6afd75e38bf262b1946cc57ba79d9","url":"opensauced-guides/job-seekers-guide/how-to-translate-open-source-contributions-into-career-opportunities/index.html"},{"revision":"9e437414d9c8b16f74b56f6e882c39bf","url":"opensauced-guides/job-seekers-guide/job-seekers-guide-introduction/index.html"},{"revision":"70385d648fe97dec1bc4b52dfec3996c","url":"opensauced-guides/students-guide/index.html"},{"revision":"48e70c9413867c3559a8f3f0b5de5f66","url":"opensauced-packages/check-engines/index.html"},{"revision":"916c68de31e4b64b14405e8a9ee92daa","url":"opensauced-packages/conventional-commit/index.html"},{"revision":"8f89bd3444f75499328e63c4a83d3313","url":"opensauced-packages/semantic-release/index.html"},{"revision":"cdf0a413e4fd0f901b5f5fc660ad8c40","url":"search/index.html"},{"revision":"4c53c12b40c6538491ecb92a68656f8e","url":"tools/chrome-extension/code-explanation/index.html"},{"revision":"7793e62d70695785cdbf3b19042001aa","url":"tools/chrome-extension/highlights/index.html"},{"revision":"7a225a4be2ac3bc21d39d7540df72820","url":"tools/chrome-extension/introduction-to-the-chrome-extension/index.html"},{"revision":"e86c7624852baf51cad46ae906ffbb81","url":"tools/chrome-extension/pr-description/index.html"},{"revision":"331fddb8f6ee4e56969248bfd0ebc085","url":"tools/chrome-extension/refactoring-and-testing/index.html"},{"revision":"710a6863dd23b89d3bcd0985a218d616","url":"tools/chrome-extension/viewing-insights-and-invitations/index.html"},{"revision":"2d4a63aed48f00480e155ab91f15dee0","url":"tools/hot-opensauced/index.html"},{"revision":"0cb84c62095c4f16cdf75376dc4bc6b4","url":"tools/pizza-cli/index.html"},{"revision":"b2024392953926b925cda51b4bf886fc","url":"welcome/faqs/index.html"},{"revision":"f7c205358d6916322c5e6f68b76263a2","url":"welcome/glossary/index.html"},{"revision":"c566d98a2963a3b3486fd06318b59ab7","url":"welcome/opensauced-intro/index.html"},{"revision":"f5d6709f185ff81514bf813df9ae10ca","url":"android-chrome-192x192.png"},{"revision":"6697696aa02fc51b60faa764d9250e49","url":"android-chrome-512x512.png"},{"revision":"dfdb48dea188986dd0e6a33561798096","url":"apple-touch-icon.png"},{"revision":"3b659a442044a121fe671e755541a016","url":"assets/images/a-dev-card-f7b01f48467c20d93ddb9814e8e54918.png"},{"revision":"a6e7a658c3e7de14ed8efb7824506298","url":"assets/images/activity-repos-insights-3734baf3ab38356a4de96d43dde41a3d.png"},{"revision":"0873d0ce794b97956bf633883c5edd1c","url":"assets/images/add-to-workspace-e8e843efa9c124bbce60110af201612a.png"},{"revision":"60ef20a5c4a5312ff3ea0bb2eb0688b0","url":"assets/images/contrib-insight-new-f821e7b17235b6c7ea7d7d1dedf9573b.png"},{"revision":"2ab3790e660caaa214c129c94fce8cdc","url":"assets/images/contributing-avatar-top-right-9fa9249bf532c85c0f86a4511ca92110.png"},{"revision":"9d3381157d2b3920a2b83dd3e8cc9f3c","url":"assets/images/contributing-copy-auth-token-41b11f49db098dcbd83cbb5a22952579.png"},{"revision":"85e7a50783c05df9e5464199a331861a","url":"assets/images/contributing-resolve-merge-conflicts-dont-do-9703e3dffc76ef8c046f2fd7b506676f.png"},{"revision":"5aab0048cfc3e35936e9729bef39a5be","url":"assets/images/contributing-resolve-merge-conflicts-review-conflicts-5df5a5e4934e39d9e07bcd96e53d7c3f.png"},{"revision":"942127fb6ee320d2e55ca762a71fe1a4","url":"assets/images/contributors-insights-1bc09dd6a32c3a16eba8b63ec351157f.png"},{"revision":"b65c2ad76632446c06cdda363c423f0d","url":"assets/images/extension-invite-b7bf72c8cbdf9a9d68614971b05896c1.png"},{"revision":"5ce6e21f511a9b5ea33b6ec78faa034b","url":"assets/images/extension-popup-0c8898c6c29c0a9a694fc95d24ecdc94.png"},{"revision":"0b5ccc70714107fb6ecb154f6e16bff3","url":"assets/images/extension-view-18fe042acf7d3e3b94aad7476a6dfd83.png"},{"revision":"3df8f23080b4f1b9627ccff3cbe9ad29","url":"assets/images/files-changed-tab-867f60b1281f09ba23cea7234e7703b5.png"},{"revision":"c7436a5635cd411e208b2eb74599bd2a","url":"assets/images/get-dev-card-c62768aa8c13ad8dd99b2ee0e83cfa12.png"},{"revision":"a1afe2023011c6bbd77041f038a1ca5b","url":"assets/images/highlight-e3a2da2446fe91467a31d225755bf40a.gif"},{"revision":"8bb7ed044e608471e304f769be869aaa","url":"assets/images/highlights-fcc750f036bb2ea7c11166c8338d7f6c.png"},{"revision":"6a711ec870f753c330c44591e6252ce8","url":"assets/images/insight-page-demo-cc2291df69361b2d476ccffcdbd1ee25.gif"},{"revision":"1e5dc68194c89ec354432460b9712c0f","url":"assets/images/list-graph-a730e101fea2e18df0d76faed967f4e6.png"},{"revision":"f004ac39bce807729f0a357970e8be3f","url":"assets/images/lists-page-ba64789ac5cf5f607e2784276240dc5e.svg"},{"revision":"adff7c9d6e841375c19ba9db67d5f0b2","url":"assets/images/ml-explore-page-704a5b0153e392938e6f0e34a7e3a82d.png"},{"revision":"7f28dce5ced388db21864a84165ebb88","url":"assets/images/popular-repos-hot-opensauced-05f55b2302e73e41e51817408de73de9.png"},{"revision":"e77039e4f94628cd0c7fedf9150c7849","url":"assets/images/pr-code-explain-4dde1737ae1b0792fc287750ae7de5fd.gif"},{"revision":"ddb33f547ba11f150595627a14955a08","url":"assets/images/pr-code-refactor-2b26ff383ff3a6351a5b4feda98abafd.gif"},{"revision":"91c2ff76bfaa8872b1272d4b50204230","url":"assets/images/pr-code-test-90211422d3a31f62a0d0c8e073d7454a.gif"},{"revision":"fa8f293ee36f4ca34c56336e202c434f","url":"assets/images/pr-description-e9b163f4d321927a53dd90d340fec85f.gif"},{"revision":"200693f2d62b5719ccf6ef6d09400326","url":"assets/images/profile-d4fae85bbb516b6a5b5837a3d137c223.png"},{"revision":"d4d51e87a9594ed0b3c7e482183d2791","url":"assets/images/repo-page-8aa97dcd65bdca42d1e5a0e5edb92685.png"},{"revision":"ccde64e85c920d1f1b6f58850981dd3e","url":"assets/images/repos-insights-2db5d8c668cee2f528f47ae986d664c7.png"},{"revision":"c7aa7ae15965cf4e1dafb25bcccedcd5","url":"assets/images/settings-748558f026c2a0b1c23cbb3648bf3a05.png"},{"revision":"a94d3e179e3bb5babcb57ca086e74434","url":"assets/images/sync-branch-GH-36c4d46d1782388d799fee76fe10398b.png"},{"revision":"c02e7355bbfc772590e19c89c1ee888c","url":"assets/images/team-sync-09e7e2ab7b54fae335f5b4c40cce94b1.gif"},{"revision":"c61edff8017536f394e500a38fd935be","url":"assets/images/team-sync-insights-d4d7794d5e28b72ffb375595c988cd37.gif"},{"revision":"31a4fb0bc61245920f543b0bb1c16ead","url":"assets/images/upvoted-repos-hot-opensauced-7b2cb4c0ada4836c56ad7b8e0484f907.png"},{"revision":"640588166e56d1eaf1560ae7fc235ec7","url":"assets/images/what-is-opensauced-borderless-0a51e6d81902d2866db643a60eae78c7.jpg"},{"revision":"0194702a05865952ba81c4c8f7a8b1e6","url":"assets/images/workspace-644e59bed496d2a0df7502aaa833129e.png"},{"revision":"5081ad3b60c74f4fba7caf1391823728","url":"assets/images/workspace-access-72e8f9933caa4b45be55046d94f84fdb.png"},{"revision":"3db4d3ccb70f6cd4a9d416a6c45d1103","url":"assets/images/workspace-sidebar-258a48d99ed9cb31f7449da2de965d86.png"},{"revision":"01e77187fc3ad1d8300016a28ec01ff3","url":"assets/images/workspace-switcher-b2400ec5c309a762f822268b44779930.png"},{"revision":"dd1a3c1387fea50127026053ac769d8d","url":"favicon-16x16.png"},{"revision":"fb9bbd843e90e21de842ce787c8eacb0","url":"favicon-32x32.png"},{"revision":"2f44b184c82e0099cd08ea8779bcabbe","url":"favicon.ico"},{"revision":"a1afe2023011c6bbd77041f038a1ca5b","url":"gif/highlight.gif"},{"revision":"6a711ec870f753c330c44591e6252ce8","url":"gif/insight-page-demo.gif"},{"revision":"e77039e4f94628cd0c7fedf9150c7849","url":"gif/pr-code-explain.gif"},{"revision":"ddb33f547ba11f150595627a14955a08","url":"gif/pr-code-refactor.gif"},{"revision":"91c2ff76bfaa8872b1272d4b50204230","url":"gif/pr-code-test.gif"},{"revision":"fa8f293ee36f4ca34c56336e202c434f","url":"gif/pr-description.gif"},{"revision":"c61edff8017536f394e500a38fd935be","url":"gif/team-sync-insights.gif"},{"revision":"c02e7355bbfc772590e19c89c1ee888c","url":"gif/team-sync.gif"},{"revision":"de0de7f3698fca5b09bb81ee582efa52","url":"icon-144x144.png"},{"revision":"a90cf80d4a11415fc061ac639e8598ef","url":"icon-192x192.png"},{"revision":"daaaa50e6ddecab8ed1331fa46eb80e5","url":"icon-72x72.png"},{"revision":"c34b89463566422f2b3b45138e5a76d4","url":"icon-96x96.png"},{"revision":"3b659a442044a121fe671e755541a016","url":"img/a-dev-card.png"},{"revision":"9a30a9699adaa6743d03943c7277f51a","url":"img/access-workspace.png"},{"revision":"a6e7a658c3e7de14ed8efb7824506298","url":"img/activity-repos-insights.png"},{"revision":"0873d0ce794b97956bf633883c5edd1c","url":"img/add-to-workspace.png"},{"revision":"60ef20a5c4a5312ff3ea0bb2eb0688b0","url":"img/contrib-insight-new.png"},{"revision":"2ab3790e660caaa214c129c94fce8cdc","url":"img/contributing-avatar-top-right.png"},{"revision":"9d3381157d2b3920a2b83dd3e8cc9f3c","url":"img/contributing-copy-auth-token.png"},{"revision":"181e0b93aebb788b42302b6929fea593","url":"img/contributing-maintainers-create-repository.png"},{"revision":"fcb1e1d3ec3de5da9da2b3adc6f07b02","url":"img/contributing-maintainers-env.png"},{"revision":"2ccd24487c12e0ab164d8093efdcca56","url":"img/contributing-maintainers-merge-protections.png"},{"revision":"409c1762e7d639f5c252d7f05d7db45f","url":"img/contributing-maintainers-merge-settings.png"},{"revision":"895411932aa5e2237c378d596fdfd069","url":"img/contributing-resolve-merge-conflicts-commit-message.png"},{"revision":"85e7a50783c05df9e5464199a331861a","url":"img/contributing-resolve-merge-conflicts-dont-do.png"},{"revision":"70c651fd54dd4e84b8fa185dd96d5db7","url":"img/contributing-resolve-merge-conflicts-merge-conflicts.png"},{"revision":"195b8ef6ea85ca5648fe8525c727e7b4","url":"img/contributing-resolve-merge-conflicts-merge-success.png"},{"revision":"3499b11290765adda0584d9d7a5a86bf","url":"img/contributing-resolve-merge-conflicts-ready-to-merge.png"},{"revision":"5aab0048cfc3e35936e9729bef39a5be","url":"img/contributing-resolve-merge-conflicts-review-conflicts.png"},{"revision":"a25e9ab7aab5320b491f573b7dba0f36","url":"img/contributing-resolve-merge-conflicts-view-merge-commit.png"},{"revision":"3339aa4e65067f863272c668dffad3a0","url":"img/contributing-token-printed-to-console.png"},{"revision":"942127fb6ee320d2e55ca762a71fe1a4","url":"img/contributors-insights.png"},{"revision":"b65c2ad76632446c06cdda363c423f0d","url":"img/extension-invite.png"},{"revision":"710464e74af65c4fd024cd416832c642","url":"img/extension-links.png"},{"revision":"5ce6e21f511a9b5ea33b6ec78faa034b","url":"img/extension-popup.png"},{"revision":"0b5ccc70714107fb6ecb154f6e16bff3","url":"img/extension-view.png"},{"revision":"876d22e3510bda31ab816add5c9c8e5b","url":"img/favicon.ico"},{"revision":"3df8f23080b4f1b9627ccff3cbe9ad29","url":"img/files-changed-tab.png"},{"revision":"c7436a5635cd411e208b2eb74599bd2a","url":"img/get-dev-card.png"},{"revision":"8bb7ed044e608471e304f769be869aaa","url":"img/highlights.png"},{"revision":"1e5dc68194c89ec354432460b9712c0f","url":"img/list-graph.png"},{"revision":"f004ac39bce807729f0a357970e8be3f","url":"img/lists-page.svg"},{"revision":"3b6c5d852ad7542f4b897254717810db","url":"img/logo_darkmode.png"},{"revision":"e93cdf20a7ce8d4792cd4c536e6e811d","url":"img/logo_lightmode.png"},{"revision":"0bc5e10806a22fbd376651dc8b2bd49c","url":"img/logo.svg"},{"revision":"adff7c9d6e841375c19ba9db67d5f0b2","url":"img/ml-explore-page.png"},{"revision":"76ed877972409e62d57b101ca7ed3563","url":"img/openSauced-icon.png"},{"revision":"7f28dce5ced388db21864a84165ebb88","url":"img/popular-repos-hot-opensauced.png"},{"revision":"6d7df3fb8347bf78540107b0a466c0c7","url":"img/pr-velocity-example.png"},{"revision":"200693f2d62b5719ccf6ef6d09400326","url":"img/profile.png"},{"revision":"d4d51e87a9594ed0b3c7e482183d2791","url":"img/repo-page.png"},{"revision":"ccde64e85c920d1f1b6f58850981dd3e","url":"img/repos-insights.png"},{"revision":"c7aa7ae15965cf4e1dafb25bcccedcd5","url":"img/settings.png"},{"revision":"a94d3e179e3bb5babcb57ca086e74434","url":"img/sync-branch-GH.png"},{"revision":"31a4fb0bc61245920f543b0bb1c16ead","url":"img/upvoted-repos-hot-opensauced.png"},{"revision":"640588166e56d1eaf1560ae7fc235ec7","url":"img/what-is-opensauced-borderless.jpg"},{"revision":"83d91aa6d9976e8e6f7092ba727f611b","url":"img/what-is-opensauced.jpg"},{"revision":"d30381155966797309fb49a060270cd0","url":"img/what-is-opensauced.png"},{"revision":"5081ad3b60c74f4fba7caf1391823728","url":"img/workspace-access.png"},{"revision":"3db4d3ccb70f6cd4a9d416a6c45d1103","url":"img/workspace-sidebar.png"},{"revision":"01e77187fc3ad1d8300016a28ec01ff3","url":"img/workspace-switcher.png"},{"revision":"0194702a05865952ba81c4c8f7a8b1e6","url":"img/workspace.png"}];
     const controller = new workbox_precaching__WEBPACK_IMPORTED_MODULE_0__.PrecacheController({
         // Safer to turn this true?
         fallbackToNetwork: true,
