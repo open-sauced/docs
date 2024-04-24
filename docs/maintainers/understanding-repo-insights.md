@@ -2,17 +2,17 @@
 id: understanding-repo-insights
 title: "Understanding Repo Insights Data"
 sidebar_label: "Understanding Repo Insights Data"
-keywords:
-  - "maintainers"
-  - "guides"
-  - "Insights Interpretation"
-  - "Analytical Understanding"
-  - "Insights Overview"
-  - "Maintainer Insights"
-  - "Guide to Data Understanding"
-  - "Data Interpretation Methods"
-  - "Insightful Data Examination"
-  - "Guide to Understanding Data"
+keywords: 
+- "maintainers" 
+- "guides" 
+- "Insights Interpretation" 
+- "Analytical Understanding" 
+- "Insights Overview" 
+- "Maintainer Insights" 
+- "Guide to Data Understanding" 
+- "Data Interpretation Methods" 
+- "Insightful Data Examination" 
+- "Guide to Understanding Data" 
 ---
 
 Once your repositories are connected, it's time to understand the data provided on your page. Understanding this data is key to effectively managing your projects and contributors.

@@ -2,15 +2,15 @@
 id: how-to-translate-open-source-contributions-into-career-opportunities
 title: "How to Translate Open Source Contributions into Career Opportunities"
 sidebar_label: "How to Translate Open Source Contributions into Career Opportunities"
-keywords:
-  - "how to get a job with open source contributions"
-  - "benefits of open source contributions for career development"
-  - "open source projects to boost your resume"
-  - "how to showcase your open source work to employers"
-  - "open source skills that employers look for"
-  - "how to find open source opportunities in your field"
-  - "best practices for open source contributors"
-  - "open source success stories and tips"
+keywords: 
+- "how to get a job with open source contributions" 
+- "benefits of open source contributions for career development" 
+- "open source projects to boost your resume" 
+- "how to showcase your open source work to employers" 
+- "open source skills that employers look for" 
+- "how to find open source opportunities in your field" 
+- "best practices for open source contributors" 
+- "open source success stories and tips" 
 ---
 
 It is important to keep track of your open source contributions and show the impact you have left on the projects and organizations. By organizing your work, you will be able to talk about these meaningful contributions on your resume and in job interviews.

@@ -2,15 +2,14 @@
 id: dev-card
 title: "Showcase Your Open Source Stats with Your Dev Card"
 sidebar_label: "Dev Card"
-keywords:
-  - "dev card"
-  - "DevCard"
-  - "OpenSource"
-  - "Open Source DevCard"
-  - "Showcase DevCard"
-  - "Showcase Your Open Source Stats"
-  - "Open Source Stats DevCard"
-
+keywords: 
+- "dev card" 
+- "DevCard" 
+- "OpenSource" 
+- "Open Source DevCard" 
+- "Showcase DevCard" 
+- "Showcase Your Open Source Stats" 
+- "Open Source Stats DevCard" 
 ---
 
 The Dev Card feature is what we like to call your "open source business card."

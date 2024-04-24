@@ -2,17 +2,17 @@
 id: understanding-contribs-insights
 title: "Understanding Contributor Insights Data"
 sidebar_label: "Understanding Contributor Insights Data"
-keywords:
-  - "maintainers"
-  - "guides"
-  - "Contributor Insights Analysis"
-  - "List Data Exploration"
-  - "Data Organization"
-  - "Data Insight from Contributor Insights "
-  - "List Visualization"
-  - "Data Representation in Contributor Insights "
-  - "List Data Interpretation"
-  - "Organizing Data in Contributor Insights "
+keywords: 
+- "maintainers" 
+- "guides" 
+- "Contributor Insights Analysis" 
+- "List Data Exploration" 
+- "Data Organization" 
+- "Data Insight from Contributor Insights" 
+- "List Visualization" 
+- "Data Representation in Contributor Insights" 
+- "List Data Interpretation" 
+- "Organizing Data in Contributor Insights" 
 ---
 
 Once you've created your Contributor Insight Page, it's time to understand the data provided. Understanding this data is key to effectively managing your projects and contributors.

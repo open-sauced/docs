@@ -2,15 +2,14 @@
 id: repo-pages
 title: "Check out Repository Activity"
 sidebar_label: "Repository Pages"
-keywords:
-  - "repository pages"
-  - "Repositories"
-  - "Open Source"
-  - "Open Source Repositories"
-  - "Showcase Repositories"
-  - "Repository forks"
-  - "Repository stars"
-
+keywords: 
+- "repository pages" 
+- "Repositories" 
+- "Open Source" 
+- "Open Source Repositories" 
+- "Showcase Repositories" 
+- "Repository forks" 
+- "Repository stars" 
 ---
 
 Repository pages allow you to view specific information (forks and stars) about a repository hosted on GitHub.
@@ -23,7 +22,7 @@ Open a web browser and navigate to the following URL structure:
 
 `https://app.opensauced.pizza/s/{org}/{repo}`
 
-Replace {org} with the name of the organization that owns the repository you want to view. Replace {repo} with the name of the specific repository.
+Replace `{org}` with the name of the organization that owns the repository you want to view. Replace `{repo}` with the name of the specific repository.
 
 For example, to view the `next.js` repository created by the `Vercel` organization, you would use the following URL:
 

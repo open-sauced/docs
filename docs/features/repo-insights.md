@@ -2,14 +2,14 @@
 id: repo-insights
 title: "Insights into Open Source Repositories"
 sidebar_label: "Repository Insights"
-keywords:
-  - "Repository Insights"
-  - "open source"
-  - "projects"
-  - "Open Source Repository Insights"
-  - "Project Repository Insights"
-  - "Repository Insights into Open Source Projects"
-  - "Open Source Project Repository Insights"
+keywords: 
+- "Repository Insights" 
+- "open source" 
+- "projects" 
+- "Open Source Repository Insights" 
+- "Project Repository Insights" 
+- "Repository Insights into Open Source Projects" 
+- "Open Source Project Repository Insights" 
 ---
 
 The Repository Insights feature is your one-stop solution for understanding the pulse of your open source projects and contributions. This feature is designed to provide a comprehensive view of open source project's health and contributions. From contribution trends to community health, OpenSauced Repository Insights helps you make data-driven decisions that align with your goals. It's not just about numbers; it's about providing data to help you make decisions that can define your approach to open source and tell the story of your project or contribution journey. 
