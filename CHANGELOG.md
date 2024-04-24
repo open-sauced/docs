@@ -1,3 +1,17 @@
+# 📦 open-sauced/docs changelog
+
+[![conventional commits](https://img.shields.io/badge/conventional%20commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+[![semantic versioning](https://img.shields.io/badge/semantic%20versioning-2.0.0-green.svg)](https://semver.org)
+
+> All notable changes to this project will be documented in this file
+
+## [1.73.0](https://github.com/open-sauced/docs/compare/v1.72.0...v1.73.0) (2024-04-24)
+
+
+### Features
+
+* migrate to latest docusaurus version and provide necessary updates ([#295](https://github.com/open-sauced/docs/issues/295)) ([93df686](https://github.com/open-sauced/docs/commit/93df686460444b49eb6f1c0cca86c6436d19a2b1))
+
 ---
 : ""
 ---
