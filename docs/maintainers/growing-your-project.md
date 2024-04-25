@@ -11,7 +11,7 @@ keywords:
 
 
 
-## When to grow your project
+## When to Grow your Project
 
 When it comes to deciding on whether your open source project is ready to grow, consider asking yourself the following question:
 
@@ -19,7 +19,7 @@ When it comes to deciding on whether your open source project is ready to grow, 
 
 If you have said yes, it's time to develop your growth strategies. If you haven't already, consider creating different teams for specific purposes. For example, you can create a docs team for documentation maintenance, a triage team for reviewing and approving issues, or a maintainer team to help you with overall project oversight. Once you have decided the types of teams you want to add to your project, it's time to start building the open source team of your dreams.
 
-## How to identify new contributors and team members
+## How to Identify New Contributors and Team Members
 
 When it comes to planning the growth strategies for your open source project, picking the right people will determine how successful your project will be. You can discover the right people for your project by starting with a [Repository Insight Page](../maintainers/maintainers-guide.md#creating-a-new-repository-insight-page). From there, you can use the Contributors dashboard to help you get a better understanding of your existing contributors.
 
@@ -66,7 +66,7 @@ If your project's Activity ratio presents as "Low", consider messaging your team
 The methods utilized to collaborate and communicate with your team play a crucial role in the growth of your open source project. Creating and sharing your project's [Workspace](../features/workspaces.md) page with your team members can be helpful in fostering a collaborative environment. After creating this page, here are some ways to leverage its information to engage with your team:
 
 - Analyze the amount of closed and opened pull requests and issues in their corresponding cards of your project's statistic card as well as its [PR velocity](../welcome/glossary.md#pr-velocity) rate to think of new ways to review and merge people's contributions in a quicker timeframe.
-- Use the amount of stars and forks displayed in the Engagement tab to discuss the effectiveness of current promotion strategies and to determine new methods to promote the project.
+- Use the amount of stars and forks displayed in the Engagement card to discuss the effectiveness of current promotion strategies and to determine new methods to promote the project.
 
 ## Additional Resources
 
