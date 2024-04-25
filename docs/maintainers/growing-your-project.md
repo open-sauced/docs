@@ -29,7 +29,7 @@ Once you have found a reliable group of contributors, consider adding them to a 
 - Identify your top contributors to extend an invitation to join a team.
 - Identify active contributors in other repositories who may be interested in joining your team.
 
-If you need more tips on how to pick people that can help grow your project, check out our blog post, ["How to Build Your Open Source Dream Team"](https://dev.to/opensauced/how-to-build-your-open-source-dream-team-a-guide-3i90).
+If you need more tips on how to pick people that can help grow your project, check out our blog post, "[How to Build Your Open Source Dream Team](https://dev.to/opensauced/how-to-build-your-open-source-dream-team-a-guide-3i90)".
 
 ## Recruiting Team Members and Contributors Outside of Your Project
 
