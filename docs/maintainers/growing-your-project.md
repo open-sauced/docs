@@ -15,7 +15,7 @@ keywords:
 
 When it comes to deciding on whether your open source project is ready to grow, consider asking yourself the following question:
 
-- Are there active community members who would be interested in progressing to an official role?
+> Are there active community members who would be interested in progressing to an official role?
 
 If you have said yes, it's time to develop your growth strategies. If you haven't already, consider creating different teams for specific purposes. For example, you can create a docs team for documentation maintenance, a triage team for reviewing and approving issues, or a maintainer team to help you with overall project oversight. Once you have decided the types of teams you want to add to your project, it's time to start building the open source team of your dreams.
 
