@@ -43,7 +43,7 @@ Consider checking out our [Understanding Repository Insights Data](../features/r
 
 Once you've identified the people you want to ask, reach out to them, providing a clear message and a list of expectations.
 
-After the people from your list has agreed to join your project, create [your team on GitHub](https://docs.github.com/en/organizations/organizing-members-into-teams/creating-a-team) and [sync it](../welcome/faqs.md#sync-your-github-team) to your project's Repository Insight page.
+After the people from your list has agreed to join your project, create [your team on GitHub](https://docs.github.com/en/organizations/organizing-members-into-teams/creating-a-team) and [sync it](../welcome/faqs.md#sync-your-github-team) to your project's Repository Insight Page.
 
 ![team sync gif](../../static/gif/team-sync.gif)
 
