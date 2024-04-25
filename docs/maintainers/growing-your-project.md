@@ -52,12 +52,12 @@ After the people from your list has agreed to join your project, create [your te
 To ensure that your open source project reaches it growth strategy goal(s), it is important that your team members actively participate in the project as much as possible. The [Contributors dashboard](../maintainers/maintainers-guide.md#contributors) in your project's Repository Insights Page can be helpful in fostering participation. Here are some strategies you can use this tab to monitor your team member's progress:
 
 - Identify the amount of repositories they contributed to in the Repositories section to see if they are immersed in the project.
-- Take note of the date of their recent contribution in the Last Contributed section to see if it aligns with the number in the Repositories section.
-- Check the level in the Activity Ratio section to determine how often they contribute to the project
+- Take note of the date of their recent contribution in the Last Contributed card to see if it aligns with the number in the Repositories card.
+- Check your project's [Activity](../welcome/glossary.md#activity) ratio in your project's statistic card to determine how often they contribute to it.
 
 :::tip
 
-If your project's Activity Ratio shows "Low", consider messaging your team member about this information and request a meeting to discuss possible strategies to help them progress.
+If your project's Activity ratio presents as "Low", consider messaging your team member about this information and request a meeting to discuss possible strategies to help them progress.
 
 :::
 
@@ -65,7 +65,7 @@ If your project's Activity Ratio shows "Low", consider messaging your team membe
 
 The methods utilized to collaborate and communicate with your team play a crucial role in the growth of your open source project. Creating and sharing your project's [Workspace](../features/workspaces.md) page with your team members can be helpful in fostering a collaborative environment. After creating this page, here are some ways to leverage its information to engage with your team:
 
-- Analyze the amount of closed and opened pull requests and issues in their corresponding sections as well as your project's [PR velocity](../welcome/glossary.md#pr-velocity) rate to think of new ways to quickly review and merge people's contributions.
+- Analyze the amount of closed and opened pull requests and issues in their corresponding cards of your project's statistic card as well as its [PR velocity](../welcome/glossary.md#pr-velocity) rate to think of new ways to review and merge people's contributions in a quicker timeframe.
 - Use the amount of stars and forks displayed in the Engagement tab to discuss the effectiveness of current promotion strategies and to determine new methods to promote the project.
 
 ## Additional Resources
