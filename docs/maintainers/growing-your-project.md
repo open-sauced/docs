@@ -33,7 +33,7 @@ If you need more tips on how to pick people that can help grow your project, che
 
 ## Recruiting Team Members and Contributors Outside of Your Project
 
-If you've looked at your project's[Repository Insight Page](../features/repo-insights.md) and realize there is no one that could help you, consider recruiting new contributors. To do that, create another repository insight page with projects that are similar to yours. From there, determine which contributors suit your project, add them to a list, and monitor their progress.  
+If you've looked at your project's [Repository Insight Page](../features/repo-insights.md) and realize there is no one that could help you, consider recruiting new contributors. To do that, create another Repository Insight Page with projects that are similar to yours. From there, determine which contributors suit your project, add them to a list, and monitor their progress.  
 
 :::tip
 
