@@ -65,7 +65,7 @@ If your project's Activity ratio presents as "Low", consider messaging your team
 
 The methods utilized to collaborate and communicate with your team play a crucial role in the growth of your open source project. Creating and sharing your project's [Workspace](../features/workspaces.md) page with your team members can be helpful in fostering a collaborative environment. After creating this page, here are some ways to leverage its information to engage with your team:
 
--  Analyze the number of open and merged pull requests, as well as open and closed issues in your project's statistic card to think of new ways to improve the speed of reviewing and merging contributions. Also, consider reviewing your project's [PR velocity](../welcome/glossary.md#pr-velocity) to identify more ways to optimize your process of reviewing and merging pull requests.
+- Analyze the number of open and merged pull requests, as well as open and closed issues in your project's statistic card to think of new ways to improve the speed of reviewing and merging contributions. Also, consider reviewing your project's [PR velocity](../welcome/glossary.md#pr-velocity) to identify more ways to optimize your process of reviewing and merging pull requests.
 - Use the amount of stars and forks displayed in the Engagement card to discuss the effectiveness of current promotion strategies and to determine new methods to promote the project.
 
 ## Additional Resources
