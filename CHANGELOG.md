@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.75.0](https://github.com/open-sauced/docs/compare/v1.74.0...v1.75.0) (2024-05-06)
+
+
+### Features
+
+* star search ([#300](https://github.com/open-sauced/docs/issues/300)) ([585c43d](https://github.com/open-sauced/docs/commit/585c43d57e4d767fbc92d0d9db7c51a8f1467aaa))
+
 ## [1.74.0](https://github.com/open-sauced/docs/compare/v1.73.0...v1.74.0) (2024-05-06)
 
 
