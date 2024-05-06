@@ -1,6 +1,6 @@
 ---
 id: star-search
-title: "Share, Collaborate, and Track with Workspaces"
+title: "Your Copilot for Git History"
 sidebar_label: "StarSearch"
 keywords: 
 - "contributors" 
