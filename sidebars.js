@@ -23,6 +23,7 @@ module.exports = {
       label: "Features",
       collapsed: false,
       items: [
+        "features/star-search",
         "features/workspaces",
         "features/repo-insights",
         "features/contributor-insights",
