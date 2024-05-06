@@ -19,10 +19,10 @@ keywords:
 
 - **Contributor Activities**: Learn the details of contributions and contributors.
 - **Key Contributors**: Identify the key contributors to projects and ecosystems.
-- **Work-Based Connections**: Find potential collaborators based on their contributions to specific projects
+- **Work-Based Connections**: Find potential collaborators based on their contributions to specific projects.
 - **Hidden Experts**: Discover untapped talent in the ecosystem.
 
 ![StarSearch](../../static/img/star-search.png)
 ## How to Access StarSearch
 
-Currenly, StarSearch is in development, but you can [sign up for the waitlist now](https://app.opensauced.pizza/star-search/waitlist).
+Currently, StarSearch is in development, but you can [sign up for the waitlist now](https://app.opensauced.pizza/star-search/waitlist).
