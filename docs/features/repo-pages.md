@@ -16,9 +16,10 @@ Repository pages allow you to view specific information (forks and stars) about 
 
 ## Accessing a Repository Page
 
-To view a repository page, follow these steps:
+There are a couple of ways to access a repository page:
 
-Open a web browser and navigate to the following URL structure:
+1. **From the Repository Insights page**: If you're already on the Repository Insights page, you can click on the repository name to view the repository page.
+2. **Directly from the URL**: You can also access a repository page directly by entering the URL in your web browser: 
 
 `https://app.opensauced.pizza/s/{org}/{repo}`
 
@@ -26,7 +27,7 @@ Replace `{org}` with the name of the organization that owns the repository you w
 
 For example, to view the `next.js` repository created by the `Vercel` organization, you would use the following URL:
 
-[https://app.opensauced.pizza/s/vercel/nextjs](https://app.opensauced.pizza/s/vercel/nextjs)
+[https://app.opensauced.pizza/s/vercel/nextjs](https://app.opensauced.pizza/s/vercel/next.js)
 
 Here's what that will look like:
 
@@ -37,7 +38,7 @@ Here's what that will look like:
 Here are some general things you might find on a repository page:
 
 - **Repository name and organization/user**: This is displayed prominently at the top of the page.
-- **Metrics**: This includes the number of stars and forks the repository has on GitHub.
+- **Metrics**: This includes contributors, issue and pull request stats, and the number of stars and forks the repository has on GitHub over the selected time range.
 
 You can use the time range filter to view the number of stars and forks over different periods, such as the last 7 days, month, or the last year.
 
