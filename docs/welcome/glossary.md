@@ -25,6 +25,10 @@ Activity tracks Pull Requests (PRs) over the last 30 days:
 - **Medium**: Between 5 and 80 PRs.
 - **Low**: Below 5 PRs.
 
+## Activity Ratio
+
+The activity ratio in workspaces is based on pull request commits, issues comments, and the number of unique contributors.
+
 ## Alumni Contributors
 
 A contributor who has not been active on a project in the last 30 days.
