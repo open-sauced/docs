@@ -37,6 +37,10 @@ A contributor who has not been active on a project in the last 30 days.
 
 The Contributor Insights feature enables you to categorize, monitor, and analyze different groups of contributors within open source projects. With the Contributor Insights feature, gain granular insights into each contributor's activity and contributions.
 
+## Lotto Factor
+
+The Lotto Factor is a metric that identifies how at risk a project is if a key contributor leaves. The Lotto Factor is calculated by the percentage of  contributions made by the top contributors. If there's a high percentage by a small number of contributors, the project is at risk. (The name comes from the idea that if a key contributor wins the lottery and leaves, the project is at risk.)
+
 ## New Contributors
 
 A contributor who has recently made their first contribution to a project.
