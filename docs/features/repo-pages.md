@@ -12,7 +12,9 @@ keywords:
 - "Repository stars" 
 ---
 
-Repository pages allow you to view specific information (forks and stars) about a repository hosted on GitHub.
+Repository pages allow you to view specific information about a repository hosted on GitHub.
+
+Repository Pages provides a detailed visual and analytical representation of open source projects hosted on GitHub. These pages are designed to help you gain insights into various aspects of project activity, health, and community engagement.
 
 ## Accessing a Repository Page
 
@@ -35,12 +37,20 @@ Here's what that will look like:
 
 ## Understanding the Repository Page
 
-Here are some general things you might find on a repository page:
+### Overview Dashboard
 
-- **Repository name and organization/user**: This is displayed prominently at the top of the page.
-- **Metrics**: This includes contributors, issue and pull request stats, and the number of stars and forks the repository has on GitHub over the selected time range.
+The charts on our repository pages offer a visual representation of several key metrics:
+
+- **Issue Resolution Trends**: Our line graphs display the number of issues opened versus those closed within specified periods, offering insights into the effectiveness of problem resolution and how issue volume changes over time.
+- **Pull Request Dynamics**: Analyze pull request activity by the numbers of pull requests opened, closed, and merged. This provides an overview of collaboration efficiency and code review processes.
+- **Stars and Forks Over Time**: The number of stars and forks the project receives over time, illustrating the project's growth in popularity and its spread within the developer community.
+- **Lottery Factor**: This unique metric is visualized to highlight the impact of key contributors, showing how certain individuals' efforts disproportionately influence the project's progress.
 
 You can use the time range filter to view the number of stars and forks over different periods, such as the last 7 days, month, or the last year.
+
+### Contributor Dashboard
+
+The Contributor Dashboard ffers a comprehensive view of all contributors, showcasing the frequency and size of each person’s contributions. 
 
 Currently, only publicly available repositories on GitHub can be viewed through Open Sauced Pizza's repository pages.
 
