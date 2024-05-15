@@ -46,3 +46,12 @@ Currently, StarSearch is in development, but you can [sign up for the waitlist n
     - What are the most popular projects in the {technology} ecosystem? 
     - When was the last release of {project}?
     - Whare are the breaking changes in {project}'s last release?
+
+### FAQs
+- **Can you continue conversations with StarSearch?**
+    - Not yet, but stay tuned!
+- **Can you access your search history?**
+    - Not yet.
+
+
+
