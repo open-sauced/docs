@@ -32,9 +32,9 @@ Currently, StarSearch is in development, but you can [sign up for the waitlist n
 ### Queries Suggestions
 
 #### **Contributor Activities**
-    - Show me the contributions of {username}
-    - What {technology} contributions has {username} made recently?
-    - What issues has {username} commented on?
+    - Show me the contributions of \{username}
+    - What {technology} contributions has \{username} made recently?
+    - What issues has \{username} commented on?
 - **Work-Based Connections**: 
     - Who has contributed to both project A and project B?
     - Who are the contributors to both {technology} and {technology}?
