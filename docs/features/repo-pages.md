@@ -12,9 +12,9 @@ keywords:
 - "Repository stars" 
 ---
 
-Repository pages allow you to view specific information about a repository hosted on GitHub.
+Repository Pages allow you to view specific information about a repository hosted on GitHub through a detailed visual and analytical representation of the project.
 
-Repository Pages provides a detailed visual and analytical representation of open source projects hosted on GitHub. These pages are designed to help you gain insights into various aspects of project activity, health, and community engagement.
+These pages are designed to help you gain insights into various aspects of project activity, health, and community engagement.
 
 ## Accessing a Repository Page
 
