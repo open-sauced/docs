@@ -39,7 +39,9 @@ The Contributor Insights feature enables you to categorize, monitor, and analyze
 
 ## Lottery Factor
 
-The Lottery Factor is a metric that identifies how at risk a project is if a key contributor leaves. It is calculated by the percentage of contributions made by the top contributors. If 50% of the contributions come from two or fewer contributsors, the lottery factor is high. (The name comes from the idea that if a key contributor wins the lottery and leaves, the project is at risk. This is sometimes known as the bus factor.)
+The Lottery Factor is a metric that identifies how at risk a project is if a key contributor leaves. It is calculated by the percentage of contributions made by the top contributors. If 50% of the contributions come from two or fewer contributors, the lottery factor is high. 
+
+The name "Lottery Factor" comes from the idea that if a key contributor wins the lottery and leaves, the project is at risk. This is sometimes known as the [bus factor](https://en.wikipedia.org/wiki/Bus_factor).
 
 ## New Contributors
 
