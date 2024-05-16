@@ -20,7 +20,7 @@ These pages are designed to help you gain insights into various aspects of proje
 
 There are a couple of ways to access a repository page:
 
-1. **From the Repository Insights page**: If you're already on the Repository Insights page, you can click on the repository name to view the repository page.
+1. **From the Repository Insights Page**: If you're already on the Repository Insights Page, you can click on the repository name to view the repository page.
 2. **From the search bar**: You can search for a repository by entering the repository name in the search bar. Once you find the repository you're looking for, click on the repository name to view the repository page.
 2. **Directly from the URL**: You can also access a repository page directly by entering the URL in your web browser: 
 
