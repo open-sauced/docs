@@ -45,7 +45,7 @@ Here's what that will look like:
 The charts on our repository pages offer a visual representation of several key metrics:
 
 - **Issue Resolution Trends**: Our line graphs display the number of issues opened versus those closed within specified periods, offering insights into the effectiveness of problem resolution and how issue volume changes over time.
-- **Pull Request Dynamics**: Analyze pull request activity by the numbers of pull requests opened, closed, and merged. This provides an overview of collaboration efficiency and code review processes.
+- **Pull Request Dynamics**: Analyze pull request activity by the number of open, closed, and merged pull requests. This provides an overview of collaboration efficiency and code review processes.
 - **Stars and Forks Over Time**: The number of stars and forks the project receives over time, illustrating the project's growth in popularity and its spread within the developer community.
 - **Lottery Factor**: This unique metric is visualized to highlight the impact of key contributors, showing how certain individuals' efforts disproportionately influence the project's progress. If 2 or fewer contributors account for 50% of the project's contributions, the lottery factor is high, indicating a potential risk if one of these contributors leaves the project.
 
