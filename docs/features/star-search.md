@@ -48,10 +48,10 @@ Currently, StarSearch is in development, but you can [sign up for the waitlist n
     - Whare are the breaking changes in \{project}'s last release?
 
 ### FAQs
-- **Can you continue conversations with StarSearch?**
-    - Not yet, but stay tuned!
-- **Can you access your search history?**
-    - Not yet.
+- **Can I continue conversations with StarSearch?**
+   - Not yet, but stay tuned!
+- **Can I access my search history?**
+   - Not yet.
 
 
 
