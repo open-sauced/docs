@@ -61,7 +61,8 @@ The Activity Dashboard provides a centralized view of recent activity across rep
 The Pull Requests table lists recent PRs across the repositories in your Workspace, providing details to track progress and contributions. It includes information on the current status of the PR, the number of files changed, the number of additions and deletions, and timestamps for updates, creation, closure, and merging.
 
 ##### Issues Table
-The Issues table displays recent issues from the repositories in your workspace, helping you to identify and track bugs, feature requests, and ongoing discussions. The issues table gives you insight into the current status of the issue, the number of reactions, and timestamps for updates, creation, and closure.
+
+The Issues table displays recent issues from the repositories in your workspace, helping you identify and track bugs, feature requests, and ongoing discussions. It gives you insight into the current status of the issue, the number of reactions, and timestamps for updates, creation, and closure.
 
 ## How to Create or Access a Workspace
 
