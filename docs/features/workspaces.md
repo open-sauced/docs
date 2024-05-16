@@ -57,7 +57,8 @@ Within the repositories dashboard, you can view the following metrics, which are
 The Activity Dashboard provides a centralized view of recent activity across repositories, including detailed tables for Pull Requests (PRs) and Issues. These tables offer insights into ongoing contributions, bug fixes, feature requests, and more. 
 
 ##### Pull Requests Table
-The Pull Requests table lists recent PRs across the repositories in your Workspace, providing details to track progress and contributions and includes information on the current status of the PR, the number of files changed, the number of additions and deletions, and timestamps for updates, creation, closure, and merging.
+
+The Pull Requests table lists recent PRs across the repositories in your Workspace, providing details to track progress and contributions. It includes information on the current status of the PR, the number of files changed, the number of additions and deletions, and timestamps for updates, creation, closure, and merging.
 
 ##### Issues Table
 The Issues table displays recent issues from the repositories in your workspace, helping you to identify and track bugs, feature requests, and ongoing discussions. The issues table gives you insight into the current status of the issue, the number of reactions, and timestamps for updates, creation, and closure.
