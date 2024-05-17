@@ -20,7 +20,7 @@ keywords:
 - **Real-Time Insights**: Access up-to-date information about GitHub contributions, issues, and projects.
 - **Conversational Queries**: Use natural language to explore GitHub data.
 - **Cross-Project Analysis**: Identify connections between different projects and technologies.
-- **Expert Discovery**: Pinpoint key contributors and experts in various technologies.
+- **Contributor Discovery**: Pinpoint key contributors and the work they've done
 
 ### What Can You Discover with StarSearch?
 
@@ -54,7 +54,7 @@ keywords:
 - **What time range does StarSearch cover?**
    - StarSearch is most accurate from March 1, 2024.
 - **Is StarSearch always right?**
-    - StarSearch is an AI tool and may not always be accurate. We recommend verifying the information with other sources.
+    - StarSearch is an AI tool and may not always be accurate. We recommend verifying the information.
 
 ## Feedback
 
