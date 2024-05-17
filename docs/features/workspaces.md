@@ -62,7 +62,7 @@ The Pull Requests table lists recent PRs across the repositories in your Workspa
 
 ##### Issues Table
 
-The Issues table displays recent issues from the repositories in your workspace, helping you identify and track bugs, feature requests, and ongoing discussions. It gives you insight into the current status of the issue, the number of reactions, and timestamps for updates, creation, and closure.
+The Issues table displays recent issues from the repositories in your Workspace, helping you identify and track bugs, feature requests, and ongoing discussions. It gives you insight into the current status of the issue, the number of reactions, and timestamps for updates, creation, and closure.
 
 ## How to Create or Access a Workspace
 
