@@ -18,7 +18,7 @@ In the OpenSauced app, your work unfolds within a Workspace: a virtual environme
 
 You can navigate your Workspaces from the sidebar. Each Workspace has its own dashboard, which includes the repositories you're tracking in the Workspace.
 
-![Workspace Access](../../static/img/Workspace-access.png)
+![Workspace Access](../../static/img/workspace-access.png)
 
 By default, all Workspaces are public. This means that anyone with the link to your Workspace can view it, including all of your Insight Pages in the Workspace. If you want to make your Workspace private, you can upgrade your account to a PRO plan.
 
@@ -30,7 +30,7 @@ The expandable sidebar includes:
 - Access to your Contributor and Repository Insights pages.
 - Links to support.
 
-![Sidebar](../../static/img/Workspace-sidebar.png)
+![Sidebar](../../static/img/workspace-sidebar.png)
 
 :::info
 
@@ -44,7 +44,7 @@ In your Workspace dashboards, you can create, view, and manage your Workspaces.
 
 #### Repositories Dashboard
 
-![Workspaces](../../static/img/Workspace.png)
+![Workspaces](../../static/img/workspace.png)
 
 Within the repositories dashboard, you can view the following metrics, which are over a period of thirty days by default:
 
@@ -68,7 +68,7 @@ The Issues table displays recent issues from the repositories in your Workspace,
 
 To create a Workspace, start by accessing the **Workspace switcher** in the sidebar. From there, you can create a new Workspace or view an existing one.
 
-![Workspace switcher](../../static/img/Workspace-switcher.png)
+![Workspace switcher](../../static/img/workspace-switcher.png)
 
 <br/>
 
@@ -112,6 +112,6 @@ The visibility of your Insights Pages is determined by the visibility of the Wor
 
 You can add someone to your Workspace by clicking on the "Edit" button located at the top right of the Workspace dashboard and entering the username of the Workspace member you would like to add.
 
-![Add People](../../static/img/add-to-Workspace.png)
+![Add People](../../static/img/add-to-workspace.png)
 
 Once you add a member to a Workspace, they will be able to view the Workspace and its contents. You will also be able to edit their permissions for the Workspace, including owner, editor, or viewer permissions. This Workspace will now appear in their Workspace switcher.
