@@ -52,6 +52,6 @@ Currently, StarSearch is in development, but you can [sign up for the waitlist n
    - Not yet, but stay tuned!
 - **Can I access my search history?**
    - Not yet.
-
-
-
+- **What time range does StarSearch cover?**
+   - StarSearch is most accurate from March 1, 2024.
+- **Can I search for repositories?**
