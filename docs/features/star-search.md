@@ -25,7 +25,7 @@ keywords:
 ### What Can You Discover with StarSearch?
 
 - **Contributor Activities**: Learn the details of contributions and contributors.
-- **Key Contributors**: Identify the key contributors to projects and ecosystems.
+- **Key Contributors**: Identify the key contributors to projects and ecosystems and their impact on the projects.
 - **Work-Based Connections**: Find potential collaborators based on their contributions to specific projects.
 - **Hidden Experts**: Discover untapped talent in the ecosystem.
 
@@ -33,8 +33,8 @@ keywords:
 
 ## Getting Started with StarSearch
 
-1. Log In to [Your OpenSauced Account](https://app.opensauced.pizza/)
-2. Navigate to [https://app.opensauced.pizza/star-search](https://app.opensauced.pizza/star-search) or click the StarSearch tab in the sidebar or nav bar.
+1. Log in to [Your OpenSauced Account](https://app.opensauced.pizza/)
+2. Navigate to [https://app.opensauced.pizza/star-search](https://app.opensauced.pizza/star-search) or click the StarSearch tab in the sidebar or navigation bar.
 
 ### User Guide
 
