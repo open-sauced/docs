@@ -12,13 +12,8 @@ keywords:
 - "open source maintainers" 
 - "AI"
 ---
-::: tip
 
-Currently, StarSearch is in development, but you can [sign up for the waitlist now](https://app.opensauced.pizza/star-search/waitlist).
-
-:::
-
-**StarSearch** is our AI-powered feature that provides in-depth insights into contributor history and activities, bringing transparency and a new depth of knowledge about open source projects. It's your copilot for git history, helping you understand the contributions to open source repositories.
+**StarSearch** is our AI-powered feature that provides in-depth insights into contributor history and activities, enabling users to query GitHub activities and analytics through natural language. This tool is designed to provide you with insights into GitHub projects and contributions without requiring any coding or complex queries, bringing transparency and a new depth of knowledge about open source projects. It's your copilot for git history.
 
 ## What Can You Discover with StarSearch?
 
