@@ -20,7 +20,7 @@ keywords:
 - **Real-Time Insights**: Access up-to-date information about GitHub contributions, issues, and projects.
 - **Conversational Queries**: Use natural language to explore GitHub data.
 - **Cross-Project Analysis**: Identify connections between different projects and technologies.
-- **Contributor Discovery**: Pinpoint key contributors and the work they've done
+- **Contributor Discovery**: Pinpoint key contributors and the work they've done.
 
 ### What Can You Discover with StarSearch?
 
