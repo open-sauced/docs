@@ -27,7 +27,7 @@ Activity tracks Pull Requests (PRs) over the last 30 days:
 
 ## Activity Ratio
 
-The activity ratio in workspaces is based on pull request commits, issues comments, and the number of unique contributors.
+The activity ratio in Workspaces is based on pull request commits, issues comments, and the number of unique contributors.
 
 ## Alumni Contributors
 
