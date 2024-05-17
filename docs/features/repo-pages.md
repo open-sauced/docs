@@ -32,7 +32,7 @@ There are a couple of ways to access a repository page:
 
     For example, to view the `next.js` repository created by the `Vercel` organization, you would use the following URL:
 
-    [https://app.opensauced.pizza/s/vercel/nextjs](https://app.opensauced.pizza/s/vercel/next.js)
+    [https://app.opensauced.pizza/s/vercel/next.js](https://app.opensauced.pizza/s/vercel/next.js)
 
     Here's what that will look like:
 
