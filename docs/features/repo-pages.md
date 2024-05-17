@@ -55,6 +55,6 @@ You can use the time range filter to view the number of stars and forks over dif
 
 The Contributor Dashboard offers a comprehensive view of all contributors, showcasing the frequency and size of each person’s contributions. 
 
-Currently, only publicly available repositories on GitHub can be viewed through Open Sauced Pizza's repository pages.
+Currently, only publicly available repositories on GitHub can be viewed through repository pages.
 
-Repository pages on Open Sauced Pizza provide a way to explore and learn about open source code repositories hosted on GitHub. While you cannot create or edit them directly on Open Sauced Pizza yet, you can add them to your [Repository Insight pages](https://docs.opensauced.pizza/features/repo-insights/). 
+Repository pages provide a way to explore and learn about open source projects on GitHub. While you cannot create or edit them directly on Open Sauced Pizza yet, you can add them to your [Repository Insight pages](https://docs.opensauced.pizza/features/repo-insights/). 
