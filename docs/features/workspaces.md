@@ -1,5 +1,5 @@
 ---
-id: Workspaces
+id: workspaces
 title: "Share, Collaborate, and Track with Workspaces"
 sidebar_label: "Workspaces"
 keywords: 
