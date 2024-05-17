@@ -22,7 +22,7 @@ keywords:
 - **Cross-Project Analysis**: Identify connections between different projects and technologies.
 - **Expert Discovery**: Pinpoint key contributors and experts in various technologies.
 
-## What Can You Discover with StarSearch?
+### What Can You Discover with StarSearch?
 
 - **Contributor Activities**: Learn the details of contributions and contributors.
 - **Key Contributors**: Identify the key contributors to projects and ecosystems.
@@ -43,7 +43,7 @@ keywords:
 - What type of pull requests has \{username} worked on?
 - Who are the best developers that know \{technology} and are interested in \{technology}?
 - Who are the most prevalent contributors to the \{technology} ecosystem?
-- Show me the lottery factor for contributors in the \{repoitory} project?
+- Show me the [lottery factor](https://docs.opensauced.pizza/welcome/glossary/#lottery-factor) for contributors in the \{repository} project?
 
 ### FAQs
 
@@ -55,3 +55,7 @@ keywords:
    - StarSearch is most accurate from March 1, 2024.
 - **Is StarSearch always right?**
     - StarSearch is an AI tool and may not always be accurate. We recommend verifying the information with other sources.
+
+## Feedback
+
+Your feedback helps us improve StarSearch. If you have any suggestions or questions, please create a [discussion post](https://github.com/orgs/open-sauced/discussions/categories/general-feedback-or-bugs) or open an [issue](https://github.com/open-sauced/app/issues). You can also use the thumbs-up or thumbs-down buttons on the StarSearch page to let us know if the information was helpful.
