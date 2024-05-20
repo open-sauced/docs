@@ -77,14 +77,14 @@ Leveraging OpenSauced's [Highlights](../../features/highlights.md) feature is a 
 The Highlights feature allows you to:
 
 - talk about issues that you raised,
-- share Dev.to blog posts that you've written,
+- share blog posts that you've written,
 - display Pull Requests that showcase your contributions.
 
 ### Creating a New Highlight
 
 There are two ways to create a new highlight:
 
-1. Paste the URL to your PR, issue, or Dev.to blog post (shown in blue below).
+1. Paste the URL to your PR, issue, or blog post (shown in blue below).
 2. Choose from a list of suggestions (shown in orange below).
 
 ![highlight suggestions](../../../static/img/highlights.png)
@@ -115,7 +115,7 @@ Sharing the story of your hard work is an opportunity to connect with the reader
 2. **Highlight your solution and its impact**: Briefly describe the solution, any challenges you faced, or any part of the PR you're particularly proud of. For example, "Initially, I faced challenges with the API, but I was able to resolve them using a different endpoint."
 3. **Reflect on your experience**: Mention what you learned from working on the PR. For example, "I learned a lot about the Chrome Extension API and how to use it to create new features."
 
-#### Highlighting Dev.to Blog Posts
+#### Highlighting Blog Posts
 
 1. **Describe the topic**: Begin with an interesting blog post summary to help others understand your writing.
 2. **Discuss the inspiration**: Explain why you wrote this blog post. Is it to guide others on improving their coding skills, raise awareness about an issue in the tech community, or display your progress in learning a new programming language?

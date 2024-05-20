@@ -204,7 +204,7 @@ Leveraging OpenSauced's Highlights feature is a great way for maintainers to rec
 Highlights can be used to:
 
 - publicize issues on your repository that you'd like to match with contributors,
-- share Dev.to blog posts you've written,
+- share blog posts you've written,
 - celebrate PRs for your project.
 
 ### Creating a New Highlight
@@ -219,7 +219,7 @@ After you've clicked the input, you'll see a form that allows you to create a ne
 
 There are two ways to create a highlight:
 
-1. Paste the URL to your PR, issue, or Dev.to blog post (shown in blue below).
+1. Paste the URL to your PR, issue, or blog post (shown in blue below).
 2. Choose from a list of suggestions (shown in orange below).
 
 ![highlight suggestions](../../static/img/highlights.png)
@@ -250,7 +250,7 @@ Writing an effective highlight is key to attracting contributors to your project
 2. **Credit the contributors**: Acknowledge everyone who contributed to the PR, including reviewers.
 3. **Highlight the value**: Explain the value of these changes to the project or its users. For instance, how it improves performance, adds a requested feature, or simplifies the codebase.
 
-#### Highlighting Dev.to Blog Posts
+#### Highlighting Blog Posts
 
 1. **Capture the essence**: Begin with an interesting blog post summary, capturing the main theme or message.
 2. **Discuss the relevance**: Explain why this blog post is important for your open source project or community. Is it about a major update, a community event, or sharing best practices?

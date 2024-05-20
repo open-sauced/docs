@@ -25,6 +25,10 @@ Activity tracks Pull Requests (PRs) over the last 30 days:
 - **Medium**: Between 5 and 80 PRs.
 - **Low**: Below 5 PRs.
 
+## Activity Ratio
+
+The activity ratio in Workspaces is based on pull request commits, issues comments, and the number of unique contributors.
+
 ## Alumni Contributors
 
 A contributor who has not been active on a project in the last 30 days.
@@ -32,6 +36,12 @@ A contributor who has not been active on a project in the last 30 days.
 ## Contributor Insights 
 
 The Contributor Insights feature enables you to categorize, monitor, and analyze different groups of contributors within open source projects. With the Contributor Insights feature, gain granular insights into each contributor's activity and contributions.
+
+## Lottery Factor
+
+The Lottery Factor is a metric that identifies how at risk a project is if a key contributor leaves. It is calculated by the percentage of pull request (PR) contributions made by the top contributors. If 50% of the PR contributions come from two or fewer contributors, the lottery factor is high. 
+
+The name "Lottery Factor" comes from the idea that if a key contributor wins the lottery and leaves, the project is at risk. This is sometimes known as the [bus factor](https://en.wikipedia.org/wiki/Bus_factor).
 
 ## New Contributors
 
