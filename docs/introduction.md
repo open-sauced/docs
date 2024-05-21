@@ -9,7 +9,7 @@ keywords:
 - "get to know opensauced" 
 ---
 
-![Example banner](../static/img/what-is-opensauced-24.jpg)
+![Example banner](../static/img/what-is-opensauced-24.png)
 
 :::info
 
