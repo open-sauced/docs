@@ -1,7 +1,7 @@
 <div align="center">
   <br/>
 
-  [![OpenSauced](https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png)](https://opensauced.pizza)
+  [![OpenSauced](https://github.com/open-sauced/assets/blob/main/logos/logo-on-dark.png)](https://opensauced.pizza)
 
   # 🍕 OpenSauced Docs 🍕
   > The path to your next Open Source contribution

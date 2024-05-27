@@ -9,11 +9,11 @@ keywords:
 - "get to know opensauced" 
 ---
 
-![Example banner](../static/img/what-is-opensauced-borderless.jpg)
+![Example banner](../static/img/what-is-opensauced-24.png)
 
 :::info
 
-You can watch "[What is OpenSauced?](https://www.youtube.com/watch?v=h8gwrzis-dY&list=PLHyZ0Wz_A44XAE-6Gbd69pZLTdqWdwlBx&index=1&t=2s)" on YouTube.
+You can watch "[What is OpenSauced?](https://www.youtube.com/watch?v=JCNjj19iDa4)" on YouTube.
 
 :::
 
