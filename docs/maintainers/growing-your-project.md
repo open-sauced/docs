@@ -26,8 +26,8 @@ When it comes to planning the growth strategies for your open source project, pi
 ::: note
 
 Consider using our AI-powered chatbot, [StarSearch](../features/star-search.md#user-guide) if you need more assistance with finding new contributors and team members.  
-
 :::
+
 Once you have found a reliable group of contributors, consider adding them to a [Contributor Insight Page](../maintainers/maintainers-guide.md#creating-a-new-contributor-insight-page). It can help you better understand their contributions to your project and the open source ecosystem. Here are some methods you can use to help you analyze its data:
 
 - Monitor contributors to see if they are active enough in your repositories to contribute as a team member.
