@@ -5,6 +5,20 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.75.0](https://github.com/open-sauced/docs/compare/v1.74.0...v1.75.0) (2024-05-06)
+
+
+### Features
+
+* star search ([#300](https://github.com/open-sauced/docs/issues/300)) ([585c43d](https://github.com/open-sauced/docs/commit/585c43d57e4d767fbc92d0d9db7c51a8f1467aaa))
+
+## [1.74.0](https://github.com/open-sauced/docs/compare/v1.73.0...v1.74.0) (2024-05-06)
+
+
+### Documentation
+
+* logo readme.md changed to new one ([#299](https://github.com/open-sauced/docs/issues/299)) ([443ee08](https://github.com/open-sauced/docs/commit/443ee083da0a1e1c3d81148801915d4e4f52ae02))
+
 ## [1.73.0](https://github.com/open-sauced/docs/compare/v1.72.0...v1.73.0) (2024-04-24)
 
 
