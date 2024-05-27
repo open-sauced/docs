@@ -22,10 +22,10 @@ If you have said yes, it's time to develop your growth strategies. If you haven'
 ## How to Identify New Contributors and Team Members
 
 When it comes to planning the growth strategies for your open source project, picking the right people will determine how successful your project will be. You can discover the right people for your project by starting with a [Repository Insight Page](../maintainers/maintainers-guide.md#creating-a-new-repository-insight-page). From there, you can use the Contributors dashboard to help you get a better understanding of your existing contributors.
+:::note
 
-::: note
+If you need more assistance with finding new contributors and team members for your project, consider using our AI-powered chatbot, [StarSearch](../features/star-search.md#user-guide).
 
-Consider using our AI-powered chatbot, [StarSearch](../features/star-search.md#user-guide) if you need more assistance with finding new contributors and team members.  
 :::
 
 Once you have found a reliable group of contributors, consider adding them to a [Contributor Insight Page](../maintainers/maintainers-guide.md#creating-a-new-contributor-insight-page). It can help you better understand their contributions to your project and the open source ecosystem. Here are some methods you can use to help you analyze its data:
