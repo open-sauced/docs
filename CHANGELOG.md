@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.75.1](https://github.com/open-sauced/docs/compare/v1.75.0...v1.75.1) (2024-05-27)
+
+
+### Bug Fixes
+
+* changed the screenshot in 'Activity' subsection of maintainers guide [#270](https://github.com/open-sauced/docs/issues/270) ([#303](https://github.com/open-sauced/docs/issues/303)) ([e7b5e45](https://github.com/open-sauced/docs/commit/e7b5e45e421682cfd6787f6bb57f30223350408a))
+
 ## [1.75.0](https://github.com/open-sauced/docs/compare/v1.74.0...v1.75.0) (2024-05-06)
 
 
