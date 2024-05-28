@@ -16,14 +16,9 @@ keywords:
 - "Contributor triage assistance" 
 ---
 
-## How to Join the Triage Team
-
-1. Sign up for [opensauced.pizza](https://opensauced.pizza).
-2. Leave a comment in the `🍕opensauced-contributors-chat` channel on [Discord](https://discord.com/channels/714698561081704529/928693344358514698).
-
 ## Triage Process
 
-When a new issue or pull request (PR) is opened, the issue will be labeled with `needs triage`. If a triage team member is available, they can help ensure all the required information is provided.
+When a new issue or pull request (PR) is opened, the issue will be labeled with `needs triage`. At OpenSauced, our team functions as the triage team. Once a teammate is available, they can help ensure all the required information is provided.
 
 ### Adding Issue and PR Labels
 
