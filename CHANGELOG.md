@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.75.2](https://github.com/open-sauced/docs/compare/v1.75.1...v1.75.2) (2024-05-28)
+
+
+### Bug Fixes
+
+* Update triage guide ([#306](https://github.com/open-sauced/docs/issues/306)) ([b494b0d](https://github.com/open-sauced/docs/commit/b494b0dd6173a138155bbfd585e0c7c1bb66039a))
+
 ### [1.75.1](https://github.com/open-sauced/docs/compare/v1.75.0...v1.75.1) (2024-05-27)
 
 
