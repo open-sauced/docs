@@ -1,0 +1,7 @@
+# permanently redirect all traffic from docs.opensauced.pizza to opensauced.pizza/docs.
+
+[[redirects]]
+from = "/*"
+to = "https://opensauced.pizza/docs/:splat"
+status = 301
+force = true
