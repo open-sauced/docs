@@ -7,8 +7,11 @@
   from = "/*"
   to = "https://opensauced.pizza/docs/:splat"
   status = 301
+  force = true
+
 
 [[redirects]]
   from = "/"
   to = "https://opensauced.pizza/docs/"
   status = 301
+  force = true
