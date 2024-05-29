@@ -6,7 +6,7 @@ const darkCodeTheme = themes.dracula;
 module.exports = {
   title: "OpenSauced",
   tagline: "The path to your next Open Source contribution",
-  url: "https://docs.opensauced.pizza",
+  url: "https://opensauced.pizza",
   baseUrl: "/docs",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
