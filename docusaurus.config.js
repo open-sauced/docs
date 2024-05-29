@@ -1,13 +1,15 @@
 const { themes } = require('prism-react-renderer');
 const lightCodeTheme = themes.github;
 const darkCodeTheme = themes.dracula;
+// This is defined in the Netlify environment variables on the Netlify UI
+const { ADD_SLASH_DOCS_TO_URL } = process.env;
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: "OpenSauced",
   tagline: "The path to your next Open Source contribution",
-  url: "https://docs.opensauced.pizza",
-  baseUrl: "/",
+  url: ADD_SLASH_DOCS_TO_URL ? "https://opensauced.pizza" : "https://docs.opensauced.pizza",
+  baseUrl: ADD_SLASH_DOCS_TO_URL ? "/docs/" : "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
