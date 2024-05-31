@@ -5,11 +5,12 @@ authors: BekahHW
 slug: exploring-supabase-the-open-source-backend-for-developers
 description: Explore Supabase as a backend alternative to Firebase, AWS Amplify, and Azure Cosmos
 ---
+
 *Today is day 26 of my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts).*
 
 If your skillset is in front-end but you need to implement a backend for your project, there are a lot of options out there. But are they all equal? Do they have a good developer experience? Do they have the features you need, including database integration, user authentication, data updates, and secure file storage solutions? Are they transparent about the project development? By default of its open source status, Supabase has all of those things. But how does it compare to the other proprietary solutions?
 
-{% embed https://github.com/supabase %}
+[https://github.com/supabase](https://github.com/supabase)
 
 Traditional BaaS (Backend as a Service) products are often limited, and there can be concerns with proprietary platforms around transparency, customization, and cost efficiency. As an open source project, Supabase allows you to see its codebase, and you have the opportunity to customize the project in the ways that work for you. They also have clear [pricing guidelines](https://supabase.com/pricing), with a free tier that allows you to test it out.
 

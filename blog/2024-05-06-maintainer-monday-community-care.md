@@ -1,5 +1,5 @@
 ---
-title: Maintainer Monday: Community Care
+title: "Maintainer Monday: Community Care"
 tags: []
 authors: BekahHW
 slug: maintainer-monday-community-care

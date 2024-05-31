@@ -1,5 +1,5 @@
 ---
-title: Meet the New AI Engineers: Devin, Devika, and OpenDevin
+title: Meet the New AI Engineers
 tags: []
 authors: BekahHW
 slug: is-the-future-of-coding-in-ais-hands-discovering-devin-devika-and-opendevin
@@ -11,12 +11,9 @@ Chances are, you've heard of Devin, the AI software engineer that's "going to ta
 ![Terminator gif](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1jl6ryuiuyk02aldm0eb.gif)
 
 ## Discover AI Engineers
-I first heard about Devin on X from the Cognition Labs announcement:
-
-{% twitter 1767548763134964000 %}
+I first heard about Devin on X from the Cognition Labs announcement.
 
 But browsing the OpenSauced API endpoints for repositories with the most new stars in the last 24 hours [https://api.opensauced.pizza/v2/histogram/top/stars/new](https://oss.fyi/new-stars) and for the top forks [https://api.opensauced.pizza/v2/histogram/top/forks](https://oss.fyi/top-forks) led me to a couple of open source AI software engineer projects with potential. 
-
 
 
 Both of these projects have consistent momentum from about the same time, Devika (March 21) and OpenDevin (March 12), which corresponds to Cognition Labs announcement. You can look at my [Open Source AI Engineers Workspace](https://oss.fyi/RxIqVkc?ref=news.opensauced.pizza) below to see how quickly these open source projects have grown and found contributors. It's kind of mind blowing how quickly they've progressed. 
@@ -35,9 +32,7 @@ Introduced by Cognition, "an applied AI lab focused on reasoning," Devin isn't j
 
 OpenDevin is a replication of Devin, with the goal of sharing the power with the open-source community. Through community contributions and a commitment to open standards, OpenDevin wants to refine and expand the features of AI-assisted software engineering. 
 
-## Devika: The Open-Source Prodigy
-
-{% embed https://github.com/stitionai/devika %}
+## [Devika](https://github.com/stitionai/devika): The Open-Source Prodigy
 
 Devika is an AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.
 Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. 

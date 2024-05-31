@@ -6,8 +6,6 @@ slug: creating-open-source-connections
 description: Explore how StarSearch revolutionizes open source collaboration by connecting projects with top talent using AI-driven insights into GitHub events and contributor activities.
 ---
 
-
-
 As it stands today, the open source ecosystem can feel disconnected. Theoretically, we know that there are maintainers, contributors, and projects out there that are incredibly talented and innovative, but finding them can feel like searching for stars in a cloudy night sky. Sometimes you need to have that information – and fast – to be able to maintain your own projects. 
 
 ## The Challenge of Open Source Connections
@@ -25,10 +23,10 @@ StarSearch leverages advanced analytics and AI, all fueled by real-time data fro
 
 Here’s how StarSearch addresses some of the common queries and needs within the community:
 
-- What type of pull requests has {username} worked on?
-- Who are the best developers that know {technology} and are interested in {technology}?
-- Who are the most prevalent contributors to the {technology} ecosystem?
-- Show me the lottery factor for contributors in the {repository} project?
+- What type of pull requests has `{username}` worked on?
+- Who are the best developers that know `{technology}` and are interested in `{technology}`?
+- Who are the most prevalent contributors to the `{technology}` ecosystem?
+- Show me the lottery factor for contributors in the `{repository}` project?
 
 These questions can be the starting point for building stronger projects and communities, allowing us to find people with passion and expertise that we may have never connected with before. 
 

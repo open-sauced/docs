@@ -1,5 +1,5 @@
 ---
-title: How to Build Your Open Source Dream Team: A Guide
+title: How to Build Your Open Source Dream Team
 tags: []
 authors: BekahHW
 slug: how-to-build-your-open-source-dream-team-a-guide

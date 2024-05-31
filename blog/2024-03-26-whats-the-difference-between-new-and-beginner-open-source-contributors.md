@@ -44,9 +44,7 @@ First of all, that's 100% ok. Not every project needs to support beginners. In f
 
 There are plenty of projects out there that can and do support beginner contributors, and there are courses, like our [Intro to Contributing Course](https://intro.opensauced.pizza/#/) that provide learning opportunities to new contributors. 
 
-Here's a great post by @adiatiayu on involving external contributors with issues:
-
-{% embed https://dev.to/opensauced/collaborate-conquer-grow-mastering-the-art-of-issue-management-for-open-source-projects-49gi %}
+Here's [a great post by @adiatiayu on involving external contributors with issues](https://dev.to/opensauced/collaborate-conquer-grow-mastering-the-art-of-issue-management-for-open-source-projects-49gi). 
 
 ## Final Thoughts
 

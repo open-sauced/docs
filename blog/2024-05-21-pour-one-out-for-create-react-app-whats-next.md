@@ -1,5 +1,5 @@
 ---
-title: Pour One Out for create-react-app: What's Next?
+title: "Pour One Out for create-react-app: What's Next?"
 tags: []
 authors: BekahHW
 slug: pour-one-out-for-create-react-app-whats-next

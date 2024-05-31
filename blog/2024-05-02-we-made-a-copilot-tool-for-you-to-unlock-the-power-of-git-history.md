@@ -27,8 +27,6 @@ At OpenSauced, we are thrilled to announce our latest feature: **StarSearch**. I
 
 Recently, Adam Wathan of Tailwind CSS expressed a challenge: attracting applicants well-versed in a niche combination (Rust and Tailwind) despite offering competitive salaries. 
 
-{% twitter 1773341818773540949 %}
-
 Inspired by this challenge, we asked ourselves, "Wouldn't it be cool if we built something to find this persona?" StarSearch allows you to get answers to your questions even when you don't have the context. The context for this question: most of the developers on the list work on front-end focused teams with an interest in developer performance. 
 We’re not just another tool; we're here to redefine the meaning of open source. 
 

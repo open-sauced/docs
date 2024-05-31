@@ -5,6 +5,7 @@ authors: BekahHW
 slug: the-ai-chat-landscape-huggingchats-open-source-option
 description:  Learn how HuggingChat offers an innovative opensource solution in the rapidly evolving landscape of AI.
 ---
+
 *Today is day 28 of my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts).*
 
 

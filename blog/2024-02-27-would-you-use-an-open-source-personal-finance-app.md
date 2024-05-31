@@ -5,15 +5,16 @@ authors: BekahHW
 slug: would-you-use-an-open-source-personal-finance-app
 description: Open Source personal finance apps provide transparency and community, but would you use them?
 ---
+
 *Today is day 27 of my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts).*
 
 On January 1, 2024, Mint, the personal finance app - acquired by Intuit in 2009 - shut down. If you're not familiar with Mint, it allowed users to see multiple accounts, to track spending, savings, and create budgets. Mint was one of the top personal finance apps, and despite Intuit encouraging users to move over to their other product, Credit Karma, the broken trust didn't exactly sit well with a lot of users. Although there are other alternatives, like YNAB, Pocketguard, and Oportun, choosing a personal finance app is, well, a personal decision, and not one to be taken lightly. All of these are closed-source, which lack the transparency that you might want from a finance app. Maybe Finance becomes and interesting alternative because of it's open source nature.
 
 
-{% embed https://github.com/maybe-finance/maybe %}
-
-
 ## Maybe Finance
+
+> [https://github.com/maybe-finance/maybe](https://github.com/maybe-finance/maybe)
+
 
 It's worth starting with the state of Maybe Finance right now. If you go to their website, you're greeted with this message.
 

@@ -4,7 +4,6 @@ tags: []
 authors: BekahHW
 slug: how-to-assess-your-skill-level-before-contributing-to-open-source
 description: Learn how to assess your programming skill level before contributing to open source projects. This guide helps you identify your strengths, choose the right tasks, and find your path to learning and growth.
-
 ---
 
 Recently, I was in a group that was talking about personal projects and growing your developer skills. [Nick](https://app.opensauced.pizza/user/nickytonline) made a good point when he said that you wouldn’t expect to be an expert at the guitar when you picked it up for the first time. It takes time, practice, and understanding. And when we’re giving people advice, it can be hard to tell them where to start or how to find the “perfect issue” - although [good first issues don’t exist](https://opensauced.pizza/blog/good-first-issues-dont-exist) - because everyone starts at different levels. For example, a person who’s learning the guitar but also plays the piano will likely have an easier time learning the instrument than someone who has never tried to play an instrument before. This is why understanding your own skill level can be incredibly important to find an open-source project and issue to work on. 

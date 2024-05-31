@@ -1,10 +1,9 @@
 ---
-title: Nurturing the Future of Open Source: Maintainers
+title: Nurturing the Future Maintainers of Open Source
 tags: []
 authors: BekahHW
 slug: nurturing-the-future-of-open-source-maintainers
 description:  Feeling overwhelmed as a new open-source maintainer? Learn the skills and gain the support you need to succeed with our "Becoming a Maintainer" Course.
-
 ---
 
 The world runs on open source, but we know the [challenges of burnout](https://opensauced.pizza/blog/stop-burning-out-maintainers:-an-empathetic-guide-for-contributors), the [need for support](https://opensauced.pizza/blog/enhancing-support-for-open-source-maintainers), and [loneliness](https://opensauced.pizza/blog/the-lonely-journey-of-open-source-maintainers). Despite all those challenges, new open source projects are appearing every day. We need to support new maintainers as they learn to maintain in the fast-paced open source ecosystem experienced maintainers are accustomed to. If we want growth, innovation, and solutions to our problems, we’ll need to have a supportive environment for new maintainers. And this is why we need to educate and support new maintainers.
