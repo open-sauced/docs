@@ -2,10 +2,21 @@
 title: Exploring Supabase, the Open Source Backend for Developers
 tags: []
 authors: BekahHW
-slug: exploring-supabase-the-open-source-backend-for-developers
-description: Explore Supabase as a backend alternative to Firebase, AWS Amplify, and Azure Cosmos
+slug: exploring-supabase-the-open-source-backend-for-developers-2dgh
+description: "Explore Supabase as a backend alternative to Firebase, AWS Amplify, and Azure Cosmos"
+image: https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhyumxpflj1hcfnx6kchv.png
 ---
 
+---
+title: Exploring Supabase, the Open Source Backend for Developers 
+published: true
+description: Explore Supabase as a backend alternative to Firebase, AWS Amplify, and Azure Cosmos
+tags: opensource, backend, baas
+cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hyumxpflj1hcfnx6kchv.png
+# Use a ratio of 100:42 for best results.
+# published_at: 2024-02-23 15:36 +0000
+series: 29 Days of OSS Alternatives
+---
 *Today is day 26 of my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts).*
 
 If your skillset is in front-end but you need to implement a backend for your project, there are a lot of options out there. But are they all equal? Do they have a good developer experience? Do they have the features you need, including database integration, user authentication, data updates, and secure file storage solutions? Are they transparent about the project development? By default of its open source status, Supabase has all of those things. But how does it compare to the other proprietary solutions?
