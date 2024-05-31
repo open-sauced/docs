@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.75.4](https://github.com/open-sauced/docs/compare/v1.75.3...v1.75.4) (2024-05-31)
+
+
+### Bug Fixes
+
+* Add banner image ([#313](https://github.com/open-sauced/docs/issues/313)) ([3ac1bf7](https://github.com/open-sauced/docs/commit/3ac1bf7e6dbc0acd32453821d367ddef9f7f573a))
+
 ### [1.75.3](https://github.com/open-sauced/docs/compare/v1.75.2...v1.75.3) (2024-05-29)
 
 
