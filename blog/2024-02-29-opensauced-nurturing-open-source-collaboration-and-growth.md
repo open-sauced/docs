@@ -1,5 +1,5 @@
 ---
-title: OpenSauced: Nurturing Open Source Collaboration and Growth
+title: Nurturing Open Source Collaboration and Growth
 tags: []
 authors: BekahHW
 slug: opensauced-nurturing-open-source-collaboration-and-growth
