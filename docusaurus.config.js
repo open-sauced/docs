@@ -66,7 +66,7 @@ module.exports = {
           position: "right",
         },
         {
-         to: "blog",
+         to: "community-resources",
          label: "Community Resources", 
          position: "left"
         }, 
