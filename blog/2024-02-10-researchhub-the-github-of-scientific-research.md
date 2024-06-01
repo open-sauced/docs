@@ -8,7 +8,10 @@ description: "Explore how ResearchHub revolutionizes academic research with open
 
 *Today is day 10 of my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts) or check out my bonus lists:  [open source games](https://oss.fyi/oss-games) and [open source learn to code programs](https://oss.fyi/learn-to-code).* 
 
-Before coming into tech, I spent ten years in academia. I always found it frustrating that so much research was guarded behind paywalls. Why were we preventing people from valuable research that could allow us to grow in our areas of expertise? Now, I was in the humanities and not the sciences, but once I learned about ResearchHub, I was intrigued. 
+Before coming into tech, I spent ten years in academia. I always found it frustrating that so much research was guarded behind paywalls. Why were we preventing people from valuable research that could allow us to grow in our areas of expertise? Now, I was in the humanities and not the sciences, but once I learned about ResearchHub, I was intrigued.
+
+<!-- truncate -->
+
 
 > ResearchHub's mission is to accelerate the pace of scientific research. Our goal is to make a modern mobile and web application where people can collaborate on scientific research in a more efficient way, similar to what GitHub has done for software engineering. 
 > 

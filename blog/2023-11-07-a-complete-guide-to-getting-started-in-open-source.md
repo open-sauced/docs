@@ -12,6 +12,9 @@ Last week, I was tagged in this tweet.
 
 I appreciated the openness and honesty, and it’s a sentiment that I’ve heard from other people. It can be overwhelming to get started in open source, especially if you’re already feeling tired. And because I answer this type of question a lot, I thought it would be useful to create a whole blog post about it.
 
+<!-- truncate -->
+
+
 ## Getting Started for Beginners
 Not everyone getting started in open source is a beginner. I’ve talked to quite a few folks with a lot of experience who have never contributed to open source. I’d answer that question a different way. They likely won’t need to know how to learn how to fork, clone, commit, and create Pull Requests (PRs). 
 

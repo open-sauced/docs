@@ -14,6 +14,9 @@ Last year, we decided to homeschool my 13 year old for a semester. When he told 
 
 Narrator: *we never got things up in running.* 
 
+<!-- truncate -->
+
+
 We navigated a lot of error messages, challenges, and finally gave up with disappointment. Fast forward six months and I started to hear more and more good things about Godot. Full disclosure: we haven't gotten anything up and running (yet), but we've been navigating a new landscape of game development that has long been dominated by proprietary engines. 
 
 > Godot is a free and open source, cross-platform game engine that allows you to create both 2D and 3D games.

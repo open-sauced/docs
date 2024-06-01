@@ -8,6 +8,9 @@ description:  Feeling overwhelmed as a new open-source maintainer? Learn the ski
 
 The world runs on open source, but we know the [challenges of burnout](https://opensauced.pizza/blog/stop-burning-out-maintainers:-an-empathetic-guide-for-contributors), the [need for support](https://opensauced.pizza/blog/enhancing-support-for-open-source-maintainers), and [loneliness](https://opensauced.pizza/blog/the-lonely-journey-of-open-source-maintainers). Despite all those challenges, new open source projects are appearing every day. We need to support new maintainers as they learn to maintain in the fast-paced open source ecosystem experienced maintainers are accustomed to. If we want growth, innovation, and solutions to our problems, we’ll need to have a supportive environment for new maintainers. And this is why we need to educate and support new maintainers.
 
+<!-- truncate -->
+
+
 > If you want to learn more about becoming an open source maintainer, best practices, and tips and tricks for enhanced productivity and community collaboration, check out our new [“Becoming a Maintainer” Course](https://oss.fyi/new-maintainer) 
 
 ## The Maintainer Learning Curve

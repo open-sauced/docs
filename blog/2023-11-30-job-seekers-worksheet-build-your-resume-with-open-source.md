@@ -8,6 +8,9 @@ description: "If you're looking for a job and want to boost your resume and netw
 
 Job seeking is really challenging, but if you've talked to me in the last six months and asked me how to find a job, you know that I've mentioned using open source. I know, I know. That can be an overwhelming experience. But hear me out if you're an early career developer. 
 
+<!-- truncate -->
+
+
 Contributing to open source allows you to grow your skills in a way that nothing else can. You work with a team, have a proven record of communication with maintainers, show off your code, and developer real and practical skills. Yes, I've built a to-do list too, but chances are you're not going to be a solo-coder building CRUD apps. Exploring existing codebases, taking notes, and contributing will get you far more experience. 
 
 Will you have to go out of your comfort zone? Probably. But that's something you're going to have to get comfortable with if you want to be a developer. I can tell you from experience that you should **not** wait until you land the job to get comfortable with getting out of your comfort zone. It's your new reality if you want a tech career. And if you've been comfortable for a while, it's probably time to push yourself a little harder. 

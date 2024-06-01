@@ -11,6 +11,9 @@ description:  Learn how HuggingChat offers an innovative opensource solution in 
 
 By now, most of us have probably used AI in some way, whether that's GitHub Copilot, ChatGPT, Gemini, or HuggingChat. But which is the best? And what does it mean to have open source AI? And who's going to come out on top?
 
+<!-- truncate -->
+
+
 > "You know who the big winner is going to be in all this, Chamath? It's going to be open source like because people are just not going to want a model that has all this baked-in weird bias, right? They're going to want something that's open source, and it seems like the Open Source Community would be able to grind on this to get to truth, right?
 > -Jason Calacanis (56:05) of the [All-In Podcast](https://youtu.be/z6vrKA_L5pk?si=Rg5tua4dcyQgPA14)
 

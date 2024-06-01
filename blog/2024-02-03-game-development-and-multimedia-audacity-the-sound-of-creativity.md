@@ -10,6 +10,9 @@ description: "Explore Audacity as an open source solution to recording and editi
 
 I haven't used Audacity myself, but anytime I ask a content creator what tools they use for content creation, Audacity is always mentioned. Because I co-host two podcasts, and I'm very invested in finding more ways to talk about storytelling, Audacity is on the top of my list as a tool to explore ways to share my creative process.
 
+<!-- truncate -->
+
+
 (Sidenote: I may even be related to someone who used to record rap songs using Audacity when they were in college. (Unfortunately, those are all hidden in a vault somewhere for us to never hear.) But if you have your old songs that you've edited in Audacity, please, please drop them in the comments for us to enjoy.)
 
 > Audacity is the world’s most popular free software for recording and editing audio. So if you're producing music, a podcast, or just playing around with audio, Audacity is for you. 

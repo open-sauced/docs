@@ -6,11 +6,11 @@ slug: so-what-does-a-maintainer-do-anyway
 description: "What are the day-to-day tasks of a maintainer? What are things you need to get started versus things that would be good to implement in the future? "
 ---
 
-
-
 So far in [this series](https://dev.to/bekahhw/series/25520), we’ve explored maintainership from a high level understanding of what’s required, why you should consider it, and how to get started. But what are the day-to-day tasks of a maintainer? 
 
 The first project I actively maintained was something that I hadn’t initially considered for open source contributions. It was open sourced, but I didn’t anticipate anyone contributing but me. When I was encouraged to share it with contributors during Hacktoberfest a couple of years ago, I had to make some updates so people understood what the purpose of the project was, how to run it, and the technology behind it. Looking back at it, there are, of course, things I could have added or done differently. 
+
+<!-- truncate -->
 
 But I think it’s ok to think of putting a Minimum Viable Project (MVP) out there without all the extras that some other projects have. That’s why, in the post below, you’ll see two sets of bullet points for each category. The first is things that are good to have for your project when you start. The second is something you can progress to.
 

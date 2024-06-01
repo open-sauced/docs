@@ -8,6 +8,9 @@ description: "So your pull request has failed. What do you do next? This blog po
 
 Yesterday, I decided to make some "quick" changes to the OpenSauced docs site. Now, I know that "quick changes" is essentially a bad word in tech. Anytime you say it, it will indeed not be quick. I wrote up a [quick issue](https://github.com/open-sauced/docs/issues/216) that described reorganizing a couple of things and adding a quick intro page. I made the changes, wrote the page, pushed my changes, and made the Pull Request (PR), only to see that I **failed.** Ugh. It was quick, but it wasn't right. Not really having the time to dig into it, I left my PR open and determined to get back to it the next day. Understanding why a project is failing may look different depending on how it is set up. For us, we're going to look at implementation errors, compliance issues, check the deploy log.
 
+<!-- truncate -->
+
+
 ## Checking Locally
 
 The first step to make sure your PR hasn't broken anything is to run the project locally and visually check the pages of the changes you've made. Initially, I had forgotten to include a set of `---` at the top of my markdown file. This is necessary to separate the frontmatter that gives directions to how to display the documentation from the words we want displayed on the page. 

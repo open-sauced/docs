@@ -14,6 +14,9 @@ description: "Explore the thrilling world of digital signing solutions as DocuSi
 
 It's time to enter the ring as two heavyweight champions face off: DocuSign and Documenso. In one corner, we have the reigning champion – DocuSign, the established player with years of experience in the eSignature market. In the other corner, emerging contender Documenso brings a fresh perspective, aiming to disrupt the industry with its innovative open source approach.
 
+<!-- truncate -->
+
+
 [https://github.com/documenso/documenso](https://github.com/documenso/documenso)
 
 

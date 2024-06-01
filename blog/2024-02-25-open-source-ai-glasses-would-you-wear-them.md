@@ -12,6 +12,9 @@ description: "Open Source AI glasses, Frame has potential to be an interesting p
 
 There have been some really exciting launches in the AR/VR world lately. These are exciting times to rethink how we learn, interact, work, and find entertainment. But of course there are questions of cost, privacy, isolation, and more. For most of the world, a new AR/VR Tool probably won't be in our house any time soon. But what about the open source competition. Is it *really* competition or something you should be keeping your eye on? Today we're looking at Frame by Brilliant.xyz.
 
+<!-- truncate -->
+
+
 ## Community Projects
 
 From what I can tell from their documentation and their app, the features are largely dependent on the users. Brilliant supplies the hardware and the API for both their glasses and monocle and it's up to you to decide where to take it. Some notable projects include: 

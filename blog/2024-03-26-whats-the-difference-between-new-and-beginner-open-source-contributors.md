@@ -7,6 +7,7 @@ description: Understanding the difference between new and beginner contributors 
 ---
 
 There's a difference between new contributors and beginner contributors to open source, and it's important to understand the difference because it impacts the support needed for those contributors and the types of issues created.
+<!-- truncate -->
 
 Before moving on, let's define the difference:
 

@@ -10,6 +10,9 @@ Welcome to our [#100DaysOfOSS series](https://dev.to/opensauced/100daysofoss-gro
 
 Today, we're covering the letter "W" for Workflow.
 
+<!-- truncate -->
+
+
 **Workflow**: The process and steps involved in contributing to or maintaining an open-source project. This can include issue tracking, code reviews, merge requests, project management, and deployment. 
 
 Now, we want to hear from you! What other OSS terms can you think of that start with the letter "W"? 

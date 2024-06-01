@@ -12,6 +12,9 @@ description: "SaaS, open source, and a spotlight on BoxyHQ. How do you decide if
 
 We've seen a rise in popularity for Software as a Service (SaaS) tools because of their convenience and flexibility,  often handling the management of software distribution, maintenance, and feature development for their users. In fact, you're probably using a SaaS product whether you know it or not. Examples of SaaS dev tools include code editors, project management software, collaboration platforms, and more. 
 
+<!-- truncate -->
+
+
 Because open source SaaS products allow access to the source code, they offer more opportunities for transparency, control,  to provide feedback, and fix any problems that may come up. If you're thinking about using an open source SaaS v. propriety software, here are some advantages offered by open source:
 
 - **Security and Trust**: With open source code, the community can create bug reports and improve the software, leading to a more secure and reliable product. This also fosters a sense of trust and confidence, especially for organizations handling sensitive data.

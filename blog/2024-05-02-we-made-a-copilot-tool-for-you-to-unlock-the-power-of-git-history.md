@@ -8,6 +8,8 @@ description: Copilot but for git history
 
 At OpenSauced, we are thrilled to announce our latest feature: **StarSearch**. It's not just about the commits; it's about the community, the contributions, and the connections in the open source ecosystem - and you can [join the waitlist now](https://app.opensauced.pizza/star-search/waitlist)!
 
+<!-- truncate -->
+
 
 [![starsearch](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9kie77pwx0q4b4rulg1p.png)](https://app.opensauced.pizza/star-search/waitlist)
 

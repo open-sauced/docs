@@ -10,6 +10,9 @@ description: "Learn why Backend as a Service (BaaS) is essential for simplifying
 
 In the United States, it's National Pizza Day! That means we're going to start this post with a pizza story. 
 
+<!-- truncate -->
+
+
 Sometimes, having your questions answered is the best onboarding to a new project. As my friend [Jason](https://twitter.com/tasonjorres) was learning about Backend as a Service (BaaS), he started asking questions on X/Twitter. And Appwrite responded. They were welcoming, supportive, and happy to accept new contributors. And with that kind of support, he was able to hit the ground running. He wanted to experiment with features like databases, storage, forums, and real-time chat. And because he had the support of the Appwrite team, access to thorough docs that were approachable to beginners with open source access to the codebase, he was ready to start some projects with Appwrite, including his [pizzapics](https://github.com/jasonetorres/pizzapics) project.
 
 ![About pizzapics](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hc922v9wlzzalscm7ppl.png)

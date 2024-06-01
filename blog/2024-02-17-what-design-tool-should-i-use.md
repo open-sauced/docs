@@ -10,6 +10,9 @@ description: "Discover the world of open-source design tools with Penpot, featur
 
 Designers today have many options for design tools. But navigating closed ecosystems, subscription models, and limited integrations makes it all, well, complicated. And to add to this complication, I want to share another option that might reshape the design experience: the open source tool, Penpot.
 
+<!-- truncate -->
+
+
 > Designers and developers can finally work in unison to build beautifully designed software experiences that truly scale up.
 
 In this post, we'll take a look at Penpot's features, compare it to proprietary alternatives, and take a look at its community. 

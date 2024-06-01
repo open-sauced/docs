@@ -10,9 +10,12 @@ description: "Looking for a Slack alternative that prioritizes customization, pr
 
 I remember the first slack I joined. I was just learning how to code, and I got involved in a Moms in Tech group. The founder of the group and I met up for coffee while my one-year-old played nearby, and she told me to join the group's slack. 
 
+<!-- truncate -->
+
+
 "What's slack?" 
 
-She explained it was a messaging platform, and I tried to wrap my head around it, but coming from a non-technical background, I'll admit that I spent a lot of those first days confused about what was happening, where it was happening, and what I was supposed to do. (I think it took me days to send my first gif, but that's a story for another day. 
+She explained it was a messaging platform, and I tried to wrap my head around it, but coming from a non-technical background, I'll admit that I spent a lot of those first days confused about what was happening, where it was happening, and what I was supposed to do. (I think it took me days to send my first gif, but that's a story for another day.)
 
 Now, I'm a heavy slack user, but there are definitely things that annoy me about the platform. When I heard about Rocket.Chat, I definitely wanted to explore it as part of this series.
 

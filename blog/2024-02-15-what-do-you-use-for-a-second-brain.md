@@ -12,6 +12,9 @@ description: "There are many tools out there to use as a second brain. This post
 
 Have you ever heard of the concept of a "second brain"? A "second brain" is an external, digital system for storing, organizing, and retrieving information. The concept is that it's like an extension of our own brains because it helps us to retain knowledge, improve productivity, and foster creativity by removing some of the cognitive load on our own brain. Notion and Evernote are popular tools used in this context.
 
+<!-- truncate -->
+
+
 I’ve tried Notion, not once, not twice, but more times than I want to admit. I want it to be *the* tool that rules them all, but what happens is that I sink a bunch of time with nothing to show. I’ve been a long-time Obsidian user because I feel that it’s simple to get started and not overcomplicated. But I also dislike dealing with Obsidian Sync to get access across devices. I've also tried Evernote and have checked out Bear and Roam. (It's almost like you need a second brain to keep track of all the second brain apps :zany_face:) It made sense to test out Appflowy, one of the open source apps that I’ve heard people recommend over and over again as an alternative to notion, so I wanted to try it out.
 
 

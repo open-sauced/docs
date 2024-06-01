@@ -7,6 +7,8 @@ description: Is the Future of Coding in AI's Hands?  With projects like Devika &
 ---
 
 Chances are, you've heard of Devin, the AI software engineer that's "going to take your job." No one will argue that AI is changing the way things are happening in tech. But now it's a little different. Now, AI isn't just helping software engineers, it's becoming an engineer - doing things that only humans used to be able to do. So has it already grown beyond a tool? Is it now a partner in the engineering process? We're seeing examples of this with Devin, Devika, and OpenDevin –  all AIs claiming to be really good at software engineering. Here's the big question: can AI actually write secure code all by itself? Is the future of coding in the hands of AI?
+<!-- truncate -->
+
 
 ![Terminator gif](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1jl6ryuiuyk02aldm0eb.gif)
 

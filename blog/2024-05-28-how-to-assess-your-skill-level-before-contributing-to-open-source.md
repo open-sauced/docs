@@ -8,6 +8,9 @@ description: Learn how to assess your programming skill level before contributin
 
 Recently, I was in a group that was talking about personal projects and growing your developer skills. [Nick](https://app.opensauced.pizza/user/nickytonline) made a good point when he said that you wouldn’t expect to be an expert at the guitar when you picked it up for the first time. It takes time, practice, and understanding. And when we’re giving people advice, it can be hard to tell them where to start or how to find the “perfect issue” - although [good first issues don’t exist](https://opensauced.pizza/blog/good-first-issues-dont-exist) - because everyone starts at different levels. For example, a person who’s learning the guitar but also plays the piano will likely have an easier time learning the instrument than someone who has never tried to play an instrument before. This is why understanding your own skill level can be incredibly important to find an open-source project and issue to work on. 
 
+<!-- truncate -->
+
+
 Understanding your skill level will help you choose the right tasks, decrease frustration, and guide your open-source journey. In this blog post, we'll explore why assessing your skill level is important and provide a personal inventory to help you evaluate your abilities.
 
 ### Why It's Important to Assess Your Skill Level

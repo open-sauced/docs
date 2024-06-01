@@ -10,6 +10,9 @@ description: "Discover how freeCodeCamp helped me overcome personal trauma and b
 
 When I first started learning to code, I started with freeCodeCamp (FCC). I had spent the last nine years of my life teaching college English, and I needed a change. And what I found, changed my life. I had gone through some major life trauma, and I was *stuck*. I was stuck in the thoughts that cycled through my mind, stuck in loneliness, stuck in a world that kept moving without me. 
 
+<!-- truncate -->
+
+
 And at the insistence of my husband (a career-changer himself), I tried freeCodeCamp. And suddenly, all those thoughts that continually cycled through my head stopped - at least while I was coding. It took another year and a half, but I learned to code, and I learned how to move on past my trauma. I couldn't have done it without freeCodeCamp. 
 
 > freeCodeCamp is a community of people from all around the world who are learning to code together. We're a 501(c)(3) public charity.

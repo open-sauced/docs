@@ -10,6 +10,8 @@ description: "Tired of clunky link shorteners? Dub.co is here! It's easy to use,
 
 I had never really used a link shortener until about a year and a half ago, and didn't realize how convenient they really are. So if you're not sure why you would use one or which to choose, you can check out the rest of this post.
 
+<!-- truncate -->
+
 ## Why use a link shortener?
 
 Link shorteners can be really useful for the following reasons:

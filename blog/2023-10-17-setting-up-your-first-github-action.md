@@ -9,6 +9,9 @@ description: "Discover how to set up a GitHub Action that automatically posts a 
 
 A couple of months ago, we launched the [Intro to Open Source Course](https://intro.opensauced.pizza/#/), which connects to another repository called [guestbook](https://github.com/open-sauced/guestbook). When the person taking the course gets to chapter five, they put their new-found knowledge to work and create a pull request on the guestbook.
 
+<!-- truncate -->
+
+
 For many contributors, this is their first contribution to open source. The problem is that the course isn’t over. There are two more chapters of information in the course, but it feels like the course is over because the contributors have created a PR and navigated away from the initial repo. In an effort to bring them back to the course, I created a GitHub action to remind them that there’s more to learn. Here’s a step-by-step guide to how to create a GitHub action.
 
 ## Overview

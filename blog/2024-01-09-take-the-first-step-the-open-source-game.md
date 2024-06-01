@@ -12,6 +12,9 @@ There's been a lot of talk recently about how to get into open source. I think p
 
 We need to reframe how we think about starting with contributing. Getting started with open source can feel intimidating, but it's just like learning a new game with complex rules. You wouldn't jump straight into a game without reading the instructions. In the same way, you shouldn't overwhelm yourself with open source. Take it step-by-step.
 
+<!-- truncate -->
+
+
 ## Step 1: Reading the Rulebook (Understanding Basics)
 
 Think of it like mastering a new strategy board game. First, you'd read the rules and understand the basic mechanics. In open source, this is like reading the project's README or CONTRIBUTING files. The rulebook guides you on how to play the game, and these files provide share specifics on how to get started, what's expected, and how to contribute effectively.

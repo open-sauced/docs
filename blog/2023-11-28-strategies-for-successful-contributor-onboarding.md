@@ -8,6 +8,9 @@ description: "Explore effective strategies for onboarding new contributors in op
 
 Every week at 10:30a ET, I do X/Twitter spaces about open source. I’ve been fortunate enough to learn from some amazing folks in the space, and two conversations really had me thinking about this topic. I chatted with Rachel Nabors of Clerk and Ben Holmes of Astro about open source projects and the contributor’s journey. They both shared their philosophies on how to cultivate a positive contributor journey. As a former educator, it made a lot of sense: If we want to see return contributors, we need to create a space that encourages them to return. Part of this means cultivating a contributor journey that allows your contributors to grow, [receive recognition for their contributions](https://opensauced.pizza/blog/the-need-for-recognition-in-open-source), and provides a positive experience. Creating an impactful contributor journey requires deliberate thought and understanding, listening, and a willingness to grow with your contributors.
 
+<!-- truncate -->
+
+
 ## Identifying Contributors' Entry Points
 When you’re creating a contributor’s journey, it’s important to recognize that not every contributor will have the same experience level. In fact, it’s kind of a [choose your own adventure](https://dev.to/opensauced/choose-your-own-adventure-in-open-source-paths-to-success-167p). So in some ways, you’re constructing multiple contributor paths that overlap in some areas. Three categories of contributors you can consider are new, intermediate, and expert:
 

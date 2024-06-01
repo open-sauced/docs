@@ -7,6 +7,8 @@ description: It's maintainer month and we're celebrating some of our favorite ma
 ---
 
 Last week, we kicked off Maintainer Month with [Enhancing Support for Open Source Maintainers](https://opensauced.pizza/blog/enhancing-support-for-open-source-maintainers). Now, we're continuing our love of maintainers with our Maintainer Monday post, shouting out some of our favorite maintainers and their projects.
+<!-- truncate -->
+
 
 This week, I'm choosing another two maintainers from the X Spaces I've been doing for OpenSauced. Thank you, Amy Dutton and Nate Wienert for being guests and supporting the open source community.
 

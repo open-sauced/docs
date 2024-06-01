@@ -12,6 +12,9 @@ description: "Discover the among different email campaign solutions, including C
 
 Recently, I’ve gained some experience working on drip campaign emails to help support our new users at [OpenSauced](https://oss.fyi/). So when Vic asked this question on  X, I thought it would make for an interesting blog post in my series. 
 
+<!-- truncate -->
+
+
 *[Link to post](https://x.com/VicVijayakumar/status/1756162192410341439?s=20)*
 
 There were a lot of responses that you can check out in the thread, but we're going to focus on comparing Customer.io, ConvertKit, EmailOctopus with the open source project, Resend, which we actually use at OpenSauced.

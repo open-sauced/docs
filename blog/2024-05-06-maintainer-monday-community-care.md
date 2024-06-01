@@ -8,6 +8,9 @@ description: It's maintainer month and we're celebrating some of our favorite ma
 
 Last week, we kicked off Maintainer Month with [Enhancing Support for Open Source Maintainers](https://opensauced.pizza/blog/enhancing-support-for-open-source-maintainers). Now, we're continuing our love of maintainers with our Maintainer Monday post, shouting out some of our favorite maintainers and their projects. 
 
+<!-- truncate -->
+
+
 This week, I'm choosing two maintainers from the X Spaces I've been doing for OpenSauced. I really learn a lot from my conversations with maintainers, but in both of these conversations I've returned to the wisdom they shared over and over again. Thank you, @danielroe and @bholmesdev for being guests and supporting the open source community. 
 
 

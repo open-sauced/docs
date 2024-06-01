@@ -10,6 +10,9 @@ description: "forem, Medium, or Hashnode? Take a look at the open source softwar
 
 I started blogging when I was learning how to code. Back then, I had only heard of Medium, and I didn’t think it would be a good fit for me. Fast forward to a couple of years later, I was following [The Practical Dev](https://twitter.com/ThePracticalDev) on the platform formerly known as Twitter, and I appreciated the audience it was building both there and here. I posted my first Dev blog in April of 2020, [A Letter to My Past Self](https://dev.to/bekahhw/a-letter-to-my-past-self-1lfo), and I’ve posted regularly since then. Sure, Dev isn’t the only platform out there, but it’s built with the open source software, Forem, and one of the most reputable open source alternatives for blogging. 
 
+<!-- truncate -->
+
+
 > dev.to (or just DEV) is hosted by Forem. It is a community of software developers who write articles, take part in discussions, and build their professional profiles. We value supportive and constructive dialogue in the pursuit of great code and career growth for all members. The ecosystem spans from beginner to advanced developers, and all are welcome to find their place within our community. ❤️
 
 Let’s take a look behind the scenes and see how Dev, as powered by Forem, compares to other proprietary platforms.

@@ -12,6 +12,9 @@ description: "Learn how to use Pipedream to automate a post in Discord when you'
 
 A couple of years ago, I was working with a university doctoral student who was recording oral histories. One of the biggest challenges she faced was taking the videos and transcribing them, which was required by the doctoral committee. We came up with a low-code way to solve her problem: the solution was Pipedream. 
 
+<!-- truncate -->
+
+
 > Pipedream is the fastest way to automate any process that connects APIs. Build and run workflows with code-level control when you need it, and no code when you don't.
 
 Pipedream and other tools like it automate workflows between different web applications and services, providing both code and no-code solutions for users. You may have heard of Zapier or Automate.io, which are popular proprietary tools similar to the open source Pipedream.  

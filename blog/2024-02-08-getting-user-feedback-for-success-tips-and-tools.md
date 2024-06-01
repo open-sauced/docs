@@ -12,6 +12,9 @@ description: "Discover Formbricks, the open source form builder empowering devel
 
 We all need feedback. If we went to grow and succeed, we need to understand our strengths and weaknesses. And I'll bet that many of us have filled out a feedback form to give product feedback. 
 
+<!-- truncate -->
+
+
 As a developer experience lead, I'm always looking for ways to get user feedback, to understand better where things could be improved, and how I can be clearer in my writing. It can be really hard to get that feedback, but that's where feedback tools like Typeform, Wufoo, and the open source competitor Formbricks come in. 
 
 > Formbricks is an Experience Management Suite built on the largest open source survey stack worldwide. Gracefully gather feedback at every step of the customer journey to know what your customers need.

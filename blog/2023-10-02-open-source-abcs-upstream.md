@@ -10,6 +10,9 @@ Welcome to our [#100DaysOfOSS series](https://dev.to/opensauced/100daysofoss-gro
 
 Today, we're covering the letter "U" for Upstream.
 
+<!-- truncate -->
+
+
 **Upstream**: The original project or source from which a particular fork is taken. Contributing back to the upstream project is often considered a best practice.
 
 Now, we want to hear from you! What other OSS terms can you think of that start with the letter "U"? 

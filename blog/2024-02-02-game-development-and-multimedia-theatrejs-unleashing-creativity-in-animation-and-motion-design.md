@@ -11,6 +11,9 @@ description: "Want to learn more about theatre.js, the open source animation too
 
 Before coming into tech, I spent a lot more time writing and working creatively, mostly writing screenplay or tv pilot specs. It's always been my dreams to see my stories come alive on screen. You know that crane shot you see in the most epic of all scenes in action movies? That has always been my dream.
 
+<!-- truncate -->
+
+
 You know, like this one.
 
 ![epic LOTR crane shot](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGI2a2pvOXkzbHM1Ymx3NGNmNmFlanU2dXprcWVyZG12ZnVvd3d5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a8BQ6RJjLoUPS/giphy.gif)

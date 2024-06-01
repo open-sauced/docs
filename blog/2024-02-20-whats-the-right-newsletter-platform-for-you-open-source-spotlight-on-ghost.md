@@ -10,7 +10,10 @@ description: "Choosing a newsletter provider can be tricky. In this post, we'll 
 
 <hr/>
 
-I've recently been on the hunt for a newsletter provider for a new project I'm working on, and I know my teammate @nickytonline [has been thinking about it too](https://dev.to/nickytonline/newsletters-the-good-the-bad-and-the-ugly-43g4). Before starting at OpenSauced, I wasn't familiar with Ghost, but now I've sent out 21 issues you could say that I know my way around. (The next issue drops the first Monday of March, so if you want to check out what I learned from 29 Days of OSS Alternatives, you can [sign up here](https://news.opensauced.pizza/?v=1708356871467#/portal/signup).
+I've recently been on the hunt for a newsletter provider for a new project I'm working on, and I know my teammate @nickytonline [has been thinking about it too](https://dev.to/nickytonline/newsletters-the-good-the-bad-and-the-ugly-43g4). Before starting at OpenSauced, I wasn't familiar with Ghost, but now I've sent out 21 issues you could say that I know my way around. (The next issue drops the first Monday of March, so if you want to check out what I learned from 29 Days of OSS Alternatives, you can [sign up here](https://news.opensauced.pizza/?v=1708356871467#/portal/signup).)
+
+<!-- truncate -->
+
 
 > Ghost is a powerful app for professional publishers to create, share, and grow a business around their content. It comes with modern tools to build a website, publish content, send newsletters & offer paid subscriptions to members.
 

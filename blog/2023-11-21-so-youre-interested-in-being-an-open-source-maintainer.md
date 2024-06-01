@@ -8,6 +8,8 @@ description: "Are you interested in being an open source maintainer? Whether you
 
 A lot of contributors ask how to become a maintainer. I became a maintainer by creating an open source project and inviting others to contribute. [@Ayu](https://dev.to/adiatiayu) and [@Chrissy](https://dev.to/cbid2) became maintainers of some OpenSauced repositories by contributing to the projects, demonstrating leadership by helping others, and through their support for maintainers. There’s no one direct path to maintainership, but one piece of advice I give contributors who are interested in that path is to understand the role before taking it on. [Being a maintainer can be lonely](https://opensauced.pizza/blog/the-lonely-journey-of-open-source-maintainers), and there’s a lot of work that goes into it that you should be aware of before jumping into the role. With that said, if you understand the role and have the capacity to take it on, you might find—like I did—that it can be one of the most gratifying experiences you could have in tech.
 
+<!-- truncate -->
+
 ## Understanding the Role of an Open Source Maintainer
 Open source maintainers wear many important hats to ensure the health of the project. You are not just a contributor; you are a leader, mentor, strategist, marketer, community manager, and above all else, you should be a good communicator.
 

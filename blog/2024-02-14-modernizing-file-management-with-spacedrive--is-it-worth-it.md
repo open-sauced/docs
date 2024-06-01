@@ -11,6 +11,8 @@ description: "Check out Spacedrive, an open-source desktop file explorer. We che
 <hr/>
 
 My first job after college was as a GED (Graduate Equivalent Diploma) instructor. That means that I was teaching people in the United States who had left high school how to pass their GED exam. I do *not* consider myself an organized person. (See  [my last post](https://dev.to/opensauced/transforming-productivity-with-open-source-gamification-habitica-ppp) if you want to learn why.) But one day, my department lead showered me with praise for being so organized. And then I thought, "The dirty clothes on my floor at home aren't connected to my organization at work." They held separate space in my brain. 
+<!-- truncate -->
+
 
 As a person who has held many types of roles in tech over the last five years that I've been here (frontend dev, community builder, DevRel, DevEx), I've also found that the organization in my computer doesn't reflect the disorganization on my desk, and one of the reasons is because technology does an amazing job of setting us up for success. And Spacedrive is one of those technologies that does just that. 
 

@@ -12,6 +12,9 @@ description: " Home Assistant offers freedom, flexibility & privacy for your sma
 
 I don't know about you, but when I was a kid I was into science fictions and imagined I'd be living in a Jetson's world.
 
+<!-- truncate -->
+
+
 ![Jetsons's Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczIxc213Y2x6MXBzd2p5cTQ5c3YxYTl4d250dG4zejRzYXMxdmRsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/20Mr9uJLkWfqWDs6Ul/giphy.gif)
 
 That hasn't exactly happened, but that doesn't mean that science fiction hasn't become a reality in our lives today. Now that we have so many automation tools out there, our tools can anticipate our needs. Take our homes, for example. You can have automations for adjusting your lights, temperature, and even entertainment systems depending on the time of day. This is just the beginning. Imagine some of these scenarios:

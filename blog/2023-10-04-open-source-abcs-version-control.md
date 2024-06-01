@@ -10,6 +10,9 @@ Welcome to our [#100DaysOfOSS series](https://dev.to/opensauced/100daysofoss-gro
 
 Today, we're covering the letter "V" for Version Control.
 
+<!-- truncate -->
+
+
 **Version Control**: Version control ensures code changes are tracked and managed efficiently. Version control systems like Git allow multiple contributors to work on the same codebase without conflicts. It helps in maintaining the history of the project, making it easier to understand past decisions, roll back changes, and contribute meaningfully.
 
 Now, we want to hear from you! What other OSS terms can you think of that start with the letter "V"? 

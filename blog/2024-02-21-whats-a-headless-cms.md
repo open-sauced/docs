@@ -12,6 +12,9 @@ description: "Go Headless, Go Open Source! Discover the flexibility, freedom, an
 
 Imagine managing your website's content directly where it lives – on the live site itself, without code or technical jargon. That's the idea of headless CMS. So, what exactly is a headless CMS, and why should you care?
 
+<!-- truncate -->
+
+
 ## What is Headless?
 
 Headless CMS systems separate content (the body) from presentation (the head). This means you store and manage your content in a central hub, but its presentation on your website (or mobile app, or even smartwatch) is flexible. You choose the front-end technology (React, Vue, etc.) that best suits your needs and vision. Let's explore that from a different perspective: legos.

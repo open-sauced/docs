@@ -10,6 +10,9 @@ description:  Discover how OpenSauced fosters open source contribution and commu
 
 It's been almost a year since I started at OpenSauced. It's incredible how much we've grown and accomplished over that year. I say this very genuinely. Our team looks at problems and finds ways to solve them. We think about the users and how we can provide them value. We [understand the importance of Open Source Insights](https://opensauced.pizza/blog/bridging-the-gap-organizational-insights), especially since GitHub deprecated their Activity Overview of Organization Insights on January 5. We recognize the [importance of recognizing contributors](https://opensauced.pizza/blog/the-need-for-recognition-in-open-source) and [recognizing maintainers](https://opensauced.pizza/blog/the-lonely-journey-of-open-source-maintainers). This is a bit of a meta blog post. I want to take the time to recognize my team and the great contributors we have.
 
+<!-- truncate -->
+
+
 > OpenSauced is a platform dedicated to empowering maintainers and teams and redefining the meaning of open source contributions. We believe that every contribution, big or small, is valuable and deserves to be recognized. Our platform provides a way to track contributions through a GitHub-powered dashboard, allowing users to showcase their contributions and gain insights into their open source projects.
 
 

@@ -8,6 +8,8 @@ description: If you want to learn how to build your open source project dream te
 
 We've talked a lot about the challenges of being a maintainer, especially a solo maintainer. But like I say in our recent [newsletter](https://news.opensauced.pizza/why-open-source-is-a-team-sport/), open source is a team sport. But finding the right teammates can be a tricky situation as well. You might not get it right all of the time. And that's ok. Taking steps to make sure you and your project stay healthy can help to create a smoother and more rewarding open source experience. In this blog post, I'll provide a checklist and examples to help you build and manage an effective team for your open source project.
 
+<!-- truncate -->
+
 ## Checklist for Building Your Dream Team
 
 1. Recognize the Need

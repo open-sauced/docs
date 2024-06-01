@@ -8,6 +8,9 @@ description: Explore the lifecycle of Facebook's Create React App (CRA) and unde
 
 Many open-source projects, like [Facebook's Create React App (CRA)](https://app.opensauced.pizza/s/facebook/create-react-app), experience a familiar arc – a rapid rise followed by a perceived decline. In the last thirty days, CRA hasn’t had any merged pull requests. This begs the question: what happened to CRA?
 
+<!-- truncate -->
+
+
 [![pour one out for CRA](https://cdn.sanity.io/images/r7m53vrk/production/8b6ba3109f6a8d048e0ee9ac66a7ea93d2db79ca-590x411.png?w=450)](https://x.com/bdougieYO/status/1790796316773335135)
 
 ## Do we need Open Source Insights into Issues and Pull Requests?

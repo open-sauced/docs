@@ -8,6 +8,9 @@ description: Explore how StarSearch revolutionizes open source collaboration by 
 
 As it stands today, the open source ecosystem can feel disconnected. Theoretically, we know that there are maintainers, contributors, and projects out there that are incredibly talented and innovative, but finding them can feel like searching for stars in a cloudy night sky. Sometimes you need to have that information – and fast – to be able to maintain your own projects. 
 
+<!-- truncate -->
+
+
 ## The Challenge of Open Source Connections
 
 Imagine you're at a tech company using cutting-edge technology. You need to upstream some important changes to ensure future compatibility but you find yourself hitting a wall. Who exactly should you reach out to? Who are the key contributors with the right expertise? Traditionally, this process would involve a lot of guesswork and detective work, looking through commit histories or issue discussions. Enter [StarSearch](https://app.opensauced.pizza/star-search), designed to change how we discover and connect with others in the open-source universe. With StarSearch, in just a few clicks, you’re able to identify key contributors skilled in that technology and maintainers who may have the answers you need. StarSearch isn’t just a tool; it’s your entry point into a more intimate, interconnected open-source community. 

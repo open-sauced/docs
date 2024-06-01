@@ -11,6 +11,9 @@ description: "Discover Habitica, a combo of role-playing game and a task manager
 
 A couple of years ago - mid-pandemic - I was diagnosed with ADHD. Maybe it was unsurprising to people who knew me, but it was surprising to me. I didn’t have the symptoms I had heard about. I did well in school, I accomplished all of my tasks, all-in-all I was what some might consider incredibly productive. What I learned about myself and my ADHD is that I had created decades of coping mechanisms that I didn’t even realize. I tended to lean into the things that I was good at. 
 
+<!-- truncate -->
+
+
 That was easier when I wasn’t a mom. As a mom of four kids during a pandemic, I was *struggling.* It’s harder to maintain habits when there are constant distractions around, whether that’s a kid who wants a snack, laundry that (constantly) needs done, or code that needs to be written. I think it was around that time that I first used Habitica. 
 
 > Motivate yourself to achieve your goals. It's time to have fun when you get things done! Join over 4 million Habiticans and improve your life one task at a time.

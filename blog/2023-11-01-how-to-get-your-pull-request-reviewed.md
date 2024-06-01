@@ -9,6 +9,9 @@ description: "Reading documentation, testing your contributions, and effectively
 
 Sometimes, it can be hard to get your Pull Request (PR) reviewed, especially if there are a lot of other PRs ahead of yours. Maintainers can get busy, take some time off, or be overwhelmed with GitHub notifications. If you want to get your Pull Request reviewed, you need to make it easy for the maintainer to review your PR. How do you do that? 
 
+<!-- truncate -->
+
+
 ## Prioritize Clarity
 If the reviewer can look at your PR, commits, title, and additional information and understand the purpose of the work you've done, then it will be easier to review. For example, if your PR title is "made updates to docs," that doesn't give me a clear picture of what kind of updates, why it's important, and what I should be looking at. Instead, you might have something like "feat: Reorganize docs" to give a clearer understanding. As the reviewer goes through, they should likewise be able to find clear and frequent commit messages.
 
