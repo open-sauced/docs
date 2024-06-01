@@ -17,10 +17,10 @@ It's been almost a year since I started at OpenSauced. It's incredible how much 
 
 Our features allow you to:
 
-- [**Empower maintainers and teams**](../docs/maintainers/maintainers-guide.md): Track and showcase your contributions and projects, connect with contributors, collaborate with your team, and gain insights into your open source projects.
-- [**Support contributors**](../docs/contributors/contributors-guide.md): Showcase your contributions, tell your story, connect with new projects and other contributors, and gain insights into your open source journey.
-- [**Highlight success**](../docs/features/highlights.md): Showcase your contributions with our shareable Highlights, inspiring others to embark on their open source journey.
-- [**Unlock Insights**](./features/repo-insights.md): Understand the health of your project, track contributions, and make data-driven decisions with OpenSauced Insights.
+- [**Empower maintainers and teams**](https://opensauced.pizza/docs/maintainers/maintainers-guide-to-open-sauced/): Track and showcase your contributions and projects, connect with contributors, collaborate with your team, and gain insights into your open source projects.
+- [**Support contributors**](https://opensauced.pizza/docs/contributors/contributors-guide.md): Showcase your contributions, tell your story, connect with new projects and other contributors, and gain insights into your open source journey.
+- [**Highlight success**](https://opensauced.pizza/docs/features/highlights.md): Showcase your contributions with our shareable Highlights, inspiring others to embark on their open source journey.
+- [**Unlock Insights**](https://opensauced.pizza/features/repo-insights.md): Understand the health of your project, track contributions, and make data-driven decisions with OpenSauced Insights.
 
 ## Our Repositories 
 

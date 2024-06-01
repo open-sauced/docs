@@ -10,7 +10,7 @@ description: "Discover the among different email campaign solutions, including C
 
 <hr/>
 
-Recently, I’ve gained some experience working on drip campaign emails to help support our new users at [OpenSauced](oss.fyi). So when Vic asked this question on  X, I thought it would make for an interesting blog post in my series. 
+Recently, I’ve gained some experience working on drip campaign emails to help support our new users at [OpenSauced](https://oss.fyi/). So when Vic asked this question on  X, I thought it would make for an interesting blog post in my series. 
 
 *[Link to post](https://x.com/VicVijayakumar/status/1756162192410341439?s=20)*
 
