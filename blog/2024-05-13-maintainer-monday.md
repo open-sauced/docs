@@ -2,7 +2,7 @@
 title: Maintainer Monday
 tags: []
 authors: BekahHW
-slug: maintainer-monday-community-care
+slug: maintainer-monday
 description: It's maintainer month and we're celebrating some of our favorite maintainers! 
 ---
 
