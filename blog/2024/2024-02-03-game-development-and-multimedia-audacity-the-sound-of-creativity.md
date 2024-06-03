@@ -34,8 +34,8 @@ From what I've heard, Audacity is like a magic wand for your audio files. With i
 
 ⭐ 10.8k
 👀 264
-Forks: 2.2k
-License: GPLv3
+- Forks: 2.2k
+- License: GPLv3
 
 Although they've only had 11 contributors to their main repository in the last 30 days, I really appreciated their shoutout to their open source community in their [welcome video](https://youtu.be/xgdYuSHdkso) where they mention non-code contributions like translations as well.
 

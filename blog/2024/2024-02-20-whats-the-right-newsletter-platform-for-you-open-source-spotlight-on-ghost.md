@@ -46,9 +46,9 @@ I've recently been on the hunt for a newsletter provider for a new project I'm w
 
 Ghost's open source support is clear from their metrics:
 
-:stars: 45.2k
-:eyes: 1k
-Forks: 10.1k
+- Stars: 45.2k
+- Watching: 1k
+- Forks: 10.1k
 Contributors: 592
 Commits: ~38k
 

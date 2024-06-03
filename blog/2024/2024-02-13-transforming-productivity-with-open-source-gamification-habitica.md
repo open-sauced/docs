@@ -33,8 +33,8 @@ Habitica is an interesting blend of a role-playing game (RPG) and a task managem
 
 Habitica's community and open source metrics showcase its impact:
 
-- :star:: 11.2k
-- :eyes: 282
+- - Stars:: 11.2k
+- - Watching: 282
 - **Forks**: 4k
 - **License**: GPL v3
 - **Commits**: Approximately 25K commits, signifying steady development.

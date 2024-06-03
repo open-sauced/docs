@@ -63,8 +63,8 @@ Although the stars tell a story of excitement, jumping high from 2022 until now,
 
 ⭐ 10.3k
 👀 115
-forks: 323
-license: Apache-2.0
+- Forks: 323
+- License: Apache-2.0
 
 ~~In fact, the last PR was merged in 27 days ago from the time of writing this post.~~ My PR was merged in yesterday :tada: I will say that it was one of the smoothest and fastest experiences I've had submitting to an open source project. There are currently 88 issues open, so there's room for new contributors to help!
 

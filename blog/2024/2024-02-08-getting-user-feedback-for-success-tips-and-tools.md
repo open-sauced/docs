@@ -79,8 +79,8 @@ See the full insight page [here](https://app.opensauced.pizza/pages/BekahHW/1188
 
 ## Open Source Stats
 
-- :stars: 5k
-- :eyes: 28
+- - Stars: 5k
+- - Watching: 28
 - **Forks**: 775
 - **License**: AGPLv3 
 

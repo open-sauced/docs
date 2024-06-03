@@ -47,9 +47,9 @@ Dub.co allows you to create custom, branded short links. They also have an analy
 
 ## Open Source Stats
 
-:stars: 14.8k
-:eyes: 72
-forks: 1.4k
+- Stars: 14.8k
+- Watching: 72
+- Forks: 1.4k
 commits: 2.5k+
 total contributors: 42
 

@@ -47,9 +47,9 @@ I was pretty impressed by the engaged community and contributors to Rocket.Chat.
 
 ## Open Source
 
-:stars: 38.5k
-:eyes:898
-**forks:** 9.9k
+- Stars: 38.5k
+- Watching:898
+**- Forks:** 9.9k
 **commits**: 25k+
 **contributors: 857
 

@@ -37,8 +37,8 @@ Some key features of `Pipedream` include:
 
 - ⭐ 8,000
 - 👀 284
-- Forks: 5,400
-- License: [Pipedream Source Available License Version 1.0](https://github.com/pipedreamhq/pipedream?tab=License-1-ov-file#readme)
+- - Forks: 5,400
+- - License: [Pipedream Source Available License Version 1.0](https://github.com/pipedreamhq/pipedream?tab=License-1-ov-file#readme)
 
 Noteworthy: There's a high fork-to-star ratio here, indicating healthy contribution status.
 

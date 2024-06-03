@@ -55,10 +55,10 @@ Getting involved is straightforward. Whether you're a researcher eager to share 
 
 ### Open Source Stats (web/backend)
 
-:stars: 43/21
-:eyes: 8/10
-Forks: 27/20
-License: User contributions to ResearchHub are shared under the Creative Commons Attribution License
+- Stars: 43/21
+- Watching: 8/10
+- Forks: 27/20
+- License: User contributions to ResearchHub are shared under the Creative Commons Attribution License
 
 ## A New Era of Research Collaboration
 

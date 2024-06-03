@@ -104,10 +104,10 @@ I really appreciated this particular story that showed how important contributio
 
 ### [Appwrite](https://github.com/appwrite/appwrite) Repo
 
-- :stars: 39.3k 
-- :eyes: 370 
-- forks: 3.6k 
-- license: BSD-3-Clause license
+- - Stars: 39.3k 
+- - Watching: 370 
+- - Forks: 3.6k 
+- - License: BSD-3-Clause license
 
 ## Takeaways
 

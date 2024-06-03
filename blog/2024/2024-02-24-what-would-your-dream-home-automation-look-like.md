@@ -64,9 +64,9 @@ We also see a lot of open source activity from their community members, with the
 
 With their all time stats, we can see there are a lot of contributors and users of the product. According to their GitHub page, they have 2.3k users. 
 
-:stars: 67.4k stars
-:eyes: 1.3k 
-Forks: 27.2k 
+- Stars: 67.4k stars
+- Watching: 1.3k 
+- Forks: 27.2k 
 
 ## Last thoughts
 

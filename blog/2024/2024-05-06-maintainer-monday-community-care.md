@@ -36,7 +36,7 @@ Ben talked about being a Core maintainer for Astro and how he found that role. H
 
 **Let us know who your favorite maintainers are so we can feature them this month!**
 
-## Sneak Peek :eyes:
+## Sneak Peek - Watching:
 
 We're about to launch a new feature called StarSearch - your copilot for git history - and you can see what it said about Daniel Roe in  the teaser below or view the full gif [here](https://www.canva.com/design/DAGEG_vtojg/sHHNjMcKQEqrT4hLlcmWLw/edit?utm_content=DAGEG_vtojg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), and if you're interesting in beta testing, you can [sign up for the waiting list](https://oss.fyi/starsearch-waitlist) and share with your friends.
 

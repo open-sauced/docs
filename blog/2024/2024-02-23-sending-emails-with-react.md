@@ -49,8 +49,8 @@ There were a lot of responses that you can check out in the thread, but we're go
 
 ### Open Source
 
-:stars: 11.6
-:eyes: 36
+- Stars: 11.6
+- Watching: 36
 **Forks**: 516
 **Commits**: 879
 **Contributors (total)**: 111

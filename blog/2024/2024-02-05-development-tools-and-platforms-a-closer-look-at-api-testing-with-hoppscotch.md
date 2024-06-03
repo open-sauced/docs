@@ -53,10 +53,10 @@ Hoppscotch's platform allows you to test sending HTTP requests and view response
 ![Insight page](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/relhghl5n6tn50f71v8u.png)
  <small>You can find Hoppscotch on [this insight page](https://oss.fyi/api-tools)</small>
 
-:stars: 58.6k
-:eyes: 476
-forks: 4.1k
-License: MIT
+- Stars: 58.6k
+- Watching: 476
+- Forks: 4.1k
+- License: MIT
 
 Just a note to say that in terms of pricing, Hoppscotch offers free (forever) Community plans as well as enterprise plans with more features and support.
 

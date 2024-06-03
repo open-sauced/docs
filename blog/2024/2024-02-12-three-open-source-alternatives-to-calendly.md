@@ -36,10 +36,10 @@ Despite not having a website for their product, Fossify Calendar has continued s
 
 [![Fossify oss support](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d4pyb6ylmg5rkwrwpe5i.png)](https://app.opensauced.pizza/pages/BekahHW/1199/dashboard)
 
-- :stars: 336
-- :eyes: 8
-- forks: 27
-- license: GPL-3.0
+- - Stars: 336
+- - Watching: 8
+- - Forks: 27
+- - License: GPL-3.0
 
 ### [Cal.com](https://github.com/calcom/cal.com)
 
@@ -52,10 +52,10 @@ Cal.com has by far, the most active open source community and support for their 
 [![Open Source Activity](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7trjrf139z123xvexrfy.png)](https://app.opensauced.pizza/pages/BekahHW/1199/dashboard)
 
 
-- :stars: 27.2k 
-- :eyes: 152
-- forks: 6.1k 
-- license: AGPLv3 and Commercial License
+- - Stars: 27.2k 
+- - Watching: 152
+- - Forks: 6.1k 
+- - License: AGPLv3 and Commercial License
 
 ### [Easy!Appointments](https://github.com/alextselegidis/easyappointments)
 
@@ -68,10 +68,10 @@ Despite a steady increase in starts from 2016 until now, Easy!Appointments seems
 [![Easy!Appointments oss support](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q8818hi4vqlcz1yqyt33.png)](https://app.opensauced.pizza/pages/BekahHW/1199/dashboard)
 
 
-- :stars: 3k 
-- :eyes: 155 
-- forks: 1.2k 
-- license: GPL-3.0
+- - Stars: 3k 
+- - Watching: 155 
+- - Forks: 1.2k 
+- - License: GPL-3.0
 
 ## Comparison with Calendly
 

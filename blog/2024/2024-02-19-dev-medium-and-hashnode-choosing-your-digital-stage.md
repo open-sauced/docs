@@ -45,8 +45,8 @@ Forem has definitely had a strong showing of contributors and support over the y
 
 - ⭐ 21.4k
 - 👀 357
-- forks: 4k
-license: AGPL-3.0
+- - Forks: 4k
+- License: AGPL-3.0
 commits: 13k+
 contributors: 701
 

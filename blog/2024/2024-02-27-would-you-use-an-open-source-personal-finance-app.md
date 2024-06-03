@@ -46,9 +46,9 @@ We see a high activity rate over the last thirty days, with about an average siz
 
 Metrics for their project over its lifespan include:
 
-:stars: 25k 
-:eyes: 148 
-Forks: 1.9k
+- Stars: 25k 
+- Watching: 148 
+- Forks: 1.9k
 Contributors: 59
 
 We can take a look at what the breakdown over the last thirty days looks like as well:

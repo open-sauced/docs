@@ -59,10 +59,10 @@ freeCodeCamp has millions of users worldwide, with countless stories of individu
 
 ![fcc overview](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c43m0ng7ulfmz47vv4tt.png)
 
-- :stars: 383k
-- :eyes: 8.5k
-- forks: 35.8k
-- license: BSD-3-Clause license
+- - Stars: 383k
+- - Watching: 8.5k
+- - Forks: 35.8k
+- - License: BSD-3-Clause license
 
 ## Takeaways
 

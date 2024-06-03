@@ -67,8 +67,8 @@ The comparison table now includes Evernote and Notion as specific competitors:
 
 AppFlowy's open source statistics demonstrate its growth and active development:
 
-- :stars: 46.4k
-- :eyes: 331
+- - Stars: 46.4k
+- - Watching: 331
 - **Forks**: 3k
 - **License**:AGPL 3.0
 - **Commits**: 5k+

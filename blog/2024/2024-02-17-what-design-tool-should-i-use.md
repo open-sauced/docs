@@ -37,8 +37,8 @@ Penpot talks a lot about their decision to be an open source tool, including the
 
 This is reflected by the support they've had around their open source project.
 
-:stars: 25.6k 
-:eyes: 205 
+- Stars: 25.6k 
+- Watching: 205 
 **Forks**: 1.2k
 **Commits**: 12.5k+
 **Total Contributors**: 147

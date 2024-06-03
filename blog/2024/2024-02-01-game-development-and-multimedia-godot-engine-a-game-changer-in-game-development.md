@@ -56,10 +56,10 @@ One of Godot's greatest strengths is its adaptability to different developers' n
 
 With over 80,000 stars on GitHub, an enthusiastic community forking and contributing to the code, and an open-source MIT license empowering creativity, Godot is more than just a game engine; it's a thriving ecosystem where developers collaborate, innovate, and build the future of gaming, one pixel at a time.
 
-- :star: 80.2k
-- :eyes: 1.5k
-- forks: 17.1k
-- license: MIT
+- - Stars: 80.2k
+- - Watching: 1.5k
+- - Forks: 17.1k
+- - License: MIT
 
 It's worth noting that Godot's star-to-fork ratio is one of the highest that I've ever seen.
 
