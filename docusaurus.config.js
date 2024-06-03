@@ -65,6 +65,11 @@ module.exports = {
           label: "OpenSauced",
           position: "right",
         },
+        {
+         to: "community-resources",
+         label: "Community Resources", 
+         position: "left"
+        }, 
       ],
     },
     colorMode: {
@@ -146,7 +151,12 @@ module.exports = {
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
-        theme: {
+          blog: {
+          showReadingTime: true,
+          routeBasePath: '/community-resources',
+          path: './blog',
+          },
+          theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
         sitemap: {
