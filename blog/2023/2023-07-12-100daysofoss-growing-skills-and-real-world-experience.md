@@ -42,13 +42,13 @@ Don't worry if you're unable to start on the same day as everyone else. The #100
 ## Support
 To make the most of your #100DaysOfOSS journey, here are some additional resources and events you can explore:
 
-1. **Weekly Twitter Spaces:** Join our weekly Twitter Spaces sessions where we discuss open source topics, share insights, and connect with like-minded individuals. Follow us on [Twitter](https://twitter.com/saucedopen) to stay updated on upcoming sessions.
+1. **Weekly X Spaces:** Join our weekly Twitter Spaces sessions where we discuss open source topics, share insights, and connect with like-minded individuals. Follow us on [X](https://X.com/saucedopen) to stay updated on upcoming sessions.
 
-2. **Community Events:** Discover a wide range of events on our [community docs page](https://docs.opensauced.pizza/community/welcome-to-the-community). Whether it's hack days, workshops, or office hours, these events provide excellent opportunities to learn, collaborate, and find new projects to contribute to.
+2. **Community Events:** Discover a wide range of events on our [community docs page](https://opensauced.pizza/docs/community/welcome-to-the-community). Whether it's hack days, workshops, or office hours, these events provide excellent opportunities to learn, collaborate, and find new projects to contribute to.
 
 3. **Weekly Contribution Opportunities:** If you're actively looking for open source projects to contribute to, check out the [weekly post](https://dev.to/bekahhw/series/23323) for new contribution opportunities.
 
-4. **Weekly Office Hours:** Have questions or need help? Join us on [Discord](https://discord.gg/dXvGd8mz) during our office hours or post in our #100DaysOfOSS channel. We're here to help you succeed!
+4. **Support:** Have questions or need help? Join us in our [Community](https://github.com/orgs/open-sauced/discussions/1). We're here to help you succeed!
 
 ## Where to Start?
 If you're ready to start your #100DaysOfOSS journey, here are some tips to help you get started:

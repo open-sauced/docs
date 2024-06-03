@@ -26,7 +26,7 @@ We pledge to create a welcoming and inclusive community for everyone at OpenSauc
 The OpenSauced community is a group of open source enthusiasts who are passionate about making open source more accessible to everyone. Here are some ways you can keep up with what we're doing:
 
 - Follow us on X [@SaucedOpen](https://twitter.com/saucedopen) for announcements and our frequent X Spaces.
-- Join our [Discord](https://discord.gg/opensauced) and hang out with us during our weekly office hours.
+- Join our [Community](https://github.com/orgs/open-sauced/discussions/1) and hang out with us during our weekly office hours.
 - Subscribe to our [YouTube channel](https://www.youtube.com/@OpenSauced) for the latest updates and video content for OpenSauced.
 - 📰 Subscribe to our [newsletter](https://news.opensauced.pizza/#/portal/signup) for all things OpenSauced and open source.
 - 🗓️ Check out the [calendar](https://calendar.google.com/calendar/u/0?cid=Y19kYWRhODM2MjlhZDg4ZWM2M2IxZGFmMTE5MDIyMDg0MjU2ZmQ4NmNjNWNhYmMxMjk5MDhjMGUxOTY3NjY4ZTg0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) for our next weekly community chat.
@@ -37,7 +37,7 @@ You can get involved in the OpenSauced community in a few ways:
 
 - Share your contributions! We love to see what you're working on. Highlight your contributions on [OpenSauced](https://app.opensauced.pizza/feed).
 - Open an issue or ask to be assigned to an existing issue on any of our [OpenSauced repositories](https://github.com/open-sauced).
-- Share what you're working on, ask questions, or mentor new contributors in our [Discord](https://discord.gg/opensauced).
+- Share what you're working on, ask questions, or mentor new contributors in our [Community](https://github.com/orgs/open-sauced/discussions/1).
 - Provide feedback on our [GitHub Discussions](https://github.com/orgs/open-sauced/discussions).
 
 ## Resources on Getting Started with Open Source
