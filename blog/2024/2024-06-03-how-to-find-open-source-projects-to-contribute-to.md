@@ -3,7 +3,7 @@ title: How to Find Open Source Projects to Contribute To
 tags: []
 authors: BekahHW
 slug: how-to-find-open-source-projects-to-contribute-to
-description: Copilot but for git history
+description: If you want to learn how to find open source projects to contribute to, this post offers a list of ways to find the right project to contribute to.
 ---
 
 One of the top questions I get is “How do I find an open-source project to contribute to?” It’s a fair question because there’s a lot of encouragement to contribute, but not a clear path to find the right issue for you. In this guide, we'll walk through strategies to discover open-source projects that align with both your skills and interests.
@@ -48,9 +48,11 @@ Attending open source events, conferences, and hackathons is a great way to meet
 Many open source projects use tags and labels like "good first issue" or "help wanted" to indicate tasks that are suitable for beginners. These tags make it easier to find issues that match your skill level and provide a clear entry point for contributing.
 
 ## Write Your Own Issue
+
 Remember, [good first issues don’t exist](https://opensauced.pizza/blog/good-first-issues-dont-exist); the best issue for you  is probably the one that you write yourself. 
 
 ## Use Open Source Software
+
 When you use open source software, it’s more natural to belong to an open source community and to identify areas where contributions are made. Personally, I’ve made contributions to open source project documentation because when I was using the documentation to implement the technology into my project, I found that something was missing or there was an error because the docs hadn’t been updated. I would even go as far to say that the more you use a product, the better contributor you’ll be because you have a depth of understanding that helps you identify what’s useful for a project and its community. 
 
 Scouring the internet for a project to submit a one-off Pull Request (PR) to decreases your connection to the project and your desire to see it be successful. When you are invested in a project, you’re more likely to navigate challenges, ask meaningful questions, and to grow and progress. 
