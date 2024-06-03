@@ -48,4 +48,4 @@ And just like in board games, where players might take breaks or try different g
 
 ## A Community of Players (Open Source Community)
 
-Remember, you're not playing alone. The open source community has players of all levels, from beginners to experts, and everyone plays a part in the game's progression. There's always room for new players, and the community grows with contributors of all levels. For more ways to get started, check out our [#100DaysOfOSS Challenge](https://docs.opensauced.pizza/community/100-days-of-oss/).
+Remember, you're not playing alone. The open source community has players of all levels, from beginners to experts, and everyone plays a part in the game's progression. There's always room for new players, and the community grows with contributors of all levels. For more ways to get started, check out our [#100DaysOfOSS Challenge](https://opensauced.pizza/docs/community/100-days-of-oss/).
