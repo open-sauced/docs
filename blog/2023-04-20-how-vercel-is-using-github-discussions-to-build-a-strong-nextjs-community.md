@@ -8,6 +8,8 @@ description: "Learn how Next.js, a flexible React framework, is leveraging GitHu
 
 Communication is key to maintaining a healthy open source project. It’s even more important if one of your projects has more than 100,000 stars. Using a tool like GitHub discussions provides an opportunity for communication for more than bug reports, show and tell, or product announcements. It can provide a path to support and connect the community, and that’s exactly how Vercel is using discussions on their [Next.js repository](https://github.com/vercel/next.js/discussions).
 
+<!-- truncate -->
+
 ## What is Next.js?
 > Next.js is a flexible React framework that gives you building blocks to create fast web applications.
 

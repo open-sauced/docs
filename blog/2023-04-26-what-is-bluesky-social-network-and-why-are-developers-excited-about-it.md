@@ -8,6 +8,8 @@ description: "It seems like my Twitter feed is all about folks joining or asking
 
 It seems like my Twitter feed is all about folks joining or asking about invites to [Bluesky](https://blueskyweb.xyz/). I was lucky enough to get an invite this week to be able to check it out, and the user experience is a lot like Twitter, but what’s going on behind the scenes is really interesting. 
 
+<!-- truncate -->
+
 ## What is Bluesky Social Network
 Bluesky Social is a decentralized social media platform with a mission to create an open social media ecosystem where developers can build and innovate, and users have more control over which services they use. Unlike Twitter, Bluesky isn't committed to any stack in its entirety and sees use cases for blockchains, but it's not a blockchain.
 

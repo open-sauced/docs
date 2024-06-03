@@ -9,6 +9,7 @@ description: "Join our #100DaysOfOSS blog series as we explore the world of Open
 Welcome to our [#100DaysOfOSS series](https://dev.to/opensauced/100daysofoss-growing-skills-and-real-world-experience-3o5k). Until October 31, we'll be doing  Open Source Software (OSS) terms from A to Z. We'll be diving into a different letter of the English alphabet, uncovering OSS concepts, and sharing our thoughts on them.
 
 Today, we're covering the letter "P" for Pull Request. 
+<!-- truncate -->
 
 **Pull Request**: In open-source development, a pull request is a proposed code change submitted by a contributor. It allows others to review, discuss, and potentially merge the changes into the main codebase.
 

@@ -8,6 +8,8 @@ description: "Follow my journey of making my first successful pull request (PR) 
 
 In July, I participated in a “Build in Public” monthly challenge. My goal was to contribute to an open source project that I hadn’t contributed to yet. Luckily, I found my issue pretty quickly and by one of my favorite methods: I let the community know what my goal was and they had a recommendation. [Jessica Wilkins](https://dev.to/codergirl1991) is both a member of the community sharing the challenge and a maintainer for freeCodeCamp Developer Quiz Site. When she shared the issue, I immediately said yes. I knew it would let me dust off my coding skills, have support, and contribute to an organization that I have a special connection to-this is where I started learning to code.
 
+<!-- truncate -->
+
 ![Jessica's message to me about the issue](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8ntrdpxbrg1ego7a2ibr.png)
 
 

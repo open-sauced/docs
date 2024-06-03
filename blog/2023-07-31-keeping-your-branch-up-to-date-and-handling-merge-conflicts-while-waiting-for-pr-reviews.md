@@ -8,6 +8,8 @@ description: " Learn how to keep your branch up to date and to handle Git merge 
 
 I’ve been running an Intro to Open Source workshop for a couple of months now, and one of the biggest challenges for participants often dealing with is keeping their branch up to date and managing merge conflicts. Listen, if you see that “merge conflicts” message and you panic, you’re not alone. I may or may not have used the strategy of deleting my entire local repository, forking, recloning, and redoing my code to avoid navigating merge conflicts more than once. Luckily, there are much better ways of dealing with updating your branch and merge conflicts than that. If you’ve ever felt that panic and wanted to burn it all down, take a deep breath and read the post below that walks you through the process of keeping your branch up to date while waiting for reviews. Keeping your branch in sync with the main repository helps to avoid conflicts and create a smooth(er) merging process. 
 
+<!-- truncate -->
+
 If you want to follow the steps below, I’ll be focusing on the scenario where you've forked and cloned the [guestbook repository](https://github.com/open-sauced/guestbook) and are adding yourself using a CLI tool, but this is generally applicable to staying up to date.
 
 ## Identifying Merge Conflicts

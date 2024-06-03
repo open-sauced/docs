@@ -8,7 +8,7 @@ description: "One of the first pieces of advice I got before graduating from boo
 
 One of the first pieces of advice I got before graduating from bootcamp was to get involved in open source. I browsed around GitHub. I looked at issues. I peeked into code bases. I was overwhelmed. I didn’t quite feel like I had the capabilities to jump in and start working on an issue. Skill-wise, could I? Maybe, depending on the repository. Confidence-wise? No way. I was a career-changer with ten years of expertise in English and zero years of expertise in coding. But, if someone would have told me that I could start where I was most comfortable, without writing code, I think I could have eased my way into the open source waters sooner. Open source projects don’t always require code contributions; in fact, non-code contributions can be as valuable as code contributions. 
 
-
+<!-- truncate -->
 ## Non-Code Contributions to Open Source
 
 ### Documentation

@@ -8,6 +8,8 @@ description: "Learn how to write a good issue in open source development with th
 
 Three years ago I maintained my first open source project for Hacktoberfest. As a first-time maintainer, I underestimated the time and effort it would take to write good issues for my contributors. What I also learned that year was that writing issues is an important form of communication, and, as a contributor, it can be a valuable skill to develop to create relationships and support maintainers. If you’re trying to get involved in open source, one way to get started is by writing issues that report bugs, request features, or suggest improvements. 
 
+<!-- truncate -->
+
 ## Understanding the Purpose of the Issue
 Issues are often a starting point for communication. It’s an opportunity to communicate with maintainers or for maintainers to communicate needs to contributors. There’s usually one main idea per issue with an explanation. For example, a bug report would address one bug. A feature request would outline one feature.
 

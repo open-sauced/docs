@@ -10,6 +10,8 @@ Welcome to Day 9 of our [#100DaysOfOSS series](https://dev.to/opensauced/100days
 
 Today, we're covering the letter "C" for Collaboration. 
 
+<!-- truncate -->
+
 **Collaboration**: Collaboration is at the heart of open source. It's the cooperative effort among developers, contributors, and users to improve and enhance open source projects through shared knowledge and contributions.
 
 Now, we want to hear from you! What other OSS terms can you think of that start with the letter "C"? 

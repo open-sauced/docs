@@ -3,11 +3,12 @@ title: From Inspiration to Impact
 tags: []
 authors: BekahHW
 slug: from-inspiration-to-impact
-description: "Explore the relationship between open source and science fiction. From bringing sci-fi gadgets to life with open source hardware to blurring the lines between fiction and interactive gaming experiences, discover how these two realms inspire and shape each other.tags: opensource, writing, watercooler, sciencefiction"
+description: "Explore the relationship between open source and science fiction. From bringing sci-fi gadgets to life with open source hardware to blurring the lines between fiction and interactive gaming experiences, discover how these two realms inspire and shape each other."
 ---
 
-
 Welcome back to our final post in this series about Open Source in Science Fiction. We've looked at imaginary worlds inspiring real-world innovation, and real-life concepts inspiring science fiction. In this last post, we'll dive into the impact of open source in science fiction and the influence on the genre and tech landscape.
+
+<!-- truncate -->
 
 ## Collaborative World-Building: Transforming the Science Fiction Landscape
 

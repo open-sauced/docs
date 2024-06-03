@@ -8,6 +8,8 @@ description: "Discover the power of community mentorship in tech. Embrace divers
 
 I’ve heard the advice over and over, “find a mentor.” While having a mentor can be valuable, relying solely on one mentor isn’t the most effective approach to learning and growing. Instead, let's redefine what it means to receive mentorship to benefit the most people. What does that mean? It means that we see mentorship as daily opportunities to learn and grow with people that we may or may not have direct contact regularly. It means that we see communities as the most valuable resource for mentorship. That we can receive mentorship by interacting with people in online environments, and by seeing every conversation as an opportunity to learn something new. That we ask questions, provide feedback, and that we mentor ourselves as part of that journey.
 
+<!-- truncate -->
+
 ## Why Community Mentorship is Better than 1:1 Mentorship
 I want to take a second to define what I mean here. When I say 1:1 mentorship, it means that you have a regular or semi-regularly scheduled time to meet with the same person for guidance and the opportunity to learn. I’m not saying you shouldn’t do this. But I am saying that community mentorship, or seeing a group of people and your interactions with them as mentorship, is better. Below you’ll find some of the reasons why.
 

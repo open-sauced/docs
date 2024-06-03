@@ -7,6 +7,8 @@ description: "Curious about the process after submitting a pull request to an op
 ---
 It can be really exciting to get your first open source Pull Request (PR) merged in. But it’s important to remember that this is a step in the process and it’s perfectly normal to review feedback, make updates, and have questions before it’s merged in. Should you celebrate getting that PR in? Absolutely, but save the big celebration for when it’s merged. 
 
+<!-- truncate -->
+
 ## In the Spotlight: Review and Discussion
 Once your pull request is submitted, it undergoes a thorough review process by the maintainers. They examine the code changes, analyze the impact, and provide feedback. This feedback can be in the form of comments, suggestions, or requests for clarification. It's common for discussions and iterations to take place during this stage as you address the feedback and make necessary adjustments.
 

@@ -8,6 +8,8 @@ description: "Learn how to start an open source projects using Visual Studio Cod
 
 The first time I pair programmed was with one of the founders of the bootcamp I attended. I was super nervous. We talked through some concepts I was working on, and he asked me to open up an editor. *Ok, side note, I had spent the previous years teaching college English. When someone said “editor,” I assumed a text editor.* I opened up google docs. It wasn’t until he said something like, “Do you have notepad or something else that we can use?” that I realized he was talking about a *code* editor. I think I was using the now-sunsetted Integrated Development Environment (IDE) Atom, but since then, I’ve been using Visual Studio Code (VS Code), which we’re going to be talking about in this blog post, as a way to get started with creating an open source repository. 
 
+<!-- truncate -->
+
 In this tutorial, we'll walk through the process of setting up your development environment, creating a new repository on GitHub, cloning it to your local machine, making a commit, and pushing your changes back to GitHub. By the end of this guide, you'll be on your way to making your first contribution to open source projects using VS Code–a free and open source IDE, available on Windows, macOS, and Linux.
 
 <small>If you’d rather watch a video tutorial, you can skip to the end. </small>

@@ -10,6 +10,8 @@ Welcome to our [#100DaysOfOSS series](https://dev.to/opensauced/100daysofoss-gro
 
 Today, we're covering the letter "N" for Network. 
 
+<!-- truncate -->
+
 **Network**: Open source is a connected community of developers, users, and contributors who share ideas, exchange knowledge, mentor each other, and collaborate on improving the software.
 
 Now, we want to hear from you! What other OSS terms can you think of that start with the letter "N"? 

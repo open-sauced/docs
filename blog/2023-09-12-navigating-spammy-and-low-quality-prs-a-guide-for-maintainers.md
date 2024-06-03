@@ -9,6 +9,8 @@ description: "Maintainers time is a valuable and finite asset. This guide define
 
 Open source maintainers are the ultimate utility players, reviewing code, managing community dynamics, defining strategy, writing code, and more. One of the most time-consuming tasks is reviewing Pull Requests (PRs), especially those that are spammy or of poor quality. And although contributors might not realize it, poor-quality contributions can be incredibly costly. So how can maintainers reduce spam and improve the quality of PRs?
 
+<!-- truncate -->
+
 ## The Cost of Poor-Quality & Spammy PRs
 ### Poor-Quality PRs
 > Poor-quality PRs may have good intentions but lack the necessary quality, completeness, or adherence to project guidelines. These PRs often require substantial revisions and are not immediately mergeable.

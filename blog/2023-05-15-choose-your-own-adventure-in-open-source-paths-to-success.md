@@ -8,6 +8,8 @@ description: "Follow the stories of Alex, Maya, Javier, Tilda, and Jaymir as the
 
 Welcome to the Choose Your Own Adventure blog post for new contributors!  Each person’s journey into open source will take a different path. As a new contributor, you may have different goals that you want to achieve through contributing to open source projects. This blog post will guide you through a few different paths based on your goals. Choose your path below and start your adventure!
 
+<!-- truncate -->
+
 ## Choose Your Path
 1. [Path 1: Improve Your Coding Skills](#improve-your-coding-skills)
 2. [Path 2: Work on a Project Related to Your Interests or Fields of Study](#work-on-a-project-related-to-your-interests-or-fields-of-study)

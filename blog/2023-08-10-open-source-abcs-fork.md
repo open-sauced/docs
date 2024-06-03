@@ -10,6 +10,8 @@ Welcome to our [#100DaysOfOSS series](https://dev.to/opensauced/100daysofoss-gro
 
 Today, we're covering the letter "F" for Fork. 
 
+<!-- truncate -->
+
 **Fork**: Forking is the process of creating a new independent project from an existing open-source project. It allows developers to take the existing codebase in a new direction or make modifications while maintaining the original project's core principles.
 
 Now, we want to hear from you! What other OSS terms can you think of that start with the letter "F"? 

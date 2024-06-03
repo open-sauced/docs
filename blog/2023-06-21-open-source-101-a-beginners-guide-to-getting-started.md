@@ -8,6 +8,8 @@ description: " Learn the fundamentals of open source development, from choosing 
 
 The story of open source is a story about community. It’s about people coming together, learning from each other, growing together, and creating, of bringing their talents and perspectives to build something great. It’s a story of what humanity can do when we work together. I don’t know what Linus Torvalds thought when he created the Linux operating system and released it to the public for free in the early 1990s, but I’m sure it was about doing things differently. 
 
+<!-- truncate -->
+
 At the time, most operating systems were proprietary software, and users had to pay for them. Linux was different. It was open source software, which meant that the source code was freely available for anyone to use, modify, and distribute. The story of open source is one of innovation, collaboration, and community. And it’s a story that invites you and me into it every day. 
 
 > The term open source was originated by Christine Peterson. You can read about that [here](https://opensource.com/article/18/2/coining-term-open-source-software).

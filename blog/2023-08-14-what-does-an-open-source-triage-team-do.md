@@ -8,6 +8,8 @@ description: " Learn what it means to triage for open-source projects. Discover 
 
 You might have seen the word triage thrown around when talking about open source. Maybe you wondered what it meant and how that role impacts open source. If we think of open source like a journey, then the role of someone on the triage team is an explorer who helps to discover hidden challenges and helps to chart a path forward. 
 
+<!-- truncate -->
+
 ## What is Open Source Triage? 
 Open source triage involves evaluating and managing incoming issues and bug reports submitted by users and contributors. As a triage team member, your primary goal is to ensure that the project's issue tracker is well-organized and that reported problems receive the attention they deserve. 
 

@@ -8,6 +8,8 @@ description: "Discover the link between open source and science fiction in our b
 
 Before coming into tech, I spent ten years teaching college English. I've also written a couple of science fiction screenplays. To say that I'm fascinated by the power of storytelling would be an understatement. It's no surprise to me that science fiction has made an impact on open source and vice versa. So every Monday for the next three weeks, I'll have a post inspired by that relationship to hopefully inspire you. 
 
+<!-- truncate -->
+
 Science fiction has the remarkable ability to transport us to imaginary worlds filled with advanced technology, new societies, and inspiring ideas. For this post, let's take a look at some notable science fiction works embracing the concept of open source-from post-scarcity societies to virtual reality realms.
 
 ## Virtual Reality: Inspired by *Snow Crash*

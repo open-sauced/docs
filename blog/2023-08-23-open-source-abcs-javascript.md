@@ -10,6 +10,8 @@ Welcome to our [#100DaysOfOSS series](https://dev.to/opensauced/100daysofoss-gro
 
 Today, we're covering the letter "J" for JavaScript. 
 
+<!-- truncate -->
+
 **JavaScript**: JavaScript is a widely used programming language in open-source, front-end web development. It allows developers to add behavior, interactivity, and functionality to web pages, making them more engaging and responsive.
 
 Now, we want to hear from you! What other OSS terms can you think of that start with the letter "J"? 

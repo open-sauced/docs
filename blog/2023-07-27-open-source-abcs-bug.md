@@ -10,6 +10,8 @@ Welcome to Day 5 of our [#100DaysOfOSS series](https://dev.to/opensauced/100days
 
 Today, we're covering the letter "B" for Bug. 
 
+<!-- truncate -->
+
 **Bug**: A bug refers is an error, flaw, or defect in code that impacts the proper functioning of the software. Open-source projects often rely on community contributions to identify and fix bugs.
 
 Now, we want to hear from you! What other OSS terms can you think of that start with the letter "B"? 

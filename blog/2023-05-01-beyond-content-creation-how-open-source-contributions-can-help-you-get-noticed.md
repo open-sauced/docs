@@ -8,6 +8,8 @@ description: "Looking to get noticed as a developer but don't have the time or r
 
 I know, I know. It’s kind of ironic to create content about not needing to create content to get noticed. In recent years, there’s been a big push to have new developers create content to “get noticed.” But here’s the thing, creating content might feel daunting and discouraging for those who don't have the time or resources to create content regularly or it might take away from making progress in deepening your coding skills. The good news is that there are other ways to get noticed without relying solely on content creation, and in today’s post we’re going to talk about using open source to get noticed.
 
+<!-- truncate -->
+
 ## How to Get Noticed
 What if instead of spending hours a week creating content, you spent that time working on contributing to open source? It doesn't have to be an issue that majorly impacts a code base. Start where you’re comfortable; get an understanding of open source, working with other teams, communicating, looking at larger code bases, and understanding how code works. 
 

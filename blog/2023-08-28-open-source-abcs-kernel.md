@@ -10,6 +10,8 @@ Welcome to our [#100DaysOfOSS series](https://dev.to/opensauced/100daysofoss-gro
 
 Today, we're covering the letter "K" for Kernel. 
 
+<!-- truncate -->
+
 **Kernel**: The kernel is the core component of an operating system. Several open-source operating systems, such as Linux, have a kernel that allows developers to contribute and modify the system's functionality.
 
 Now, we want to hear from you! What other OSS terms can you think of that start with the letter "K"? 

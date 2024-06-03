@@ -10,6 +10,8 @@ Welcome to our [#100DaysOfOSS series](https://dev.to/opensauced/100daysofoss-gro
 
 Today, we're covering the letter "G" for Git. 
 
+<!-- truncate -->
+
 **Git**: Git is a popular distributed version control system widely used in open-source projects. It enables developers to collaborate, track changes, and manage source code efficiently.
 
 If you want to learn more about what you can do with Git, check out my [Git it! Series](https://dev.to/bekahhw/series/2398).

@@ -9,6 +9,8 @@ image: https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravit
 
 I don’t remember writing my first Pull Request (PR), and to be honest, I actually looked to see if I could find it for this post, but I know that I was really nervous because I wasn’t sure if I was doing it “right.” I think I actually spent more time worrying about it than I did actually writing the thing. The good news is that there isn’t really a right way to write a PR, but there are some best practices that can guide your writing and help the maintainer to be able to understand the changes. 
 
+<!-- truncate -->
+
 ## Review the Contribution Guidelines
 Maintainers want to help you write your PR; that’s why they often outline contributing directions in their repositories.
 

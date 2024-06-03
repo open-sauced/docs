@@ -6,8 +6,9 @@ slug: the-power-of-git-a-guide-to-collaborative-version-control
 description: "Unlock the power of Git, a distributed version control system, in our guide. Learn how to manage code changes, collaborate seamlessly, and maintain an organized codebase. Discover essential Git functionalities, from committing and branching to merging and resolving conflicts."
 ---
 
-
 When I started learning to code, no one told me what Git was or why it was important. It was one of those words that I pretended that I understood because everyone just assumed that I knew what it meant. But up to that point, I had been using built in IDEs, and I hadn’t used git. For one of my bootcamp projects, I had to have a certain number of commits to pass. I forgot about commits, and only had about three. I went through and did the whole project over so I could add the required number of commits. When you’re working on a simple project like I was, one that no one else would check out or contribute to, it can be less than intuitive to remember to commit. I just wanted my project to work as quickly as possible. I know now that I was probably taking the wrong approach to learning. Because moving into tech, I’d be working collaboratively, and these tools could be incredibly helpful to ensuring that collaborative relationships worked well.  Hopefully, this beginner’s guide to Git will help you understand the usefulness of Git and how you can use it as part of your toolbox.
+
+<!-- truncate -->
 
 ## What is Git?
 Git is a distributed version control system that allows developers to manage their source code and collaborate on projects. It allows you to track changes made to files over time, and creates a centralized repository and a comprehensive history of changes, which allows for a more seamless teamwork experience and organized code management.

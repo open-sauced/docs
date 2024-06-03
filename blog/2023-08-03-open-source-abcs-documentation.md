@@ -10,6 +10,8 @@ Welcome to Day 11 of our [#100DaysOfOSS series](https://dev.to/opensauced/100day
 
 Today, we're covering the letter "D" for Documentation. 
 
+<!-- truncate -->
+
 **Documentation**: Documentation plays an important role in open-source projects. It includes guidelines, tutorials, and explanations that help users and developers understand and utilize the software effectively.
 
 Now, we want to hear from you! What other OSS terms can you think of that start with the letter "D"? 

@@ -10,6 +10,8 @@ Welcome to our [#100DaysOfOSS series](https://dev.to/opensauced/100daysofoss-gro
 
 Today, we're covering the letter "I" for Issues. 
 
+<!-- truncate -->
+
 **Issues**: An issue is a problem, suggestion, or task related to a repository that is tracked and managed using issue tracking systems.
 
 An issue can have a wide range of topics, including:

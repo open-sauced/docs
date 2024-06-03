@@ -10,6 +10,8 @@ Welcome to our [#100DaysOfOSS series](https://dev.to/opensauced/100daysofoss-gro
 
 Today, we're covering the letter "E" for Evolution. 
 
+<!-- truncate -->
+
 **Evolution**: Open-source projects are known for their evolutionary nature. As more contributors join, the software evolves over time, incorporating new features, improvements, and bug fixes.
 
 Now, we want to hear from you! What other OSS terms can you think of that start with the letter "E"? 

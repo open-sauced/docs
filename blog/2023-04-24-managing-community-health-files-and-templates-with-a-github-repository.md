@@ -8,6 +8,8 @@ description: "I collect open source projects like some people collect discord se
 
 I collect open source projects like some people collect discord servers. To be accurate, I have 525 repositories. Now, before you yell at me, many of those are from my bootcamp lessons when I was learning to code. But I’ve been known to start and stop projects more than once. What I _have_ learned through that experience is the importance of consistency. If you’re in an organization that has multiple repositories, you might find yourself adding the same files over and over–files like the CODE_OF_CONDUCT.md, Pull Request (PR) and Issue templates, and CONTRIBUTING.md. As developers, adding these files repeatedly starts to feel like we’re violating [DRY code principles](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself). Fortunately, the .github repository can help solve this problem.
 
+<!-- truncate -->
+
 ## What is a `.github` Repo?
 A `.github` repository is a special type of repository in GitHub that allows maintainers to store community health files and templates for their projects. 
 

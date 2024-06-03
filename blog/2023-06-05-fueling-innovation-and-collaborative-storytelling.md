@@ -8,6 +8,8 @@ description: "Explore the relationship between open source and science fiction. 
 
 A couple of years ago, I got to see Neil Gaiman--the English author, creator, and creative genius--live. To say the experience was inspirational would be an understatement. There's something moving about hearing a person share their stories, listening to them read though. There's deeper meaning when you can see their expressions, the ways they move on the stage. You come out of the experience inspired to pursue the things you're passionate about. And it reminded me about [an interview](https://www.vox.com/2015/8/24/9196945/china-science-fiction) he gave a couple of years ago about his experience speaking about science fiction at the first-ever, state-sponsored science fiction convention. 
 
+<!-- truncate -->
+
 Gaiman asked some of the organizers: "Why are you now in 2007 endorsing a science-fiction convention?" According to Gaiman, the Chinese organizer said, "that the Party had been concerned that while China historically has been a culture of magical and radical invention, right now, they weren’t inventing things." To try to find that inspiration, they'd gone to the United States and "interviewed the people at Google and Apple and Microsoft, and talked to the inventors." What they found out was that all of these inventors had read science fiction when they were young. Science fiction and open source mutually influence and shape each other, creating connections and inspiring innovation. Below you'll find some of those ways. 
 
 ## Open Source Hardware: Bringing Sci-Fi Gadgets to Life

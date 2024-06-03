@@ -10,6 +10,8 @@ Welcome to our [#100DaysOfOSS series](https://dev.to/opensauced/100daysofoss-gro
 
 Today, we're covering the letter "Q" for Quality Assurance. 
 
+<!-- truncate -->
+
 **Quality assurance** in open-source projects involves testing, reviewing, and ensuring the software meets the desired standards. Community members often contribute to testing and reporting issues to improve the software's quality.
 
 Now, we want to hear from you! What other OSS terms can you think of that start with the letter "Q"? 

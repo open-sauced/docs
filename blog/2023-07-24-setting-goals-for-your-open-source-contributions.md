@@ -8,6 +8,8 @@ description: "Discover the power of open-source software with #100DaysOfOSS chal
 
 We are very excited to kick off [#100DaysOfOSS](https://dev.to/opensauced/100daysofoss-growing-skills-and-real-world-experience-3o5k), a challenge where no matter where you are on your tech journey you can deepen your knowledge and understanding of the world of open-source software. Whether or not you plan on participating, we want to provide resources for anyone interested in growing their experience through open source. A great way to make progress and to grow is by starting with some goal setting and then exploring the different paths you can take. The first part of this post should help you to set those goals, and the second will go into more detail about the types of paths you can take as part of your open source journey.
 
+<!-- truncate -->
+
 ## Open Source Goal Setting Framework
 
 You’re more likely to succeed in what you do if you if you set goals and you create accountability.  I know, that stuff takes time, and if you’re like me, sometimes you just want to jump in and explore without taking the time to set up a plan. That’s totally fine and a valid approach, but if there’s something you’re aiming for like getting a job, a promotion, or growing a certain skillset, taking that time to set some goals will allow you to be more efficient. Here’s a framework I use to help me set goals that I’ve adapted for your open source journey: 

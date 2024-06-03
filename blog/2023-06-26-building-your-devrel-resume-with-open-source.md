@@ -8,6 +8,8 @@ description: "Want to enhance your developer relations (DevRel) resume? Discover
 
 One of the questions I’ve heard quite a few times since starting at OpenSauced a couple of months ago is “How can I use open source to get into DevRel?” The answer is one word: Contribute. Contribute to docs, contribute to code, contribute to the community. Contribute by writing, contribute by creating content, contribute by sharing. To be in Developer Relations, your journey will require technical expertise, communication skills, community-building skills, and, most importantly, empathy.  In my [last post](https://dev.to/opensauced/devrel-and-open-source-a-powerful-combination-3ldp), I talked about the overlap of DevRel and Open Source. In this post, I’ll get more personal to help you create a plan to use open source to support your journey on the DevRel path. 
 
+<!-- truncate -->
+
 > **Resources to Learn More about the Different Types of DevRel**
 > - [Measuring Developer Relations](https://www.swyx.io/measuring-devrel)
 > - [What you need to know to get hired in DevRel](https://youtu.be/3X-EUEOg638)

@@ -9,6 +9,8 @@ description: "Learn how to effectively discuss your open source experience in a 
 
 Interviewing is a skill that can be strengthened. Interviews can be frustrating, demoralizing, casual, intense, and occasionally fun. They can make you doubt yourself or they can validate your skillset. There’s a lot being evaluated in these interviews and I know, personally, that nerves have gotten the better of me in that process. But just like any other skill, the more you learn about how to do it, the more you practice, the better you get. When you’re interviewing for a tech job, you’re going to be asked about your experience. Contributions to open source projects are a great way to demonstrate your skills because they can demonstrate your technical skills, showcase your collaboration, problem-solving abilities, and passion for your work. Even if you’ve had a stellar experience as a contributor, you need to know how to effectively talk about your open source experience during the tech interview. In this blog, we’ll explore how to talk about your open source experience in a tech interview.
 
+<!-- truncate -->
+
 > **More Resources on How to Land a Job with Open Source**
 > - [How I Got Hired Contributing to open source projects](https://dev.to/opensauced/how-i-got-hired-contributing-to-open-source-projects-546i)
 > - [Building Your DevRel Resume with Open Source](https://dev.to/opensauced/building-your-devrel-resume-with-open-source-4km3)

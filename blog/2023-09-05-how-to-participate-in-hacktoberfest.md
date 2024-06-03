@@ -8,6 +8,8 @@ description: "With Hacktoberfest coming up, this guide walks you through how to 
 
 The countdown to Hacktoberfest has begun! [Hacktoberfest](https://hacktoberfest.com/), the month-long open source challenge sponsored by [DigitalOcean](https://www.digitalocean.com/), rewards contributors who sign up and complete four pull requests to open source projects that have opted into Hacktoberfest every year. It’s a great way to grow with the community, find support, and contribute to open source. Together, let’s walk through how to participate in Hacktoberfest, amplify your experience,  and transform your contributions into the story of your journey, career ambitions, and community connections. 
 
+<!-- truncate -->
+
 ## How to Get Started with Hacktoberfest
 Hacktoberfest is an opt-in event. So to get the full benefits of Hacktoberfest, make sure to check out [how to participate](https://hacktoberfest.com/participation/).
 

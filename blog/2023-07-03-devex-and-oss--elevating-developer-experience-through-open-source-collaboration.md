@@ -8,7 +8,7 @@ description: "Explore the overlap of Developer Experience (DevEx) and Open Sourc
 
 In my last role, I focused on the community side of developer relations. Part of that included creating open source projects to help onboard new developers and to create opportunities for community members to interact. When I started at [OpenSauced](https://opensauced.pizza/) as a Developer Experience Lead, there wasn’t a huge jump from community to developer experience. In fact, I wrote a little more about it in [this LinkedIn post](https://www.linkedin.com/posts/bekah-hawrot-weigel_developerexperience-communityexperience-tech-activity-7064691900682801153-w_g2?utm_source=share&utm_medium=member_desktop) if you’re interested. The overlapping goals of Developer Experience, Community, and Open Source to empower community members, have a growth mindset, and believe in collaboration culminate into the potential to be part of something incredible. In this final blog post in our series, we'll explore how DevEx and OSS combine forces to elevate developer experience, enabling developers to work more efficiently, collaborate effectively, and create great open source projects.
 
-
+<!-- truncate -->
 > **Developer Experience (DevEx)** focuses on improving the developer journey and their experience using a particular technology or platform. Part of this  can include providing strong documentation and tutorials and creating tools and resources that make it easier to develop and debug code. 
 
 ## Empowering DevEx with Robust Tooling

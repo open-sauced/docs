@@ -8,6 +8,8 @@ description: "One barrier to entry to contributing to open source is understandi
 
 One barrier to entry to contributing to open source is understanding the terminology, especially if you’re new to tech. Below, I've defined some of the common vocabulary and provided some examples to help provide context.
 
+<!-- truncate -->
+
 ## Repository
 
 A repository is a central location where code is stored and managed. In open source, repositories are often hosted on platforms like GitHub, GitLab, or Bitbucket. Each repository can contain one or more projects, and contributors can submit changes to the code by making pull requests.

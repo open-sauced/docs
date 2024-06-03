@@ -10,6 +10,8 @@ Welcome to our [#100DaysOfOSS series](https://dev.to/opensauced/100daysofoss-gro
 
 Today, we're covering the letter "M" for Meritocracy. 
 
+<!-- truncate -->
+
 **Meritocracy**: Open-source communities often operate on a meritocratic model, where contributors' influence and decision-making authority are based on their demonstrated skills, knowledge, and contributions to the project.
 
 Now, we want to hear from you! What other OSS terms can you think of that start with the letter "M"? 

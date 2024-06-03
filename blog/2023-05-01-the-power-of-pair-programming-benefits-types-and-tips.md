@@ -10,6 +10,8 @@ Pairing is more than just coding with someone else. Pairing is about communicati
 
 Before you start, we recommend you take a look at [Martin Fowler’s article On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html).
 
+<!-- truncate -->
+
 ## What is Pair Programming?
 Pair programming is a technique used in software development where two or more programmers work together on the same task. The two programmers switch between two roles: the driver, who is actively writing the code, and the navigator, who is observing the driver's work and providing guidance, feedback, and ideas.
 

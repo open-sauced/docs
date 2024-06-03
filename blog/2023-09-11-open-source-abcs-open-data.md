@@ -9,6 +9,7 @@ description: "Join our #100DaysOfOSS blog series as we explore the world of Open
 Welcome to our [#100DaysOfOSS series](https://dev.to/opensauced/100daysofoss-growing-skills-and-real-world-experience-3o5k). Until October 31, we'll be doing  Open Source Software (OSS) terms from A to Z. We'll be diving into a different letter of the English alphabet, uncovering OSS concepts, and sharing our thoughts on them.
 
 I thought about using [OpenSauced](https://opensauced.pizza/) and talking about how we're redefining contributions in open source, how we're supporting maintainers creating healthy projects, and how we're fostering a healthy ecosystem for open source, but instead I'll go with open data for the letter "o". 
+<!-- truncate -->
 
 **Open Data**: Open-source projects sometimes produce open data, which refers to freely accessible and shareable datasets. Open data enables researchers, analysts, and other developers to use and build upon existing information.
 
