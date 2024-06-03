@@ -18,7 +18,7 @@ jobs:
       - name: take an issue
         uses: bdougie/take-action@main
         with:
-          message: Thanks for taking this on! If you have not already, join the conversation in our [Discord](https://discord.gg/U2peSNf23P)
+          message: Thanks for taking this on! If you have not already, join the conversation in our [Community](https://github.com/orgs/open-sauced/discussions/1)
           issueCurrentlyAssignedMessage: Thanks for being interested in this issue. It looks like this ticket is already assigned to a contributor. Please communicate with the assigned contributor to confirm the status of the issue.
           trigger: .take
           token: ${{ secrets.GITHUB_TOKEN }}

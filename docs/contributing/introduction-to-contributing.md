@@ -45,7 +45,7 @@ please read the [Code of Conduct](./code-of-conduct.md) and follow the direction
 
   :::
 
-In case you get stuck, feel free to ask for help in the [Discord](https://discord.gg/U2peSNf23P) server or [GitHub Discussions](https://github.com/orgs/open-sauced/discussions).
+In case you get stuck, feel free to ask for help in the [Community](https://github.com/orgs/open-sauced/discussions/1) or [GitHub Discussions](https://github.com/orgs/open-sauced/discussions).
 
 Please follow our [Code of Conduct](./code-of-conduct.md) in all your interactions with the project and its contributors.
 
@@ -195,25 +195,13 @@ If you forget to run this command, automated PR checks will also run these comma
 
 ## Community
 
-Do you have questions? Join the conversation in our [Discord](https://discord.gg/U2peSNf23P).
+Do you have questions? Join the conversation in our [Community](https://github.com/orgs/open-sauced/discussions/1).
 
 :::info
 
 **IMPORTANT** <br /> Please do not DM Maintainers or contact them outside of GitHub if you want a PR Review. If you haven't received a review within a week, please tag them in the PR comments to ask for an estimated time of review.
 
 :::
-
-## Triage Team
-
-The Triage team is inspired by [expressjs/express](https://github.com/expressjs/express/blob/HEAD/Triager-Guide.md). This team exists to create a path for making contributions to this project and open source. All Triage Team members are expected to follow the [Triage Guide](./triage-guide.md).
-
-:::info
-
-There are no minimum requirements to become a member of the Triage Team.
-
-:::
-
-For those interested in getting involved in the project or just open source in general and wanting to join the Triage Team, please leave a comment in the `🍕opensauced-contributors-chat` channel on [Discord](https://discord.gg/U2peSNf23P).
 
 ## Funding
 

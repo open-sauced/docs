@@ -33,7 +33,7 @@ npm start
 
 ## 🍕 Community
 
-Got Questions? Join the conversation in our [Discord](https://discord.gg/U2peSNf23P).  
+Got Questions? Join the conversation in our [Community](https://github.com/orgs/open-sauced/discussions/1).  
 Find OpenSauced videos and release overviews on our [YouTube Channel](https://www.youtube.com/channel/UCklWxKrTti61ZCROE1e5-MQ).
 
 ## ⚖️ LICENSE
