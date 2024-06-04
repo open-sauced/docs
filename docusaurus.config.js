@@ -56,8 +56,8 @@ module.exports = {
           position: "left",
         },
         {
-          href: "https://discord.gg/U2peSNf23P",
-          label: "Discord",
+          href: "https://github.com/orgs/open-sauced/discussions",
+          label: "Community",
           position: "left",
         },
         {

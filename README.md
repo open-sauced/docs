@@ -16,7 +16,7 @@
 
 ## 🧪 Built for Experimenting
 
-This tool is meant to accelerate development on [OpenSauced](https://opensauced.pizza) by giving contributors a way to access [Docusaurus 2](https://docusaurus.io/) powered developer documentation available at [docs.opensauced.pizza](https://docs.opensauced.pizza).
+This tool is meant to accelerate development on [OpenSauced](https://opensauced.pizza) by giving contributors a way to access [Docusaurus 2](https://docusaurus.io/) powered developer documentation available at [opensauced.pizza/docs](https://opensauced.pizza/docs).
 
 ## 🤝 Contributing
 

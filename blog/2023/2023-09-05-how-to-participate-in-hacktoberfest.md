@@ -16,7 +16,7 @@ Hacktoberfest is an opt-in event. So to get the full benefits of Hacktoberfest, 
 ### Contributors
 1. Sign up between September 26 and October 31.
 2. Read the documentation.
-3. Ask for help when you need it - if you need a community, check out the [OpenSauced discord](https://discord.com/invite/U2peSNf23P).
+3. Ask for help when you need it - if you need a community, check out the [OpenSauced Community](https://github.com/orgs/open-sauced/discussions).
 4. Get those PRs in before November 1 to repositories that use the `hacktoberfest` topic in their repository!
 
 ### Maintainers
