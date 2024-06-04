@@ -22,9 +22,9 @@
     "pdf": "npx docusaurus-prince-pdf -u http://127.0.0.1:8080 -d ./build -o ./build/open-sauced-docs.pdf -f ./open-sauced-docs.txt --include-index"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.2.1",
-    "@docusaurus/plugin-pwa": "^3.2.1",
-    "@docusaurus/preset-classic": "^3.2.1",
+    "@docusaurus/core": "^3.4.0",
+    "@docusaurus/plugin-pwa": "^3.4.0",
+    "@docusaurus/preset-classic": "^3.4.0",
     "@docusaurus/theme-search-algolia": "^2.4.0",
     "@mdx-js/react": "^3.0.0",
     "axios": "^1.7.2",
