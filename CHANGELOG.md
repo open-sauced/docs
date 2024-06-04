@@ -5,6 +5,34 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.75.4](https://github.com/open-sauced/docs/compare/v1.75.3...v1.75.4) (2024-05-31)
+
+
+### Bug Fixes
+
+* Add banner image ([#313](https://github.com/open-sauced/docs/issues/313)) ([3ac1bf7](https://github.com/open-sauced/docs/commit/3ac1bf7e6dbc0acd32453821d367ddef9f7f573a))
+
+### [1.75.3](https://github.com/open-sauced/docs/compare/v1.75.2...v1.75.3) (2024-05-29)
+
+
+### Bug Fixes
+
+* Change base url for subdirectory ([#309](https://github.com/open-sauced/docs/issues/309)) ([b243676](https://github.com/open-sauced/docs/commit/b243676dfe0dfb721f7e6b6752087dba582a7b87))
+
+### [1.75.2](https://github.com/open-sauced/docs/compare/v1.75.1...v1.75.2) (2024-05-28)
+
+
+### Bug Fixes
+
+* Update triage guide ([#306](https://github.com/open-sauced/docs/issues/306)) ([b494b0d](https://github.com/open-sauced/docs/commit/b494b0dd6173a138155bbfd585e0c7c1bb66039a))
+
+### [1.75.1](https://github.com/open-sauced/docs/compare/v1.75.0...v1.75.1) (2024-05-27)
+
+
+### Bug Fixes
+
+* changed the screenshot in 'Activity' subsection of maintainers guide [#270](https://github.com/open-sauced/docs/issues/270) ([#303](https://github.com/open-sauced/docs/issues/303)) ([e7b5e45](https://github.com/open-sauced/docs/commit/e7b5e45e421682cfd6787f6bb57f30223350408a))
+
 ## [1.75.0](https://github.com/open-sauced/docs/compare/v1.74.0...v1.75.0) (2024-05-06)
 
 
