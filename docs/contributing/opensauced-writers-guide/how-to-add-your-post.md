@@ -74,7 +74,22 @@ This is my first post on OpenSauced.
 A whole bunch of exploration to follow.
 ```
 
-The front matter is useful to add more metadata to your blog post, for example, author information, but OpenSauced will be able to infer all necessary metadata without the front matter. For all possible fields, see the API documentation.
+### Front Matter
+
+The front matter is the metadata at the top of the Markdown file. It includes the title, description, slug, authors, tags, and hide_table_of_contents.
+
+- **title:** The title of the blog post.
+- **description:** A brief description of the blog post.
+- **slug:** The slug is the URL-friendly version of the title. It should be lowercase and hyphenated.
+- **authors:** The author of the blog post. If there are multiple authors that appear in the authors.yml, this is what it should look like:
+
+```markdown
+---
+authors:[BekahHW, nickytonline]
+---
+```
+- **tags:** Tags are used to categorize the blog post. They should be lowercase and separated by commas and highlight the main topics of the blog post.
+- **hide_table_of_contents:** This is a boolean value that determines whether the table of contents will be displayed. If you want to hide the table of contents, set it to `true`.
 
 ### Blog List
 
