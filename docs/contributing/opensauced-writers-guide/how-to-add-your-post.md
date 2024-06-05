@@ -42,7 +42,7 @@ If you do want to include a URL, you can include your OpenSauced profile, X, Lin
 
 ## Adding Blog Posts
 
-To publish in the blog, create a Markdown file within the blog directory. Note that we have subdirectories for each year, so writers should add their post to the folder that corresponds with the year.
+To publish in the blog, create a Markdown file within the blog directory. Note that we have subdirectories for each year, so writers should add their posts to the folder that corresponds with the year.
 
 **Example Path:** `/blog/2024/06-03-welcome-opensauced.md`
 
