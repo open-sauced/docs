@@ -12,7 +12,7 @@ Welcome to our Writers Contributor Guide. This will walk you through the steps o
 
 ## Repeat Authors: Adding to `authors.yml`
 
-For regular blog post authors, we should declare those authors globally in the configuration file:
+For regular blog post authors, we should declare those authors globally in the configuration file. Below is an example of how to add an author to the `authors.yml` file:
 
 **Location:** `/blog/authors.yml`
 
@@ -32,6 +32,13 @@ nickytonline:
   url: https://www.nickyt.co/
   image_url: https://github.com/nickytonline.png
 ```
+
+### Tips
+
+All authors should include their name and an image URL. The title, URL, and email are optional fields. We do not recommend using your personal email. If you don't currently have a job title, feel free to use a volunteer title or a title that best describes your role in the community. For instance, you could write, "OpenSauced Community Writer."
+
+If you do want to include a URL, you can include your OpenSauced profile, X, LinkedIn, personal website, etc.
+
 
 ## Adding Blog Posts
 
