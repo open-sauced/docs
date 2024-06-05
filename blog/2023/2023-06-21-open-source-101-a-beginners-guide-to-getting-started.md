@@ -52,7 +52,7 @@ If there aren’t any labels for beginners, don’t forget that the [best first 
  
 > **Check out [OpenSauced Community Health Files](https://github.com/open-sauced/.github/tree/main).**
 
-- Engage with the Community. Join the project’s communication channels, like Slack or [Discord](https://discord.gg/6KYErCXf), their discussions, their blog, and introduce yourself. Ask questions and express your interest in contributing. Becoming a part of the community will expand your connections, help you to gain insights into ongoing discussions and development timelines, and may be an opportunity for mentorship from experienced contributors.
+- Engage with the Community. Join the project’s communication channels, like Slack or Discord, [discussion forum](https://github.com/orgs/open-sauced/discussions), or their blog, and introduce yourself. Ask questions and express your interest in contributing. Becoming a part of the community will expand your connections, help you to gain insights into ongoing discussions and development timelines, and may be an opportunity for mentorship from experienced contributors.
 - Start small. Look for issues that are small and easy to fix. As you gain experience, you can start working on larger issues or taking on more responsibility. Don’t be afraid to ask for help or to let the maintainers know if you’ve taken on an issue that you can’t complete. It’s all part of the process.
 - Be patient. It takes time to learn how to contribute to an open source project. Don't get discouraged if you don't get everything right the first time. Just keep learning and practicing, and you'll eventually get the hang of it.
 

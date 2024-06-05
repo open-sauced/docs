@@ -24,7 +24,7 @@ You’re more likely to succeed in what you do if you if you set goals and you c
 
 5. **Prioritize and Time Management**. Prioritize your goals and create a schedule that divides time for contributions, learning, and community engagement. Remember, the goal of #100DaysOfOSS is to help you grow. You don’t want to burn out. So be realistic about the time that you have to devote to open source projects. And remember, it’s ok and good to schedule days off as part of your schedule.
 
-6. **Set Accountability Measures**. Establish ways to track your progress, such as using our [journal template](https://github.com/open-sauced/100-days-of-oss-template), adding [a highlight to your OpenSauced profile](https://insights.opensauced.pizza/feed), and/or using the #100DaysOfOSS hashtag on social media. You can also share your goals in the [OpenSauced Discord](https://discord.gg/opensauced) for added support.
+6. **Set Accountability Measures**. Establish ways to track your progress, such as using our [journal template](https://github.com/open-sauced/100-days-of-oss-template), adding [a highlight to your OpenSauced profile](https://insights.opensauced.pizza/feed), and/or using the #100DaysOfOSS hashtag on social media. You can also share your goals in the [OpenSauced Community](https://github.com/orgs/open-sauced/discussions) for added support.
 
 7. **Embrace Flexibility**. Stay open to adjusting your goals or setting new ones as you go along with the challenge. You might find there are new opportunities, that you need a break, or that you’re able to spend more time than you initially anticipated.
 
