@@ -95,9 +95,7 @@ authors:[BekahHW, nickytonline]
 
 The blog's index page (a custom path for OpenSauced at `/community-resources`) is the blog list page, where all blog posts are collectively displayed.
 
-Use the `<!--truncate-->` marker in your blog post to represent what will be shown as the summary when viewing all published blog posts. Anything above `<!--truncate-->` will be part of the summary. Note that the portion above the truncate marker must be standalone renderable Markdown. For example:
-
-**Example Path:** `website/blog/my-post.md`
+Use the `<!--truncate-->` marker in your blog post to represent what will be shown as the summary when viewing all published blog posts. Anything above `<!--truncate-->` will be part of the summary. Note that the portion above the truncate marker must be standalone renderable Markdown. 
 
 **Markdown Example:**
 ```markdown
@@ -116,5 +114,7 @@ But anything from here on down will not be.
 ### Image Usage
 
 We are not going to use images in the front matter. The rest of the post should be in markdown format. 
+
+If you want to include images within your post, please use only images that directly relate to the content of the post. If you need to add an image to the repository (rather than linking from somewhere else), you can add it to the `/static` directory in the `gif` or `img` subdirectory.
 
 By following these guidelines, you will ensure consistency and ease of maintenance across our blog posts. Happy writing!
