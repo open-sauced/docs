@@ -28,7 +28,7 @@ BekahHW:
 
 nickytonline:
   name: Nick Taylor
-  title: AI Engingeer
+  title: AI Engineer 
   url: https://www.nickyt.co/
   image_url: https://github.com/nickytonline.png
 ```
