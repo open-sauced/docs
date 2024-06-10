@@ -6,7 +6,7 @@ slug: 2024-04-16-creating-an-og-image-using-react-and-netlify-edge-functions-563
 description: "Open Graph (OG) images are a must if you're sharing content on the Internet. From sites like..."
 ---
 
-[Open Graph](url) (OG) images are a must if you're sharing content on the Internet. From sites like X/Twitter, to Slack or Discord, a great OG image makes your link share pop.
+[Open Graph](https://ogp.me/) (OG) images are a must if you're sharing content on the Internet. From sites like X/Twitter, to Slack or Discord, a great OG image makes your link share pop.
 
 ## Examples
 
