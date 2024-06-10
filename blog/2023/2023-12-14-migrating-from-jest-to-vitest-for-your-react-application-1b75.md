@@ -1,6 +1,6 @@
 ---
 title: "Migrating from Jest to Vitest for your React Application"
-tags:[]
+tags: []
 authors: nickytonline
 slug: 2023-12-14-migrating-from-jest-to-vitest-for-your-react-application-1b75
 description: "Are you looking to migrate from Jest to Vitest for your React application? Look no further.  I..."
@@ -127,7 +127,7 @@ Next, add `jsdom` to your Vitest configuration.
 
 ## Aliases
 
-Your project might be using aliases for paths. For example, in  the OpenSauced app repository, `components`, `lib`, and `img` are aliases to folders.
+Your project might be using aliases for paths. For example, in the OpenSauced app repository, `components`, `lib`, and `img` are aliases to folders.
 
 If you need to [support aliases](https://vitest.dev/config/#alias), Vitest has you covered.
 

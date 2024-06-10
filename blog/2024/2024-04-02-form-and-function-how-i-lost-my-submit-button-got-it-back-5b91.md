@@ -1,6 +1,6 @@
 ---
 title: "Form and Function: How I Lost My Submit Button & Got It Back"
-tags:[]
+tags: []
 authors: nickytonline
 slug: 2024-04-02-form-and-function-how-i-lost-my-submit-button-got-it-back-5b91
 description: "As web developers, we know that most of the create, read update, and delete (CRUD) actions we perform..."
@@ -22,7 +22,7 @@ If you fill out the form and click submit, the form will submit and add a paragr
 
 ![Submitting the simple form](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rbpoz901yk9s8kewx806.gif)
 
-There are other things in the simple form, like form validation via the [required](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/required) attribute on inputs, but that's not what we're here to discuss. 
+There are other things in the simple form, like form validation via the [required](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/required) attribute on inputs, but that's not what we're here to discuss.
 
 What we want to touch on is that the form was able to handle the submit event because it had a submit button associated with it, which was defined in HTML within the form element.
 
@@ -41,7 +41,7 @@ Recently, there were styling changes, which is what you see above.
 <a href="https://github.com/open-sauced/app/pull/2982">https://github.com/open-sauced/app/pull/2982</a>
 
 Everything looked great, and I had tested it.
- 
+
 _Narrator: he thought he had tested it, and we shipped things to production._
 
 Once things went live, I decided to do some smoke tests, which I usually do. I went over to the beautiful workspace settings I had worked on, made some changes in the settings, and then clicked <kbd>Update Workspace</kbd> button. Hmm, no toast message saying the settings were updated. I checked the browser dev tools to see if there were any JavaScript errors. Nothing related to the updates. <em>And then it dawned on me</em>. The submit button was outside the form, and I just broke some key functionality in the app.

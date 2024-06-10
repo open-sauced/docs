@@ -1,6 +1,6 @@
 ---
 title: "Unlocking the Power of HTML's Native Browser Dialog Element"
-tags:[]
+tags: []
 authors: nickytonline
 slug: 2024-01-23-the-native-browser-dialog-element-1nhn
 description: "All the major browsers now support the &lt;dialog &gt; element. Why add this HTML element? User land..."
@@ -56,7 +56,7 @@ With a non-modal dialog, the user is not blocked from navigating the rest of the
 
 ## Closing a dialog
 
-To close a dialog or modal, we can use the [HTMLDialogElement  close method](https://developer.mozilla.org/en-US/docs/Web/API/HTMLDialogElement/close).
+To close a dialog or modal, we can use the [HTMLDialogElement close method](https://developer.mozilla.org/en-US/docs/Web/API/HTMLDialogElement/close).
 
 ```typescript
 {% raw %}

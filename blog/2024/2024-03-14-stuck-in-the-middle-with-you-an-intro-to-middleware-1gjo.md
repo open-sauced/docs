@@ -1,6 +1,6 @@
 ---
 title: "Stuck in the Middle with You: An intro to Middleware"
-tags:[]
+tags: []
 authors: nickytonline
 slug: 2024-03-14-stuck-in-the-middle-with-you-an-intro-to-middleware-1gjo
 description: "Middleware exists in several frameworks like Next.js, Express, Hono and Fresh, and not just in..."
@@ -12,11 +12,11 @@ Middleware is something that happens in the middle of a user or some service int
 
 It runs before a page loads or an API endpoint is called, or more generally a route. There are many reasons why you might want to do that:
 
-* gate certain content, e.g. a private route
-* set and read cookies
-* add headers to the response being sent out
-* [URL](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL) redirect, e.g. redirecting to another page based on some criteria
-* URL rewrites
+- gate certain content, e.g. a private route
+- set and read cookies
+- add headers to the response being sent out
+- [URL](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL) redirect, e.g. redirecting to another page based on some criteria
+- URL rewrites
 
 Let's dig in!
 
@@ -208,8 +208,8 @@ Here's a slightly modified example straight out of the Next.js middleware docume
 {% raw %}
 import { NextResponse } from 'next/server'
 import type { NextRequest } from 'next/server'
- 
-export function middleware(request: NextRequest) { 
+
+export function middleware(request: NextRequest) {
   if (request.nextUrl.pathname.startsWith('/dashboard')) {
     return NextResponse.rewrite(new URL('/dashboard/user', request.url))
   }
@@ -225,12 +225,12 @@ In the above snippet, all users have a `/dashboard` page they go to, but every u
 
 Here's the documentation for middleware of the mentioned frameworks:
 
-* [Express middleware](https://expressjs.com/en/guide/using-middleware.html)
-* [Hono middleware](https://hono.dev/guides/middleware)
-* [Next.js middleware](https://nextjs.org/docs/app/building-your-application/routing/middleware)
-* [Fresh middlewares](https://fresh.deno.dev/docs/concepts/middleware)
-* [Laravel middleware](https://laravel.com/docs/10.x/middleware)
-* [ASP.NET Core middleware](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-8.0)
+- [Express middleware](https://expressjs.com/en/guide/using-middleware.html)
+- [Hono middleware](https://hono.dev/guides/middleware)
+- [Next.js middleware](https://nextjs.org/docs/app/building-your-application/routing/middleware)
+- [Fresh middlewares](https://fresh.deno.dev/docs/concepts/middleware)
+- [Laravel middleware](https://laravel.com/docs/10.x/middleware)
+- [ASP.NET Core middleware](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-8.0)
 
 ## Wrapping Up
 

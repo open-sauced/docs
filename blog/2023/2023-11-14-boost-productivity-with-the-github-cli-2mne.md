@@ -1,6 +1,6 @@
 ---
 title: "Boost productivity with the GitHub CLI"
-tags:[]
+tags: []
 authors: nickytonline
 slug: 2023-11-14-boost-productivity-with-the-github-cli-2mne
 description: "The GitHub CLI is an indispensable tool as a project maintainer or contributor on GitHub. It can..."
@@ -101,7 +101,7 @@ Here it is in action for a recent pull request I reviewed for the [OpenSauced ap
 
 ## Creating a Pull Request
 
-Before the GitHub CLI, I used to push my branch to GitHub, and then I would go to the repository's page on GitHub.com and create a pull request from there. 
+Before the GitHub CLI, I used to push my branch to GitHub, and then I would go to the repository's page on GitHub.com and create a pull request from there.
 
 ![A repository's main page on github.com with a call to action to create a pull request from a branch pushed to github.com](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mt6fqypoarfmu7er8c3t.png)
 
@@ -171,7 +171,7 @@ A quick check will ask if you want to create the repository on GitHub. Type `y` 
 
 ![The GitHub CLI summarizing all the selections made, prompting the user to create the repository on GitHub](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fek4c3bxo06ul695g5v2.png)
 
-Next, you'll be asked if you want to clone the repository locally. 
+Next, you'll be asked if you want to clone the repository locally.
 
 ![The GitHub CLI asking the user if they want to clone the repository](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3cu0ea66kzsji32qfh0j.png)
 

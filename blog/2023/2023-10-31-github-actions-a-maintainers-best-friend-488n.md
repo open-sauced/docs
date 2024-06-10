@@ -1,6 +1,6 @@
 ---
 title: "GitHub Actions: A Maintainer's Best Friend"
-tags:[]
+tags: []
 authors: nickytonline
 slug: 2023-10-31-github-actions-a-maintainers-best-friend-488n
 description: "As developers, it’s in our best interest to automate things. The less we have to do in a manual way,..."
@@ -8,7 +8,7 @@ description: "As developers, it’s in our best interest to automate things. The
 
 As developers, it’s in our best interest to automate things. The less we have to do in a manual way, the better. As soon as manual intervention is required, there is potential for failure or a mishap. Aside from that, it’s your time as a maintainer that could be spent elsewhere.
 
-If you host your code on GitHub, besides scripts to automate certain actions, you can also leverage the huge ecosystem of [GitHub 
+If you host your code on GitHub, besides scripts to automate certain actions, you can also leverage the huge ecosystem of [GitHub
 Actions](https://github.com/features/actions).
 
 ## Practical Examples
@@ -31,11 +31,9 @@ When a new issue is opened, an issue responds with the following:
 
 My coworker bdougie (@bdougieyo) created the [take Github action](https://github.com/bdougie/take-action). It allows external contributors to self-assign issues by typing `.take` into a comment of an issue. This removes the burden of a bit of back and forth between contributors and maintainers.
 
-
 [![OpenSauced contributor itskish0re self assigning an issue by using the .take command](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eh9gjzo8aiwleqqr7qhe.png)](https://github.com/open-sauced/app/issues/2017#issuecomment-1785492904)
 
-Of course, we don’t want external contributors self-assigning any issue they want.	 The take action also has the concept of blocking labels. For example, if an issue has a `👀 needs triage` label, we can add this label to a list of blocking labels.
-
+Of course, we don’t want external contributors self-assigning any issue they want. The take action also has the concept of blocking labels. For example, if an issue has a `👀 needs triage` label, we can add this label to a list of blocking labels.
 
 [![Someone trying to self-assign an issue when there are blocking labels on the issue](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w52j0puh47kpgg27clnd.png)](https://github.com/open-sauced/app/issues/1952#issuecomment-1772176129)
 

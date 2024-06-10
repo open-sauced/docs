@@ -1,6 +1,6 @@
 ---
 title: "Challenging the Skeptics: Unveiling the Undeniable Goodness of Tailwind CSS"
-tags:[]
+tags: []
 authors: nickytonline
 slug: 2024-02-06-challenging-the-skeptics-unveiling-the-undeniable-goodness-of-tailwind-css-4doc
 description: "People definitely have opinions about Tailwind. There are staunch supporters and staunch haters, but..."
@@ -10,7 +10,7 @@ People definitely have opinions about Tailwind. There are staunch supporters and
 
 If you're pretty well versed with Tailwind, this article might not be for you, but who knows? Read on and maybe you'll learn something.
 
-I'm coming in with what, I think, is a fresh perspective. I'm using Tailwind for the first time professionally. Furthermore, I don't consider myself a CSS expert, but I think I have pretty solid CSS skills. 
+I'm coming in with what, I think, is a fresh perspective. I'm using Tailwind for the first time professionally. Furthermore, I don't consider myself a CSS expert, but I think I have pretty solid CSS skills.
 
 I mention all this, to convey a sentiment, I've seen many people exhibit. You're using Tailwind because you don't understand CSS. I do understand CSS.
 
@@ -98,13 +98,11 @@ What about something more complex like [pseudo-elements](https://developer.mozil
 ```html
 {% raw %}
 <style>
-.pizza-time::before {
-  content: attr(data-inset-label)
-}
+  .pizza-time::before {
+    content: attr(data-inset-label);
+  }
 </style>
-<p data-inset-label="🍕" class="pizza-time">
-  OpenSauced is awesome!
-</p>
+<p data-inset-label="🍕" class="pizza-time">OpenSauced is awesome!</p>
 {% endraw %}
 ```
 
@@ -157,13 +155,13 @@ I think something that would be interesting to add to the Tailwind a11y story is
 
 ## Define some base styles
 
-I'm all for components, and I'm a big fan of [JSX](https://jasonformat.com/wtf-is-jsx/). Tailwind pairs nicely with components, but I do think that it's still good to have some base styles defined, even if you are using components. 
+I'm all for components, and I'm a big fan of [JSX](https://jasonformat.com/wtf-is-jsx/). Tailwind pairs nicely with components, but I do think that it's still good to have some base styles defined, even if you are using components.
 
 For example, a base font size and colour, focus state styles, headings etc. This is what I [ended up doing in the OpenSauced app repository](https://github.com/open-sauced/app/pulls?q=is%3Apr+sort%3Aupdated-desc+is%3Amerged+focus+author%3Anickytonline).
 
 ## Another Complaint: It's like bootstrap
 
-Tailwind CSS on its own is not like bootstrap. It's just CSS utility classes, whereas bootstrap is UI components and CSS. 
+Tailwind CSS on its own is not like bootstrap. It's just CSS utility classes, whereas bootstrap is UI components and CSS.
 
 I've never used it, but maybe you could fall into this trap with [Tailwind UI](https://tailwindui.com/).
 
@@ -183,7 +181,7 @@ Remember, **Tailwind is a utility-first CSS framework. It's not inline CSS.**
 
 I encourage you to give Tailwind a go. They have outstanding [documentation](https://tailwindcss.com/docs) and [great IDE support](https://tailwindcss.com/docs/editor-setup) to help you along the way.
 
-If you give it a go and say it's not for me, that's OK. Use what makes you the most productive. 
+If you give it a go and say it's not for me, that's OK. Use what makes you the most productive.
 
 Stay saucy peeps!
 
