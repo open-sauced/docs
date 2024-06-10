@@ -2,7 +2,7 @@
 title: "Migrating from Jest to Vitest for your React Application"
 tags: []
 authors: nickytonline
-slug: 2023-12-14-migrating-from-jest-to-vitest-for-your-react-application-1b75
+slug: migrating-from-jest-to-vitest-for-your-react-application
 description: "Are you looking to migrate from Jest to Vitest for your React application? Look no further.  I..."
 ---
 

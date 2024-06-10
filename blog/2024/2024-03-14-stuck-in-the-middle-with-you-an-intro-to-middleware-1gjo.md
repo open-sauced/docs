@@ -2,7 +2,7 @@
 title: "Stuck in the Middle with You: An intro to Middleware"
 tags: []
 authors: nickytonline
-slug: 2024-03-14-stuck-in-the-middle-with-you-an-intro-to-middleware-1gjo
+slug: stuck-in-the-middle-with-you-an-intro-to-middleware
 description: "Middleware exists in several frameworks like Next.js, Express, Hono and Fresh, and not just in..."
 ---
 

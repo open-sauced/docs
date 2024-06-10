@@ -2,7 +2,7 @@
 title: "GitHub Actions: A Maintainer's Best Friend"
 tags: []
 authors: nickytonline
-slug: 2023-10-31-github-actions-a-maintainers-best-friend-488n
+slug: github-actions-a-maintainers-best-friend
 description: "As developers, it’s in our best interest to automate things. The less we have to do in a manual way,..."
 ---
 

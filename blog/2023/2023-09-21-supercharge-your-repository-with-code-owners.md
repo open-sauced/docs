@@ -2,7 +2,7 @@
 title: "Supercharge your Repository with Code Owners"
 tags: []
 authors: nickytonline
-slug: 2023-09-21-supercharge-your-repository-with-code-owners-4clg
+slug: supercharge-your-repository-with-code-owners
 description: "As a maintainer of a repository, it’s in your best interest to automate processes as much as..."
 ---
 
