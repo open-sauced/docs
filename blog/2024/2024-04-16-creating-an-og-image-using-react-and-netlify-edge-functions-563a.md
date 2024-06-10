@@ -30,7 +30,7 @@ This dynamic info gets pulled in for the most part from the OpenSauced API.
 
 Other parts are pulled in from the URL, like `30` for the day range, and the description comes from the query string in the OG image URL.
 
-![browser dev tools view of the metadata section of the <head> with OG image URLs outlined by green squares](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f059m9we4gkmb8ixx39v.png)
+![browser dev tools view of the metadata section of the head with OG image URLs outlined by green squares](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f059m9we4gkmb8ixx39v.png)
 
 ## React to generate an image
 
