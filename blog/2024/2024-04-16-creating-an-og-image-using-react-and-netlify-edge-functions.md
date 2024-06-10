@@ -1,6 +1,6 @@
 ---
 title: "Creating an OG image using React and Netlify Edge Functions"
-tags: []
+tags: ["netlify", "typescript", "react"]
 authors: nickytonline
 slug: creating-an-og-image-using-react-and-netlify-edge-functions
 description: "Open Graph (OG) images are a must if you're sharing content on the Internet. From sites like..."

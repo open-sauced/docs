@@ -1,6 +1,6 @@
 ---
 title: "Migrating from Jest to Vitest for your React Application"
-tags: []
+tags: ["testing", "react", "vitest", "typescript"]
 authors: nickytonline
 slug: migrating-from-jest-to-vitest-for-your-react-application
 description: "Are you looking to migrate from Jest to Vitest for your React application? Look no further.  I..."

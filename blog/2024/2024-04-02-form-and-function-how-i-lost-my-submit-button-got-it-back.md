@@ -1,6 +1,6 @@
 ---
 title: "Form and Function: How I Lost My Submit Button & Got It Back"
-tags: []
+tags: ["html", "webdev", "beginners"]
 authors: nickytonline
 slug: form-and-function-how-i-lost-my-submit-button-got-it-back
 description: "As web developers, we know that most of the create, read update, and delete (CRUD) actions we perform..."

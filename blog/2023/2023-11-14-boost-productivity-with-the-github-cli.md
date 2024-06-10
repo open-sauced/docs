@@ -1,6 +1,6 @@
 ---
 title: "Boost productivity with the GitHub CLI"
-tags: []
+tags: ["github", "cli", "git", "productivity"]
 authors: nickytonline
 slug: boost-productivity-with-the-github-cli
 description: "The GitHub CLI is an indispensable tool as a project maintainer or contributor on GitHub. It can..."

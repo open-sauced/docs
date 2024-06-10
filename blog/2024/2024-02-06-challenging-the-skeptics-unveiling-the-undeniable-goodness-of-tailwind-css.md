@@ -1,6 +1,6 @@
 ---
 title: "Challenging the Skeptics: Unveiling the Undeniable Goodness of Tailwind CSS"
-tags: []
+tags: ["css", "tailwindcss", "webdev"]
 authors: nickytonline
 slug: challenging-the-skeptics-unveiling-the-undeniable-goodness-of-tailwind-css
 description: "People definitely have opinions about Tailwind. There are staunch supporters and staunch haters, but..."

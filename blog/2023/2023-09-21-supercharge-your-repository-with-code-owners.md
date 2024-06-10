@@ -1,6 +1,6 @@
 ---
 title: "Supercharge your Repository with Code Owners"
-tags: []
+tags: ["github", "opensource", "productivity", "security"]
 authors: nickytonline
 slug: supercharge-your-repository-with-code-owners
 description: "As a maintainer of a repository, it’s in your best interest to automate processes as much as..."

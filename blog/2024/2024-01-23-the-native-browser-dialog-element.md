@@ -1,6 +1,6 @@
 ---
 title: "Unlocking the Power of HTML's Native Browser Dialog Element"
-tags: []
+tags: ["html", "javascript", "a11y", "css"]
 authors: nickytonline
 slug: the-native-browser-dialog-element
 description: "All the major browsers now support the &lt;dialog &gt; element. Why add this HTML element? User land..."
