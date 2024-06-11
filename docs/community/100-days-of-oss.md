@@ -82,7 +82,7 @@ To make the most of your #100DaysOfOSS journey, here are some additional resourc
 
 3. **Contribution opportunities:** If you're actively looking for open source projects to contribute to, check out the [post](https://dev.to/bekahhw/series/23323) for new contribution opportunities.
 
-4. **Weekly office hours:** Have questions or need help? Join us in our [Community](https://github.com/orgs/open-sauced/discussions/1) during our office hours or post on our `#100DaysOfOSS` channel. We're here to help you succeed!
+4. **Discussion Forum:** Have questions or need help? Join us in our [Community](https://github.com/orgs/open-sauced/discussions/1) or post on our [#100DaysOfOSS discussion](https://github.com/orgs/open-sauced/discussions/36). We're here to help you succeed!
 
 ## Where to Start?
 
@@ -110,9 +110,5 @@ Our hope is that the community will provide a safe space to discuss challenges, 
 4. **Learning from peers**: By examining the codebase, participating in discussions, engaging in the community, and reviewing pull requests, contributors can gain insights into different approaches to community, projects, coding styles, architecture patterns, and software development best practices, accelerating a developer's learning curve.
 
 5. **Making a positive impact**: Your contributions benefit other contributors who rely on these projects, fostering a sense of fulfillment and giving back to the community.
-
-### Weekly Office Hours
-
-Have questions or need help? Join us on [Community](https://github.com/orgs/open-sauced/discussions/1) and post on our `#100DaysOfOSS` channel. We're here to help you succeed!
 
 Happy contributing, and best of luck on your #100DaysOfOSS adventure!

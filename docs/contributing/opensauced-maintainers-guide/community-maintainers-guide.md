@@ -80,7 +80,7 @@ Good first issues mainly aim for complete beginners and someone new to OpenSauce
 - Do not approve changes or dismiss reviews from a maintainer even if the contributor has completed the change requests. Re-request review instead.
 - If you have the time, it's great to encourage contributors with a positive message like these:
 
-  - "Thanks for contributing, \{@username}\. Join our [Discord](https://discord.com/invite/U2peSNf23P) community for more updates on OpenSauced and to find more projects."
+  - "Thanks for contributing, \{@username}\. Join our [Community](https://github.com/orgs/open-sauced/discussions) for more updates on OpenSauced and to find more projects."
 
   - A personal message acknowledging their impact.
 

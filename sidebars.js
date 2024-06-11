@@ -162,6 +162,14 @@ module.exports = {
           collapsed: true,
           items: ["contributing/technical/setup-repo-with-git", "contributing/technical/resolve-merge-conflicts"],
         },
+        {
+          type: "category",
+          label: "OpenSauced Writers Guides",
+          collapsed: true,
+          items: [
+            "contributing/opensauced-writers-guide/writers-guide",
+          ],
+        },
       ],
     },
     {
