@@ -10,7 +10,6 @@ Welcome to our [#100DaysOfOSS series](https://dev.to/opensauced/100daysofoss-gro
 
 <!-- truncate -->
 
-
 Today, we're covering the letter "T" for Transparency.
 
 **Transparency**: Transparency helps to build trust in open source. Because open source is a collaborative effort, with people from all over the world coming together to develop and maintain projects, transparency is one of the most important strengths of the open source community. 
