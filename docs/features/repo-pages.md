@@ -60,20 +60,20 @@ Contributor Confidence is a new metric that helps us understand the likelihood o
 
 We calculate Contributor Confidence as a percentage over a specific time period (usually 30 days). Here’s what we look at:
 
-	•	**Starred Repositories**: We check if people who starred a repository have contributed to other repositories during the same timeframe. If they have, we see if they also contributed to the starred repository itself.
-	•	**Forked Repositories**: Similar to starred repositories, we check if people who forked a repository have contributed elsewhere recently. We then see if they made a pull request or other contribution to the forked repository.
+	- **Starred Repositories**: We check if people who starred a repository have contributed to other repositories during the same timeframe. If they have, we see if they also contributed to the starred repository itself.
+	- **Forked Repositories**: Similar to starred repositories, we check if people who forked a repository have contributed elsewhere recently. We then see if they made a pull request or other contribution to the forked repository.
 
 ##### Weighting the Score
 
-	•	**Forks**: Forking a repository generally indicates a stronger intent to contribute compared to just starring it. So forks tend to have a slightly higher weighting in the confidence score.
-	•	**Direct Contributions**: If someone actually makes a contribution to the repository in question, their confidence score for that specific repository becomes 100% (the highest weight).
+	- **Forks**: Forking a repository generally indicates a stronger intent to contribute compared to just starring it. So forks tend to have a slightly higher weighting in the confidence score.
+	- **Direct Contributions**: If someone actually makes a contribution to the repository in question, their confidence score for that specific repository becomes 100% (the highest weight).
 
 ##### Why is it Useful?
 
 This metric benefits both contributors and repository owners/maintainers:
 
-	•	**Contributors**: A high Contributor Confidence score (e.g., 37-50%) suggests a welcoming and active repository where your contributions are likely to be seen and valued. A low score (e.g., 1-3%) might indicate it’s harder for newcomers to contribute.
-	•	**Owners/Maintainers**: Contributor Confidence helps understand recent stars and forks in the context of contributors. A higher score suggests more people who have recently contributed elsewhere or within the repository itself, which can be a positive indicator of the overall health of your repository.
+	- **Contributors**: A high Contributor Confidence score (e.g., 37-50%) suggests a welcoming and active repository where your contributions are likely to be seen and valued. A low score (e.g., 1-3%) might indicate it’s harder for outside contributors to contribute.
+	- **Owners/Maintainers**: Contributor Confidence helps understand recent stars and forks in the context of contributors. A higher score suggests more people who have recently contributed elsewhere or within the repository itself, which can be a positive indicator of the overall health of your repository.
 
 ### Contributor Dashboard
 
