@@ -33,6 +33,10 @@ The activity ratio in Workspaces is based on pull request commits, issues commen
 
 A contributor who has not been active on a project in the last 30 days.
 
+## Contributor Confidence
+
+Contributor Confidence is a metric that estimates the likelihood of users who star or fork a repository returning to make contributions within a specified time range. It is calculated by analyzing the contribution patterns of these users, considering both their activity in other repositories and their direct contributions to the repository in question. Forks are weighted more heavily than stars, and users who do return to contribute significantly influence the confidence score. This metric helps contributors gauge the activity level of a repository and assists maintainers in understanding user engagement, thereby providing insights into the overall health and vibrancy of the project.
+
 ## Contributor Insights 
 
 The Contributor Insights feature enables you to categorize, monitor, and analyze different groups of contributors within open source projects. With the Contributor Insights feature, gain granular insights into each contributor's activity and contributions.
