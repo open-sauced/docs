@@ -70,10 +70,14 @@ We calculate Contributor Confidence as a percentage over a specific time period 
 
 ##### Why is it Useful?
 
-This metric benefits both contributors and repository owners/maintainers:
+Understanding Contributor Confidence can help you gauge the health of a repository and its community. Here are a few ways you can interpret the score:
 
-	- **Contributors**: A high Contributor Confidence score (e.g., 37-50%) suggests a welcoming and active repository where your contributions are likely to be seen and valued. A low score (e.g., 1-3%) might indicate it’s harder for outside contributors to contribute.
-	- **Owners/Maintainers**: Contributor Confidence helps understand recent stars and forks in the context of contributors. A higher score suggests more people who have recently contributed elsewhere or within the repository itself, which can be a positive indicator of the overall health of your repository.
+	- A **high Contributor Confidence score (e.g., 37-50%)** suggests a welcoming and active repository where your contributions are likely to be seen and valued. 
+    - A **low score (e.g., 1-3%)** might indicate it’s harder for outside contributors to contribute. 
+    - A **score in the range of 30-50%** often indicates a healthy and active project. 
+    - An **exceptionally high score (above 40%)** could have different interpretations depending on the project. For very popular repositories, it might still reflect a strong community. For smaller projects, it could suggest a lower barrier to entry that might lead to a high volume of low-quality contributions or unfinished work.
+
+For **Owners/Maintainers**, Contributor Confidence helps understand recent stars and forks in the context of contributors. A higher score suggests more people who have recently contributed elsewhere or within the repository itself, which can be a positive indicator of the overall health of your repository.
 
 ### Contributor Dashboard
 
