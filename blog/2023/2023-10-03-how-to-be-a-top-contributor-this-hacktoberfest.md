@@ -8,6 +8,8 @@ description: "Discover how to be a top new contributor this Hacktoberfest. "
 
 If you’ve read any of my previous posts, you know that I’m a fan of redefining contributions. But during Hacktoberfest, there’s more competition for the magic four pull requests (PRs). If we think of it like [Moneyball for engineers](https://opensauced.pizza/blog/moneyball-for-engineers), except limiting it to Hacktoberfest, we realize it's not about hitting home runs; it's about getting on base consistently and making strategic plays that contribute to the overall win. So, how do you become a top contributor during Hacktoberfest? 
 
+<!-- truncate -->
+
 ![Ham yelling play ball](https://media.giphy.com/media/QtoG24OvehcYUhf7mI/giphy.gif)
 
 ## Five Pillars of Hacktoberfest Contribution
