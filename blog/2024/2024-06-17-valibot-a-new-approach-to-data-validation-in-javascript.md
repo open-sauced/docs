@@ -18,17 +18,17 @@ If video is your jam, check out this highlight from the live stream that summari
 
 During [his thesis work](https://valibot.dev/thesis.pdf), developer Fabian Hiller found himself with dedicated time to pursue an idea he'd been mulling over - creating a new modular data validation library for JavaScript. This led to the birth of Valibot.
 
-Hiller had previously worked on [modular forms](https://modularforms.dev/), but he wanted to bring that same modular philosophy to data validation. While popular validation libraries like [Zod](https://zod.dev/) offer excellent APIs, Hiller felt there was room to take modularity even further.
+Fabian had previously worked on [Modular Forms](https://modularforms.dev/), but he wanted to bring that same modular philosophy to data validation. While popular validation libraries like [Zod](https://zod.dev/) offer excellent APIs, Fabian felt there was room to take modularity even further.
 
-> "For Zod, it doesn't make sense to make it extremely modular as Valibot, because most Zod users love Zod for its API", Hiller explained. "This would probably be too big of a breaking change."
+> "For Zod, it doesn't make sense to make it extremely modular as Valibot, because most Zod users love Zod for its API", Fabian explained. "This would probably be too big of a breaking change."
 
 Instead of trying to rebuild Zod from the ground up, he decided a fresh start made more sense. Valibot aims for ultimate modularity, allowing developers to compose small, reusable validation units together.
 
-Hiller didn't work in isolation. He reached out to Zod's creator Colin McDonnell, but the timing didn't line up for deeper collaboration initially. Hiller remains in touch with McDonnell and other open source maintainers though.
+Fabian didn't work in isolation. He reached out to Zod's creator Colin McDonnell, but the timing didn't line up for deeper collaboration initially. Fabian remains in touch with McDonnell and other open source maintainers though.
 
 > "I'm sure improvements I made in Valibot will hopefully improve other libraries, and other libraries will hopefully affect and improve Valibot," he said. "I hope at the end we end up with great open source projects, and the community can choose what they prefer."
 
-With Valibot, Hiller hopes to provide developers a new, composable approach to data validation. And by cross-pollinating with other libraries, he aims to push the entire JavaScript validation ecosystem forward.
+With Valibot, Fabian hopes to provide developers a new, composable approach to data validation. And by cross-pollinating with other libraries, he aims to push the entire JavaScript validation ecosystem forward.
 
 ## A First Look at Valibot
 
@@ -105,7 +105,7 @@ If we run the updated playground, it will now output the following:
 
 You can view the updated example in [this Valibot playground](https://valibot.dev/playground/?code=JYWwDg9gTgLgBAKjgQwM5wG5wGZQiOAcg2QBtgAjCGQgbgCh6BjCAO1XgFERlhSBlJgAsApjzgBeTADowwMCIAUGaRyjBWAc0UBKADQyxvUrp0NmbDpjLAAJt2OSZqZNhEAFZFFRKHfQaI8BoQAVsisIiIAHsjgpCLSLCCEZows7BDx0qQQ2iTk9jx8qUA).
 
-If this were running in an application, it would throw, so we'd want to handle that. You can see an example of that in a recent pull request of mine.
+You can see an example of valibot in action in a recent pull request of mine.
 
 ```typescript
 if (context.query.id) {
@@ -129,7 +129,7 @@ if (context.query.id) {
 
 Valibot is open source, like many things in the JavaScript ecosystem.
 
-The project has a low [lottery factor](https://opensauced.pizza/blog/Understanding-the-Lottery-Factor), and it also has high contributor confidence (many stargazers and forkers come back later on to make a meaningful contribution).
+The project has a low [lottery factor](https://opensauced.pizza/blog/Understanding-the-Lottery-Factor), and it also has high [contributor confidence](https://opensauced.pizza/docs/features/repo-pages/#insights-into-contributor-confidence) (many stargazers and forkers come back later on to make a meaningful contribution).
 
 [![Valibot repository page on OpenSauced](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qf7pw9laidwspqzqu59t.png)](https://app.opensauced.pizza/s/fabian-hiller/valibot)
 
