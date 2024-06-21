@@ -30,7 +30,7 @@ _Note: you can press enter in fields to submit a form, but again, not what we're
 
 ## How I Broke My Form
 
-This brings us to a new feature that I was working on for OpenSauced for a few months, [workspaces](https://docs.opensauced.pizza/features/workspaces/). I encourage you to create your own, but for now, let's get back to the business of forms.
+This brings us to a new feature that I was working on for OpenSauced for a few months, [workspaces](https://opensauced.pizza/docs/features/workspaces/). I encourage you to create your own, but for now, let's get back to the business of forms.
 
 Here's our beautiful workspaces settings page that I implemented.
 

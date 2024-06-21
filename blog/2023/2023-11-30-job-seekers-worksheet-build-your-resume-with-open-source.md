@@ -54,7 +54,7 @@ So below you'll find a worksheet to help you identify and talk about your open s
 | Next Project/Contribution Goal         | [Your Next Goal in Open Source Contribution]            |
 | **Resume and Professional Profile Update** |                                                  |
 | Updates Made to Resume/LinkedIn        | [Details of Updates]                                    |
-| Key Accomplishments Highlighted        | [Key Points [Highlighted](https://docs.opensauced.pizza/features/highlights/)]                     |
+| Key Accomplishments Highlighted        | [Key Points [Highlighted](https://opensauced.pizza/docs/features/highlights/)]                     |
 | Future Plans for Profile Enhancement   | [Plans for Further Enhancing Your Profile]              |
 
 Feel free to share and adapt this worksheet. We super stoked that @codergirl1991 is working on an [issue](https://github.com/open-sauced/docs/issues/203) for how to use OpenSauced for job seekers. So if there's more you'd like to see, let us know!

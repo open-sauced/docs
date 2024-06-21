@@ -51,7 +51,7 @@ A cookie is a way to set a piece of user-specific data. This could be a session 
 
 Cookies that are [HTTP only](https://owasp.org/www-community/HttpOnly) can be accessed on the server-side, but for cookies that are not HTTP only, they can be accessed server-side and client-side. For example, you wouldn't want someone to tamper with your session ID on the client-side, so this type of cookie is set as HTTP only.
 
-We recently shipped a new feature at OpenSauced, called [Workspaces](https://docs.opensauced.pizza/features/workspaces/). You can read all about it in this great post from my co-worker Bekah (@BekahHW).
+We recently shipped a new feature at OpenSauced, called [Workspaces](https://opensauced.pizza/docs/features/workspaces/). You can read all about it in this great post from my co-worker Bekah (@BekahHW).
 
 <a href="https://dev.to/opensauced/navigating-the-challenges-of-scaling-open-source-projects-11h2">https://dev.to/opensauced/navigating-the-challenges-of-scaling-open-source-projects-11h2</a>
 

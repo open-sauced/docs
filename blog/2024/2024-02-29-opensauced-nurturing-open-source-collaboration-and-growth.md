@@ -43,7 +43,7 @@ We've also seen a good star-to-fork ratio and we've moving with strong velocity 
 
 ## Our Teams
 
-Our teams have been really hard at work launching a new features for OpenSauced called [workspaces](https://docs.opensauced.pizza/features/workspaces/) and that's reflected in the contributor insights page below.
+Our teams have been really hard at work launching a new features for OpenSauced called [workspaces](https://opensauced.pizza/docs/features/workspaces/) and that's reflected in the contributor insights page below.
 
 ### Engineering
 

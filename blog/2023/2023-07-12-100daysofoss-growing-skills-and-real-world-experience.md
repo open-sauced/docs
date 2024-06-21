@@ -72,6 +72,6 @@ Our hope is that the community will provide a safe space to discuss challenges, 
 
 5. **Making a Positive Impact**: Your contributions benefit other contributors who rely on these projects, fostering a sense of fulfillment and giving back to the community.
 
-For more information on the challenge, like our upcoming events, including our Intro to Open Source Workshops, check out our [#100DaysOfOSS docs page](https://docs.opensauced.pizza/community/100-days-of-oss/). We'll have more great information and resources there on our launch day to help you on your journey. We'll also be dropping daily prompts on Twitter, so feel free to follow [@saucedopen](https://twitter.com/saucedopen) there for more inspiration.
+For more information on the challenge, like our upcoming events, including our Intro to Open Source Workshops, check out our [#100DaysOfOSS docs page](https://opensauced.pizza/docs/community/100-days-of-oss/). We'll have more great information and resources there on our launch day to help you on your journey. We'll also be dropping daily prompts on Twitter, so feel free to follow [@saucedopen](https://twitter.com/saucedopen) there for more inspiration.
 
 If you have any questions or suggestions, feel free to drop them below, so we can continue to work on supporting you in your open source adventure.

@@ -16,7 +16,7 @@
 
 ## 🤝 Contributing
 
-We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing guide](https://docs.opensauced.pizza/contributing/introduction-to-contributing/) for guidelines about how to proceed with your contribution.
+We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing guide](https://opensauced.pizza/docs/contributing/introduction-to-contributing/) for guidelines about how to proceed with your contribution.
 
 <img align="right" src="https://i.ibb.co/CJfW18H/ship.gif" width="200"/>
 

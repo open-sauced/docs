@@ -45,5 +45,5 @@ You can get involved in the OpenSauced community in a few ways:
 Getting started with open source can be challenging, so we've put together some resources to help you get started.
 
 - 📝 Check out our [blog on Dev.to](https://dev.to/opensauced), where we provide resources for open source contributors.
-- 📖 Take our [Intro to Open Source Course](https://intro.opensauced.pizza/#/) to help you start with open source.
+- 📖 Take our [Intro to Open Source Course](https://opensauced.pizza/learn/#/) to help you start with open source.
 - 📅 Join our [#100DaysOfOSS Challenge](100-days-of-oss.md) to help you grow your skills and gain real-world experience in open source.

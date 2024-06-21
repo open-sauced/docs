@@ -32,7 +32,7 @@ This event is a great way to jumpstart your journey in open source, to meet othe
 
 No problem! 😄 Here is a list of resources we recommend for first-time contributors:
 
-- Take our [Intro to Open Source](https://intro.opensauced.pizza/#/) course to learn the history of open source, the tools to succeed in the community, and how to showcase your contributions.
+- Take our [Intro to Open Source](https://opensauced.pizza/learn/#/) course to learn the history of open source, the tools to succeed in the community, and how to showcase your contributions.
 - Check out GitHub's [introductory course](https://github.com/skills/introduction-to-github) to learn how to use the platform when making open source contributions.
 - Read our [The Power of Git](https://dev.to/opensauced/the-power-of-git-a-guide-to-collaborative-version-control-dl6) blog post to learn how to harness the power of Git, your trusty weapon in Hacktoberfest.
 

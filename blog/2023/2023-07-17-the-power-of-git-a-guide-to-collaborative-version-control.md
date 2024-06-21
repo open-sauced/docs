@@ -36,7 +36,7 @@ Historically, collaborating on code involved manual file sharing or maintaining 
 2. **Effortless Synchronization**- By cloning repositories, team members can create local copies of the codebase. This means that everyone has their own version to work on and they can use Git to share the changes between repositories. 
 
 ## Getting Started with Git
-If you want to get some hands-on experience using git, check out OpenSauced's [Intro to Open Source Course](https://github.com/open-sauced/intro) or sign-up for one of our workshops that are listed on the bottom of our [#100DaysOfOSS Challenge docs](https://docs.opensauced.pizza/community/100-days-of-oss/).
+If you want to get some hands-on experience using git, check out OpenSauced's [Intro to Open Source Course](https://github.com/open-sauced/intro) or sign-up for one of our workshops that are listed on the bottom of our [#100DaysOfOSS Challenge docs](https://opensauced.pizza/docs/community/100-days-of-oss/).
 
 ### Remote Repositories and Collaboration
 Git allows for collaboration by enabling developers to work on the same codebase from remote locations. 

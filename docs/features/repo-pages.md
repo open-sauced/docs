@@ -85,4 +85,4 @@ The Contributor Dashboard offers a comprehensive view of all contributors, showc
 
 Currently, only publicly available repositories on GitHub can be viewed through repository pages.
 
-Repository pages provide a way to explore and learn about open source projects on GitHub. While you cannot create or edit them directly on Open Sauced Pizza yet, you can add them to your [Repository Insight pages](https://docs.opensauced.pizza/features/repo-insights/). 
+Repository pages provide a way to explore and learn about open source projects on GitHub. While you cannot create or edit them directly on Open Sauced Pizza yet, you can add them to your [Repository Insight pages](https://opensauced.pizza/docs/features/repo-insights/). 
