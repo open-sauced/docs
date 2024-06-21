@@ -13,6 +13,8 @@ In this blog post, let’s take a look at some recent optimization strategies th
 These commits eventually are all indexed within a Postgres database. Most of these optimizations revolve around “batching” the Postgres calls instead of going one by one.
 For simplicity in our examples, we’ll be using an arbitrary table called “my_table” with data that fits into the “my_data” column. Let’s dive in and take a look at how we can optimize!
 
+<!-- truncate -->
+
 ### Some setup first
 
 Before we can go too much further, let’s make sure the database connection is bootstrapped correctly:
