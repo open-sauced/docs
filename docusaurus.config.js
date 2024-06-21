@@ -46,12 +46,12 @@ module.exports = {
           href: "https://opensauced.pizza/",
         },
         {
-          href: "https://dev.to/opensauced",
+          href: "https://opensauced.pizza/blog",
           label: "Blog",
           position: "left",
         },
         {
-          href: "https://github.com/open-sauced/docs.opensauced.pizza",
+          href: "https://github.com/open-sauced/docs",
           label: "GitHub",
           position: "left",
         },
