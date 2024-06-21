@@ -10,7 +10,7 @@ description: "Open Graph (OG) images are a must if you're sharing content on the
 
 ## Examples
 
-I recently built out a couple of OG images for Open Sauced for a couple of features we've rolled out over the past couple of months, [Workspaces](https://docs.opensauced.pizza/features/workspaces/) and [Repository pages](https://docs.opensauced.pizza/features/repo-pages/). They're great features that I encourage you to check out, and I encourage you to share them on socials so our beautiful OG images pop.
+I recently built out a couple of OG images for Open Sauced for a couple of features we've rolled out over the past couple of months, [Workspaces](https://opensauced.pizza/docs/features/workspaces/) and [Repository pages](https://opensauced.pizza/docs/features/repo-pages/). They're great features that I encourage you to check out, and I encourage you to share them on socials so our beautiful OG images pop.
 
 For example, here's an OG image for a [workspace for jsr](https://app.opensauced.pizza/workspaces/760ea8ea-ebd3-4f9a-91ab-780384e3c102). [JSR](https://jsr.io) is the new JavaScript registry from the folks from Deno.
 

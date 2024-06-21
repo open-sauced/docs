@@ -16,7 +16,7 @@ Maintainers want to help you write your PR; that’s why they often outline cont
 
 ![Jerry McGuire “Help me, help you gif”](https://media.giphy.com/media/uRb2p09vY8lEs/giphy.gif)
 
-This file—often called CONTRIBUTING.md—gives guidelines for submitting your PR, including information like whether or not you need to write tests, the communication process, coding style, and how to submit your pull request. Check out [OpenSauced’s Contributing Guide](https://docs.opensauced.pizza/contributing/introduction-to-contributing/), as an example. 
+This file—often called CONTRIBUTING.md—gives guidelines for submitting your PR, including information like whether or not you need to write tests, the communication process, coding style, and how to submit your pull request. Check out [OpenSauced’s Contributing Guide](https://opensauced.pizza/docs/contributing/introduction-to-contributing/), as an example. 
 
 ## Tips for Your First PR
 Although every repository may have unique guidelines, there are general guidelines for all PRs. Here are some tips to keep in mind:
@@ -41,7 +41,7 @@ A well-written description will help the maintainer understand the purpose of th
 3. Helps with future reference.  A well-documented PR provides a historical record of the changes made. This helps future team members to understand the evolution of the code and the decisions made along the way. It also helps with future maintenance and debugging.
 
 ![OpenSauced's Examples for communication style](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sc4v1pihnggpq0asu671.png)
-<small> OpenSauced’s [CONTRIBUTING guidelines for communication style](https://docs.opensauced.pizza/contributing/introduction-to-contributing/) </small>
+<small> OpenSauced’s [CONTRIBUTING guidelines for communication style](https://opensauced.pizza/docs/contributing/introduction-to-contributing/) </small>
 
 ### Link the issue 
 If the PR is related to an issue, you can link that issue and automatically close the issue when the PR is merged. One way to do this is to use this syntax: `closes #issue-number` for example, `closes #11`. 

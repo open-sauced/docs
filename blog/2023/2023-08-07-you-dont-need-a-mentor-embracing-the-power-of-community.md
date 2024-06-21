@@ -49,7 +49,7 @@ If a structured learning experience isn’t for you, you can also find a particu
 ### The Power of Online Communities
 
 Over the last couple of years, online communities and forums have exploded with opportunity. I’m confident that there is a community that suits your needs out there already (but that doesn’t mean you can’t start your own if you can’t find one!) If you’re not sure where to start OpenSauced offers a lot of different opportunities to be part of a community and ask questions:
-- [#100DaysOfOSS](https://docs.opensauced.pizza/community/100-days-of-oss/)
+- [#100DaysOfOSS](https://opensauced.pizza/docs/community/100-days-of-oss/)
 - [OpenSauced Community](https://github.com/orgs/open-sauced/discussions)
 - [OpenSauced Twitter + Twitter Spaces](https://twitter.com/saucedopen)
 
