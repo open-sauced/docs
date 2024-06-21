@@ -8,6 +8,8 @@ description: "A deep dive understanding of how we utilize a LRU cache for fast q
 
 Over the last few weeks, the OpenSauced engineering team has been building a service we're calling the [“pizza oven.”](https://github.com/open-sauced/pizza) This service indexes commits within bespoke git repositories and can be used to generate insights based on those commits. This all gives us the ability to create interesting metrics around open source project velocity, “time to merge”, the who’s who of contributors, and more; all by indexing and parsing the git commits! We’ve been experimenting with many different models and have created an interesting solution for increased performance and availability of the service.
 
+<!-- truncate -->
+
 Initially, as a proof of concept, in order to index individual commits in a git repo, the pizza oven would do the most basic thing: clone the repo directly into memory and parse through all of its commits, inserting new commits into a configured database.
 
 The hot path on the server would include this Go code which clones the git repo directly into memory:
