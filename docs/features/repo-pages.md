@@ -34,10 +34,6 @@ There are a couple of ways to access a repository page:
 
     [https://app.opensauced.pizza/s/vercel/next.js](https://app.opensauced.pizza/s/vercel/next.js)
 
-    Here's what that will look like:
-
-    [![next.js repository page](../../static/img/vercel-repo-page.png)](https://app.opensauced.pizza/s/vercel/next.js) 
-
 ## Understanding the Repository Page
 
 ### Overview Dashboard
