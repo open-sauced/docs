@@ -8,7 +8,7 @@ const { ADD_SLASH_DOCS_TO_URL } = process.env;
 module.exports = {
   title: "OpenSauced",
   tagline: "The path to your next Open Source contribution",
-  url: ADD_SLASH_DOCS_TO_URL ? "https://opensauced.pizza" : "https://opensauced.pizza/docs",
+  url: ADD_SLASH_DOCS_TO_URL ? "https://opensauced.pizza" : "https://docs.opensauced.pizza",
   baseUrl: ADD_SLASH_DOCS_TO_URL ? "/docs/" : "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
