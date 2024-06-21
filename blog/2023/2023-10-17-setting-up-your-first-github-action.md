@@ -7,7 +7,7 @@ description: "Discover how to set up a GitHub Action that automatically posts a 
 ---
 
 
-A couple of months ago, we launched the [Intro to Open Source Course](https://intro.opensauced.pizza/#/), which connects to another repository called [guestbook](https://github.com/open-sauced/guestbook). When the person taking the course gets to chapter five, they put their new-found knowledge to work and create a pull request on the guestbook.
+A couple of months ago, we launched the [Intro to Open Source Course](https://opensauced.pizza/learn/#/), which connects to another repository called [guestbook](https://github.com/open-sauced/guestbook). When the person taking the course gets to chapter five, they put their new-found knowledge to work and create a pull request on the guestbook.
 
 <!-- truncate -->
 

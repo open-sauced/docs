@@ -43,7 +43,7 @@ I've talked to a number of maintainers who have said they're looking for a solid
 
 First of all, that's 100% ok. Not every project needs to support beginners. In fact, trying to support beginners when you don't have the bandwidth leads to burnout and frustration on both the maintainer and contributor side. 
 
-There are plenty of projects out there that can and do support beginner contributors, and there are courses, like our [Intro to Contributing Course](https://intro.opensauced.pizza/#/) that provide learning opportunities to new contributors. 
+There are plenty of projects out there that can and do support beginner contributors, and there are courses, like our [Intro to Contributing Course](https://opensauced.pizza/learn/#/) that provide learning opportunities to new contributors. 
 
 Here's [a great post by @adiatiayu on involving external contributors with issues](https://dev.to/opensauced/collaborate-conquer-grow-mastering-the-art-of-issue-management-for-open-source-projects-49gi). 
 

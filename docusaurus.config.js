@@ -95,7 +95,7 @@ module.exports = {
             },
             {
               label: "Open Source Courses",
-              to: "https://intro.opensauced.pizza/#/",
+              to: "https://opensauced.pizza/learn/#/",
             },
           ],
         },
