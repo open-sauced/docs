@@ -121,7 +121,7 @@ module.exports = {
           items: [
             {
               label: "Blog",
-              href: "https://dev.to/opensauced",
+              href: "https://opensauced.pizza/blog",
             },
             {
               label: "Watch our feature demos",
