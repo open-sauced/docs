@@ -47,8 +47,8 @@ Remember, Hacktoberfest isn't just about coding. Projects need help with documen
 ## Places for First-Time Contributors to Start
 If you’re a first-time contributor, we’ve got you covered. One of our goals at OpenSauced is to make learning how to contribute to open source a positive experience. In preparation, we have documentation, a course (that gets you your first PR!), and support resources to help you get started and learn what you need to level up your open source experience.
 
-- [#100DaysOfOSS](https://docs.opensauced.pizza/community/100-days-of-oss/)
-- [Intro to Open Source Course](https://intro.opensauced.pizza/#/)
+- [#100DaysOfOSS](https://opensauced.pizza/docs/community/100-days-of-oss/)
+- [Intro to Open Source Course](https://opensauced.pizza/learn/#/)
 - [pizza-verse repo](https://github.com/open-sauced/pizza-verse)
 - [Open Source 101: A Beginner's Guide to Getting Started](https://dev.to/opensauced/open-source-101-a-beginners-guide-to-getting-started-37fb)
 - [How to Contribute to Open Source without Knowing How to Code](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5)

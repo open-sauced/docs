@@ -40,7 +40,7 @@ You can check out more about our approach and process, as well as the resources:
 - [Building a Copilot for Git History with pgvector and Timescale](https://www.timescale.com/blog/how-opensauced-is-building-a-copilot-for-git-history-with-pgvector-and-timescale/)
 - [How We Saved Thousands with Open Source AI Technologies](https://opensauced.pizza/blog/how-we-saved-thousands-of-dollars-deploying-low-cost-open-source-ai-technologies)
 - [Meet StarSearch: Your New Open Source Navigator](https://opensauced.pizza/blog/meet-starsearch)
-- [StarSearch Docs](https://docs.opensauced.pizza/features/star-search/)
+- [StarSearch Docs](https://opensauced.pizza/docs/features/star-search/)
 
 ### Watch our "What is StarSearch" Video
 [![what is starsearch](https://cdn.sanity.io/images/r7m53vrk/production/4e056c9d8482c034f03615093788099611ee8757-256x141.png?w=450)](https://www.youtube.com/watch?v=I3cS-u_gmDE)

@@ -310,7 +310,7 @@ Embarking on your open source journey with OpenSauced opens up a world of learni
 Here are some other resources you might find helpful in your journey:
 
 - [100 Days of OSS](../../community/100-days-of-oss.md)
-- [Intro to Open Source Course](https://intro.opensauced.pizza/#/)
+- [Intro to Open Source Course](https://opensauced.pizza/learn/#/)
 - [Resume Driven Contributions](https://opensauced.pizza/blog/resume-driven-contributions)
 - [Stop Burning Out Maintainers: An Empathetic Guide for Contributors](https://opensauced.pizza/blog/stop-burning-out-maintainers-an-empathetic-guide-for-contributors)
 - [GitHub Student Benefits](https://gh.io/AApppma)

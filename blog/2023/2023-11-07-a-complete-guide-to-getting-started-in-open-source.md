@@ -20,7 +20,7 @@ Not everyone getting started in open source is a beginner. I’ve talked to quit
 
 I keep a list of repositories that are good for beginners in this [insight page](https://app.opensauced.pizza/pages/BekahHW/655/repositories).
 
-It’s worth noting that within that list, our [Intro to Open Source Course](https://intro.opensauced.pizza/#/) is a great 
+It’s worth noting that within that list, our [Intro to Open Source Course](https://opensauced.pizza/learn/#/) is a great 
  (and free) way to learn more about open source and get your first contribution!
 
 ### Where Should I Start in Open Source?

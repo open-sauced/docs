@@ -43,7 +43,7 @@ keywords:
 - What type of pull requests has \{username} worked on?
 - Who are the best developers that know \{technology} and are interested in \{technology}?
 - Who are the most prevalent contributors to the \{technology} ecosystem?
-- Show me the [lottery factor](https://docs.opensauced.pizza/welcome/glossary/#lottery-factor) for contributors in the \{repository} project?
+- Show me the [lottery factor](https://opensauced.pizza/docs/welcome/glossary/#lottery-factor) for contributors in the \{repository} project?
 
 ### FAQs
 

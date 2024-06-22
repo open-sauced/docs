@@ -14,7 +14,7 @@ Today, we're covering the letter "R" for Repository.
 
 **Repository**: A repository is a central location where open-source projects store their source code, documentation, and related files. Platforms like GitHub and GitLab provide hosting services for repositories.
 
-If you want to practice creating your own repository, check out [Practice Contributing with VS Code](https://intro.opensauced.pizza/#/04-tools-to-be-successful?id=practicing-contributing-with-vs-code) in our intro to open source course.
+If you want to practice creating your own repository, check out [Practice Contributing with VS Code](https://opensauced.pizza/learn/#/04-tools-to-be-successful?id=practicing-contributing-with-vs-code) in our intro to open source course.
 
 Now, we want to hear from you! What other OSS terms can you think of that start with the letter "R"? 
 

@@ -148,7 +148,7 @@ It took me longer than I anticipated, but I’m proud of getting my first PR acc
 If you're considering making your first open-source contribution, I encourage you to get started today. Here are some gentle ways to get started in open source: 
 
 - Take our [Intro To Open Source Course](https://github.com/open-sauced/intro) to learn more about open source and how to get started.
-- Join [#100DaysOfOSS](https://docs.opensauced.pizza/community/100-days-of-oss/)
+- Join [#100DaysOfOSS](https://opensauced.pizza/docs/community/100-days-of-oss/)
 
 If you have any questions or feedback, drop them in the comments below.
 

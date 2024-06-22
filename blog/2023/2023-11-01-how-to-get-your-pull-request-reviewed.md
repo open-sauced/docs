@@ -35,7 +35,7 @@ The description should explain what you’re submitting and give any necessary d
 
 
 ![This PR adds the AI PR description generation feature as suggested in #18. A new page is added to the extension dropdown to configure the description parameters. The text-generation is done using OpenAI's GPT-3.5 with the input context sourced from the code diff and/or the PR commits as configured by the user.
-The feature documentation will be added to https://docs.opensauced.pizza.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u959rkuvmwehf44l7ebr.png)
+The feature documentation will be added to https://opensauced.pizza/docs.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u959rkuvmwehf44l7ebr.png)
 
 
 ### Type of  PR

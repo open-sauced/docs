@@ -33,7 +33,7 @@ Once you've identified people who would be good for the team, extend a formal in
 5. Expand Your Horizons
 Because open source projects are constantly growing and changing with the community, you should do a regular evaluation of the needs of the project.
      - Identify areas that require specialized attention (documentation, community engagement, etc.).
-     - Talk to contributors with relevant expertise, even if they're outside your existing community. (You can use our [Contributor Insights feature](https://docs.opensauced.pizza/features/contributor-insights/) to understand which potential contributors might be a good fit.)
+     - Talk to contributors with relevant expertise, even if they're outside your existing community. (You can use our [Contributor Insights feature](https://opensauced.pizza/docs/features/contributor-insights/) to understand which potential contributors might be a good fit.)
 
 6. Onboard New Team Members
      - It's important to clearly define roles, responsibilities, communication channels, and project goals.
@@ -60,7 +60,7 @@ As your project gains traction, you might notice an influx of issues and pull re
 
 Once you've identified potential team members, extend a formal invitation acknowledging their contributions. For example:
 
-"Hey @contributor-username, I've noticed your dedication to this project through your insightful comments and high-quality pull requests. Would you be interested in joining our triage team? Your help would be invaluable in managing incoming issues and pull requests. Here's a link to our [Triage Guide](https://docs.opensauced.pizza/contributing/triage-guide/) with more information about how we approach triaging."
+"Hey @contributor-username, I've noticed your dedication to this project through your insightful comments and high-quality pull requests. Would you be interested in joining our triage team? Your help would be invaluable in managing incoming issues and pull requests. Here's a link to our [Triage Guide](https://opensauced.pizza/docs/contributing/triage-guide/) with more information about how we approach triaging."
 
 If they accept, grant them the appropriate permissions, such as the "Triage" permission on GitHub, which allows them to manage issues and pull requests without directly modifying the codebase.
 

@@ -84,6 +84,11 @@ module.exports = {
           href: "https://intro.opensauced.pizza/#/",
         },
       ],
+      items: ["community/welcome-to-the-community", "community/100-days-of-oss", {
+        type: 'link',
+        label: 'Open Source Education Path',
+        href: 'https://opensauced.pizza/learn/#/',
+      },],
     },
     {
       type: "category",
