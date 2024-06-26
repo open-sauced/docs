@@ -29,15 +29,21 @@ There are two ways to adding highlights:
 - Search the pull request or issue that you want to add in the "Highlight suggestions" section.
 - Click the "Fill content" button to paste the suggested link or the "Add and Summarize" button to paste the link and auto-summarize the content.
 
+![highlights demo](../../static/gif/highlight.gif)
+
 :::note
 
 The "Highlight suggestions" are only suggesting issues and pull requests that you created. For blog posts, you need to add them manually.
 
 :::
 
-![highlights demo]()
-
 ### 2. Adding a Link Manually
 
 - Paste the URL to your blog post, pull request, or issue in the bottom input.
 - Either use our Auto-Summarize feature or write your own summary.
+
+---
+
+For more examples of highlights, go to the [OpenSauced Highlights feed](https://app.opensauced.pizza/feed).
+
+Eager to get started? Check out the [Effectively Highlight Your Contribution](https://intro.opensauced.pizza/#/06-the-secret-sauce?id=effectively-highlight-your-contributions) section in our free "Intro to Open Source" course to learn more.
