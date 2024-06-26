@@ -10,6 +10,9 @@ keywords:
 - "Showcase Repositories" 
 - "Repository forks" 
 - "Repository stars" 
+- "lottery factor"
+- "Contributor Confidence"
+- "Bus factor"
 ---
 
 Repository Pages allow you to view specific information about a repository hosted on GitHub through a detailed visual and analytical representation of the project.
@@ -20,7 +23,7 @@ These pages are designed to help you gain insights into various aspects of proje
 
 There are a couple of ways to access a repository page:
 
-1. **From the Repository Insights Page**: If you're already on the Repository Insights Page, you can click on the repository name to view the repository page.
+1. **From Repository Insights Pages**: If you're already on the Repository Insights Page, you can click on the repository name to view the repository page.
 2. **From the search bar**: You can search for a repository by entering the repository name in the search bar. Once you find the repository you're looking for, click on the repository name to view the repository page.
 3. **Directly from the URL**: You can also access a repository page directly by entering the URL in your web browser: 
 
@@ -34,16 +37,13 @@ There are a couple of ways to access a repository page:
 
     [https://app.opensauced.pizza/s/vercel/next.js](https://app.opensauced.pizza/s/vercel/next.js)
 
-    Here's what that will look like:
-
-    [![next.js repository page](../../static/img/vercel-repo-page.png)](https://app.opensauced.pizza/s/vercel/next.js) 
-
 ## Understanding the Repository Page
 
 ### Overview Dashboard
 
-The charts on our repository pages offer a visual representation of several key metrics:
+The charts on our repository pages offer a visual representation of key project metrics:
 
+- **Contributors Overview**: Our bar chart shows contributions by internal, new, and recurring contributors, exibiting the distribution of contributions and the project's ability to attract new contributors.
 - **Issue Resolution Trends**: Our line graphs display the number of issues opened versus those closed within specified periods, offering insights into the effectiveness of problem resolution and how issue volume changes over time.
 - **Pull Request Dynamics**: Analyze pull request activity by the numbers of pull requests opened, closed, and merged. This provides an overview of collaboration efficiency and code review processes.
 - **Stars and Forks Over Time**: The number of stars and forks the project receives over time, illustrating the project's growth in popularity and its spread within the developer community.
