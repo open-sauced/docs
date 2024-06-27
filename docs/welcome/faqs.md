@@ -15,7 +15,7 @@ keywords:
 
 We believe that [good first issues don't exist](https://opensauced.pizza/blog/good-first-issues-dont-exist), and the best way to find an issue to work on is to create the issue yourself.
 
-However, sites like [Good First Issues](https://goodfirstissues.com/) and [First Timers Only](https://www.firsttimersonly.com/) can lead you to projects and issues worth working on. You can also use the `good first issue` label in the project search engine you want to contribute to. Check out [this guide](https://www.freecodecamp.org/news/how-to-find-good-first-issues-on-github/) to learn more about finding a `good first issue` on GitHub..
+However, sites like [Good First Issues](https://goodfirstissues.com/) and [First Timers Only](https://www.firsttimersonly.com/) can lead you to projects and issues worth working on. You can also use the `good first issue` label in the project search engine you want to contribute to. Check out [this guide](https://www.freecodecamp.org/news/how-to-find-good-first-issues-on-github/) to learn more about finding a `good first issue` on GitHub.
 
 #### Additional Resources:
 
@@ -26,7 +26,12 @@ However, sites like [Good First Issues](https://goodfirstissues.com/) and [First
 
 Create a [Repository Insights Page](https://app.opensauced.pizza/hub/insights) or add your merged pull request to a [Highlight](https://app.opensauced.pizza/feed).
 
-### 3. I want to provide feedback on OpenSauced.
+### 3. Why does OpenSauced display contributors comments?
+
+On every OpenSauced user profile, in the contributions tab, we display the Pull Requests and Issues that the user has commented on. This is to give a more comprehensive view of the user's contributions to the open-source community, and provides insight into the contributor's depth of knowledge, collaboration and communication skills, and provides an additional data point for understanding the user's open-source contributions.
+
+
+### 4. I want to provide feedback on OpenSauced.
 
 We love feedback. Post your suggestion in our [feedback repository](https://github.com/orgs/open-sauced/discussions).
 
