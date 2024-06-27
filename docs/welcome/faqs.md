@@ -28,7 +28,7 @@ Create a [Repository Insights Page](https://app.opensauced.pizza/hub/insights) o
 
 ### 3. Why does OpenSauced display contributors comments?
 
-On every OpenSauced user profile, in the contributions tab, we display the Pull Requests and Issues that the user has commented on. This is to give a more comprehensive view of the user's contributions to the open-source community, and provides insight into the contributor's depth of knowledge, collaboration and communication skills, and provides an additional data point for understanding the user's open-source contributions.
+On every OpenSauced user profile, in the contributions tab, we display the Pull Requests and Issues that the user has commented on. This is to give a more comprehensive view of the user's contributions to the open-source community. It also provides insight into the contributor's depth of knowledge, collaboration and communication skills, and provides an additional data point for understanding the user's open-source contributions.
 
 
 ### 4. I want to provide feedback on OpenSauced.
