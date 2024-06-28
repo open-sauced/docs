@@ -46,4 +46,4 @@ The "Highlight suggestions" are only suggesting issues and pull requests that yo
 
 For more examples of highlights, go to the [OpenSauced Highlights feed](https://app.opensauced.pizza/feed).
 
-Eager to get started? Check out the [Effectively Highlight Your Contribution](https://intro.opensauced.pizza/#/06-the-secret-sauce?id=effectively-highlight-your-contributions) section in our free "Intro to Open Source" course to learn more.
+Eager to get started? Check out the [Effectively Highlight Your Contribution](https://opensauced.pizza/learn/intro-to-oss/the-secret-sauce#effectively-highlight-your-contributions) section in our free "Intro to Open Source" course to learn more.
