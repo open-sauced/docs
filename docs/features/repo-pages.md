@@ -59,7 +59,7 @@ For small, independent side projects, this method can sometimes be acceptable du
 
 - **Semantic Problems**: Lack of clear commit messages and structured development history can make it challenging to understand the evolution of the project.
 - **Communication Breakdowns**: Community members and collaborators may find it difficult to follow ongoing changes, align with the project’s direction, or contribute effectively.
-- **Security Risks**: Direct pushes to the main branch can introduce vulnerabilities. For instance, an accidental force push could erase critical history, or worse, a rogue commit could embed malicious code without detection.
+- **Security Risks**: Direct pushes to the default branch can introduce vulnerabilities. For instance, an accidental force push could erase critical history, or worse, a rogue commit could embed malicious code without detection.
 - **Quality Control**: By bypassing code reviews and automated checks, YOLO coders risk introducing bugs, breaking existing functionality, or compromising the project’s integrity.
 
 #### Insights into Contributor Confidence
