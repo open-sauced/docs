@@ -66,7 +66,7 @@ PR Velocity tracks how quickly Pull Requests (PRs) are being merged in by identi
 
 ## Repository Insights
 
-The Repository Insights feature is a one-stop solution for understanding the pulse of your open-source projects and contributions. This feature is designed to provide a comprehensive view of your project's health and your individual contributions.
+The Repository Insights feature is a one-stop solution for understanding the pulse of your open source projects and contributions. This feature is designed to provide a comprehensive view of your project's health and your individual contributions.
 
 ## YOLO Coders
 
