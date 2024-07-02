@@ -70,4 +70,4 @@ The Repository Insights feature is a one-stop solution for understanding the pul
 
 ## YOLO Coders
 
-A “YOLO coder” is an individual owner, contributor, or maintainer who pushes changes directly to the main branch of a repository without creating a pull request or seeking any community feedback. This risky practice bypasses essential review and collaboration processes.
+A “YOLO coder” is an individual owner, contributor, or maintainer who pushes changes directly to the default branch of a repository without creating a pull request or seeking any community feedback. This risky practice bypasses essential review and collaboration processes.
