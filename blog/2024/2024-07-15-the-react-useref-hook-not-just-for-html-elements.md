@@ -33,7 +33,7 @@ export const SomeComponent = () => {
 
   useEffect(() => {
     firstNameInputRef.current?.focus();
-  }, [firstNameInputRef.current]);
+  }, []);
 
   return (
     <form>
@@ -48,7 +48,6 @@ export const SomeComponent = () => {
 
 1. We create a variable named `firstNameInputRef` using `useRef` to reference the DOM element (initially null) and use `useEffect` to focus the input element on the initial render.
 1. Inside `useEffect`, we check if `firstNameInputRef.current` exists (it will be the actual DOM element after the initial render). If it does, we call `focus()` to set focus on the input.
-1. The dependency array `[firstNameInputRef.current]` ensures `useEffect` only runs once when the reference changes (i.e., after the initial render).
 
 ### Referencing a non-DOM element using the useRef Hook
 
