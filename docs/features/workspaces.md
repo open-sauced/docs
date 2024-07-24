@@ -91,7 +91,7 @@ Start by creating a Workspace name, then click "Add repositories." You'll have t
 Once your repositories are added, you'll be able to see them in your repository dashboard. You can also edit your Workspace to add or remove repositories anytime.
 
 :::info
-You can also add repositories to your workspace from [Repo pages](https://opensauced.pizza/docs/features/repo-pages/). Just use the **Add to Workspace** button.
+You can also add repositories to your Workspace from [Repo pages](https://opensauced.pizza/docs/features/repo-pages/). Just use the "Add to Workspace" button.
 :::
 
 ### Changing Workspaces
