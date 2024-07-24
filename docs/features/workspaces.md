@@ -100,7 +100,7 @@ Anything you create in a Workspace is specific to that Workspace. When you switc
 
 ## Using StarSearch in Workspaces
 
-[StarSearch](https://opensauced.pizza/docs/features/star-search/) is our AI-powered tool that provides in-depth insights into contributor history and activities on open source repositories. This integration allows you to use natural language queries to gain insights specifically tailored to the repositories and contributors within your Workspace. You can access StarSearch by clicking the StarSearch icon in the bottom right corner of your Workspace.
+[StarSearch](https://opensauced.pizza/docs/features/star-search/) is our AI-powered tool that provides in-depth insights into contributor history and activities on open source repositories. This integration allows you to use natural language queries to gain insights specifically tailored to the repositories and contributors within your Workspace. You can access StarSearch by clicking the "StarSearch" icon in the bottom right corner of your Workspace.
 
 ### Understanding StarSearch in Workspaces
 
