@@ -38,7 +38,7 @@ There are a couple of ways to access a repository page:
     [https://app.opensauced.pizza/s/vercel/next.js](https://app.opensauced.pizza/s/vercel/next.js)
 
 :::tip
-If you want to keep track of a repository, use the **Add to WorkSpace** button on the Repo page to add it to your [Workspace](https://opensauced.pizza/docs/features/workspaces/).
+If you want to keep track of a repository, use the "Add to WorkSpace" button on the Repo page to add it to your [Workspace](https://opensauced.pizza/docs/features/workspaces/).
 :::
 
 ## Understanding the Repository Page
