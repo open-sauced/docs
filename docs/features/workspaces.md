@@ -90,9 +90,30 @@ Start by creating a Workspace name, then click "Add repositories." You'll have t
 
 Once your repositories are added, you'll be able to see them in your repository dashboard. You can also edit your Workspace to add or remove repositories anytime.
 
+:::info
+You can also add repositories to your Workspace from [Repo pages](https://opensauced.pizza/docs/features/repo-pages/). Just use the "Add to Workspace" button.
+:::
+
 ### Changing Workspaces
 
 Anything you create in a Workspace is specific to that Workspace. When you switch Workspaces, you'll see the Repository and Contributor Insights specific to that Workspace.
+
+## Using StarSearch in Workspaces
+
+[StarSearch](https://opensauced.pizza/docs/features/star-search/) is our AI-powered tool that provides in-depth insights into contributor history and activities on open source repositories. This integration allows you to use natural language queries to gain insights specifically tailored to the repositories and contributors within your Workspace. You can access StarSearch by clicking the "StarSearch" icon in the bottom right corner of your Workspace.
+
+### Understanding StarSearch in Workspaces
+
+When you use StarSearch within a Workspace, you're essentially treating that Workspace as a distinct dataset. This means you can focus your queries on the specific repositories, contributors, and activities relevant to your Workspace, providing more targeted and relevant insights.
+
+<details>
+  <summary>Workspace Prompt Suggestions</summary>
+- What are the types of pull requests @contributor has worked on? 
+- Who is writing issues in these repositories?
+- Who commits directly to the main branch?
+- Who are my top pull request contributors?
+</details>
+
 
 ## How to Share a Workspace
 
