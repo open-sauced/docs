@@ -51,6 +51,7 @@ The charts on our repository pages offer a visual representation of key project 
 - **[Lottery Factor](../welcome/glossary.md#lottery-factor)**: This unique metric highlights the dependency on key contributors. A project is considered vulnerable if 2 or fewer contributors account for 50% or more of the project's contributions. This indicates a potential risk if one of these contributors leaves the project.
 - **[YOLO Coders](../welcome/glossary.md#yolo-coders)**: This metric identifies contributors who push changes directly to the default branch without creating a pull request or seeking community feedback. 
 - **Contributor Confidence**: This metric predicts the likelihood that users who star or fork a repository will return to make contributions. A higher confidence score indicates a greater probability of these users actively engaging with the repository.
+- **OSSF Scorecard**: A standardized metric developed by the Open Source Security Foundation to evaluate the security practices of open source projects based on a set of security criteria. These criteria cover various aspects of project maintenance and security practices. The resulting score provides a quick overview of the project's adherence to security best practices.
 - **Issue Resolution Trends**: Our line graphs display the number of issues opened versus those closed within specified periods, offering insights into the effectiveness of problem resolution and how issue volume changes over time.
 - **Pull Request Dynamics**: Analyze pull request activity by the numbers of pull requests opened, closed, and merged. This provides an overview of collaboration efficiency and code review processes.
 - **Stars and Forks Over Time**: The number of stars and forks the project receives over time, illustrating the project's growth in popularity and its spread within the developer community.
@@ -92,6 +93,15 @@ Understanding Contributor Confidence can help you gauge the health of a reposito
     - An **exceptionally high score (above 40%)** could have different interpretations depending on the project. For very popular repositories, it might still reflect a strong community. For smaller projects, it could suggest a lower barrier to entry that might lead to a high volume of low-quality contributions or unfinished work.
 
 For **Owners/Maintainers**, Contributor Confidence helps understand recent stars and forks in the context of contributors. A higher score suggests more people who have recently contributed elsewhere or within the repository itself, which can be a positive indicator of the overall health of your repository.
+
+### Insights into the OSSF Scorecard
+
+The Scorecard serves two primary purposes:
+
+- To help open source maintainers improve their security best practices
+- To assist open source consumers in assessing the safety of their dependencies
+
+You can find out more about how the OSSF Scorecard works and how to interpret the results on the [OSSF Scorecard website](https://scorecard.dev/#what-is-openssf-scorecard).
 
 ### Contributor Dashboard
 
