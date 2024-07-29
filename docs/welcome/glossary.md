@@ -51,6 +51,10 @@ The name "Lottery Factor" comes from the idea that if a key contributor wins the
 
 A contributor who has recently made their first contribution to a project.
 
+## OSSF Scorecard
+
+The Open Source Security Foundation (OSSF) Scorecard is a standardized metric developed by the Open Source Security Foundation to evaluate the security practices of open source projects based on a set of security criteria. These criteria cover various aspects of project maintenance and security practices. The resulting score provides a quick overview of the project's adherence to security best practices.
+
 ## PR Overview
 
 PR Overview tells the story of the Pull Requests (PRs) submitted in the last 30 days:
