@@ -105,7 +105,7 @@ You can find out more about how the OSSF Scorecard works and how to interpret th
 
 ### Contributor Dashboard
 
-The Contributor Dashboard offers a comprehensive view of all contributors, showcasing the frequency and size of each person’s contributions. 
+The Contributor Dashboard offers a comprehensive view of all contributors, showcasing the frequency and size of each person’s contributions. It also includes each active contributors [OSCR](../welcome/glossary.md#oscr).
 
 Currently, only publicly available repositories on GitHub can be viewed through repository pages.
 
