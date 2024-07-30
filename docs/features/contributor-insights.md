@@ -42,9 +42,9 @@ By default, your Contributor Insight Page is public. If your Contributor Insight
 
 ## Open Source Contributor Rating (OSCR)
 
-On your Contributor Insight Page, you'll see that each contributor is assigned an OSCR. The OSCR is a metric to evaluate the engagement and impact of contributors in open source projects. This score aims to give insight into a contributor's involvement and the value they bring to the community.
+On your Contributor Insight Page, you'll see that each contributor is assigned an OSCR. The OSCR is a metric to evaluate the engagement and impact of contributors across the entire open source ecosystem. This score aims to give insight into a contributor's involvement and the value they bring to open source communities as a whol.
 
-The OSCR takes into account various factors related to a contributor's activity and the quality of their contributions. OSCRs are calculated on a rolling 30-day basis. This means the score reflects recent activity and engagement, providing a current snapshot of a contributor's involvement rather than a lifetime aggregate.
+The OSCR takes into account various factors related to all of the contributor's activity and the quality of their contributions in open source. OSCRs are calculated on a rolling 30-day basis. This means the score reflects recent activity and engagement, providing a current snapshot of a contributor's open source involvement rather than a lifetime aggregate.
 
 ### Insights into OSCR
 
