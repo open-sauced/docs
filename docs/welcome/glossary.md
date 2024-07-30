@@ -51,6 +51,10 @@ The name "Lottery Factor" comes from the idea that if a key contributor wins the
 
 A contributor who has recently made their first contribution to a project.
 
+## OSCR
+
+OSCR, or Open Source Contributor Rating, is a metric that evaluates the engagement and impact of contributors in open source projects. OSCR is calculated on a rolling 30-day basis. This means the score reflects recent activity and engagement, providing a current snapshot of a contributor's involvement rather than a lifetime aggregate.
+
 ## OSSF Scorecard
 
 The Open Source Security Foundation (OSSF) Scorecard is a standardized metric developed by the Open Source Security Foundation to evaluate the security practices of open source projects based on a set of security criteria. These criteria cover various aspects of project maintenance and security practices. The resulting score provides a quick overview of the project's adherence to security best practices.
