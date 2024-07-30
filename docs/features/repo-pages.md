@@ -108,5 +108,3 @@ You can find out more about how the OSSF Scorecard works and how to interpret th
 The Contributor Dashboard offers a comprehensive view of all contributors, showcasing the frequency and size of each person’s contributions. It also includes each active contributors [OSCR](../welcome/glossary.md#oscr).
 
 Currently, only publicly available repositories on GitHub can be viewed through repository pages.
-
-Repository pages provide a way to explore and learn about open source projects on GitHub. While you cannot create or edit them directly on Open Sauced Pizza yet, you can add them to your [Repository Insight pages](https://opensauced.pizza/docs/features/repo-insights/). 
