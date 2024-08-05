@@ -1,7 +1,7 @@
 ---
 title: "The Unexpected Power of 100 Days in Open Source"
 tags: ["open source", "open source contributor", "open source challenge", "how to contribute to open source"]
-authors: bekahhw
+authors: BekahHW
 slug: 100-days-of-oss-challenge
 description: "Join us for #100DaysOfOSS, where we'll create opportunities to collaborate and learn more about open source over the next 100 days."
 ---
