@@ -145,7 +145,7 @@ Your [OpenSauced DevCard](../../features/dev-card.md) serves as your "open sourc
 
 You can easily share your Dev Card on social media platforms like X/Twitter and LinkedIn to gain attention from potential recruiters and hiring managers.
 
-![OpenSauced Dev card](../../../static/img/dev-card.md)
+![OpenSauced Dev card](../../../static/img/DevCard.png)
 
 ### Reflection and Next Steps
 
