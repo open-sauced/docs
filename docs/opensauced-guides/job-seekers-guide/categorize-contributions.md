@@ -118,7 +118,7 @@ You can use this feature to create a list of people you interacted with during y
 
 Contributor Insights can also be used to track other people in your network to reach out to about their contributions.
 
-![Contributor Insights page](../../../static/img/lists-page.svg)
+![Contributor Insights page](../../../static/img/lists-page.png)
 
 ### Using the Repository Insights Feature to Track the Repositories You Contributed to
 
