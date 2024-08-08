@@ -18,7 +18,7 @@ The Contributor Insights feature enables you to categorize, monitor, and analyze
 
 Monitor individual commit histories, track who is actively engaged, identify alumni or new contributors, and even compare the performance of contributors against each other. This encompasses a wide range of metrics such as code commits, created and reviewed pull requests (PRs), as well as issue creation and commenting.
 
-![Contributor Insights Page](../../static/img/lists-page.svg)
+![Contributor Insights Page](../../static/img/lists-page.png)
 
 ## How to Create a Contributor Insight Page
 
@@ -47,7 +47,7 @@ On your Contributor Insight Page, you'll see that each contributor is assigned a
 The OSCR takes into account various factors related to all of the contributor's activity and the quality of their contributions in open source. 
 
 :::info
-OSCRs are calculated on a rolling 30-day basis across all of a contributor's activity. This means the score reflects recent activity and engagement, providing a current snapshot of a contributor's open source involvement rather than a lifetime aggregate.
+OSCRs are calculated on a rolling 30-day basis across all of a contributor's activity and are out of 300 total points. This means the score reflects recent activity and engagement, providing a current snapshot of a contributor's open source involvement rather than a lifetime aggregate.
 :::
 
 ### Insights into OSCR
