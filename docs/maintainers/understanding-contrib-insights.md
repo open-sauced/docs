@@ -33,6 +33,8 @@ Trends in active contributor numbers can indicate the health of the project comm
 
 A decline in a normally active contributor’s engagement could indicate burnout or dissatisfaction, while a surge in activity might be tied to recent changes or enhancements in the project. Tracking activity levels can help you manage team burnout, understand resource needs, and spot potential issues before they escalate.
 
+Each contributor has an OSCR score that reflects their recent activity and engagement. This score can help you identify key contributors, their recent activity and effectiveness, and recognize impactful contributors.
+
 ### Understanding Types of Contributors
 
 #### New Contributors

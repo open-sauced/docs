@@ -53,7 +53,7 @@ A contributor who has recently made their first contribution to a project.
 
 ## OSCR
 
-OSCR, or Open Source Contributor Rating, is a metric that evaluates the engagement and impact of contributors in open source projects. The OSCR is calculated on a rolling 30-day basis and looks at all of a contributors open source contributions. This means the score reflects recent activity and engagement, providing a current snapshot of a contributor's involvement rather than a lifetime aggregate.
+OSCR, or Open Source Contributor Rating, is a metric that evaluates the engagement and impact of contributors in open source projects. The OSCR is calculated on a rolling 30-day basis out of 300 points total and looks at all of a contributors open source contributions. This means the score reflects recent activity and engagement, providing a current snapshot of a contributor's involvement rather than a lifetime aggregate.
 
 ## OSSF Scorecard
 
