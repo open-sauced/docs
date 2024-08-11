@@ -118,7 +118,7 @@ You can use this feature to create a list of people you interacted with during y
 
 Contributor Insights can also be used to track other people in your network to reach out to about their contributions.
 
-![Contributor Insights page](../../../static/img/lists-page.svg)
+![Contributor Insights page](../../../static/img/lists-page.png)
 
 ### Using the Repository Insights Feature to Track the Repositories You Contributed to
 
@@ -141,11 +141,11 @@ If you have corresponded with the same core contributors and maintainers over th
 
 ### Using Your OpenSauced Dev Card for Networking
 
-Your [OpenSauced Dev Card](../../features/dev-card.md) serves as your "open source business card" to showcase all of your recent open source activities. You will find recent activity concerning the projects you contribute to, the frequency of PRs, and projects you are interested in.
+Your [OpenSauced DevCard](../../features/dev-card.md) serves as your "open source business card" to showcase all of your recent open source activities. You will find recent activity concerning the projects you contribute to, the frequency of PRs, and projects you are interested in, as well as your [OSCR](../../welcome/glossary.md#oscr) score.
 
 You can easily share your Dev Card on social media platforms like X/Twitter and LinkedIn to gain attention from potential recruiters and hiring managers.
 
-![OpenSauced Dev card](../../../static/img/a-dev-card.png)
+![OpenSauced Dev card](../../../static/img/DevCard.png)
 
 ### Reflection and Next Steps
 

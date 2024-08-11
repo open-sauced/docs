@@ -40,10 +40,12 @@ Your profile is a great resource for showcasing your contributions and sharing y
 
 ![your profile](../../static/img/profile.png)
 
-On your profile, you will see the "Highlights" tab, which you can learn more about [in this section](#highlights-connecting-and-recognizing-contributions), and three other tabs:
+On your profile, you will see the "Highlights" tab, which you can learn more about [in this section](#highlights-connecting-and-recognizing-contributions), and two other tabs:
 
-- **Contributions**: This tab includes a graph showing the number of PRs you have opened, [the velocity of your PRs](../welcome/glossary.md#pr-velocity), and the number of repositories you have contributed to. Underneath the graph is a "Latest PRs" chart, which shows a list of current and recent PRs. This tab is helpful if you want to showcase a steady and consistent open source contribution experience.
-- **Connections**: For pro accounts, you can reach out to other contributors and maintainers to collaborate on projects or to learn from them.
+- **Contributions**: This tab includes a graph showing the number of PRs you have opened, [the velocity of your PRs](../welcome/glossary.md#pr-velocity), and the number of repositories you have contributed to. 
+
+Underneath the graph is a "Latest PRs" chart, which shows a list of current and recent PRs. There is also an option to view the users latest issue comments. The contributions tab is helpful if you want to showcase a steady and consistent open source contribution experience.
+
 - **Recommendations**: This tab includes a list of open source projects that are chosen based on the programming languages you picked in the "Interests" section of your public profile. It is useful if you're looking for new projects to contribute to.
 
 ## Explore: Finding Your Next Open Source Project

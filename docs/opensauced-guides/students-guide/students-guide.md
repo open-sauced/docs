@@ -57,9 +57,9 @@ To get the full benefit of your profile, share it on social media, include a lin
 
 ### Your Dev Card
 
-Another fun way to share your open source contributions is through your [Dev Card](../../features/dev-card.md). Your Dev Card is a visual representation of your open source contributions. It includes your profile picture, name, bio, and the number of your latest contributions. 
+Another fun way to share your open source contributions is through your [Dev Card](../../features/dev-card.md). Your Dev Card is a visual representation of your open source contributions. It includes your [OSCR](../../welcome/glossary.md#oscr), profile picture, name, bio, and the number of your latest contributions. 
 
-![dev card](../../../static/img/a-dev-card.png)
+![dev card](../../../static/img/DevCard.png)
 
 
 ## Explore: Finding Your Next Open Source Project

@@ -10,6 +10,9 @@ keywords:
 - "Showcase Repositories" 
 - "Repository forks" 
 - "Repository stars" 
+- "lottery factor"
+- "Contributor Confidence"
+- "Bus factor"
 ---
 
 Repository Pages allow you to view specific information about a repository hosted on GitHub through a detailed visual and analytical representation of the project.
@@ -20,7 +23,7 @@ These pages are designed to help you gain insights into various aspects of proje
 
 There are a couple of ways to access a repository page:
 
-1. **From the Repository Insights Page**: If you're already on the Repository Insights Page, you can click on the repository name to view the repository page.
+1. **From Repository Insights Pages**: If you're already on the Repository Insights Page, you can click on the repository name to view the repository page.
 2. **From the search bar**: You can search for a repository by entering the repository name in the search bar. Once you find the repository you're looking for, click on the repository name to view the repository page.
 3. **Directly from the URL**: You can also access a repository page directly by entering the URL in your web browser: 
 
@@ -34,23 +37,35 @@ There are a couple of ways to access a repository page:
 
     [https://app.opensauced.pizza/s/vercel/next.js](https://app.opensauced.pizza/s/vercel/next.js)
 
-    Here's what that will look like:
-
-    [![next.js repository page](../../static/img/vercel-repo-page.png)](https://app.opensauced.pizza/s/vercel/next.js) 
+:::tip
+If you want to keep track of a repository, use the "Add to WorkSpace" button on the Repo page to add it to your [Workspace](https://opensauced.pizza/docs/features/workspaces/).
+:::
 
 ## Understanding the Repository Page
 
 ### Overview Dashboard
 
-The charts on our repository pages offer a visual representation of several key metrics:
+The charts on our repository pages offer a visual representation of key project metrics:
 
+- **Contributors Overview**: Our bar chart shows contributions by internal, new, and recurring contributors, exibiting the distribution of contributions and the project's ability to attract new contributors.
+- **[Lottery Factor](../welcome/glossary.md#lottery-factor)**: This unique metric highlights the dependency on key contributors. A project is considered vulnerable if 2 or fewer contributors account for 50% or more of the project's contributions. This indicates a potential risk if one of these contributors leaves the project.
+- **[YOLO Coders](../welcome/glossary.md#yolo-coders)**: This metric identifies contributors who push changes directly to the default branch without creating a pull request or seeking community feedback. 
+- **Contributor Confidence**: This metric predicts the likelihood that users who star or fork a repository will return to make contributions. A higher confidence score indicates a greater probability of these users actively engaging with the repository.
+- **OSSF Scorecard**: A standardized metric developed by the Open Source Security Foundation to evaluate the security practices of open source projects based on a set of security criteria. These criteria cover various aspects of project maintenance and security practices. The resulting score provides a quick overview of the project's adherence to security best practices.
 - **Issue Resolution Trends**: Our line graphs display the number of issues opened versus those closed within specified periods, offering insights into the effectiveness of problem resolution and how issue volume changes over time.
 - **Pull Request Dynamics**: Analyze pull request activity by the numbers of pull requests opened, closed, and merged. This provides an overview of collaboration efficiency and code review processes.
 - **Stars and Forks Over Time**: The number of stars and forks the project receives over time, illustrating the project's growth in popularity and its spread within the developer community.
-- **[Lottery Factor](../welcome/glossary.md#lottery-factor)**: This unique metric highlights the dependency on key contributors. A project is considered vulnerable if 2 or fewer contributors account for 50% or more of the project's contributions. This indicates a potential risk if one of these contributors leaves the project.
-- **Contributor Confidence**: This metric predicts the likelihood that users who star or fork a repository will return to make contributions. A higher confidence score indicates a greater probability of these users actively engaging with the repository.
 
 You can use the time range filter to view the number of stars and forks over different periods, such as the last 7 days, month, or the last year.
+
+#### Insights into YOLO Coders
+
+For small, independent side projects, this method can sometimes be acceptable due to the limited scope and impact of the changes. However, in larger projects with broader adoption, such practices can quickly lead to significant issues, including:
+
+- **Semantic Problems**: Lack of clear commit messages and structured development history can make it challenging to understand the evolution of the project.
+- **Communication Breakdowns**: Community members and collaborators may find it difficult to follow ongoing changes, align with the project’s direction, or contribute effectively.
+- **Security Risks**: Direct pushes to the default branch can introduce vulnerabilities. For instance, an accidental force push could erase critical history, or worse, a rogue commit could embed malicious code without detection.
+- **Quality Control**: By bypassing code reviews and automated checks, YOLO coders risk introducing bugs, breaking existing functionality, or compromising the project’s integrity.
 
 #### Insights into Contributor Confidence
 
@@ -79,10 +94,17 @@ Understanding Contributor Confidence can help you gauge the health of a reposito
 
 For **Owners/Maintainers**, Contributor Confidence helps understand recent stars and forks in the context of contributors. A higher score suggests more people who have recently contributed elsewhere or within the repository itself, which can be a positive indicator of the overall health of your repository.
 
+### Insights into the OSSF Scorecard
+
+The Scorecard serves two primary purposes:
+
+- To help open source maintainers improve their security best practices
+- To assist open source consumers in assessing the safety of their dependencies
+
+You can find out more about how the OSSF Scorecard works and how to interpret the results on the [OSSF Scorecard website](https://scorecard.dev/#what-is-openssf-scorecard).
+
 ### Contributor Dashboard
 
-The Contributor Dashboard offers a comprehensive view of all contributors, showcasing the frequency and size of each person’s contributions. 
+The Contributor Dashboard offers a comprehensive view of all contributors, showcasing the frequency and size of each person’s contributions. It also includes each active contributors [OSCR](../welcome/glossary.md#oscr).
 
 Currently, only publicly available repositories on GitHub can be viewed through repository pages.
-
-Repository pages provide a way to explore and learn about open source projects on GitHub. While you cannot create or edit them directly on Open Sauced Pizza yet, you can add them to your [Repository Insight pages](https://opensauced.pizza/docs/features/repo-insights/). 
