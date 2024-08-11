@@ -42,8 +42,7 @@ If you've looked at your project's [Repository Insight Page](../features/repo-in
 
 :::tip
 
-Consider checking out our [Understanding Repository Insights Data](../features/repo-insights.md) guide to give you an idea on what to look for when narrowing down your list.
-
+Consider checking out our [Understanding Repository Insights Data](../features/repo-insights.md) guide and learn about [OSCR](../welcome/glossary.md#oscr-score) scores to give you an idea on what to look for when narrowing down your list.
 :::
 
 Once you've identified the people you want to ask, reach out to them, providing a clear message and a list of expectations.
