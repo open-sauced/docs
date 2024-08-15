@@ -126,3 +126,52 @@ The OSCR is calculated using a combination of factors, including:
 
 
 Currently, only publicly available repositories on GitHub can be viewed through repository pages.
+
+## Create a Workspace from SBOM
+
+This feature allows users to create a [workspace](https://opensauced.pizza/docs/features/workspaces/) based on a Software Bill of Materials (SBOM) for a given repository. An SBOM, or **Software Bill of Materials**, is a detailed list of all the components, libraries, and dependencies that make up a software application. It’s like an inventory or a “recipe” that outlines the different parts that have been used to create the software, and is important for transparency, security, compliance, and managing supply chain risks.
+
+### How to Use the Workspace from SBOM Feature
+
+1. Navigate to a repository page on OpenSauced.
+2. Look for the "Workspace from SBOM" button.
+3. Click the button to be taken to a page for creating a new workspace.
+4. The system will automatically load the SBOM for the repository, populating the tracked repositories with all relevant packages.
+5. The workspace name will default to "SBOM for [repository name]", but you can modify it if desired.
+6. Create the workspace to start exploring and investigating all the dependencies listed in the SBOM.
+
+:::note
+Currently, this feature is only available for projects with a package.json file. We are working on expanding support for more project types in the future.
+:::
+
+### Benefits of Using SBOM Workspaces
+
+<details>
+<summary>
+SBOM Workspaces offer significant benefits for managing and securing software projects by providing a detailed inventory of all software components. By leveraging SBOM workspaces, organizations can enhance their software supply chain security and ensure compliance with industry standards. 
+</summary>
+
+Here are the key advantages of using SBOM workspaces:
+
+1. **Dependency Visibility**: Gain a clear overview of all packages and dependencies that make up a project.
+2. **Security Analysis**: Easily identify and investigate potential vulnerabilities in your software supply chain.
+3. **Compliance**: Assist in meeting regulatory requirements and industry standards that mandate SBOM usage.
+4. **Risk Management**: Better understand and mitigate risks associated with third-party components in your software.
+5. **Collaboration**: Share SBOM information within your team or organization to improve overall software security practices.
+
+### Why Track SBOMs?
+
+Tracking SBOMs through OpenSauced workspaces offers several advantages:
+
+1. **Transparency**: Gain insights into your open-source usage and dependencies.
+2. **Early Detection**: Identify vulnerabilities sooner.
+3. **License Compliance**: Easily review and license information for all dependencies.
+4. **Audit Support**: Facilitate software audits and compliance checks with readily available SBOM data.
+5. **Supply Chain Security**: Enhance your overall software supply chain security by maintaining up-to-date information on all components.
+
+By leveraging the Workspace from SBOM feature, you can streamline your software development process, enhance security, and maintain better control over your project's dependencies.
+
+For a comprehensive understanding of SBOMs and their importance in software security and supply chain risk management, please refer to the following authoritative sources:
+- [National Institute of Standards and Technology (NIST)](https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity/software-security-supply-chains-software-1)
+- [Cybersecurity and Infrastructure Security Agency (CISA)](https://www.cisa.gov/sbom)
+</details>
