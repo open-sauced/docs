@@ -72,8 +72,7 @@ Your OpenSauced Profile, includes your DevCard, which is a great way to track yo
 
 #### How to check your OSCR
 
-Go to your OpenSauced Profile. For example, https://app.opensauced.pizza/u/bekahhw.
-Check out [this contributor insight page](https://app.opensauced.pizza/workspaces/cff3f17b-f052-4686-85af-72971009136b/contributor-insights/545c756a-39e0-4361-b516-9610cb413959/overview) to see the members of our 2024 cohort. 
+Go to your OpenSauced Profile. For example, https://app.opensauced.pizza/u/bekahhw. You can also check out [this contributor insight page](https://app.opensauced.pizza/workspaces/cff3f17b-f052-4686-85af-72971009136b/contributor-insights/545c756a-39e0-4361-b516-9610cb413959/overview) to see the members of our 2024 cohort. 
 
 Remember, there's value in knowing the story behind the numbers. When you share your DevCard, tell the story behind your number. 
 
