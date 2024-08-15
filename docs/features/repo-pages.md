@@ -103,8 +103,33 @@ The Scorecard serves two primary purposes:
 
 You can find out more about how the OSSF Scorecard works and how to interpret the results on the [OSSF Scorecard website](https://scorecard.dev/#what-is-openssf-scorecard).
 
-### Contributor Dashboard
+## Contributor Dashboard
 
 The Contributor Dashboard offers a comprehensive view of all contributors, showcasing the frequency and size of each person’s contributions. It also includes each active contributors [OSCR](../welcome/glossary.md#oscr).
+
+
+### The OSCR
+
+<details>
+  <summary>The Open Source Contributor Rating (OSCR) is a metric designed to evaluate the quality, confidence, and sway of a contributor's work in open source projects.</summary>
+
+#### How it works:
+
+The OSCR is calculated using a combination of factors, including:
+
+  - **Contributor Confidence**: Assesses how likely a contributor is to continue engaging with projects.
+  - **Contributor Quality**: Evaluates the overall quality of contributions.
+  - **Sway**: Measures the contributor's ability to engage with and influence the community through conversations.
+
+##### How it can be used:
+
+- **For maintainers**: Identify key contributors and potential collaborators.
+- **For contributors**: Gauge your impact and areas for improvement as well as track your progress in open source projects.
+- **For collaborators**: Discover talented developers to collaborate with based on their open source contributions.
+- **For companies**: Identify impactful contributors to sponsor or engage with based on their open source contributions.
+
+</details>
+
+
 
 Currently, only publicly available repositories on GitHub can be viewed through repository pages.
