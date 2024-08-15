@@ -41,9 +41,7 @@ There are a couple of ways to access a repository page:
 If you want to keep track of a repository, use the "Add to WorkSpace" button on the Repo page to add it to your [Workspace](https://opensauced.pizza/docs/features/workspaces/).
 :::
 
-## Understanding the Repository Page
-
-### Overview Dashboard
+## Understanding the Repository Page - Overview Dashboard
 
 The charts on our repository pages offer a visual representation of key project metrics:
 
@@ -58,32 +56,25 @@ The charts on our repository pages offer a visual representation of key project 
 
 You can use the time range filter to view the number of stars and forks over different periods, such as the last 7 days, month, or the last year.
 
-#### Insights into YOLO Coders
 
-For small, independent side projects, this method can sometimes be acceptable due to the limited scope and impact of the changes. However, in larger projects with broader adoption, such practices can quickly lead to significant issues, including:
+### Insights into Contributor Confidence
 
-- **Semantic Problems**: Lack of clear commit messages and structured development history can make it challenging to understand the evolution of the project.
-- **Communication Breakdowns**: Community members and collaborators may find it difficult to follow ongoing changes, align with the project’s direction, or contribute effectively.
-- **Security Risks**: Direct pushes to the default branch can introduce vulnerabilities. For instance, an accidental force push could erase critical history, or worse, a rogue commit could embed malicious code without detection.
-- **Quality Control**: By bypassing code reviews and automated checks, YOLO coders risk introducing bugs, breaking existing functionality, or compromising the project’s integrity.
+<details>
+<summary>Contributor Confidence is a new metric that helps us understand the likelihood of someone who interacts with a repository (by starring or forking it) coming back to actually contribute code or other content.</summary>
 
-#### Insights into Contributor Confidence
-
-Contributor Confidence is a new metric that helps us understand the likelihood of someone who interacts with a repository (by starring or forking it) coming back to actually contribute code or other content.
-
-##### How it Works
+#### How it Works
 
 We calculate Contributor Confidence as a percentage over a specific time period (usually 30 days). Here’s what we look at:
 
 	- **Starred Repositories**: We check if people who starred a repository have contributed to other repositories during the same timeframe. If they have, we see if they also contributed to the starred repository itself.
 	- **Forked Repositories**: Similar to starred repositories, we check if people who forked a repository have contributed elsewhere recently. We then see if they made a pull request or other contribution to the forked repository.
 
-##### Weighting the Score
+#### Weighting the Score
 
 	- **Forks**: Forking a repository generally indicates a stronger intent to contribute compared to just starring it. So forks tend to have a slightly higher weighting in the confidence score.
 	- **Direct Contributions**: If someone actually makes a contribution to the repository in question, their confidence score for that specific repository becomes 100% (the highest weight).
 
-##### Why is it Useful?
+#### Why is it Useful?
 
 Understanding Contributor Confidence can help you gauge the health of a repository and its community. Here are a few ways you can interpret the score:
 
@@ -93,6 +84,8 @@ Understanding Contributor Confidence can help you gauge the health of a reposito
     - An **exceptionally high score (above 40%)** could have different interpretations depending on the project. For very popular repositories, it might still reflect a strong community. For smaller projects, it could suggest a lower barrier to entry that might lead to a high volume of low-quality contributions or unfinished work.
 
 For **Owners/Maintainers**, Contributor Confidence helps understand recent stars and forks in the context of contributors. A higher score suggests more people who have recently contributed elsewhere or within the repository itself, which can be a positive indicator of the overall health of your repository.
+
+</details>
 
 ### Insights into the OSSF Scorecard
 
