@@ -122,6 +122,10 @@ This feature allows users to create a [workspace](https://opensauced.pizza/docs/
 5. The workspace name will default to "SBOM for [repository name]", but you can modify it if desired.
 6. Create the workspace to start exploring and investigating all the dependencies listed in the SBOM.
 
+:::note
+Currently, this feature is only available for projects with a package.json file. We are working on expanding support for more project types in the future.
+:::
+
 ### Benefits of Using SBOM Workspaces
 
 <details>
