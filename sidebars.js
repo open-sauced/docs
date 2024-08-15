@@ -35,7 +35,7 @@ module.exports = {
     {
       type: "category",
       label: "Guides to OpenSauced",
-      collapsed: false,
+      collapsed: true,
       items: [{
         type: "category",
         label: "Job Seekers Guide",
@@ -58,7 +58,7 @@ module.exports = {
     {
       type: "category",
       label: "Maintainers Guide to OpenSauced",
-      collapsed: false,
+      collapsed: true,
       items: [
         "maintainers/maintainers-guide-to-open-sauced",
         "maintainers/understanding-repo-insights",
@@ -74,7 +74,7 @@ module.exports = {
     {
       type: "category",
       label: "Community",
-      collapsed: false,
+      collapsed: true,
       items: ["community/welcome-to-the-community", "community/100-days-of-oss", {
         type: 'link',
         label: 'Open Source Education Path',
