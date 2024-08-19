@@ -8,15 +8,16 @@ description: "Learn how to add OpenSauced Dev Cards to your GitHub Profile using
 
 Last week, we launched our brand new Dev Cards with the OSCR (Open Source Contributor Rating) highlighted on the front to make it easier for you to showcase your impact in open source. To make it even easier, I've cooked up a little GitHub Action that'll automatically update your Dev Card on your GitHub profile. 
 
+<!-- truncate -->
+
+
 In this post, we're gonna dive into what Dev Cards are all about, how this new GitHub Action works, and how you can get it set up. 
 
 ## OpenSauced Dev Cards
 
 At OpenSauced, we created [dev cards to showcase your open source stats](https://opensauced.pizza/docs/features/dev-card/).
 
-We also recently introduced the OSCR score which appears prominently on dev cards now.
-
-{% embed https://dev.to/bekahw/introducing-the-oscr-celebrating-open-source-stars-2eo7 %}
+We also [recently introduced the OSCR score](https://opensauced.pizza/blog/introducing-OSCR) which appears prominently on dev cards now.
 
 If you head on over to your OpenSauced profile page, you can see your dev card now. Here's [my OpenSauced profile](https://oss.fyi/nickytonline). There's a little pizza card button you can press to see it.
 
@@ -30,7 +31,7 @@ The card is interactive and can be flipped.
 
 To make it easier to showcase your contributions, I've developed a GitHub Action that automates the process of fetching your OpenSauced dev card (static version) and updating it in your GitHub profile README.
 
-{% embed https://github.com/nickytonline/open-sauced-dev-card-action %}
+You can check it out [here](https://github.com/nickytonline/open-sauced-dev-card-action)
 
 This means you can have an always up-to-date representation of your open source contributions from OpenSauced stats right on your GitHub profile.
 
