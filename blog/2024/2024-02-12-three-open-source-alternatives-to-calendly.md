@@ -10,7 +10,7 @@ description: "Check out three open source alternatives to calendly to schedule y
 
 <hr/>
 
-Chances are, you either have a calendar schedule or you've interacted with someone else's scheduler. I have been incredibly resistant to having one myself, although I have tried (and didn't *love*) Calendly in the past to help schedule podcast episodes. At this point, it's necessary for me to have a way to easily schedule meeting, kids' events, and whatever else is happening. To do this, I investigated [three open source alternatives to Calendly](https://app.opensauced.pizza/pages/BekahHW/1199/dashboard): cal.com, Fossify Calendar, and Easy!Appointments. 
+Chances are, you either have a calendar schedule or you've interacted with someone else's scheduler. I have been incredibly resistant to having one myself, although I have tried (and didn't *love*) Calendly in the past to help schedule podcast episodes. At this point, it's necessary for me to have a way to easily schedule meeting, kids' events, and whatever else is happening. To do this, I investigated [three open source alternatives to Calendly](https://app.opensauced.pizza/workspaces/70809527-03ce-41ec-a159-fc664651afdb/repository-insights/1199/dashboard): cal.com, Fossify Calendar, and Easy!Appointments. 
 
 <!-- truncate -->
 
@@ -103,4 +103,4 @@ If you're trying to make a decision, about which to pick, here are some of my ad
 
 ## Takeaways
 
-Depending on your needs, there will be different decisions for everyone here. I will say, as a recent cal.com user, I'm finding the process to be very positive, but I'm only using the most basic features. I'm looking forward to implementing more of their offerings soon for some of my upcoming projects though! If you have an open source productivity tool you'd like to recommend, drop it in the comments below. To learn more about the cal.com contributors, including their OSCR, check out their [contributor tab](https://app.opensauced.pizza/s/calcom/cal.com/contributors?range=30)
+Depending on your needs, there will be different decisions for everyone here. I will say, as a recent cal.com user, I'm finding the process to be very positive, but I'm only using the most basic features. I'm looking forward to implementing more of their offerings soon for some of my upcoming projects though! If you have an open source productivity tool you'd like to recommend, drop it in the comments below. To learn more about the cal.com contributors, including their OSCR, check out their [contributor tab](https://app.opensauced.pizza/s/calcom/cal.com/contributors?range=30).
