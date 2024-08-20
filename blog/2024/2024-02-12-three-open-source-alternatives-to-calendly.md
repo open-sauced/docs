@@ -10,7 +10,7 @@ description: "Check out three open source alternatives to calendly to schedule y
 
 <hr/>
 
-Chances are, you either have a calendar schedule or you've interacted with someone else's scheduler. I have been incredibly resistant to having one myself, although I have tried (and didn't *love*) Calendly in the past to help schedule podcast episodes. At this point, it's necessary for me to have a way to easily schedule meeting, kids' events, and whatever else is happening. To do this, I investigated [three open source alternatives to Calendly](https://app.opensauced.pizza/workspaces/70809527-03ce-41ec-a159-fc664651afdb/repository-insights/1199/dashboard): cal.com, Fossify Calendar, and Easy!Appointments. 
+Chances are, you either have a calendar schedule or you've interacted with someone else's scheduler. I have been incredibly resistant to having one myself, although I have tried (and didn't *love*) Calendly in the past to help schedule podcast episodes. At this point, it's necessary for me to have a way to easily schedule meeting, kids' events, and whatever else is happening. To do this, I investigated [three open source alternatives to Calendly](https://app.opensauced.pizza/workspaces/127e8633-bace-4bae-814b-b36695e87de0): cal.com, Fossify Calendar, and Easy!Appointments. 
 
 <!-- truncate -->
 
@@ -34,7 +34,7 @@ Designed with privacy and simplicity in mind, it focuses on a key set of feature
 
 Despite not having a website for their product, Fossify Calendar has continued support from contributors.
 
-[![Fossify oss support](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d4pyb6ylmg5rkwrwpe5i.png)](https://app.opensauced.pizza/pages/BekahHW/1199/dashboard)
+[![Fossify oss support](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d4pyb6ylmg5rkwrwpe5i.png)](https://app.opensauced.pizza/workspaces/127e8633-bace-4bae-814b-b36695e87de0)
 
 - Stars: 336
 - Watching: 8
@@ -69,7 +69,7 @@ Easy!Appointments supports online booking for individuals or teams, and offers f
 
 Despite a steady increase in starts from 2016 until now, Easy!Appointments seems to be slowing down. You can see by the contributions graph below, but also if you go to the repository, code hasn't been merged in during the last two months. 
 
-[![Easy!Appointments oss support](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q8818hi4vqlcz1yqyt33.png)](https://app.opensauced.pizza/pages/BekahHW/1199/dashboard)
+[![Easy!Appointments oss support](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q8818hi4vqlcz1yqyt33.png)](https://app.opensauced.pizza/workspaces/70809527-03ce-41ec-a159-fc664651afdb/repository-insights/1199/dashboard)
 
 
 - Stars: 3k 
