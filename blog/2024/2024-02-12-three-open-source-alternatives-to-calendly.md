@@ -1,6 +1,6 @@
 ---
 title: Three open source alternatives to Calendly
-tags: []
+tags: [open source, productivity, collaboration, calendly, fossify calendar, cal.com, easy!appointments]
 authors: BekahHW
 slug: three-open-source-alternatives-to-calendly
 description: "Check out three open source alternatives to calendly to schedule your life!"
