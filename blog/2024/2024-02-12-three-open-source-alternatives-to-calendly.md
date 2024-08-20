@@ -49,7 +49,7 @@ Cal.com offers a comprehensive, API-driven scheduling infrastructure, which crea
 
 Cal.com has by far, the most active open source community and support for their project, and maybe that's reflected in the number of features they offer as well. 
 
-[![Open Source Activity](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7trjrf139z123xvexrfy.png)](https://app.opensauced.pizza/pages/BekahHW/1199/dashboard)
+[![Open Source Activity](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7trjrf139z123xvexrfy.png)](https://app.opensauced.pizza/workspaces/70809527-03ce-41ec-a159-fc664651afdb/repository-insights/1199/dashboard)
 
 
 - Stars: 27.2k 
@@ -72,10 +72,10 @@ Despite a steady increase in starts from 2016 until now, Easy!Appointments seems
 [![Easy!Appointments oss support](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q8818hi4vqlcz1yqyt33.png)](https://app.opensauced.pizza/pages/BekahHW/1199/dashboard)
 
 
-- - Stars: 3k 
-- - Watching: 155 
-- - Forks: 1.2k 
-- - License: GPL-3.0
+- Stars: 3k 
+- Watching: 155 
+- Forks: 1.2k 
+- License: GPL-3.0
 
 ## Comparison with Calendly
 
