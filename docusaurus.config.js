@@ -152,12 +152,14 @@ module.exports = {
           showLastUpdateTime: true,
         },
           blog: {
-          showReadingTime: true,
-          routeBasePath: '/community-resources',
-          path: './blog',
-          },
-          theme: {
-          customCss: require.resolve("./src/css/custom.css"),
+            blogSidebarTitle: 'All posts',
+            blogSidebarCount: 'ALL',
+            showReadingTime: true,
+            routeBasePath: '/community-resources',
+            path: './blog',
+            },
+            theme: {
+            customCss: require.resolve("./src/css/custom.css"),
         },
         sitemap: {
           changefreq: "weekly",
