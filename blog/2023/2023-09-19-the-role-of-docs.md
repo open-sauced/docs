@@ -5,6 +5,7 @@ authors: BekahHW
 slug: role-of-documentation-in-oss
 description: "Discover how high-quality documentation plays a vital role in the success of open source projects, fostering adoption, user satisfaction, and developer collaboration. Learn best practices for creating comprehensive and accessible documentation that empowers the community."
 ---
+
 Maybe I’m biased because I spent ten years teaching college English before coming into tech. Or maybe it’s because I’ve seen projects fail because of poor documentation. Whatever the reason, I believe that documentation plays a huge role in the success and growth of an open source project. Effective documentation empowers developers to understand and utilize the project as well as fosters adoption, creates user satisfaction, and allows for a more seamless collaboration within the community. In order to ensure that happens, we need to understand the significance of documentation in open source along with best practices for creating comprehensive and accessible documentation.
 
 <!-- truncate -->
@@ -28,7 +29,9 @@ One of the challenges of documentation–or any form of long writing–is creati
 
 1. **Keep it Comprehensive:** Cover all aspects of your project, including installation instructions, configuration options, API reference, code examples, and troubleshooting guides. Providing clear and meaningful examples can help the user to better understand the documentation. As part of your documentation, be sure to include a CONTRIBUTING.md file. 
 
-{% embed https://dev.to/opensauced/how-to-make-a-delicious-contributing-guide-4bp3 %}
+:::tip
+Check out [How to make a delicious contributing guide](https://dev.to/opensauced/how-to-make-a-delicious-contributing-guide-4bp3) for more information on creating a contributing guide.
+:::
 
 2. **Focus on Clarity and Simplicity:** Use simple language and clear explanations to ensure that developers of all skill levels can understand your documentation. Break down complex concepts into digestible chunks, and provide code snippets and visual aids to enhance comprehension.
 
