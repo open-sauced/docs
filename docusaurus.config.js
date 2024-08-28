@@ -67,9 +67,9 @@ module.exports = {
         },
         {
          to: "community-resources",
-         label: "Community Resources", 
+         label: "Community Resources",
          position: "left"
-        }, 
+        },
       ],
     },
     colorMode: {
@@ -127,7 +127,7 @@ module.exports = {
               label: "Watch our feature demos",
               href: "https://www.youtube.com/playlist?list=PLHyZ0Wz_A44VRlE-YS9me5qxDNRgK5T3H"
              }
-          
+
           ],
         },
       ],
@@ -224,5 +224,12 @@ module.exports = {
         ],
       },
     ],
+    [
+      "posthog-docusaurus",
+      {
+        apiKey: "phc_Uxc9yqu1fvo0DmTMYxWAHUmh8vEzvYcB1UV3xbzUG6I",
+        enableInDevelopment: true
+      }
+    ]
   ],
 };
