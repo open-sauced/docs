@@ -1,23 +1,46 @@
 BekahHW:
   name: Bekah Hawrot Weigel
   title: Developer Experience Lead
-  url: https://twitter.com/BekahHW
   image_url: https://github.com/BekahHW.png
   email: Bekah@opensauced.pizza
-  twitter: BekahHW
+  socials:
+    x: bekahhw
+    linkedin: bekah-hawrot-weigel
+    github: bekahhw
+    site: https://www.bekahhw.com/
+  page: true
 
 nickytonline:
   name: Nick Taylor
   title: AI Engineer
-  url: https://www.nickyt.co/
   image_url: https://github.com/nickytonline.png
   email: nick@opensauced.pizza
-  twitter: nickytonline
+  socials:
+    x: nickytonline
+    linkedin: nickytonline
+    github: nickytonline
+    site: https://www.nickyt.co/
+  page: true
 
 jpmcb:
   name: John McBride
   title: Sr Software Engineer | AI Engineer
-  url: https://johncodes.com/
   image_url: https://github.com/jpmcb.png
   email: john@opensauced.pizza
-  twitter: johncodezzz
+  socials:
+    x: johncodezzz
+    linkedin: jpmcb
+    github: jpmcb
+    site: https://johncodes.com/
+  page: true
+
+AdiatiAyu:
+  name: Ayu Adiati
+  title: Tech Blogger | Virtual Coffee Documentation and Monthly Challenge Team Lead
+  image_url: https://github.com/adiati98.png
+  socials:
+    x: AdiatiAyu
+    linkedin: adiatiayu
+    github: adiati98
+    site: https://adiati.com/
+  page: true

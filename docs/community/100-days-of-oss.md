@@ -68,6 +68,16 @@ Here's what you can do if you're ready to join this challenge:
 
 - [Post your commitment today on X](https://twitter.com/intent/tweet?text=I%27m%20joining%20the%20%23100DaysOfOSS%20challenge%20with%20%40saucedopen%20to%20grow%20my%20skills%2C%20gain%20real-world%20experience%20in%20open%20source%2C%20and%20to%20make%20a%20positive%20impact%20on%20the%20OSS%20Community!) or share on your platform of choice!
 
+Your OpenSauced Profile, includes your DevCard, which is a great way to track your progress. Remember, it's not about what the number is today; it's about what the number is at the end of 100 days. Check out [Numbers and Narratives: The Dual Power of Tracking Your Open Source Journey](https://opensauced.pizza/blog/numbers-and-narratives) for more information on effectively tracking your progress and telling your story.
+
+#### How to check your OSCR
+
+Go to your OpenSauced Profile. For example, https://app.opensauced.pizza/u/bekahhw. You can also check out [this contributor insight page](https://app.opensauced.pizza/workspaces/cff3f17b-f052-4686-85af-72971009136b/contributor-insights/545c756a-39e0-4361-b516-9610cb413959/overview) to see the members of our 2024 cohort. 
+
+Remember, there's value in knowing the story behind the numbers. When you share your DevCard, tell the story behind your number. 
+
+[![DevCard](../../static/img/DevCard.png)](https://app.opensauced.pizza/u/bekahhw/card)
+
 ## The Official Kickoff
 
  The #100DaysOfOSS challenge is flexible; you can join whenever you're ready. Just jump in at any point and begin with day one of your personal challenge.
@@ -76,22 +86,29 @@ Here's what you can do if you're ready to join this challenge:
 
 To make the most of your #100DaysOfOSS journey, here are some additional resources and events you can explore:
 
-1. **Weekly X Spaces:** Join our X Spaces, where we discuss open source topics, share insights, and connect with like-minded individuals. Follow us on [X](https://twitter.com/saucedopen) to stay updated on upcoming sessions.
-
-2. **Community events:** Discover a wide range of events on our [community docs page](https://opensauced.pizza/docs/community/welcome-to-the-community). Whether hack days, workshops, or office hours, these events provide excellent opportunities to learn, collaborate, and find new projects to contribute to.
-
-3. **Contribution opportunities:** If you're actively looking for open source projects to contribute to, check out the [post](https://dev.to/bekahhw/series/23323) for new contribution opportunities.
-
-4. **Discussion Forum:** Have questions or need help? Join us in our [Community](https://github.com/orgs/open-sauced/discussions/1) or post on our [#100DaysOfOSS discussion](https://github.com/orgs/open-sauced/discussions/36). We're here to help you succeed!
+1. **Weekly Events:** Join our events, where we discuss open source topics, share insights, and connect with like-minded individuals. Follow us on [X](https://twitter.com/saucedopen) to stay updated on upcoming sessions.
+2. **Learning Resources:** Check out our [Learning Resources](https://opensauced.pizza/learn/#/) to find courses, tutorials, and other educational materials to help you grow your skills.
+3. **Discussion Forum:** Have questions or need help? Join us in our [Community](https://github.com/orgs/open-sauced/discussions/1) or post on our [#100DaysOfOSS discussion](https://github.com/orgs/open-sauced/discussions/36). We're here to help you succeed!
 
 ## Where to Start?
 
 If you're ready to start your #100DaysOfOSS journey, here are some tips to help you get started:
 
-- **Find a project:** Explore the [OpenSauced](https://opensauced.pizza/) website to find a project that interests you. You can also check out the [weekly post](https://dev.to/bekahhw/series/) for exciting contribution opportunities.
+- **Find a project:** Explore the [OpenSauced](https://opensauced.pizza/) website to find a project that interests you. 
 - **Take our Intro To Open Source course:** If you're new to open source, we recommend taking our [Intro to Open Source course](https://opensauced.pizza/learn/#/) to learn more about open source and how to get started.
 - **Record your journey:** You will learn a lot as you navigate this challenge, so we highly recommend using our [#100DaysOfOSS journal template](https://github.com/open-sauced/100-days-of-oss-template) on GitHub or [Notion](https://www.notion.so/a0m0rajab/100-Days-Of-Open-Source-2615e66772e14152897002e348c5f1bc?pvs=13) to help you reflect. Remember, this is _your_ journey, so feel free to customize them however you like.
 - **Check our Contributors Guide:** If you're new to contributing to open source, we recommend checking out our [Contributors Guide to OpenSauced](https://opensauced.pizza/docs/contributors/contributors-guide-to-open-sauced/) to learn more about the process and best practices.
+
+### Find Projects You're Interested in 🔍
+
+In the Intro to Open Source course, we talk about how to find projects to contribute to. When you contribute, start by understanding the project. Here are some steps you can take:
+
+- Read through the ReadMe of the projects
+- Find the contributing.md files and read through those
+- Take a look at a Bug Report and Feature Request Issue on each of the repositories. Familiarize yourself with the format and information provided.  
+- Notice how well clear communication helps to aid the process.
+
+Here's [a post](https://opensauced.pizza/docs/community-resources/how-to-write-a-good-issue-tips-for-effective-communication-in-open-source/) you can read on writing good issues.
 
 ## The Power of the #100DaysOfOSS Challenge
 

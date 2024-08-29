@@ -3,7 +3,7 @@
   "version": "1.75.4",
   "private": true,
   "engines": {
-     "node": "^18.17.0 || >=20.5.0",
+    "node": "^18.17.0 || >=20.5.0",
     "npm": ">= 9.6.0"
   },
   "scripts": {
@@ -22,13 +22,14 @@
     "pdf": "npx docusaurus-prince-pdf -u http://127.0.0.1:8080 -d ./build -o ./build/open-sauced-docs.pdf -f ./open-sauced-docs.txt --include-index"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.4.0",
-    "@docusaurus/plugin-pwa": "^3.4.0",
-    "@docusaurus/preset-classic": "^3.4.0",
-    "@docusaurus/theme-search-algolia": "^2.4.0",
+    "@docusaurus/core": "^3.5.2",
+    "@docusaurus/plugin-pwa": "^3.5.2",
+    "@docusaurus/preset-classic": "^3.5.2",
+    "@docusaurus/theme-search-algolia": "^3.5.2",
     "@mdx-js/react": "^3.0.0",
     "axios": "^1.7.2",
     "fs": "^0.0.1-security",
+    "posthog-docusaurus": "^2.0.1",
     "prism-react-renderer": "^2.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
