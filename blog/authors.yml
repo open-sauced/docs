@@ -4,11 +4,11 @@ BekahHW:
   image_url: https://github.com/BekahHW.png
   email: Bekah@opensauced.pizza
   socials:
-      x: bekahhw
-      linkedin: bekah-hawrot-weigel
-      github: bekahhw
-      site: https://www.bekahhw.com/
-  page: true 
+    x: bekahhw
+    linkedin: bekah-hawrot-weigel
+    github: bekahhw
+    site: https://www.bekahhw.com/
+  page: true
 
 nickytonline:
   name: Nick Taylor
@@ -16,20 +16,31 @@ nickytonline:
   image_url: https://github.com/nickytonline.png
   email: nick@opensauced.pizza
   socials:
-      x: nickytonline
-      linkedin: nickytonline
-      github: nickytonline
-      site: https://www.nickyt.co/
-  page: true 
+    x: nickytonline
+    linkedin: nickytonline
+    github: nickytonline
+    site: https://www.nickyt.co/
+  page: true
 
 jpmcb:
   name: John McBride
   title: Sr Software Engineer | AI Engineer
   image_url: https://github.com/jpmcb.png
   email: john@opensauced.pizza
-  socials: 
+  socials:
     x: johncodezzz
     linkedin: jpmcb
     github: jpmcb
     site: https://johncodes.com/
-  page: true 
+  page: true
+
+AdiatiAyu:
+  name: Ayu Adiati
+  title: Tech Blogger | Virtual Coffee Documentation and Monthly Challenge Team Lead
+  image_url: https://github.com/adiati98.png
+  socials:
+    x: AdiatiAyu
+    linkedin: adiatiayu
+    github: adiati98
+    site: https://adiati.com/
+  page: true
