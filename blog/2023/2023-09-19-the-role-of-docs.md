@@ -25,6 +25,7 @@ Here's why documentation matters in the context of open source:
 3. **Encouraging Collaboration:** Documentation is the foundation for collaboration within the open source community. When contributors have access to accurate and up-to-date documentation, they can effectively contribute code, submit bug fixes, and improve the project's overall quality.
 
 ## Best Practices for Documentation in Open Source
+
 One of the challenges of documentation–or any form of long writing–is creating a well-organized document that doesn’t give too much information but empowers the user to get started without having a lack of understanding. Here are some tips for creating good documentation:
 
 1. **Keep it Comprehensive:** Cover all aspects of your project, including installation instructions, configuration options, API reference, code examples, and troubleshooting guides. Providing clear and meaningful examples can help the user to better understand the documentation. As part of your documentation, be sure to include a CONTRIBUTING.md file. 
