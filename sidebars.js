@@ -100,27 +100,9 @@ module.exports = {
               items: [
                 {
                   type: "file",
-                  label: "feature 1",
-                  type: "doc",
-                  id: "tools/chrome-extension/code-explanation",
-                },
-                {
-                  type: "file",
-                  label: "feature 2",
-                  type: "doc",
-                  id: "tools/chrome-extension/pr-description",
-                },
-                {
-                  type: "file",
                   label: "feature 3",
                   type: "doc",
                   id: "tools/chrome-extension/highlights",
-                },
-                {
-                  type: "file",
-                  label: "feature 5",
-                  type: "doc",
-                  id: "tools/chrome-extension/refactoring-and-testing",
                 },
                 {
                   type: "file",
