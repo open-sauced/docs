@@ -1,0 +1,26 @@
+# Configuration for attributing commits with emails to individual entities.
+# Used during "pizza generate codeowners".
+attribution:
+
+  # Keys can be GitHub usernames. For the "--github-codeowners" style codeowners
+  # generation, these keys must be valid GitHub usernames.
+  brandonroberts:
+    - robertsbt@gmail.com
+  jpmcb:
+    - john@opensauced.pizza
+    - jpmmcbride@gmail.com
+  nickytonline:
+    - nick@nickyt.co
+    - nick@opensauced.pizza
+  bdougie:
+    - bdougie@users.noreply.github.com
+  zeucapua:
+    - coding@zeu.dev
+  bekahhw:
+    - BekahHW@users.noreply.github.com
+    - rhawrot@gmail.com
+  BekahHW:
+    - BekahHW@users.noreply.github.com
+  adiati98:
+    - adiati98@users.noreply.github.com
+
