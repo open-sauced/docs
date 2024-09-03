@@ -27,6 +27,7 @@ Beyond just code commits, the pizza CLI reports on different ways individuals co
 - **Repo-query**: Get your questions about any GitHub repository answered.
 - **Show**: Visualize the metrics of a repository, providing a holistic view of its health and activity.
 - **Login**: Securely log into the application via GitHub, ensuring a streamlined and safe experience.
+- **Codeowners**: Generate and manage CODEOWNERS files for your repositories.
 
 ## Installation and Instructions
 
@@ -51,15 +52,17 @@ The pizza CLI provides multiple installation methods to cater to the varied pref
   ```bash
   curl -fsSL https://raw.githubusercontent.com/open-sauced/pizza-cli/main/install.sh
   ```
+  :::danger
+  Piping scripts directly from the web to your shell can be risky. Always ensure you trust the source. 
+  :::
 
-  ⚠️ **Warning**: Piping scripts directly from the web to your shell can be risky. Always ensure you trust the source. For a safer approach, download, inspect, and then execute the following commands:
+   For a safer approach, download, inspect, and then execute the following commands:
 
-  ```bash
-  curl -fsSL https://raw.githubusercontent.com/open-sauced/pizza-cli/main/install.sh > install.sh
-  vim install.sh
-  ./install.sh
+     ```bash
+    curl -fsSL https://raw.githubusercontent.com/open-sauced/pizza-cli/main/install.sh > install.sh
+    vim install.sh
+    ./install.sh
   ```
-
 - **Manual build and install**: For those who like a hands-on approach.
 
   ```bash
