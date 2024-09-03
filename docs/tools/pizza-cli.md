@@ -6,15 +6,12 @@ keywords:
 - "introduction to the pizza cli" 
 - "Pizza CLI Overview" 
 - "Command Line Interface Introduction" 
-- "CLI Basics" 
-- "Pizza Command Line Tool" 
+- "CLI Basics for GitHub Insights" 
 - "CLI Usage Guide" 
 - "Pizza CLI Commands" 
 - "Introduction to Command-Line Interfaces" 
 - "Command Line Tool Features" 
-- "CLI for Pizza Enthusiasts" 
-- "Pizza Ordering CLI" 
-- "Getting Started with Pizza CLI" 
+- "Getting Started with the CLI for GitHub Insights" 
 ---
 
 ## The OpenSauced Pizza CLI
