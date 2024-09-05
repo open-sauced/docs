@@ -19,7 +19,9 @@ The OpenSauced Pizza CLI is a command-line utility designed specifically for Ope
 Beyond just code commits, the pizza CLI reports on different ways individuals contribute to the open source ecosystem through community engagement, issue reporting, blog post writings, or pull request creations.
 
 :::info
+
 To access the CLI repo, visit the [pizza/cli GitHub repository](https://github.com/open-sauced/pizza-cli).
+
 :::
 
 ## Key Features
