@@ -20,7 +20,7 @@ Key benefits of using the codeowners command:
 
 To generate a CODEOWNERS file, you need to [install the Pizza CLI](pizza-cli.md) and run the `pizza generate codeowners` command in your terminal. However, before running the command, it's important to set up proper attribution for committers in a `.sauced.yaml` file.
 
-## Creating a .sauced.yaml file
+## Creating a `.sauced.yaml` file
 
 The `.sauced.yaml` file is necessary for mapping commit email addresses to GitHub usernames. However, it's important to be selective about who you include in this file. Not every contributor should be a codeowner.
 
