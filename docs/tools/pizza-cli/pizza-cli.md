@@ -31,6 +31,9 @@ To access the CLI repo, visit the [pizza/cli GitHub repository](https://github.c
 - **Login**: Securely log into the application via GitHub, ensuring a streamlined and safe experience.
 - **Codeowners**: Generate and manage CODEOWNERS files for your repositories.
 
+:::tip
+For more on the 
+
 ## Installation and Instructions
 
 ### 📦 Download and Install
