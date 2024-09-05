@@ -32,7 +32,8 @@ To access the CLI repo, visit the [pizza/cli GitHub repository](https://github.c
 - **Codeowners**: Generate and manage CODEOWNERS files for your repositories.
 
 :::tip
-For more on the 
+For more on the Codeowners command, visit the [Codeowners page](codeowners.md)
+:::
 
 ## Installation and Instructions
 
