@@ -94,6 +94,7 @@ module.exports = {
           items: [
             "tools/pizza-cli/pizza-cli",
             "tools/pizza-cli/codeowners",
+            "tools/pizza-cli/pizza-action",
           ],
         },
         {
