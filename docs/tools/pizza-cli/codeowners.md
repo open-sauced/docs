@@ -74,7 +74,7 @@ Alternatively, you can run the following command to get a list of your contribut
    git log --format='%ae' | sort -u
    ```
 
-## Creating the .sauced.yaml file
+## Creating the `.sauced.yaml` file
 
 After identifying appropriate codeowners, create the `.sauced.yaml` file in your repository's root directory with the following structure:
 
