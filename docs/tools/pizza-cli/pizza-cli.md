@@ -61,7 +61,9 @@ The pizza CLI provides multiple installation methods to cater to the varied pref
   curl -fsSL https://raw.githubusercontent.com/open-sauced/pizza-cli/main/install.sh
   ```
   :::danger
+  
   Piping scripts directly from the web to your shell can be risky. Always ensure you trust the source. 
+  
   :::
 
    For a safer approach, download, inspect, and then execute the following commands:
