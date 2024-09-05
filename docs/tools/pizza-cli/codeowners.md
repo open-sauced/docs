@@ -38,7 +38,9 @@ When deciding who to include in your `.sauced.yaml` file, consider the following
 4. **Long-term contributors**: Consider long-standing contributors who have demonstrated commitment to the project.
 
 :::tip
+
 Be cautious about including external contributors. Only include those who have been vetted and are trusted to review and approve changes.
+
 :::
 
 Codeowners will be automatically requested for review on pull requests that modify code they own.
