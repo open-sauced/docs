@@ -40,9 +40,11 @@ jobs:
 This workflow will run the Pizza CLI's `generate codeowners ./` command once a week, ensuring your CODEOWNERS file stays up-to-date.
 
 :::info
+
 - The action uses `fetch-depth: 0` to ensure all historical commits are available for analysis.
 - The `commit-and-pr` input determines whether to commit changes and create a pull request (default is `false`).
 - You can customize the `pizza-args` input to pass different arguments to the Pizza CLI (default is `generate codeowners ./`).
+
 :::
 
 For more information about the Pizza Action, visit the [open-sauced/pizza-action repository](https://github.com/open-sauced/pizza-action).
