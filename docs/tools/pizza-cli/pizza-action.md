@@ -37,7 +37,7 @@ jobs:
           commit-and-pr: "true"
 ```
 
-This workflow will run the Pizza CLI's "generate codeowners ./" command once a week, ensuring your CODEOWNERS file stays up-to-date.
+This workflow will run the Pizza CLI's `generate codeowners ./` command once a week, ensuring your CODEOWNERS file stays up-to-date.
 
 :::info
 - The action uses `fetch-depth: 0` to ensure all historical commits are available for analysis.
