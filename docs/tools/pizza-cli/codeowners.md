@@ -60,7 +60,7 @@ Codeowners will be automatically requested for review on pull requests that modi
 
 ### Mapping GitHub usernames to email addresses
 
-Mapping GitHub usernames to their corresponding email addresses is necessary for creating an accurate `.sauced.yaml` file. For contributors to your repository, you can use git log to find their email addresses:
+Mapping GitHub usernames to their corresponding email addresses is necessary for creating an accurate `.sauced.yaml` file. For contributors to your repository, you can use `git log` to find their email addresses:
 
    ```bash
    git log --author="GitHub_Username" --format='%ae' | sort -u
