@@ -18,11 +18,11 @@ Key benefits of using the codeowners command:
 - Helps in identifying subject matter experts for different parts of the codebase
 - Facilitates better project management and knowledge distribution
 
-To generate a CODEOWNERS file, you need to run the Pizza CLI codeowners command in your repository. However, before running the command, it's important to set up proper attribution for committers.
+To generate a CODEOWNERS file, you need to [install the Pizza CLI](pizza-cli.md) and run the `pizza generate codeowners` command in your terminal. However, before running the command, it's important to set up proper attribution for committers in a `.sauced.yaml` file.
 
 ## Creating a .sauced.yaml file
 
-The `.sauced.yaml` file is necessary for mapping commit email addresses to GitHub usernames. However, it's important to be selective about who you include in this file. Not every contributor should necessarily be a codeowner.
+The `.sauced.yaml` file is necessary for mapping commit email addresses to GitHub usernames. However, it's important to be selective about who you include in this file. Not every contributor should be a codeowner.
 
 <details>
 <summary>Selecting appropriate codeowners</summary>
@@ -108,6 +108,6 @@ pizza generate codeowners .
 - If you encounter any errors, double-check that you've provided the correct path to your repository.
 :::
 
-The codeowners command will analyze your repository's commit history and generate a CODEOWNERS file based on contributors' activity.
+The codeowners command will analyze your repository's commit history and generate a CODEOWNERS file based on contributors' activity in the last 90 days.
 
 It is useful to keep this file up-to-date with the most recent codeowners. To automate this process, you can use the `pizza-action`. To learn more about this GitHub action, go to the [pizza-action docs](pizza-action.md) or visit [the repository](https://github.com/open-sauced/pizza-action).
