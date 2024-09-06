@@ -12,6 +12,12 @@ keywords:
 - "Popular GitHub Repositories" 
 ---
 
+:::danger
+
+This tool is deprecated. To discover open source projects to contribute to, check out the [OpenSauced Explore Page](https://app.opensauced.pizza/explore/topic/javascript).
+
+:::
+
 [Hot OpenSauced](https://hot.opensauced.pizza/) is a site that helps you discover the hottest open source projects to contribute to. You also have the ability to vote for your favorite open source projects.
 
 ## How to Find Hot Open Source Projects to Contribute to?
