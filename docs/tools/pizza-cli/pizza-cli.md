@@ -6,22 +6,23 @@ keywords:
 - "introduction to the pizza cli" 
 - "Pizza CLI Overview" 
 - "Command Line Interface Introduction" 
-- "CLI Basics" 
-- "Pizza Command Line Tool" 
+- "CLI Basics for GitHub Insights" 
 - "CLI Usage Guide" 
 - "Pizza CLI Commands" 
 - "Introduction to Command-Line Interfaces" 
 - "Command Line Tool Features" 
-- "CLI for Pizza Enthusiasts" 
-- "Pizza Ordering CLI" 
-- "Getting Started with Pizza CLI" 
+- "Getting Started with the CLI for GitHub Insights" 
 ---
-
-## The OpenSauced Pizza CLI
 
 The OpenSauced Pizza CLI is a command-line utility designed specifically for OpenSauced. It provides a comprehensive set of functionalities that make it easier for users to gain insights and metrics and manage various tasks related to open source projects through OpenSauced.
 
 Beyond just code commits, the pizza CLI reports on different ways individuals contribute to the open source ecosystem through community engagement, issue reporting, blog post writings, or pull request creations.
+
+:::info
+
+To access the CLI repo, visit the [pizza/cli GitHub repository](https://github.com/open-sauced/pizza-cli).
+
+:::
 
 ## Key Features
 
@@ -30,6 +31,13 @@ Beyond just code commits, the pizza CLI reports on different ways individuals co
 - **Repo-query**: Get your questions about any GitHub repository answered.
 - **Show**: Visualize the metrics of a repository, providing a holistic view of its health and activity.
 - **Login**: Securely log into the application via GitHub, ensuring a streamlined and safe experience.
+- **Codeowners**: Generate and manage CODEOWNERS files for your repositories.
+
+:::tip
+
+For more on the Codeowners command, visit the [Codeowners page](codeowners.md)
+
+:::
 
 ## Installation and Instructions
 
@@ -54,15 +62,19 @@ The pizza CLI provides multiple installation methods to cater to the varied pref
   ```bash
   curl -fsSL https://raw.githubusercontent.com/open-sauced/pizza-cli/main/install.sh
   ```
+  :::danger
+  
+  Piping scripts directly from the web to your shell can be risky. Always ensure you trust the source. 
+  
+  :::
 
-  ⚠️ **Warning**: Piping scripts directly from the web to your shell can be risky. Always ensure you trust the source. For a safer approach, download, inspect, and then execute the following commands:
+   For a safer approach, download, inspect, and then execute the following commands:
 
-  ```bash
-  curl -fsSL https://raw.githubusercontent.com/open-sauced/pizza-cli/main/install.sh > install.sh
-  vim install.sh
-  ./install.sh
+     ```bash
+    curl -fsSL https://raw.githubusercontent.com/open-sauced/pizza-cli/main/install.sh > install.sh
+    vim install.sh
+    ./install.sh
   ```
-
 - **Manual build and install**: For those who like a hands-on approach.
 
   ```bash

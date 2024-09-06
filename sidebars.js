@@ -87,7 +87,16 @@ module.exports = {
       collapsed: true,
       items: [
         "tools/hot-opensauced",
-        "tools/pizza-cli",
+        {
+          type: "category",
+          label: "Pizza CLI",
+          collapsed: true,
+          items: [
+            "tools/pizza-cli/pizza-cli",
+            "tools/pizza-cli/codeowners",
+            "tools/pizza-cli/pizza-action",
+          ],
+        },
         {
           type: "category",
           label: "Chrome Extension Usage",
