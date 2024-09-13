@@ -20,65 +20,108 @@ Key benefits of using the codeowners command:
 
 To generate a CODEOWNERS file, you need to [install the Pizza CLI](pizza-cli.md) and run the `pizza generate codeowners` command in your terminal. However, before running the command, it's important to set up proper attribution for committers in a `.sauced.yaml` file.
 
-## Creating a `.sauced.yaml` file
+## Configuration Generation
 
-The `.sauced.yaml` file is necessary for mapping commit email addresses to GitHub usernames. However, it's important to be selective about who you include in this file. Not every contributor should be a codeowner.
+**New in v1.4.0, the `pizza generate config` command helps you create `.sauced.yaml` configuration files for your projects:**
+
+```sh
+pizza generate config /path/to/local/git/repo
+```
+
+**This command will:**
+- Iterate through the git ref-log
+- Inspect email signatures for commits
+- In interactive mode, ask you to attribute those users with GitHub handles
+
+The resulting `.sauced.yaml` file can be used to attribute owners in a `CODEOWNERS` file during `pizza generate codeowners`.
+
+### Configuration Generation Flags
+
+- `-i, --interactive`: Enter interactive mode to attribute each email manually
+- `-o, --output-path string`: Set the directory for the output file
+- `-h, --help`: Display help for the command
+
+### Configuration Generation Examples
+
+1. Generate a config file in the current directory:
+   ```sh
+   pizza generate config ./
+   ```
+
+2. Generate a config file interactively:
+   ```sh
+   pizza generate config ./ -i
+   ```
+
+3. Generate a config file from the current directory and place resulting `.sauced.yaml` in a specific output directory:
+   ```sh
+   pizza generate config ./ -o /path/to/directory
+   ```
+
+## Creating a `.sauced.yaml` File Manually
+
+If you prefer to create the `.sauced.yaml` file manually, you can do so by following these steps:
 
 <details>
-<summary>Selecting appropriate codeowners</summary>
+   <summary>Selecting appropriate codeowners</summary>
 
-When deciding who to include in your `.sauced.yaml` file, consider the following:
+   When deciding who to include in your `.sauced.yaml` file, consider the following:
 
-1. **Team members**: Include active members of your organization who are responsible for maintaining the codebase.
+   1. **Team members**: Include active members of your organization who are responsible for maintaining the codebase.
 
-2. **Expertise**: Prioritize individuals with deep knowledge of specific areas of the codebase.
+   2. **Expertise**: Prioritize individuals with deep knowledge of specific areas of the codebase.
 
-3. **GitHub team members**: Include members of the GitHub teams associated with the repository.
+   3. **GitHub team members**: Include members of the GitHub teams associated with the repository.
 
-4. **Long-term contributors**: Consider long-standing contributors who have demonstrated commitment to the project.
+   4. **Long-term contributors**: Consider long-standing contributors who have demonstrated commitment to the project.
 
-:::tip
+   :::tip
 
-Be cautious about including external contributors. Only include those who have been vetted and are trusted to review and approve changes.
+   Be cautious about including external contributors. Only include those who have been vetted and are trusted to review and approve changes.
 
-:::
+   :::
 
-Codeowners will be automatically requested for review on pull requests that modify code they own.
+   Codeowners will be automatically requested for review on pull requests that modify code they own.
+
+   <details>
+      <summary>Tips for identifying potential codeowners</summary>
+
+      1. Review GitHub team memberships:
+         ```bash
+         gh api /orgs/{org}/teams/{team}/members --jq '.[].login'
+         ```
+         Replace `{org}` with your organization name and `{team}` with the team name.
+
+      3. Review recent active contributors:
+         ```bash
+         git log --since='6 months ago' --pretty=format:'%an' | sort | uniq -c | sort -nr
+         ```
+         This lists active contributors in the last 6 months.
+   </details>
+
+   <details>
+      <summary>Mapping GitHub usernames to email addresses</summary>
+
+      Mapping GitHub usernames to their corresponding email addresses is necessary for creating an accurate `.sauced.yaml` file. For contributors to your repository, you can use `git log` to find their email addresses:
+
+         ```bash
+         git log --author="GitHub_Username" --format='%ae' | sort -u
+         ```
+
+      Replace `GitHub_Username` with the actual GitHub username. This command will show all email addresses used by that user in their commits to your repository.
+
+      Alternatively, you can run the following command to get a list of your contributors' email addresses:
+
+         ```bash
+         git log --format='%ae' | sort -u
+         ```
+   </details>
+
 </details>
 
-### Tips for identifying potential codeowners
+## Attribution Configuration
 
-1. Review GitHub team memberships:
-   ```bash
-   gh api /orgs/{org}/teams/{team}/members --jq '.[].login'
-   ```
-   Replace `{org}` with your organization name and `{team}` with the team name.
-
-3. Review recent active contributors:
-   ```bash
-   git log --since='6 months ago' --pretty=format:'%an' | sort | uniq -c | sort -nr
-   ```
-   This lists active contributors in the last 6 months.
-
-### Mapping GitHub usernames to email addresses
-
-Mapping GitHub usernames to their corresponding email addresses is necessary for creating an accurate `.sauced.yaml` file. For contributors to your repository, you can use `git log` to find their email addresses:
-
-   ```bash
-   git log --author="GitHub_Username" --format='%ae' | sort -u
-   ```
-
-Replace `GitHub_Username` with the actual GitHub username. This command will show all email addresses used by that user in their commits to your repository.
-
-Alternatively, you can run the following command to get a list of your contributors' email addresses:
-
-   ```bash
-   git log --format='%ae' | sort -u
-   ```
-
-## Creating the `.sauced.yaml` file
-
-After identifying appropriate codeowners, create the `.sauced.yaml` file in your repository's root directory with the following structure:
+After identifying appropriate codeowners, the `.sauced.yaml` file should use the following structure:
 
    ```yaml
    attribution:
@@ -115,3 +158,90 @@ pizza generate codeowners .
 The codeowners command will analyze your repository's commit history and generate a CODEOWNERS file based on contributors' activity in the last 90 days.
 
 It is useful to keep this file up-to-date with the most recent codeowners. To automate this process, you can use the `pizza-action`. To learn more about this GitHub action, go to the [pizza-action docs](pizza-action.md) or visit [the repository](https://github.com/open-sauced/pizza-action).
+
+
+
+
+
+---
+id: codeowners
+title: "Pizza CLI Codeowners Command"
+sidebar_label: "Codeowners"
+keywords: 
+- "codeowners" 
+- "codeowners automation" 
+- "CLI codeowners" 
+---
+
+
+
+## Codeowners Generation
+
+**To generate a CODEOWNERS file, use the `codeowners` command:**
+
+```sh
+pizza generate codeowners /path/to/local/git/repo
+```
+
+**This command will:**
+- **Iterate through the git ref-log**
+- **Determine code owners based on the number of lines changed for each file within the given time range**
+- **Set the first owner as the entity with the most lines changed**
+- **Use a `.sauced.yaml` configuration file to attribute emails in commits with the given entities (like GitHub usernames or teams)**
+
+:::info
+- Ensure you have the [Pizza CLI installed](pizza-cli.md) before running the command.
+- The command requires a `.sauced.yaml` file in the repository root or in your home directory (`~/.sauced.yaml`) for accurate attribution.
+- If you encounter any errors, double-check that you've provided the correct path to your repository.
+:::
+
+
+
+### Tips for Identifying Potential Codeowners
+
+1. Review GitHub team memberships:
+   ```bash
+   gh api /orgs/{org}/teams/{team}/members --jq '.[].login'
+   ```
+   Replace `{org}` with your organization name and `{team}` with the team name.
+
+2. Review recent active contributors:
+   ```bash
+   git log --since='6 months ago' --pretty=format:'%an' | sort | uniq -c | sort -nr
+   ```
+   This lists active contributors in the last 6 months.
+
+### Mapping GitHub Usernames to Email Addresses
+
+To find email addresses for contributors:
+
+```bash
+git log --author="GitHub_Username" --format='%ae' | sort -u
+```
+
+Replace `GitHub_Username` with the actual GitHub username.
+
+Alternatively, to get a list of all contributors' email addresses:
+
+```bash
+git log --format='%ae' | sort -u
+```
+
+### Creating the `.sauced.yaml` File
+
+Create the `.sauced.yaml` file in your repository's root directory with the following structure:
+
+```yaml
+attribution:
+  githubUsername1:
+    - user1@email.com
+    - user1@company.com
+  githubUsername2:
+    - user2@email.com
+```
+
+Only include the GitHub usernames and email addresses of the individuals you've identified as appropriate codeowners.
+
+## Automating Codeowners Updates
+
+To keep your CODEOWNERS file up-to-date automatically, you can use the `pizza-action`. To learn more about this GitHub action, see the [pizza-action docs](pizza-action.md) or visit [the repository](https://github.com/open-sauced/pizza-action).
