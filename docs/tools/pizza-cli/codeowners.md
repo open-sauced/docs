@@ -183,7 +183,6 @@ pizza generate codeowners .
 - Ensure you have the necessary permissions to read the repository and write the CODEOWNERS file.
 - The command requires a `.sauced.yaml` file in the repository root for accurate attribution (as described in the previous section).
 - If you encounter any errors, double-check that you've provided the correct path to your repository.
-- 
 :::
 
 The codeowners command will analyze your repository's commit history and generate a CODEOWNERS file based on contributors' activity in the last 90 days.
