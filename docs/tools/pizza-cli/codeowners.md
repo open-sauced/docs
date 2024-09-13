@@ -58,7 +58,7 @@ The resulting `.sauced.yaml` file can be used to attribute owners in a `CODEOWNE
    pizza generate config ./ -o /path/to/directory
    ```
 
-## Creating a `.sauced.yaml` File Manually
+### Creating a `.sauced.yaml` File Manually
 
 If you prefer to create the `.sauced.yaml` file manually, you can do so by following these steps:
 
@@ -134,7 +134,38 @@ After identifying appropriate codeowners, the `.sauced.yaml` file should use the
 
 Only include the GitHub usernames and email addresses of the individuals you've identified as appropriate codeowners based on the considerations mentioned above.
 
-## Pizza CLI Codeowners Command
+### Attribution Fallback
+
+There are cases where there may not be a codeowner derived from the range of commits being inspected. To handle this, you can include an `attribution-fallback` key in your config:
+
+```yaml
+attribution:
+  jpmcb:
+    - john@opensauced.pizza
+  brandonroberts:
+    - brandon@opensauced.pizza
+attribution-fallback:
+  - open-sauced/engineering
+```
+
+This field in the config can be used to attribute files that don't have an active attribution.
+
+Without fallback, the codeowners generation might create a CODEOWNERS file like this:
+
+```codeowners
+/file/with/codeowner @jpmcb
+/file/without/codeowner
+```
+
+**With the fallback configured, it would generate:**
+
+```codeowners
+/file/with/codeowner @jpmcb
+/file/without/codeowner @open-sauced/engineering
+```
+This ensures that all files have an assigned owner, even if there were no commits in the specified time range for certain files.
+
+## Codeowners Command
 
 To generate the CODEOWNERS file, you need to provide the path to your repository as an argument:
 
@@ -158,90 +189,3 @@ pizza generate codeowners .
 The codeowners command will analyze your repository's commit history and generate a CODEOWNERS file based on contributors' activity in the last 90 days.
 
 It is useful to keep this file up-to-date with the most recent codeowners. To automate this process, you can use the `pizza-action`. To learn more about this GitHub action, go to the [pizza-action docs](pizza-action.md) or visit [the repository](https://github.com/open-sauced/pizza-action).
-
-
-
-
-
----
-id: codeowners
-title: "Pizza CLI Codeowners Command"
-sidebar_label: "Codeowners"
-keywords: 
-- "codeowners" 
-- "codeowners automation" 
-- "CLI codeowners" 
----
-
-
-
-## Codeowners Generation
-
-**To generate a CODEOWNERS file, use the `codeowners` command:**
-
-```sh
-pizza generate codeowners /path/to/local/git/repo
-```
-
-**This command will:**
-- **Iterate through the git ref-log**
-- **Determine code owners based on the number of lines changed for each file within the given time range**
-- **Set the first owner as the entity with the most lines changed**
-- **Use a `.sauced.yaml` configuration file to attribute emails in commits with the given entities (like GitHub usernames or teams)**
-
-:::info
-- Ensure you have the [Pizza CLI installed](pizza-cli.md) before running the command.
-- The command requires a `.sauced.yaml` file in the repository root or in your home directory (`~/.sauced.yaml`) for accurate attribution.
-- If you encounter any errors, double-check that you've provided the correct path to your repository.
-:::
-
-
-
-### Tips for Identifying Potential Codeowners
-
-1. Review GitHub team memberships:
-   ```bash
-   gh api /orgs/{org}/teams/{team}/members --jq '.[].login'
-   ```
-   Replace `{org}` with your organization name and `{team}` with the team name.
-
-2. Review recent active contributors:
-   ```bash
-   git log --since='6 months ago' --pretty=format:'%an' | sort | uniq -c | sort -nr
-   ```
-   This lists active contributors in the last 6 months.
-
-### Mapping GitHub Usernames to Email Addresses
-
-To find email addresses for contributors:
-
-```bash
-git log --author="GitHub_Username" --format='%ae' | sort -u
-```
-
-Replace `GitHub_Username` with the actual GitHub username.
-
-Alternatively, to get a list of all contributors' email addresses:
-
-```bash
-git log --format='%ae' | sort -u
-```
-
-### Creating the `.sauced.yaml` File
-
-Create the `.sauced.yaml` file in your repository's root directory with the following structure:
-
-```yaml
-attribution:
-  githubUsername1:
-    - user1@email.com
-    - user1@company.com
-  githubUsername2:
-    - user2@email.com
-```
-
-Only include the GitHub usernames and email addresses of the individuals you've identified as appropriate codeowners.
-
-## Automating Codeowners Updates
-
-To keep your CODEOWNERS file up-to-date automatically, you can use the `pizza-action`. To learn more about this GitHub action, see the [pizza-action docs](pizza-action.md) or visit [the repository](https://github.com/open-sauced/pizza-action).
