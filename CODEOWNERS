@@ -1,0 +1,73 @@
+# This file is generated automatically by OpenSauced pizza-cli. DO NOT EDIT. Stay saucy!
+#
+# Generated with command:
+# $ pizza generate codeowners docs/
+
+.github/workflows/pizza-action.yml
+.sauced.yaml
+README.md
+blog/2023/2023-04-17-writing-your-first-pull-request-tips-best-practices-and-ai-powered-tools-for-success.md
+blog/2023/2023-07-12-100daysofoss-growing-skills-and-real-world-experience.md
+blog/2023/2023-07-17-the-power-of-git-a-guide-to-collaborative-version-control.md
+blog/2023/2023-08-07-you-dont-need-a-mentor-embracing-the-power-of-community.md
+blog/2023/2023-08-09-caching-git-repos.md @jpmcb
+blog/2023/2023-08-22-navigating-open-source-my-journey-to-contributing-and-getting-my-first-freecodecamp-pr-accepted.md
+blog/2023/2023-09-05-how-to-participate-in-hacktoberfest.md
+blog/2023/2023-09-14-how-we-made-our-go-microservice-24x-faster.md @jpmcb
+blog/2023/2023-09-19-the-role-of-docs.md
+blog/2023/2023-09-20-open-source-abcs-repository.md
+blog/2023/2023-10-17-setting-up-your-first-github-action.md
+blog/2023/2023-11-01-how-to-get-your-pull-request-reviewed.md
+blog/2023/2023-11-07-a-complete-guide-to-getting-started-in-open-source.md
+blog/2023/2023-11-30-job-seekers-worksheet-build-your-resume-with-open-source.md
+blog/2023/2023-12-05-so-what-does-a-maintainer-do-anyway.md
+blog/2024/2024-02-12-three-open-source-alternatives-to-calendly.md
+blog/2024/2024-02-29-opensauced-nurturing-open-source-collaboration-and-growth.md
+blog/2024/2024-03-05-collaborate-conquer-grow-mastering-the-art-of-issue-management-for-open-source-projects.md
+blog/2024/2024-03-14-stuck-in-the-middle-with-you-an-intro-to-middleware.md
+blog/2024/2024-03-19-how-to-build-your-open-source-dream-team-a-guide.md
+blog/2024/2024-03-26-whats-the-difference-between-new-and-beginner-open-source-contributors.md
+blog/2024/2024-04-02-form-and-function-how-i-lost-my-submit-button-got-it-back.md
+blog/2024/2024-04-16-creating-an-og-image-using-react-and-netlify-edge-functions.md
+blog/2024/2024-04-18-the-missing-piece-why-your-project-needs-a-maintainer-onboarding-process.md
+blog/2024/2024-04-23-the-secret-recipe-to-getting-your-pull-requests-reviewed-and-merged-faster.md
+blog/2024/2024-04-30-building-bridges-not-walls-the-importance-of-documentation-in-open-source-projects.md
+blog/2024/2024-05-09-streamline-your-contributions-mastering-issue-forms-and-pr-templates.md
+blog/2024/2024-05-23-creating-open-source-connections.md
+blog/2024/2024-05-28-how-to-assess-your-skill-level-before-contributing-to-open-source.md
+blog/2024/2024-06-17-valibot-a-new-approach-to-data-validation-in-javascript.md @nickytonline
+blog/2024/2024-07-15-the-react-useref-hook-not-just-for-html-elements.md @nickytonline
+blog/2024/2024-08-05-open-source-challenge.md
+blog/2024/2024-08-06-introducing-ossf-scorecard.md @jpmcb
+blog/2024/2024-08-08-ossf-scorecard-technical-deep-dive.md @jpmcb
+blog/2024/2024-08-19-supercharge-your-github-profile.md
+blog/authors.yml @jpmcb
+docs/community/100-days-of-oss.md
+docs/community/hacktoberfest.md
+docs/community/welcome-to-the-community.md
+docs/contributors/contributors-guide.md
+docs/features/contributor-insights.md
+docs/features/dev-card.md
+docs/features/highlights.md
+docs/features/repo-pages.md
+docs/features/star-search.md
+docs/features/workspaces.md
+docs/maintainers/understanding-contrib-insights.md
+docs/opensauced-guides/job-seekers-guide/categorize-contributions.md
+docs/opensauced-guides/students-guide/students-guide.md
+docs/tools/chrome-extension/code-explanation.md
+docs/tools/chrome-extension/highlights.md
+docs/tools/chrome-extension/pr-description.md
+docs/tools/chrome-extension/refactoring-and-testing.md
+docs/tools/hot-opensauced.md
+docs/tools/pizza-cli.md
+docs/tools/pizza-cli/codeowners.md
+docs/tools/pizza-cli/pizza-action.md
+docs/welcome/faqs.md
+docs/welcome/glossary.md
+docusaurus.config.js @zeucapua
+npm-shrinkwrap.json @zeucapua
+package.json @zeucapua
+sidebars.js
+src/pages/markdown-page.md
+static/img/lists-page.svg
