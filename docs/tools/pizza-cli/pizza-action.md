@@ -31,10 +31,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Pizza Action
-        uses: open-sauced/pizza-action@v1.0.0
+        uses: open-sauced/pizza-action@v2.3.0
         with:
           # optional and false by default
           commit-and-pr: "true"
+
 ```
 
 This workflow will run the Pizza CLI's `generate codeowners ./` command once a week, ensuring your CODEOWNERS file stays up-to-date.
