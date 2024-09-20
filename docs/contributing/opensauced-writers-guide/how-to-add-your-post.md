@@ -16,21 +16,32 @@ For regular blog post authors, we should declare those authors globally in the c
 
 **Location:** `/blog/authors.yml`
 
+:::note
+
+Please be sure to add  `page: true` to your author entry to generate your author page.
+:::
+
 **Example:**
 ```yaml
 BekahHW:
   name: Bekah Hawrot Weigel
   title: Developer Experience Lead
-  url: https://twitter.com/BekahHW
   image_url: https://github.com/BekahHW.png
   email: Bekah@opensauced.pizza
-  twitter: BekahHW
+  socials:
+    x: bekahhw
+    linkedin: bekah-hawrot-weigel
+    github: bekahhw
+    site: https://www.bekahhw.com/
+  page: true
 
 nickytonline:
   name: Nick Taylor
-  title: AI Engineer 
-  url: https://www.nickyt.co/
+  title: AI Engineer
   image_url: https://github.com/nickytonline.png
+  socials:
+    x: nickytonline
+  page: true
 ```
 
 ### Tips
