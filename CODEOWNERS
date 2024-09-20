@@ -1,0 +1,45 @@
+# This file is generated automatically by OpenSauced pizza-cli. DO NOT EDIT. Stay saucy!
+#
+# Generated with command:
+# $ pizza generate codeowners docs/
+
+.github/workflows/pizza-action.yml
+.sauced.yaml
+blog/2023/2023-09-19-the-role-of-docs.md
+blog/2024/2024-02-12-three-open-source-alternatives-to-calendly.md
+blog/2024/2024-03-05-collaborate-conquer-grow-mastering-the-art-of-issue-management-for-open-source-projects.md
+blog/2024/2024-04-18-the-missing-piece-why-your-project-needs-a-maintainer-onboarding-process.md
+blog/2024/2024-04-23-the-secret-recipe-to-getting-your-pull-requests-reviewed-and-merged-faster.md
+blog/2024/2024-04-30-building-bridges-not-walls-the-importance-of-documentation-in-open-source-projects.md
+blog/2024/2024-05-09-streamline-your-contributions-mastering-issue-forms-and-pr-templates.md
+blog/2024/2024-07-15-the-react-useref-hook-not-just-for-html-elements.md @nickytonline
+blog/2024/2024-08-05-open-source-challenge.md
+blog/2024/2024-08-06-introducing-ossf-scorecard.md @jpmcb
+blog/2024/2024-08-08-ossf-scorecard-technical-deep-dive.md @jpmcb
+blog/2024/2024-08-19-supercharge-your-github-profile.md
+blog/authors.yml
+docs/community/100-days-of-oss.md
+docs/contributors/contributors-guide.md
+docs/features/contributor-insights.md
+docs/features/dev-card.md
+docs/features/highlights.md
+docs/features/repo-pages.md
+docs/features/workspaces.md
+docs/maintainers/understanding-contrib-insights.md
+docs/opensauced-guides/job-seekers-guide/categorize-contributions.md
+docs/opensauced-guides/students-guide/students-guide.md
+docs/tools/chrome-extension/code-explanation.md
+docs/tools/chrome-extension/highlights.md
+docs/tools/chrome-extension/pr-description.md
+docs/tools/chrome-extension/refactoring-and-testing.md
+docs/tools/hot-opensauced.md
+docs/tools/pizza-cli.md
+docs/tools/pizza-cli/codeowners.md
+docs/tools/pizza-cli/pizza-action.md
+docs/welcome/faqs.md
+docs/welcome/glossary.md
+docusaurus.config.js @zeucapua
+npm-shrinkwrap.json @zeucapua
+package.json @zeucapua
+sidebars.js
+static/img/lists-page.svg
