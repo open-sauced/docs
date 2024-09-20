@@ -31,7 +31,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Pizza Action
-        uses: open-sauced/pizza-action@v2.3.0
+        uses: open-sauced/pizza-action@latest
         with:
           # optional and false by default
           commit-and-pr: "true"
