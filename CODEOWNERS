@@ -1,0 +1,45 @@
+# This file is generated automatically by OpenSauced pizza-cli. DO NOT EDIT. Stay saucy!
+#
+# Generated with command:
+# $ pizza generate codeowners docs/ --config ./.sauced.yaml
+
+.github/workflows/pizza-action.yml @BekahHW @nickytonline
+.sauced.yaml @BekahHW
+blog/2023/2023-09-19-the-role-of-docs.md @BekahHW
+blog/2024/2024-02-12-three-open-source-alternatives-to-calendly.md @BekahHW
+blog/2024/2024-03-05-collaborate-conquer-grow-mastering-the-art-of-issue-management-for-open-source-projects.md @adiati98
+blog/2024/2024-04-18-the-missing-piece-why-your-project-needs-a-maintainer-onboarding-process.md @adiati98
+blog/2024/2024-04-23-the-secret-recipe-to-getting-your-pull-requests-reviewed-and-merged-faster.md @adiati98
+blog/2024/2024-04-30-building-bridges-not-walls-the-importance-of-documentation-in-open-source-projects.md @adiati98
+blog/2024/2024-05-09-streamline-your-contributions-mastering-issue-forms-and-pr-templates.md @adiati98
+blog/2024/2024-07-15-the-react-useref-hook-not-just-for-html-elements.md @nickytonline
+blog/2024/2024-08-05-open-source-challenge.md @BekahHW
+blog/2024/2024-08-06-introducing-ossf-scorecard.md @jpmcb
+blog/2024/2024-08-08-ossf-scorecard-technical-deep-dive.md @jpmcb
+blog/2024/2024-08-19-supercharge-your-github-profile.md @BekahHW
+blog/authors.yml @adiati98 @BekahHW
+docs/community/100-days-of-oss.md @BekahHW
+docs/contributors/contributors-guide.md @BekahHW
+docs/features/contributor-insights.md @BekahHW
+docs/features/dev-card.md @BekahHW
+docs/features/highlights.md
+docs/features/repo-pages.md @BekahHW
+docs/features/workspaces.md @BekahHW
+docs/maintainers/understanding-contrib-insights.md @BekahHW
+docs/opensauced-guides/job-seekers-guide/categorize-contributions.md @BekahHW
+docs/opensauced-guides/students-guide/students-guide.md @BekahHW
+docs/tools/chrome-extension/code-explanation.md @BekahHW
+docs/tools/chrome-extension/highlights.md @BekahHW
+docs/tools/chrome-extension/pr-description.md @BekahHW
+docs/tools/chrome-extension/refactoring-and-testing.md @BekahHW
+docs/tools/hot-opensauced.md @BekahHW
+docs/tools/pizza-cli.md @BekahHW
+docs/tools/pizza-cli/codeowners.md @BekahHW
+docs/tools/pizza-cli/pizza-action.md @BekahHW
+docs/welcome/faqs.md @BekahHW
+docs/welcome/glossary.md @BekahHW
+docusaurus.config.js @BekahHW @zeucapua
+npm-shrinkwrap.json @BekahHW @zeucapua
+package.json @BekahHW @zeucapua
+sidebars.js @BekahHW
+static/img/lists-page.svg @BekahHW
