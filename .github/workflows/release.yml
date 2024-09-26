@@ -43,7 +43,7 @@ jobs:
           cache-to: type=gha, scope=${{ github.workflow }}
 
       - name: "📂 docker artifacts"
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: docker
           path: /tmp/docker.tar
@@ -70,7 +70,7 @@ jobs:
         run: npm run build
 
       - name: "📂 production artifacts"
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: build
           path: build
