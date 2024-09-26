@@ -41,7 +41,7 @@ Recognizing key contributors helps in understanding the project's most active an
 
 Tracking how active contributors are and the trends in their activity levels is crucial for project health. Understanding the activity patterns of contributors helps in assessing their engagement and reliability. Regular contributors are often more familiar with the project and can be more dependable for critical tasks.
 
-Notice the ebbs and flows in individual contributors’ activity. A decline in a normally active contributor’s engagement could indicate burnout or dissatisfaction, while a surge in activity might be tied to recent changes or enhancements in the project. Tracking activity levels can help you manage team burnout, understand resource needs, and spot potential issues before they escalate.
+Notice the ebbs and flows in individual contributor's activity. A decline in a normally active contributor’s engagement could indicate burnout or dissatisfaction, while a surge in activity might be tied to recent changes or enhancements in the project. Tracking activity levels can help you manage team burnout, understand resource needs, and spot potential issues before they escalate.
 
 ### Activity Levels Across Repositories
 
