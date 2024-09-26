@@ -35,6 +35,10 @@ On every OpenSauced user profile, in the contributions tab, we display the Pull 
 
 We love feedback. Post your suggestion in our [feedback repository](https://github.com/orgs/open-sauced/discussions).
 
+### 5. How is the OSCR calculated?
+
+The OpenSauced Contributor Rating (OSCR) is calculated using a combination of factors that reflect a contributor's overall impact in open source. The OSCR considers contribution quality and consistency, community engagement, project impact, collaboration skills, ecosystem involvement, and reputation. These categories are evaluated over recent activity periods (90 days) to produce a comprehensive score that represents a contributor's value (out of 300 total points) to the open source community.
+
 ## Sync Your GitHub Team
 
 ### 1. I don't see my organization on "Sync your GitHub Team."
