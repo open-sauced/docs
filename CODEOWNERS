@@ -1,10 +1,11 @@
 # This file is generated automatically by OpenSauced pizza-cli. DO NOT EDIT. Stay saucy!
 #
 # Generated with command:
-# $ pizza generate codeowners docs/ --config ./.sauced.yaml
+# $ pizza generate codeowners docs/ --tty-disable true
 
 .github/workflows/pizza-action.yml @BekahHW @nickytonline
 .sauced.yaml @BekahHW
+CODEOWNERS @BekahHW
 blog/2023/2023-09-19-the-role-of-docs.md @BekahHW
 blog/2024/2024-02-12-three-open-source-alternatives-to-calendly.md @BekahHW
 blog/2024/2024-03-05-collaborate-conquer-grow-mastering-the-art-of-issue-management-for-open-source-projects.md @adiati98
@@ -19,13 +20,15 @@ blog/2024/2024-08-08-ossf-scorecard-technical-deep-dive.md @jpmcb
 blog/2024/2024-08-19-supercharge-your-github-profile.md @BekahHW
 blog/authors.yml @adiati98 @BekahHW
 docs/community/100-days-of-oss.md @BekahHW
-docs/contributors/contributors-guide.md @BekahHW
+docs/contributing/opensauced-writers-guide/how-to-add-your-post.md
+docs/contributors/contributors-guide.md
 docs/features/contributor-insights.md @BekahHW
 docs/features/dev-card.md @BekahHW
 docs/features/highlights.md
 docs/features/repo-pages.md @BekahHW
 docs/features/workspaces.md @BekahHW
 docs/maintainers/understanding-contrib-insights.md @BekahHW
+docs/maintainers/understanding-repo-insights.md
 docs/opensauced-guides/job-seekers-guide/categorize-contributions.md @BekahHW
 docs/opensauced-guides/students-guide/students-guide.md @BekahHW
 docs/tools/chrome-extension/code-explanation.md @BekahHW
@@ -36,7 +39,6 @@ docs/tools/hot-opensauced.md @BekahHW
 docs/tools/pizza-cli.md @BekahHW
 docs/tools/pizza-cli/codeowners.md @BekahHW
 docs/tools/pizza-cli/pizza-action.md @BekahHW
-docs/welcome/faqs.md @BekahHW
 docs/welcome/glossary.md @BekahHW
 docusaurus.config.js @BekahHW @zeucapua
 npm-shrinkwrap.json @BekahHW @zeucapua
