@@ -30,7 +30,6 @@ Create a [Repository Insights Page](https://app.opensauced.pizza/hub/insights) o
 
 On every OpenSauced user profile, in the contributions tab, we display the Pull Requests and Issues that the user has commented on. This is to give a more comprehensive view of the user's contributions to the open-source community. It also provides insight into the contributor's depth of knowledge, collaboration and communication skills, and provides an additional data point for understanding the user's open-source contributions.
 
-
 ### 4. I want to provide feedback on OpenSauced.
 
 We love feedback. Post your suggestion in our [feedback repository](https://github.com/orgs/open-sauced/discussions).
@@ -52,7 +51,6 @@ If you see your organization but get an error when selecting a team, your organi
 If you're an **owner** of the repository, you can select "Allow select third-party access" or specifically approve OpenSauced by following the directions in [this guide](https://docs.github.com/en/organizations/managing-oauth-access-to-your-organizations-data/approving-oauth-apps-for-your-organization).
 
 If you are not an owner of the organization, you will need to check with your organization's owner and request access. For complete instructions, see [this guide](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/requesting-organization-approval-for-oauth-apps).
-
 
 ### 3. Do I need to grant authorization to connect GitHub to OpenSauced?
 
