@@ -34,15 +34,15 @@ This considers how you engage with repositories, including repository forks, sta
 
 #### Starring repositories you genuinely intend to contribute to
 
-While starring repos is a great way to show your interest and support for a project, taking time and contributing to your starred repos is even better. And it's a great way to boost your OSCR score.
+While starring repositories is a great way to show your interest and support for a project, taking time and contributing to your starred repositories is even better. And it's a great way to boost your OSCR score.
 
 #### Forking repositories with the intention to contribute
 
-Forking repos of projects you like is an amazing first step towards contributing to them. Going a step further and contributing to your forked repos will help you improve your OSCR score.
+Forking repositories of projects you like is an amazing first step towards contributing to them. Going a step further and contributing to your forked repositories will help you improve your OSCR score.
 
 ### Issues & Discussions
 
-This takes into account how you interact with open source repos through issues and discussions. You can improve your score in this area by:
+This takes into account how you interact with open source repositories through issues and discussions. You can improve your score in this area by:
 
 #### Opening meaningful issues
 
