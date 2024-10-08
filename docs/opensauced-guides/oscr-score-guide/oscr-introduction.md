@@ -24,7 +24,7 @@ OSCR score is calculated based on several factors that can be broadly categorize
 2. [Issues & Discussions](#issues--discussions)
 3. [Pull Requests](#pull-requests)
 4. [Consistency & Quality](#consistency--quality)
-5. [Being a good open source citizen](#being-a-good-open-source-citizen)
+5. [Being a Good Open Source Citizen](#being-a-good-open-source-citizen)
 
 Improving in these areas will help you improve your OSCR score over time.
 
@@ -48,9 +48,9 @@ This takes into account how you interact with open source repositories through i
 
 Opening issues is a good way to ease into making contributions and is very helpful to the project. You can improve your OSCR score by making sure the issues you open are:
 
-- Meaningful.
-- Explain the problem clearly.
-- Follow the issue template, if provided.
+- meaningful,
+- explain the problem clearly,
+- follow the issue template, if provided.
 
 #### Engaging in discussions
 
@@ -100,7 +100,7 @@ While consistency is important, it's equally important to ensure that your contr
 
 The score considers a 90-day window, so consistent positive contributions will improve your score over time.
 
-### Being a good open source citizen
+### Being a Good Open Source Citizen
 
 This takes into account your overall behavior and engagement in an open source community. You can improve your score in this area by:
 
