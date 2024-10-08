@@ -2,14 +2,14 @@
 id: oscr-guide
 title: "Guide to Improving Your OSCR"
 sidebar_label: How to Improve Your OSCR Score
-keywords: 
-- "contributors"
-- "guides"
-- "how to contribute to open source"
-- "OSCR score"
-- "Make an impact in open source"
-- "Open Source Contributor Rating"
-- "Open Source Score"
+keywords:
+  - "contributors"
+  - "guides"
+  - "how to contribute to open source"
+  - "OSCR score"
+  - "Make an impact in open source"
+  - "Open Source Contributor Rating"
+  - "Open Source Score"
 ---
 
 Open Source Contributor Rating ([OSCR](../../welcome/glossary.md#oscr)) is a metric that measures participation in open source projects. It is a holistic metric that considers the quality of contributions across many areas over a 90-day period. It is scored out of 300.
@@ -22,7 +22,7 @@ OSCR score is calculated based on several factors that can be broadly categorize
 
 1. [Repository Engagement](#repository-engagement)
 2. [Issues & Discussions](#issues--discussions)
-3. [Pull Requests](#pull-requests)
+3. [Pull Requests (PRs)](#pull-requests-prs)
 4. [Consistency & Quality](#consistency--quality)
 5. [Being a Good Open Source Citizen](#being-a-good-open-source-citizen)
 
@@ -60,11 +60,11 @@ Leaving helpful comments on issues and Pull Requests (PRs) through clarifying is
 
 Reacting to issues and comments is a fun way to engage with the community around an open source project and can be a way to upvote issues you'd like prioritized.
 
-### Pull Requests
+### Pull Requests (PRs)
 
-This takes into account the quality of any Pull Requests you make and how they are received. You can improve your score in this area by:
+This takes into account the quality of any PRs you make and how they are received. You can improve your score in this area by:
 
-#### Opening and merging pull requests
+#### Opening and merging PRs
 
 Opening PRs is great for your score, but merging your PRs significantly boosts your OSCR score. A few ways you can increase the chances of your PRs being merged are:
 
@@ -72,7 +72,7 @@ Opening PRs is great for your score, but merging your PRs significantly boosts y
 - Following the project's contribution guidelines.
 - Making small commits and keeping your PRs small.
 
-#### Creating quality pull requests regularly
+#### Creating quality PRs regularly
 
 Opening PRs on the regular is great for your score but getting your PRs closed instead of merged can quickly hurt your score. You can reduce the chances of your PRs being closed by avoiding unsolicited PRs and following the above tips for opening PRs.
 
