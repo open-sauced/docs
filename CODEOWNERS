@@ -4,6 +4,7 @@
 # $ pizza generate codeowners docs/ --tty-disable true
 
 .github/workflows/pizza-action.yml @BekahHW @nickytonline
+.gitignore
 .sauced.yaml @BekahHW
 CODEOWNERS @BekahHW
 blog/2023/2023-09-19-the-role-of-docs.md @BekahHW
@@ -30,6 +31,7 @@ docs/features/workspaces.md @BekahHW
 docs/maintainers/understanding-contrib-insights.md @BekahHW
 docs/maintainers/understanding-repo-insights.md
 docs/opensauced-guides/job-seekers-guide/categorize-contributions.md @BekahHW
+docs/opensauced-guides/oscr-score-guide/oscr-introduction.md
 docs/opensauced-guides/students-guide/students-guide.md @BekahHW
 docs/tools/chrome-extension/code-explanation.md @BekahHW
 docs/tools/chrome-extension/highlights.md @BekahHW
@@ -39,6 +41,7 @@ docs/tools/hot-opensauced.md @BekahHW
 docs/tools/pizza-cli.md @BekahHW
 docs/tools/pizza-cli/codeowners.md @BekahHW
 docs/tools/pizza-cli/pizza-action.md @BekahHW
+docs/welcome/faqs.md
 docs/welcome/glossary.md @BekahHW
 docusaurus.config.js @BekahHW @zeucapua
 npm-shrinkwrap.json @BekahHW @zeucapua
