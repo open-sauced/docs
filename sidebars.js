@@ -35,6 +35,24 @@ module.exports = {
     {
       type: "category",
       label: "Guides to OpenSauced",
+      collapsed: false,
+      items: [
+        {
+          type: "category",
+          label: "Job Seekers Guide",
+          collapsed: true,
+          items: [
+            "opensauced-guides/job-seekers-guide/job-seekers-guide-introduction",
+            "opensauced-guides/job-seekers-guide/how-to-translate-open-source-contributions-into-career-opportunities",
+          ],
+        },
+        {
+          type: "category",
+          label: "Student's Guide",
+          collapsed: true,
+          items: ["opensauced-guides/students-guide/students-guide"],
+        },
+      ],
       collapsed: true,
       items: [
         {
@@ -68,6 +86,7 @@ module.exports = {
         "maintainers/maintainers-guide-to-open-sauced",
         "maintainers/understanding-repo-insights",
         "maintainers/understanding-contribs-insights",
+        "maintainers/growing-your-project",
       ],
     },
     {
@@ -79,6 +98,16 @@ module.exports = {
     {
       type: "category",
       label: "Community",
+      collapsed: false,
+      items: [
+        "community/welcome-to-the-community",
+        "community/100-days-of-oss",
+        {
+          type: "link",
+          label: "Open Source Education Path",
+          href: "https://intro.opensauced.pizza/#/",
+        },
+      ],
       collapsed: true,
       items: [
         "community/welcome-to-the-community",
