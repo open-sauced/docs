@@ -20,7 +20,7 @@ You can navigate your Workspaces from the sidebar. Each Workspace has its own da
 
 ![Workspace Access](../../static/img/workspace-access.png)
 
-By default, all Workspaces are public. This means that anyone with the link to your Workspace can view it, including all of your Insight Pages in the Workspace. If you want to make your Workspace private, you can upgrade your account to a PRO plan.
+By default, all Workspaces are public. This means that anyone with the link to your Workspace can view it, including all of your Insight Pages in the Workspace. If you want to make your Workspace private, you can make the change in your settings.
 
 ### The Sidebar
 
@@ -117,11 +117,11 @@ When you use StarSearch within a Workspace, you're essentially treating that Wor
 
 ## How to Share a Workspace
 
-You can share your Workspace with others by copying the URL and sending it to them. If your Workspace is private (a PRO plan feature), only those with access to the Workspace will be able to view it.
+You can share your Workspace with others by copying the URL and sending it to them. If your Workspace is private, only those with access to the Workspace will be able to view it.
 
 ## Team Workspaces
 
-Team Workspaces are part of the PRO plan and are designed to help teams collaborate on and understand open source projects. Team Workspaces are public by default. However, you can switch it to private in your settings so only team members can view the Workspace.
+Team Workspaces are designed to help teams collaborate on and understand open source projects. Team Workspaces are public by default. However, you can switch it to private in your settings so only team members can view the Workspace.
 
 By upgrading to a team Workspace, you'll have unlimited Contributor and Repository Insights, as well as the ability to toggle between private and public visibility. 
 
