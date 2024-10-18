@@ -60,4 +60,4 @@ This method gives view-only access to your Repository Insights Page.
 3. On the top right, click the "Share" button to copy the Repository Insight Page URL to the clipboard.
 4. Share the URL with your team members.
 
-By default, your Repository Insights are public. If you want to make your Repository Insights private, you can upgrade your account to a PRO plan.
+By default, your Repository Insights are public. If you want to make your Repository Insights private, you can change it in the settings.
