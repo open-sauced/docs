@@ -269,7 +269,7 @@ There are many things you can do with this feature, but here are some ideas to g
 2. Select "New Contributor Insight" to start a new Contributor Insight Page.
 3. Give your page a name.
 4. Add contributors to your page by searching for their GitHub username, syncing your GitHub Team, or importing your GitHub Following.
-5. Once your page is created, you can edit and choose to make it public or private. By default, it is set to public. To create a private page, you can upgrade your account to a paid plan.
+5. Once your page is created, you can edit and choose to make it public or private. By default, it is set to public. To create a private page, you can make the change in your settings.
 
 ![contribution sync gif](../../../static/gif/contributors-sync-list.gif)
 
