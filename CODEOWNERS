@@ -22,12 +22,14 @@ blog/2024/2024-08-19-supercharge-your-github-profile.md @BekahHW
 blog/authors.yml @adiati98 @BekahHW
 docs/community/100-days-of-oss.md @BekahHW
 docs/contributing/opensauced-writers-guide/how-to-add-your-post.md
-docs/contributors/contributors-guide.md
+docs/contributors/contributors-guide.md @BekahHW
+docs/features/connections.md @BekahHW
 docs/features/contributor-insights.md @BekahHW
 docs/features/dev-card.md @BekahHW
-docs/features/highlights.md
+docs/features/repo-insights.md @BekahHW
 docs/features/repo-pages.md @BekahHW
 docs/features/workspaces.md @BekahHW
+docs/maintainers/maintainers-guide.md @BekahHW
 docs/maintainers/understanding-contrib-insights.md @BekahHW
 docs/maintainers/understanding-repo-insights.md
 docs/opensauced-guides/job-seekers-guide/categorize-contributions.md @BekahHW
