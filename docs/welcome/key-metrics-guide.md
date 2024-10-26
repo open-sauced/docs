@@ -45,3 +45,13 @@ You can read more about [what it is and why it is important](https://opensauced.
 This helps you understand whether or not a repository is at risk of abandonment should a key contributor become unavailable. This information is particularly important if you plan on being a long-term contributor or if your project relies on an open-source project for the long term.
 
 You can read more about [what it is and how it can be interpreted](https://opensauced.pizza/blog/Understanding-the-Lottery-Factor).
+
+## Repositories as a Dataset
+
+[Repositories as a Dataset](../glossary/#repository-insights) refers to viewing repositories as complete and indepth information sources. It suggests holistically treating repositories by considering GitHub discussions, issues, and general activity and considering the history of entire repositories.
+
+In the context of AI and its role in aiding developers, treating Repositories as a dataset helps train more context-aware AI models and makes this information more accessible to all.
+
+This is helpful, as having more context around a repository you want to contribute to can make the process of contributing and onboarding much smoother.
+
+You can read more about [the case for treating repositories as datasets and why that is important](https://opensauced.pizza/blog/github-repos-as-datasets).
