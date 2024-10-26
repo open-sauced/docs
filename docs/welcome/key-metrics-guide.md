@@ -10,7 +10,7 @@ keywords:
   - "Open Source metric guide"
 ---
 
-Welcome to Key Metrics Guide, where we define main metrics used on our platform to help you understand them better.
+Welcome to the Key Metrics Guide, where we define the main metrics used on our platform to help you better understand them.
 
 ## OSCR
 
@@ -24,7 +24,7 @@ You can read more about [what it is and how to improve it](../../opensauced-guid
 
 [Contributor Confidence](../glossary/#contributor-confidence) is a metric that measures how likely contributors who have interacted with a repository via stars or forks are to contribute in some way. It is measured as a percentage calculated over a specified time range.
 
-This helps you evaluate whether a repository you are interested in provides a good environment for new contributors. A positive score implies that the project is welcoming to new contributors, that your contributions are likely to be accepted, and that your participation in the community is nurtured.
+This helps you evaluate whether a repository you are interested in provides a good environment for new contributors. A positive score implies that the project welcomes to new contributors, that your contributions are likely to be accepted, and that your participation in the community is nurtured.
 
 You can read more about [what it is and how it can be interpreted](../../features/repo-pages/#insights-into-contributor-confidence).
 
@@ -50,7 +50,7 @@ You can read more about [what it is and how it can be interpreted](https://opens
 
 [Repositories as a Dataset](../glossary/#repository-insights) refers to viewing repositories as complete and indepth information sources. It suggests holistically treating repositories by considering GitHub discussions, issues, and general activity and considering the history of entire repositories.
 
-In the context of AI and its role in aiding developers, treating Repositories as a dataset helps train more context-aware AI models and makes this information more accessible to all.
+In the context of AI and its role in aiding developers, treating Repositories as a dataset helps train more context-aware AI models and makes this information more accessible.
 
 This is helpful, as having more context around a repository you want to contribute to can make the process of contributing and onboarding much smoother.
 
