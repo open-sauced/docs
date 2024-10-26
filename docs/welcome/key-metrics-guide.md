@@ -26,7 +26,7 @@ You can read more about [what it is and how to improve it](../../opensauced-guid
 
 This helps you evaluate whether a repository you are interested in provides a good environment for new contributors. A positive score implies that the project is welcoming to new contributors, that your contributions are likely to be accepted, and that your participation in the community is nurtured.
 
-You can read more about [what it is and how it can be interpreted](../../features/repo-pages/#insights-into-contributor-confidence)
+You can read more about [what it is and how it can be interpreted](../../features/repo-pages/#insights-into-contributor-confidence).
 
 ## OpenSSF Score
 
@@ -36,4 +36,12 @@ You can read more about [what it is and how it can be interpreted](../../feature
 
 This helps you evaluate how secure a repository is and how attentive maintainers are to compliance issues. It is a good metric to consider when contributing to a repository.
 
-You can read more about [what it is and why it is important](https://opensauced.pizza/blog/introducing-openssf-scorecard-for-opensauced)
+You can read more about [what it is and why it is important](https://opensauced.pizza/blog/introducing-openssf-scorecard-for-opensauced).
+
+## Lottery Factor
+
+[Lottery Factor](../glossary/#lottery-factor) is a metric that measures the risk that comes with a project’s dependence on one or a few key contributors. It measures how many pull requests are made by the most active contributors as a percentage.
+
+This helps you understand whether or not a repository is at risk of abandonment should a key contributor become unavailable. This information is particularly important if you plan on being a long-term contributor or if your project relies on an open-source project for the long term.
+
+You can read more about [what it is and how it can be interpreted](https://opensauced.pizza/blog/Understanding-the-Lottery-Factor).
