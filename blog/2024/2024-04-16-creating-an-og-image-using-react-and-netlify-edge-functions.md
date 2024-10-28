@@ -8,6 +8,9 @@ description: "Open Graph (OG) images are a must if you're sharing content on the
 
 [Open Graph](https://ogp.me/) (OG) images are a must if you're sharing content on the Internet. From sites like X/Twitter, to Slack or Discord, a great OG image makes your link share pop.
 
+<!-- truncate -->
+
+
 ## Examples
 
 I recently built out a couple of OG images for Open Sauced for a couple of features we've rolled out over the past couple of months, [Workspaces](https://opensauced.pizza/docs/features/workspaces/) and [Repository pages](https://opensauced.pizza/docs/features/repo-pages/). They're great features that I encourage you to check out, and I encourage you to share them on socials so our beautiful OG images pop.

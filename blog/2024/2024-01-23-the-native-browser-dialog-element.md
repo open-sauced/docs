@@ -8,6 +8,9 @@ description: "All the major browsers now support the &lt;dialog &gt; element. Wh
 
 All the major browsers now support the `&lt;dialog%gt;` element. Why add this HTML element? User land code, code that developers write to fill in gaps of the browser, was doing similar things repeatedly, especially around focus trapping, and browser engines responded by adding this functionality directly in the browser.
 
+<!-- truncate -->
+
+
 ## Focus Trapping
 
 What is focus trapping? It's a feature where you do not want focus outside a specific element, and that element typically contains focusable elements.

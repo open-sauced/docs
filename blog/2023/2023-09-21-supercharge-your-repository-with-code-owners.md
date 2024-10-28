@@ -8,6 +8,9 @@ description: "As a maintainer of a repository, it’s in your best interest to a
 
 As a maintainer of a repository, it’s in your best interest to automate processes as much as possible. The [CODEOWNERS file](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) is one of those tools to help with automating processes.
 
+<!-- truncate -->
+
+
 I decided to write a post about the CODEOWNERS file after reading this comment from one of our awesome [Octerns](https://education.github.com/students/octernships), Divyansh (@diivi), in a [pull request (PR) where I added the file](https://github.com/open-sauced/ai/pull/268).
 
 ![GitHub user diivi commenting that they weren't aware of the CODEOWNERS feature](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hpkmx91y66efqaa62umv.png)

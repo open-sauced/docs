@@ -10,6 +10,9 @@ Are you looking to migrate from [Jest](https://jestjs.io) to [Vitest](https://vi
 
 I recently migrated the OpenSauced app repository to Vitest. Here's the pull request if you're interested.
 
+<!-- truncate -->
+
+
 <a href="https://github.com/open-sauced/app/pull/2296">https://github.com/open-sauced/app/pull/2296</a>
 
 ## Why move from Jest to Vitest?
