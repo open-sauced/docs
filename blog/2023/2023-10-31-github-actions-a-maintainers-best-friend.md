@@ -8,6 +8,9 @@ description: "As developers, it’s in our best interest to automate things. The
 
 As developers, it’s in our best interest to automate things. The less we have to do in a manual way, the better. As soon as manual intervention is required, there is potential for failure or a mishap. Aside from that, it’s your time as a maintainer that could be spent elsewhere.
 
+<!-- truncate -->
+
+
 If you host your code on GitHub, besides scripts to automate certain actions, you can also leverage the huge ecosystem of [GitHub
 Actions](https://github.com/features/actions).
 

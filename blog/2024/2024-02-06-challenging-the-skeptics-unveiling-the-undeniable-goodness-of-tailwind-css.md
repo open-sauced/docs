@@ -10,6 +10,9 @@ People definitely have opinions about Tailwind. There are staunch supporters and
 
 If you're pretty well versed with Tailwind, this article might not be for you, but who knows? Read on and maybe you'll learn something.
 
+<!-- truncate -->
+
+
 I'm coming in with what, I think, is a fresh perspective. I'm using Tailwind for the first time professionally. Furthermore, I don't consider myself a CSS expert, but I think I have pretty solid CSS skills.
 
 I mention all this, to convey a sentiment, I've seen many people exhibit. You're using Tailwind because you don't understand CSS. I do understand CSS.

@@ -6,11 +6,14 @@ slug: form-and-function-how-i-lost-my-submit-button-got-it-back
 description: "As web developers, we know that most of the create, read update, and delete (CRUD) actions we perform..."
 ---
 
-As web developers, we know that most of the create, read update, and delete (CRUD) actions we perform on the web are typically (hopefully?) done using an [HTML form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form).
+As web developers, we know that most of the create, read, update, and delete (CRUD) actions we perform on the web are typically (hopefully?) done using an [HTML form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form).
 
 ## HTML Forms
 
 HTML Forms are cool because they have plenty of built-in features.
+
+<!-- truncate -->
+
 
 For example, they have native form validation and access to all the inputs in a form, and at some point, because you need to submit the form, there is a mechanism to do that as well. You can use a [button](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button), `<button>submit</button>` or an [input of type submit](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/submit), `<input type="submit" />`, although the latter isn't used as much these days in new sites, from what I've seen.
 

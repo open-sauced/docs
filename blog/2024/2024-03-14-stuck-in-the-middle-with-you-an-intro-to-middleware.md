@@ -8,6 +8,9 @@ description: "Middleware exists in several frameworks like Next.js, Express, Hon
 
 Middleware exists in several frameworks like Next.js, Express, Hono and Fresh, and not just in JavaScript land. You can find it in frameworks like ASP.NET core in the .NET ecosystem, or Laravel in PHP. Since I mainly work in JavaScript and TypeScript these days, examples will be from frameworks in those ecosystems.
 
+<!-- truncate -->
+
+
 Middleware is something that happens in the middle of a user or some service interacting with a site or [API](https://en.wikipedia.org/wiki/API) call and happens at the framework level.
 
 It runs before a page loads or an API endpoint is called, or more generally a route. There are many reasons why you might want to do that:
