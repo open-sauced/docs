@@ -55,3 +55,13 @@ In the context of AI and its role in aiding developers, treating Repositories as
 This is helpful, as having more context around a repository you want to contribute to can make the process of contributing and onboarding much smoother.
 
 You can read more about [the case for treating repositories as datasets and why that is important](https://opensauced.pizza/blog/github-repos-as-datasets).
+
+## YOLO Coders
+
+[YOLO Coders](../glossary/#yolo-coders) refers to repository owners, contributors or maintainers who push code changes directly to a project's default branch without going through a pull request (PR).
+
+Proposing changes through PRs helps increase visibility and offers an opportunity for code reviews and discussions. This increases collaboration and makes potential contributors more likely to engage.
+
+Using PRs and established means of making code changes reduces the chances of project bugs and preserves project history.
+
+You can read more about [what it is and why it is not the best practice](https://opensauced.pizza/blog/yolo-coder).
