@@ -36,6 +36,8 @@ You can read more about [what it is and how it can be interpreted](../../feature
 
 This helps you evaluate how secure a repository is and how attentive maintainers are to compliance issues. It's also a good metric to evaluate whether or not a repo is secure. Users can see the security scores of all their dependencies.
 
+Additionally, you can create [SBOMs (Software Bill of Materials)](../../../features/repo-pages/#create-a-workspace-from-sbom) for projects you use or want to contribute to. This contains a list of all the parts used to build a software including dependencies and libraries. You can read more about [SBOM here](https://opensauced.pizza/blog/security-and-SBOMs).
+
 You can read more about [what it is and why it is important](https://opensauced.pizza/blog/introducing-openssf-scorecard-for-opensauced).
 
 ## Lottery Factor
