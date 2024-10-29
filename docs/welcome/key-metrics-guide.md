@@ -14,27 +14,27 @@ Welcome to the Key Metrics Guide, where we define the main metrics used on our p
 
 ## OSCR
 
-[OSCR](../glossary/#oscr) stands for Open Source Contributor Rating. It is a way to measure and rate the impact of your open-source contributions over 90 days.
+[OSCR](../glossary/#oscr) stands for Open Source Contributor Rating. It's a way to measure and rate the impact of your open-source contributions over 90 days.
 
-This helps you understand the quality and frequency of your contributions. It is a good way to measure your open source activities and takes into account many factors.
+This helps you understand the quality and frequency of your contributions. It's a good way to measure your open source activities and takes into account many factors.
 
 You can read more about [what it is and how to improve it](../../opensauced-guides/oscr-score-guide/oscr-guide/).
 
 ## Contributor Confidence
 
-[Contributor Confidence](../glossary/#contributor-confidence) is a metric that measures how likely contributors who have interacted with a repository via stars or forks are to contribute in some way. It is measured as a percentage calculated over a specified time range.
+[Contributor Confidence](../glossary/#contributor-confidence) is a metric that measures how likely contributors who have interacted with a repository via stars or forks are to contribute in some way. It's measured as a percentage calculated over a specified time range.
 
-This helps you evaluate whether a repository you are interested in provides a good environment for new contributors. A positive score implies that the project welcomes to new contributors, that your contributions are likely to be accepted, and that your participation in the community is nurtured.
+This helps you evaluate whether a repository you are interested in provides a good environment for new contributors. A positive score implies that the project is welcoming to new contributors or that those who interact with the project are willing to support the project through contributions.
 
 You can read more about [what it is and how it can be interpreted](../../features/repo-pages/#insights-into-contributor-confidence).
 
 ## OpenSSF Score
 
-[OpenSSF Score](../glossary/#ossf-scorecard) is a metric that measures how secure an open-source project is based on how compliant the repository is to OpenSSF’s standards. It is scored out of 10 and uses [OpenSSF’s CLI tool](https://scorecard.dev/#what-is-openssf-scorecard) under the hood to help calculate this score.
+[The OpenSSF Score](../glossary/#ossf-scorecard) is a metric that measures how secure an open-source project is based on how compliant the repository is to OpenSSF’s standards. It's scored out of 10 and uses [OpenSSF’s CLI tool](https://scorecard.dev/#what-is-openssf-scorecard) under the hood to help calculate this score.
 
-[OpenSSF](https://openssf.org) refers to the Open-source security foundation, a group of security-focused tech professionals who are trying to enable the open-source ecosystem to create safe, open software in compliance with the [EU’s Cyber Resilience Act](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act).
+[OpenSSF](https://openssf.org) refers to the Open Source Security Foundation, a group of security-focused tech professionals who are trying to enable the open-source ecosystem to create safe, open software in compliance with the [EU’s Cyber Resilience Act](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act).
 
-This helps you evaluate how secure a repository is and how attentive maintainers are to compliance issues. It is a good metric to consider when contributing to a repository.
+This helps you evaluate how secure a repository is and how attentive maintainers are to compliance issues. It's also a good metric to evaluate whether or not a repo is secure. Users can see the security scores of all their dependencies.
 
 You can read more about [what it is and why it is important](https://opensauced.pizza/blog/introducing-openssf-scorecard-for-opensauced).
 
@@ -48,7 +48,7 @@ You can read more about [what it is and how it can be interpreted](https://opens
 
 ## Repositories as a Dataset
 
-[Repositories as a Dataset](../glossary/#repository-insights) refers to viewing repositories as complete and indepth information sources. It suggests holistically treating repositories by considering GitHub discussions, issues, and general activity and considering the history of entire repositories.
+[Repositories as a Dataset](../glossary/#repository-insights) refers to viewing repositories as complete and in-depth information sources. It suggests holistically treating repositories by considering GitHub discussions, issues, and general activity and considering the history of entire repositories.
 
 In the context of AI and its role in aiding developers, treating Repositories as a dataset helps train more context-aware AI models and makes this information more accessible.
 
