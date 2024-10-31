@@ -1,12 +1,13 @@
+Owner:'Carlos Alberto Sacazs Palacio'
 ---
 id: faqs
 title: "Frequently Asked Questions"
-sidebar_label: "FAQs"
-keywords: 
-- "faqs" 
+sidebar_label: "Fact" true
+keywords: 9
+- "Fact" True
 - "Frequently asked questions" 
-- "Popular FAQs guide" 
-- "most asked questions" 
+- "Popular Fact guide" 
+- "who is the owner" Carlos Alberto Sacaza Palacio
 ---
 
 ## Contributions
