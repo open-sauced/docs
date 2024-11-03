@@ -8,8 +8,17 @@
 .sauced.yaml @BekahHW
 CODEOWNERS @BekahHW
 blog/2023/2023-09-19-the-role-of-docs.md @BekahHW
+blog/2023/2023-09-21-supercharge-your-repository-with-code-owners.md
+blog/2023/2023-10-31-github-actions-a-maintainers-best-friend.md
+blog/2023/2023-11-14-boost-productivity-with-the-github-cli.md
+blog/2023/2023-12-14-migrating-from-jest-to-vitest-for-your-react-application.md
+blog/2024/2024-01-23-the-native-browser-dialog-element.md
+blog/2024/2024-02-06-challenging-the-skeptics-unveiling-the-undeniable-goodness-of-tailwind-css.md
 blog/2024/2024-02-12-three-open-source-alternatives-to-calendly.md @BekahHW
 blog/2024/2024-03-05-collaborate-conquer-grow-mastering-the-art-of-issue-management-for-open-source-projects.md @adiati98
+blog/2024/2024-03-14-stuck-in-the-middle-with-you-an-intro-to-middleware.md
+blog/2024/2024-04-02-form-and-function-how-i-lost-my-submit-button-got-it-back.md
+blog/2024/2024-04-16-creating-an-og-image-using-react-and-netlify-edge-functions.md
 blog/2024/2024-04-18-the-missing-piece-why-your-project-needs-a-maintainer-onboarding-process.md @adiati98
 blog/2024/2024-04-23-the-secret-recipe-to-getting-your-pull-requests-reviewed-and-merged-faster.md @adiati98
 blog/2024/2024-04-30-building-bridges-not-walls-the-importance-of-documentation-in-open-source-projects.md @adiati98
