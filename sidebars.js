@@ -16,7 +16,7 @@ module.exports = {
       type: "category",
       label: "Getting Started",
       collapsed: false,
-      items: ["welcome/opensauced-intro", "welcome/glossary", "welcome/faqs"],
+      items: ["welcome/opensauced-intro", "welcome/key-metrics-guide", "welcome/glossary", "welcome/faqs"],
     },
     {
       type: "category",
