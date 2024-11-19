@@ -11,6 +11,7 @@ I’ve heard the advice over and over, “find a mentor.” While having a mento
 <!-- truncate -->
 
 ## Why Community Mentorship is Better than 1:1 Mentorship
+
 I want to take a second to define what I mean here. When I say 1:1 mentorship, it means that you have a regular or semi-regularly scheduled time to meet with the same person for guidance and the opportunity to learn. I’m not saying you shouldn’t do this. But I am saying that community mentorship, or seeing a group of people and your interactions with them as mentorship, is better. Below you’ll find some of the reasons why.
 
 ### Diverse Perspectives
@@ -22,33 +23,39 @@ If you’re meeting 1:1, you’re limited to that person’s knowledge, exposure
 Building a network can consist of peers, experienced techies, and even experts in the industry and benefit you throughout your career. Engaging with a diverse group of people in tech at all stages of the journey allows you to learn from different perspectives and also facilitates knowledge sharing, collaboration, and the formation of lasting connections that may lead to future opportunities. It becomes an opportunity to peer mentor and grow through teaching and collaborating with others, key skills we all need in tech.
 
 ### Accessible Knowledge
+
 What happens if you have a question that determines an important part of your tech journey and your mentor is unavailable for an extended period of time? Having the collective knowledge of a community allows for availability at all times. That means that you can seek guidance and answers to your questions whenever you need them, without being limited by a mentor's schedule.
 
 ### Continuous Learning
+
 Every interaction in a community is an opportunity to learn, whether that’s active or passive. Early in my career, I worked mostly 1:1 with an experienced developer. I learned a lot from that experience, but I learned the most when I actively engaged in a community. A lot of that learning came from reading slack conversations between developers. I was able to see how they asked each other questions, the processes they used to debug, and read different approaches to the same problems. Communities are a constant stream of fresh ideas and insights.
 
 ### Supportive Environment
+
 Community mentorship can create a continual support system. You might find that other community members have the same goals and you can support each other, sustain motivation, and get emotional support through the journey. One of the most beneficial experiences I had when I was learning to code was hearing people who were ahead of me in their journey saying that they experienced the same frustrations. I stopped feeling so alone and was able to gain confidence as they shared their stories and advice with me.
 
 ### Continuous Opportunities for Growth
-I strongly believe in horizontal mentorship–the ability to mentor at any stage. We all have our strengths and weaknesses, and you can always share those strengths to help others. Community mentorship often provides these opportunities for growth and development. You can contribute your expertise, collaborate on projects, and become a mentor yourself. 
 
-### Resilience and Continuity 
+I strongly believe in horizontal mentorship–the ability to mentor at any stage. We all have our strengths and weaknesses, and you can always share those strengths to help others. Community mentorship often provides these opportunities for growth and development. You can contribute your expertise, collaborate on projects, and become a mentor yourself.
+
+### Resilience and Continuity
+
 Having a community of mentors ensures that you’ll continue to be mentored even if one individual's mentorship ends. The collective support of a community empowers you to overcome challenges and setbacks.
 
 ### Empowering Self-Directed Learning
-Redefining mentorship as an amalgamation of learning experiences enables a more self-directed and proactive approach to skill development, and builds the skills you need to thrive as a person in tech who needs to problem-solve and learn to work independently. 
 
-Rather than relying on a mentor's schedule, you can own your learning process and explore topics that interest you most at your own pace. This autonomy cultivates self-reliance. It can be challenging to discern what information is right, follows best practices, or isn’t there just for clickbait. This is where you leverage your community of mentors. Ask for recommendations and references. Let people know what’s worked for you in the past or what style of learning you find most effective. Once you’ve settled on resources, don’t forget that many of those learning resources come with a community built in. There might be a forum for the class or an async communication platform. 
+Redefining mentorship as an amalgamation of learning experiences enables a more self-directed and proactive approach to skill development, and builds the skills you need to thrive as a person in tech who needs to problem-solve and learn to work independently.
 
-The ability to create your own learning experience allows you to access the newest information, tailor your learning pace, and explore areas of tech that you most enjoy. 
+Rather than relying on a mentor's schedule, you can own your learning process and explore topics that interest you most at your own pace. This autonomy cultivates self-reliance. It can be challenging to discern what information is right, follows best practices, or isn’t there just for clickbait. This is where you leverage your community of mentors. Ask for recommendations and references. Let people know what’s worked for you in the past or what style of learning you find most effective. Once you’ve settled on resources, don’t forget that many of those learning resources come with a community built in. There might be a forum for the class or an async communication platform.
 
-If a structured learning experience isn’t for you, you can also find a particular content creator or content creators that you learn well from, and consume their content as a form of mentorship. As part of that, you might have the opportunity to ask questions, suggest future content, or let the creator know how valuable the information has been to your journey. 
+The ability to create your own learning experience allows you to access the newest information, tailor your learning pace, and explore areas of tech that you most enjoy.
 
+If a structured learning experience isn’t for you, you can also find a particular content creator or content creators that you learn well from, and consume their content as a form of mentorship. As part of that, you might have the opportunity to ask questions, suggest future content, or let the creator know how valuable the information has been to your journey.
 
 ### The Power of Online Communities
 
 Over the last couple of years, online communities and forums have exploded with opportunity. I’m confident that there is a community that suits your needs out there already (but that doesn’t mean you can’t start your own if you can’t find one!) If you’re not sure where to start OpenSauced offers a lot of different opportunities to be part of a community and ask questions:
+
 - [#100DaysOfOSS](https://opensauced.pizza/docs/community/100-days-of-oss/)
 - [OpenSauced Community](https://github.com/orgs/open-sauced/discussions)
 - [OpenSauced Twitter + Twitter Spaces](https://twitter.com/saucedopen)

@@ -6,25 +6,24 @@ slug: email-campaign-solutions-what-are-you-using
 description: "Discover the among different email campaign solutions, including Customer.io, ConvertKit, EmailOctopus, the open-source alternative Resend. Find out which option better suits your needs."
 ---
 
-*Today is day 23 of my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts) or if you're interested in some of the top OSS projects of last year, check out [this list](https://app.dub.co/open-sauced). This is the last post in the Content Management and Publishing category.* 
+*Today is day 23 of my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts) or if you're interested in some of the top OSS projects of last year, check out [this list](https://app.dub.co/open-sauced). This is the last post in the Content Management and Publishing category.*
 
 <hr/>
 
-Recently, I’ve gained some experience working on drip campaign emails to help support our new users at [OpenSauced](https://oss.fyi/). So when Vic asked this question on  X, I thought it would make for an interesting blog post in my series. 
+Recently, I’ve gained some experience working on drip campaign emails to help support our new users at [OpenSauced](https://oss.fyi/). So when Vic asked this question on  X, I thought it would make for an interesting blog post in my series.
 
 <!-- truncate -->
-
 
 *[Link to post](https://x.com/VicVijayakumar/status/1756162192410341439?s=20)*
 
 There were a lot of responses that you can check out in the thread, but we're going to focus on comparing Customer.io, ConvertKit, EmailOctopus with the open source project, Resend, which we actually use at OpenSauced.
 
-## Customer.io:
+## Customer.io
 
 *Customer.io is a comprehensive messaging platform designed to help marketers create automated message campaigns.*
 
 - **Features**: Advanced segmentation, automated messaging, direct and third-party integrations, data warehouse synch, detailed analytics.
-- **Cost**: Starts at $100/mo 
+- **Cost**: Starts at $100/mo
 
 ## ConvertKit
 
@@ -61,7 +60,6 @@ It's interesting to look at Resend's Contributor Distribution graph over the las
 
 After a little digging, I could see that the increase corresponded to their launch week.
 
-
 ## Last Thoughts
 
 At OpenSauced, we currently use Resend for our welcome and onboarding emails for new users. Here's a peek at part of our welcome email for new maintainers who sign up. We're using [resend/react-email](https://github.com/resend/react-email). Shoutout to Isa, our amazing designer for making them beautiful!
@@ -72,12 +70,10 @@ If you're sending out email campaigns, I'd love to know what you're using. Drop 
 
 ### Bonus Section
 
-Over the weekend I learned about [JSXemail](https://jsx.email/), which was built off a fork of react-email. We don't see the same support that Resend has, but they clearly state that they have improved the `react-email` usability. 
+Over the weekend I learned about [JSXemail](https://jsx.email/), which was built off a fork of react-email. We don't see the same support that Resend has, but they clearly state that they have improved the `react-email` usability.
 
 [![jsx email dashboard](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bbb6a786vk53kpvw4nrx.png)](https://app.opensauced.pizza/pages/BekahHW/1207/dashboard?range=90)
 
 > The goals of this project are to provide an improved focus on Developer Experience, maintenance, fast improvements and fast releases. As such, we feel that jsx-email has a number of improvements and advantages over react-email.
 
 I haven't  dug into it, but I thought it was worth mentioning in case anyone wanted to explore options for creating their emails using `jsx` or `tsx`.
-
-

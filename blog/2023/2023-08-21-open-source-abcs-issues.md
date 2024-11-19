@@ -8,7 +8,7 @@ description: "Join our #100DaysOfOSS blog series as we explore the world of Open
 
 Welcome to our [#100DaysOfOSS series](https://dev.to/opensauced/100daysofoss-growing-skills-and-real-world-experience-3o5k). Until October 31, we'll be doing  Open Source Software (OSS) terms from A to Z. We'll be diving into a different letter of the English alphabet, uncovering OSS concepts, and sharing our thoughts on them.
 
-Today, we're covering the letter "I" for Issues. 
+Today, we're covering the letter "I" for Issues.
 
 <!-- truncate -->
 
@@ -24,6 +24,6 @@ An issue can have a wide range of topics, including:
 
 **Documentation**: Issues related to improving or clarifying the software's documentation. This could involve fixing errors, adding missing information, or making instructions more understandable.
 
-Now, we want to hear from you! What other OSS terms can you think of that start with the letter "I"? 
+Now, we want to hear from you! What other OSS terms can you think of that start with the letter "I"?
 
 Remember to use the hashtag #100DaysOfOSS if you share on social media, and don't forget to tag us [@saucedopen](https://twitter.com/saucedopen) so we can follow along.

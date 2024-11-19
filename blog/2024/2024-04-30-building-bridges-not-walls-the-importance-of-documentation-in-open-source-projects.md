@@ -46,7 +46,7 @@ These are the rules and roadmap for new contributors. Common types of guidelines
 - **Contribution Guidelines:** They usually explain how to submit code and bug reports and how to participate in the project, such as the contribution process and communication etiquette.
 - **Style Guides:** They mainly guide contributors in maintaining coding and documentation consistency and quality.
 
-## Why Does Documentation Matter? Let's Break it Down!
+## Why Does Documentation Matter? Let's Break it Down
 
 So, why exactly is good documentation so crucial? It benefits everyone involved in the open source ecosystem:
 

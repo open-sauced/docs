@@ -10,7 +10,6 @@ As developers, it’s in our best interest to automate things. The less we have 
 
 <!-- truncate -->
 
-
 If you host your code on GitHub, besides scripts to automate certain actions, you can also leverage the huge ecosystem of [GitHub
 Actions](https://github.com/features/actions).
 

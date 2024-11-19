@@ -6,7 +6,7 @@ slug: open-source-ai-glasses-would-you-wear-them
 description: "Open Source AI glasses, Frame has potential to be an interesting product in the AR world. But does it hold up?"
 ---
 
-*Today is day 25 of my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts).* 
+*Today is day 25 of my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts).*
 
 <hr/>
 
@@ -14,10 +14,9 @@ There have been some really exciting launches in the AR/VR world lately. These a
 
 <!-- truncate -->
 
-
 ## Community Projects
 
-From what I can tell from their documentation and their app, the features are largely dependent on the users. Brilliant supplies the hardware and the API for both their glasses and monocle and it's up to you to decide where to take it. Some notable projects include: 
+From what I can tell from their documentation and their app, the features are largely dependent on the users. Brilliant supplies the hardware and the API for both their glasses and monocle and it's up to you to decide where to take it. Some notable projects include:
 
 - [Teleprompter for Google Slides](https://github.com/milesprovus/Monocle-Teleprompter) by milesprovus
 - [A heads up display workout app](https://github.com/simonevetere/monocle) by simonevetere and jdc-cunningham
@@ -31,7 +30,7 @@ As a glasses wearer, myself, it was nice to see that they have options to fit yo
 
 ## Open Source Advantage?
 
-We don't see a ton of open source support over the last 30 days. 
+We don't see a ton of open source support over the last 30 days.
 
 ![Brilliant repo dashboards](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wcvzkyy50x0ig8y78wu6.png)
 
@@ -44,6 +43,3 @@ Because there doesn't seem to be one central repo, it's a little hard to judge t
 ## Takeaways
 
 There hasn't been a lot of movement across their open source projects, but does that mean we shouldn't watch what they're doing? No. With their new product shipping in April, it will be interesting to see if there's more activity and engagement then. There's a lot of things still coming soon with their product, including documentation. Hopefully, that will give a clearer picture of what to expect with their new releases and how to get involved in their open source projects.
-
-
-

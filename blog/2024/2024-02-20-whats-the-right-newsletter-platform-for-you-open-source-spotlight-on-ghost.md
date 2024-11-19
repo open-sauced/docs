@@ -6,7 +6,7 @@ slug: ghost-the-open-source-newsletter-platform-you-should-know-about
 description: "Choosing a newsletter provider can be tricky. In this post, we'll look at Ghost, MailChimp, and Substack. "
 ---
 
-*Today is day 20 of my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts). This post is in the Content Management and Publishing category.* 
+*Today is day 20 of my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts). This post is in the Content Management and Publishing category.*
 
 <hr/>
 
@@ -14,15 +14,13 @@ I've recently been on the hunt for a newsletter provider for a new project I'm w
 
 <!-- truncate -->
 
-
 > Ghost is a powerful app for professional publishers to create, share, and grow a business around their content. It comes with modern tools to build a website, publish content, send newsletters & offer paid subscriptions to members.
-
 
 ## Features
 
 - Minimalist Design: Ghost's user interface is clean and uncluttered, which makes it easier to get started.
 
-- Markdown Support: Ghost uses markdown for writing, which means you can format your posts quickly and easily without touching a single line of code. 
+- Markdown Support: Ghost uses markdown for writing, which means you can format your posts quickly and easily without touching a single line of code.
 
 - Customization Options: With Ghost, you can tailor your blog to match your style. Whether you're after a specific look or functionality, the platform's library of themes and plugins lets you create a blog that's uniquely yours.
 
@@ -30,7 +28,7 @@ I've recently been on the hunt for a newsletter provider for a new project I'm w
 
 ## Comparison
 
-| Feature                | Ghost (https://ghost.org/)                  | Substack                             | Mailchimp                           |
+| Feature                | [Ghost](https://ghost.org)                  | Substack                             | Mailchimp                           |
 |------------------------|---------------------------------------------|--------------------------------------|-------------------------------------|
 | Nature                 | Open-source                                 | Proprietary                          | Proprietary                         |
 | Initial Cost           | starts at $9/mo for up to 500 readers        | Free to start; fees for transactions | Free to start up to 500; tiered pricing based on features and subscriber count |
@@ -56,10 +54,9 @@ Not only is there a high activity rate, but there's also a high PR velocity.
 
 ![Ghost's open source dashboard on OpenSauced](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/axqkkufu2aken7qmehl8.png)
 
+## Community
 
-## Community 
-
-Ghost has a consistent contributor base over the last three months, with over 30 contributors each month. 
+Ghost has a consistent contributor base over the last three months, with over 30 contributors each month.
 
 ![Contributor Dashboard](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kd8geq4p8nefum1fbi58.png)
 

@@ -12,7 +12,6 @@ I recently migrated the OpenSauced app repository to Vitest. Here's the pull req
 
 <!-- truncate -->
 
-
 <a href="https://github.com/open-sauced/app/pull/2296">https://github.com/open-sauced/app/pull/2296</a>
 
 ## Why move from Jest to Vitest?

@@ -11,12 +11,12 @@ I collect open source projects like some people collect discord servers. To be a
 <!-- truncate -->
 
 ## What is a `.github` Repo?
-A `.github` repository is a special type of repository in GitHub that allows maintainers to store community health files and templates for their projects. 
 
-> Community Health files promote the well-being of the community and focus on communication, documentation, supporting members through a code of conduct, and community recognition. 
+A `.github` repository is a special type of repository in GitHub that allows maintainers to store community health files and templates for their projects.
+
+> Community Health files promote the well-being of the community and focus on communication, documentation, supporting members through a code of conduct, and community recognition.
 
 The `.github` repository–found at `https://github.com/<username/organization>/.github`- can house the community health files for your organization as the default files. According to [GitHub](https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/), “While the file itself won’t appear in the file browser or Git history for each repository, it will be surfaced throughout developers’ workflows, such as when opening a new issue or when viewing the Community Profile, just as if it were committed to the repository directly.”
-
 
 ![Screenshot of the open-sauced/.github repo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i41566ytubxwkz60kjh7.png)
 

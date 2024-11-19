@@ -11,11 +11,15 @@ A lot of contributors ask how to become a maintainer. I became a maintainer by c
 <!-- truncate -->
 
 ## Understanding the Role of an Open Source Maintainer
+
 Open source maintainers wear many important hats to ensure the health of the project. You are not just a contributor; you are a leader, mentor, strategist, marketer, community manager, and above all else, you should be a good communicator.
 
 ### The Multifaceted Role of an Open Source Maintainer
+
 #### Leadership and Vision
+
 Open source maintainers keep open source projects running smoothly. You set the project's direction, define goals, and ensure that everyone adheres to the project's core values. You also manage the code, build a community around the project, and ensure quality code. This isn’t to say that you should be an expert in all of these things, but you should be able to build on existing skills to accomplish the following:
+
 - **Prioritize issues and manage pull requests.** This means deciding which issues are the most important to fix and then working with contributors to fix them. You also review pull requests, which are changes to the code that others have submitted, to make sure they are high quality and follow the project's coding standards. Not all pull requests will be code, though. Documentation updates could be the primary goal of the project or necessary updates that need to be made.
 
 - **Guide new contributors, provide feedback, and resolve conflicts.** Helping new people get started with the project, providing feedback on their PRs and issues, and resolving any conflicts between contributors could be one of your most important jobs as a maintainer.
@@ -25,6 +29,7 @@ Open source maintainers keep open source projects running smoothly. You set the 
 - **Ensure the reliability and stability of the project through testing, code reviews, and maintenance.** This means testing the code to make sure it works as expected, reviewing changes to the code to ensure they are high quality, and fixing any bugs that are found. You should take the time to run the code and test it manually, ensuring that you avoid merging in bugs or breaking changes.
 
 ### Governance
+
 Governance is one of those words that you might hear people toss around a lot, but never explain. In open source, it means the framework of rules, practices, and processes that guide how decisions are made and how the project is managed and evolved. Governance can encompass everything from how contributions are accepted and integrated to how major decisions are made and conflicts are resolved.
 
 You have to maintain and ensure the established guidelines and standards for a project are met, and, depending on the stage of the project, you may also play a key role in shaping them. Because you should deeply understand the project's vision and goals, you also ensure they are consistently met by coordinating contributions, managing the project roadmap, and leading by example.
@@ -32,6 +37,7 @@ You have to maintain and ensure the established guidelines and standards for a p
 Transparency is a key value of open source projects, so you should facilitate and encourage transparent and open communication. This allows for the voices of all contributors to be heard and valued. This allows for a resilient and engaged community to grow.
 
 ### Community Building
+
 Fostering a welcoming and inclusive community, encouraging contributions, and engaging with users and contributors is one of the most important parts of creating a supportive environment that grows with the project.
 
 [Astro](https://github.com/withastro/astro) has one of the most highly regarded communities because of their willingness to support contributors, create a clear path for contributors, and encourage the growth of the community.
@@ -40,13 +46,13 @@ Fostering a welcoming and inclusive community, encouraging contributions, and en
 
 Fostering a strong community means creating clear paths of communication, which starts with creating clear contribution guidelines, READMEs, opportunities for feedback, and ways to engage with the community.
 
-
 ## Challenges and Benefits of Being a Maintainer
 
 Maintainership comes with its unique set of rewards and challenges.
 
 ### Challenges
-####Time Management and Burnout for Open Source Maintainers
+
+#### Time Management and Burnout for Open Source Maintainers
 
 Open source maintainers often have to balance their project responsibilities with their personal commitments. This can be difficult, especially if the project is large or complex or you don’t have support. Especially for solo maintainers, the work can start to feel burdensome and even lead to burnout. You may also feel pressure to keep up with the latest changes in the tech, which can be time-consuming. Because open source maintainers are responsible for so many tasks, it frequently feels like there’s not enough time in the day to complete all your tasks, respond to comments, review PRs, and code the project.
 
@@ -71,9 +77,9 @@ Open source projects are often maintained by a team of volunteers who are passio
 
 ### Benefits of Maintainership
 
-Being a maintainer has its benefits, whether you’re early in your career or you’ve been in tech for a while. Frequently, the benefits outweigh the negatives and, in fact, navigating the challenges listed above are great ways to show grow and to build on your skillset. 
+Being a maintainer has its benefits, whether you’re early in your career or you’ve been in tech for a while. Frequently, the benefits outweigh the negatives and, in fact, navigating the challenges listed above are great ways to show grow and to build on your skillset.
 
-#### Personal and Professional Growth 
+#### Personal and Professional Growth
 
 As I said earlier in this post, maintainers practice and develop leadership skills, and they do it in the open. That means as you grow as a leader, you’re growing in a way that maximizes your visibility. Some of the ways you can enhance your technical and leadership skills while fulfilling your maintainer responsibilities include:
 
@@ -87,7 +93,7 @@ If you’re early in your career, this can be a practical way to grow with exter
 
 ### Networking Opportunities for Open Source Maintainers
 
-Being an open source maintainers allows you to build connections with other developers, organizations, and potential employers in a way that you can’t replicate elsewhere. Being a maintainer, allows you to connect with other maintainers who understand the role's challenges. You may also find that you have additional access to groups, events, and communities made for maintainers. 
+Being an open source maintainers allows you to build connections with other developers, organizations, and potential employers in a way that you can’t replicate elsewhere. Being a maintainer, allows you to connect with other maintainers who understand the role's challenges. You may also find that you have additional access to groups, events, and communities made for maintainers.
 
 By building relationships with other developers and organizations, open source maintainers can learn from others, share your own expertise, and find opportunities for collaboration and even employment.
 
@@ -100,6 +106,3 @@ Your project can have an impact on the open source ecosystem in a number of diff
 Depending on what you’re building, your software can have an impact on the landscape of open source. Are you building tools that other developers will benefit from? Are you innovating or experimenting with technology? Are you trying something new?
 
 Being a maintainer improved my understanding of building projects, working with contributors, making decisions, and being able to communicate. I honestly don’t think any course, bootcamp, or education could have given me the experience that allowed me to grow into the Developer Experience Lead today. If have experience as an open source contributor, becoming a maintainer can be a great way to advance to the next level of your career. It might be your own project, a project you’re working on with others, or one of the projects you’ve been contributing to. No matter what, that experience will be an invaluable learning experience.
-
-
-

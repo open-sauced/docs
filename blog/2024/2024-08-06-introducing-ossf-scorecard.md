@@ -32,7 +32,7 @@ source projects, maintainers, foundations, or companies will be directly impacte
 But, it’s clear that the broader open source ecosystem needs easier ways to understand
 the security risk of projects deep within dependency chains. With all that in mind,
 we are very excited to introduce the OpenSSF Scorecard ratings within the OpenSauced
-platform. 
+platform.
 
 ## What is the OpenSSF Scorecard?
 
@@ -108,14 +108,14 @@ all the repositories within the bottlerocket-os org on GitHub, a security focuse
 Linux based operating system: I can see that each of the repositories has a good
 rating which gives me greater confidence in the maintenance status and security
 posture of this ecosystem. This also enables stakeholders and maintainers of Bottlerocket
-to have a birds eye snapshot of the compliance and maintenance status of the 
+to have a birds eye snapshot of the compliance and maintenance status of the
 entire org.
 
 As the CRA and similar regulations push more of the security burden onto developers,
 tools like the OpenSSF Scorecard become invaluable. They offer a standardized, accessible
 way to assess and improve the security of open source projects, helping maintainers
 meet new compliance requirements and giving software consumers confidence in their
-choices. 
+choices.
 
 Looking ahead, we're committed to expanding these capabilities at OpenSauced. By
 providing comprehensive security insights, from individual repository scores to

@@ -15,11 +15,12 @@ Let's start with a personal story. When I first thought of contributing to an op
 But here's the interesting part: studies also show that the most effective way to overcome this fear is through community support. When we're part of a group, our fear of failure decreases, and our willingness to take risks increases. This is where the magic happens.
 
 ## #100DaysOfOSS Challenge
-Our [#100DaysOfOSS Challenge](https://opensauced.pizza/docs/community/100-days-of-oss/), isn't about coding for 100 days. It's about leveraging the power of community to transform hesitation into action. 
+
+Our [#100DaysOfOSS Challenge](https://opensauced.pizza/docs/community/100-days-of-oss/), isn't about coding for 100 days. It's about leveraging the power of community to transform hesitation into action.
 
 Here's why I think this approach works:
 
-1. Structured Progress: The challenge provides a clear pathway, breaking down contributing to open source into manageable weekly tasks. 
+1. Structured Progress: The challenge provides a clear pathway, breaking down contributing to open source into manageable weekly tasks.
 
 2. Community Support: By connecting participants, the challenge creates a supportive peer group. This not only can reduce anxiety but also increase accountability and motivation.
 
@@ -29,6 +30,6 @@ Here's why I think this approach works:
 
 This year, we have support from GitHub Education to enhance the challenge and we're introducing [weekly structured posts](https://github.com/orgs/open-sauced/discussions/36) and increased community engagement opportunities. It's an experiment in scaling the benefits of community-supported learning.
 
-So, here's my call to action: If you've ever been curious about open source but hesitated to jump in, join us for [#100DaysOfOSS](https://opensauced.pizza/docs/community/100-days-of-oss/) with your [intro](https://github.com/orgs/open-sauced/discussions/36#discussioncomment-10152170) today - we already have over 100 people! 
+So, here's my call to action: If you've ever been curious about open source but hesitated to jump in, join us for [#100DaysOfOSS](https://opensauced.pizza/docs/community/100-days-of-oss/) with your [intro](https://github.com/orgs/open-sauced/discussions/36#discussioncomment-10152170) today - we already have over 100 people!
 
-P.S. If you're participating, you can also sign up for the [OpenSauced newsletter](https://news.opensauced.pizza/#/portal/signup) for biweekly updates on Open Source topics to help you along your journey. 
+P.S. If you're participating, you can also sign up for the [OpenSauced newsletter](https://news.opensauced.pizza/#/portal/signup) for biweekly updates on Open Source topics to help you along your journey.

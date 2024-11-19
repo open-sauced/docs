@@ -12,7 +12,6 @@ Today, we're covering the letter "Y" and the difference between YAML and YML.
 
 <!-- truncate -->
 
-
 - **YAML**: Stands for "YAML Ain't Markup Language." YAML refers to the data serialization standard itself. When you're talking about the language or the format, "YAML" is the term to use.
 
 - **YML**: A file extension commonly used for files that contain YAML-formatted data.
@@ -20,6 +19,6 @@ Today, we're covering the letter "Y" and the difference between YAML and YML.
 You might see .yml or .yaml as file extensions. Both indicate that the file contains YAML-formatted data.
 Both .yml and .yaml are acceptable file extensions, and there's no difference in functionality. It's generally a good practice to stay consistent with the file extension you choose for a given project.
 
-Now, we want to hear from you! What other OSS terms can you think of that start with the letter "Y"? 
+Now, we want to hear from you! What other OSS terms can you think of that start with the letter "Y"?
 
 Remember to use the hashtag #100DaysOfOSS if you share on social media, and don't forget to tag us [@saucedopen](https://twitter.com/saucedopen) so we can follow along.

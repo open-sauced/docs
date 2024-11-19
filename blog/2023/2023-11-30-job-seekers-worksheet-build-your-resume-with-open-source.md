@@ -6,14 +6,13 @@ slug: job-seekers-worksheet-build-your-resume-with-open-source
 description: "If you're looking for a job and want to boost your resume and network, this worksheet can help you decide what to do next. "
 ---
 
-Job seeking is really challenging, but if you've talked to me in the last six months and asked me how to find a job, you know that I've mentioned using open source. I know, I know. That can be an overwhelming experience. But hear me out if you're an early career developer. 
+Job seeking is really challenging, but if you've talked to me in the last six months and asked me how to find a job, you know that I've mentioned using open source. I know, I know. That can be an overwhelming experience. But hear me out if you're an early career developer.
 
 <!-- truncate -->
 
+Contributing to open source allows you to grow your skills in a way that nothing else can. You work with a team, have a proven record of communication with maintainers, show off your code, and developer real and practical skills. Yes, I've built a to-do list too, but chances are you're not going to be a solo-coder building CRUD apps. Exploring existing codebases, taking notes, and contributing will get you far more experience.
 
-Contributing to open source allows you to grow your skills in a way that nothing else can. You work with a team, have a proven record of communication with maintainers, show off your code, and developer real and practical skills. Yes, I've built a to-do list too, but chances are you're not going to be a solo-coder building CRUD apps. Exploring existing codebases, taking notes, and contributing will get you far more experience. 
-
-Will you have to go out of your comfort zone? Probably. But that's something you're going to have to get comfortable with if you want to be a developer. I can tell you from experience that you should **not** wait until you land the job to get comfortable with getting out of your comfort zone. It's your new reality if you want a tech career. And if you've been comfortable for a while, it's probably time to push yourself a little harder. 
+Will you have to go out of your comfort zone? Probably. But that's something you're going to have to get comfortable with if you want to be a developer. I can tell you from experience that you should **not** wait until you land the job to get comfortable with getting out of your comfort zone. It's your new reality if you want a tech career. And if you've been comfortable for a while, it's probably time to push yourself a little harder.
 
 It's worth mentioning that I don't recommend just YOLO-ing across open source projects. A strategic approach will help you to grow and network efficiently; and if there's anything I've learned from the last four years in tech, it's that efficiency rules.
 

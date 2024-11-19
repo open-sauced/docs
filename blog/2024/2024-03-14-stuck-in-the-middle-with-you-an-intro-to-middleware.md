@@ -10,7 +10,6 @@ Middleware exists in several frameworks like Next.js, Express, Hono and Fresh, a
 
 <!-- truncate -->
 
-
 Middleware is something that happens in the middle of a user or some service interacting with a site or [API](https://en.wikipedia.org/wiki/API) call and happens at the framework level.
 
 It runs before a page loads or an API endpoint is called, or more generally a route. There are many reasons why you might want to do that:

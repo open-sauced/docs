@@ -7,12 +7,11 @@ description: "Want to learn more about theatre.js, the open source animation too
 ---
 
 
-**Today is day 2 of 29 Days of Open Source Alternatives, and in this short week of February, we're covering Game Development and Multimedia. If you'd like to see more open source games, you can check out my [OSS Games Page](https://oss.fyi/oss-games). **
+**Today is day 2 of 29 Days of Open Source Alternatives, and in this short week of February, we're covering Game Development and Multimedia. If you'd like to see more open source games, you can check out my [OSS Games Page](https://oss.fyi/oss-games).**
 
 Before coming into tech, I spent a lot more time writing and working creatively, mostly writing screenplay or tv pilot specs. It's always been my dreams to see my stories come alive on screen. You know that crane shot you see in the most epic of all scenes in action movies? That has always been my dream.
 
 <!-- truncate -->
-
 
 You know, like this one.
 
@@ -20,14 +19,13 @@ You know, like this one.
 
 I knew I could do the writing, but I never thought I could build the crane shot myself. But I should've know, there's power in tech and power to enable myself to make my dreams come true.
 
-When I stumbled across theatre.js, and I needed to know more. 
+When I stumbled across theatre.js, and I needed to know more.
 
 > Theatre.js is a javascript animation library with a professional motion design toolset. It helps you create any animation, from cinematic scenes in THREE.js, to delightful UI interactions.
 
-Theatre.js is like a superpower for boosting your creativity. It's open, friendly, and lets you bring your animation ideas to life. You can make things spin, bounce, fly, and change those colors without writing tons of code. You can even implement that dream of mine: the crane shot. 
+Theatre.js is like a superpower for boosting your creativity. It's open, friendly, and lets you bring your animation ideas to life. You can make things spin, bounce, fly, and change those colors without writing tons of code. You can even implement that dream of mine: the crane shot.
 
 [https://github.com/theatre-js/theatre](https://github.com/theatre-js/theatre)
-
 
 ## Features
 
@@ -36,7 +34,6 @@ Theatre.js is like a superpower for boosting your creativity. It's open, friendl
 - **Extensible Architecture**: Enables integration with various frameworks and tools.
 - **High Performance**: Optimized for smooth and complex animations.
 - **JavaScript and TypeScript Support**: Offers flexibility in development.
-
 
 ![theatre.js overview page](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jwukwce1nyjqn93ewsl6.png)
 
@@ -59,10 +56,11 @@ Comparing Theatre.js with popular proprietary animation tools like Adobe After E
 
 ## Open Source Support & Popularity
 
-Although the stars tell a story of excitement, jumping high from 2022 until now, the contributions tell a different story, with only three contributors over the last 30 days. 
+Although the stars tell a story of excitement, jumping high from 2022 until now, the contributions tell a different story, with only three contributors over the last 30 days.
 
 ⭐ 10.3k
 👀 115
+
 - Forks: 323
 - License: Apache-2.0
 

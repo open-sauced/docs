@@ -12,20 +12,21 @@ Interviewing is a skill that can be strengthened. Interviews can be frustrating,
 <!-- truncate -->
 
 > **More Resources on How to Land a Job with Open Source**
+>
 > - [How I Got Hired Contributing to open source projects](https://dev.to/opensauced/how-i-got-hired-contributing-to-open-source-projects-546i)
 > - [Building Your DevRel Resume with Open Source](https://dev.to/opensauced/building-your-devrel-resume-with-open-source-4km3)
 > - [How to Contribute to Open Source without Knowing How to Code: A guide with project suggestions](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5)
 > - [Beyond Content Creation: How Open Source Contributions Can Help You Get Noticed](https://dev.to/opensauced/beyond-content-creation-how-open-source-contributions-can-help-you-get-noticed-4l5n)
 
 ## Highlight the Relevance
+
 When talking about your open source experience, emphasize its relevance to the position you're interviewing for. Make a connection between your contributions and the skills required for the role. Discuss specific projects or aspects of the open source community that align with the company's tech stack or the job description. This demonstrates your ability to bridge the gap between open source and the company's goals.
 
-
 ### Example Response - Developer Advocate Role
+
 **Interviewer**: Can you provide an example of a time when you partnered with an engineering team to deliver educational content to community members, leading to enhancing their skills and product knowledge while also promoting advocacy?
 
 **Mia**: One significant open source project I contributed to was a developer toolkit for a programming language that closely resembles the tech stack utilized by your company. This project allowed me to immerse myself in the language and gain an in-depth understanding of its intricacies.
-
 
 As part of the documentation issue that I worked on, my main responsibility was to create educational content, including tutorials, to empower fellow developers using the language. I wanted to ensure that the community had the resources they needed to fully leverage the language's capabilities.
 
@@ -33,8 +34,8 @@ To achieve this, I collaborated closely with the engineering team and community 
 
 Through my open source contributions, I not only enhanced my technical expertise in the language but also developed strong communication skills. I was able to effectively articulate complex technical concepts to a diverse audience, building their skills and product fluency while advocating for the open source project and its relevance to the developer community.
 
-
 ## Describe Your Contributions
+
 Start by explaining the problem you aimed to solve or the feature you worked on, providing context for your involvement. If you faced challenges, highlight how you overcame them. If you know the impact of your contributions, such as the number of users, positive feedback, or adoption by other developers, share this information as well. Emphasize the lessons you learned during the process and how they have shaped your technical growth.
 
 [![babblebey's highlight](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ts5my5oud3g7esll1mki.png)](https://insights.opensauced.pizza/feed/207)
@@ -56,6 +57,7 @@ While working on Contributions Connect, I actively collaborated with the open so
 **Tomás**: This experience taught me the importance of striking a balance between aesthetics and performance in frontend development. I learned that building a visually pleasing UI is only part of the equation; ensuring optimal performance and speed is equally crucial. Through this project, I developed a deep understanding of performance optimization techniques, such as lazy loading, code splitting, and caching strategies. These lessons have not only enhanced my technical abilities but also instilled in me a passion for creating efficient and reusable code.
 
 ## Showcase Collaboration and Communication Skills
+
 Open source projects are collaborative by nature, so it's important to showcase your ability to work effectively in a team. Talk about how you interacted with other contributors, how you shared ideas, and how you resolved conflicts or differences of opinion. Highlight any leadership roles or responsibilities you had within the open source community, such as being a maintainer or a project lead. Emphasize how you effectively communicated with the project community, both online and offline.
 
 [![CBID2's highlight](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cvmb2ijw09og21bm0b9q.png)](https://insights.opensauced.pizza/feed/197)
@@ -76,10 +78,9 @@ When it comes to communication within the project community, I recognized the im
 
 Overall, my experience as a developer working on open source projects has equipped me with essential skills in teamwork, communication, conflict resolution, and leadership. I believe these experiences have laid a solid foundation for my transition into project management, as they have honed my abilities to work effectively within diverse teams and engage with stakeholders at various levels.
 
-
 ## Discuss Your Learning Experience
-Open source projects provide an excellent platform for continuous learning and skill development. Share how your open source experience has expanded your technical knowledge and honed your problem-solving abilities. Discuss the new programming languages, frameworks, or tools you encountered during your contributions. Mention any feedback or code reviews you received and how they helped you improve as a developer. Demonstrate your enthusiasm for learning and growth.
 
+Open source projects provide an excellent platform for continuous learning and skill development. Share how your open source experience has expanded your technical knowledge and honed your problem-solving abilities. Discuss the new programming languages, frameworks, or tools you encountered during your contributions. Mention any feedback or code reviews you received and how they helped you improve as a developer. Demonstrate your enthusiasm for learning and growth.
 
 [![Sunday's highlight](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8m0yioq0ifeupw4hahev.png)](https://insights.opensauced.pizza/feed/195)
 
@@ -100,11 +101,10 @@ Throughout this process, I actively sought feedback and engaged in code reviews 
 This experience demonstrated my enthusiasm for learning and growth as a developer. It showcased my ability to adapt to new programming languages, frameworks, and tools by utilizing my backend expertise while embracing the frontend responsibilities in a full stack context. Working on this open source issue allowed me to expand my technical horizons, reinforce my problem-solving skills, and solidify my desire to pursue a full stack role.
 
 ## Talk About the Open Source Community
+
 The open source community thrives on collaboration, knowledge sharing, and giving back. Talk about your involvement in the community beyond coding, such as participating in discussions, mentoring newcomers, or contributing to documentation. Discuss how the open source community has influenced your professional development and how you have contributed to its growth. Showcase your passion for open source and your dedication to making a positive impact on the developer community.
 
-
 [![Nick Taylor's Highlight](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5ao6nz87n6u9y7mlxih4.png)](https://insights.opensauced.pizza/feed/36)
-
 
 ### Example Response - Senior Software Engineer
 
@@ -124,12 +124,10 @@ Through this experience, I realized the immense impact mentoring can have on bot
 
 I also actively encouraged the junior developers to contribute back to the open source project by taking ownership of smaller tasks, reviewing pull requests, and suggesting improvements. By doing so, they not only developed their technical skills but also gained a sense of ownership and pride in their contributions.
 
-
 ## Additional Consideration: Be Prepared to Show Your Code
+
 Some tech interviews may require you to showcase your coding skills by sharing links to your open source contributions. Be ready to present your code or other contributions and explain the rationale behind your decisions. Practice explaining concisely and be prepared to answer questions related to the codebase you worked on. One great way to lead the hiring manager to the contributions you’re most proud of is to send them to [your highlights page](https://insights.opensauced.pizza/user/BekahHW/highlights).
 
-
 ![BekahHW's highlight page](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kqrdlwr4mvkuwuwl7ton.png)
-
 
 For most of us, it takes practice and experience to interview well. By highlighting the relevance of your contributions, describing your accomplishments, showcasing collaboration and communication skills, discussing your learning experience, and emphasizing your involvement in the open source community, you should be able to create an impression that interviewers will remember. And remember, this is a great opportunity to share your passion and demonstrate all the things you’ve learned through your open source journey. Good luck!

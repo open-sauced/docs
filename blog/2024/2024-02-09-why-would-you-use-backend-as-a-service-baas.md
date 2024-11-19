@@ -6,18 +6,17 @@ slug: why-would-you-use-backend-as-a-service-baas
 description: "Learn why Backend as a Service (BaaS) is essential for simplifying the development process, improving cost efficiency, and enhancing security. "
 ---
 
-*Today is day 9 of my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts) or if you want more open source to learn-to-code programs, check out [this list](https://oss.fyi/learn-to-code).* 
+*Today is day 9 of my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts) or if you want more open source to learn-to-code programs, check out [this list](https://oss.fyi/learn-to-code).*
 
-In the United States, it's National Pizza Day! That means we're going to start this post with a pizza story. 
+In the United States, it's National Pizza Day! That means we're going to start this post with a pizza story.
 
 <!-- truncate -->
-
 
 Sometimes, having your questions answered is the best onboarding to a new project. As my friend [Jason](https://twitter.com/tasonjorres) was learning about Backend as a Service (BaaS), he started asking questions on X/Twitter. And Appwrite responded. They were welcoming, supportive, and happy to accept new contributors. And with that kind of support, he was able to hit the ground running. He wanted to experiment with features like databases, storage, forums, and real-time chat. And because he had the support of the Appwrite team, access to thorough docs that were approachable to beginners with open source access to the codebase, he was ready to start some projects with Appwrite, including his [pizzapics](https://github.com/jasonetorres/pizzapics) project.
 
 ![About pizzapics](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hc922v9wlzzalscm7ppl.png)
 
-Pizzapics spawned from a tutorial that used supabase, but Appwrite became a great place for Jason to start because of the beginner and user-friendly tutorials. And if it was a great place for a new user to start, it had awesome opportunities for experts. 
+Pizzapics spawned from a tutorial that used supabase, but Appwrite became a great place for Jason to start because of the beginner and user-friendly tutorials. And if it was a great place for a new user to start, it had awesome opportunities for experts.
 
 ## What is Backend as a Service (BaaS)?
 
@@ -35,19 +34,19 @@ Plus, if more people start visiting your LEGO castle, the magical box automatica
 
 In simple terms, BaaS helps app developers by taking care of the, behind-the-scenes stuff, allowing them to focus on creating an amazing app experience for users, just like letting you focus on building the best LEGO castle ever.
 
-## Why Use BaaS? 
+## Why Use BaaS?
 
 Developers often choose BaaS because they want to streamline the development process, reduce costs, and go to market with their product faster. Other reasons they may choose to use BaaS include:
 
-1. **Simplification**: BaaS provides pre-built backend components, like databases, authentication systems, cloud storage, and server-side logic, allowing developers to focus on building the frontend and user experience of their applications. 
+1. **Simplification**: BaaS provides pre-built backend components, like databases, authentication systems, cloud storage, and server-side logic, allowing developers to focus on building the frontend and user experience of their applications.
 
-2. **Scalability**: Most BaaS platforms automatically scale based on the applications use. This means that infrastructure can handle increased usage without a lot of manual changes. 
+2. **Scalability**: Most BaaS platforms automatically scale based on the applications use. This means that infrastructure can handle increased usage without a lot of manual changes.
 
-3. **Cost Efficiency**: For some small to medium-sized projects, using a BaaS can decrease upfront investments in server hardware of long-term contracts with cloud services. 
+3. **Cost Efficiency**: For some small to medium-sized projects, using a BaaS can decrease upfront investments in server hardware of long-term contracts with cloud services.
 
 4. **Faster Time to Market**: Because developers don't have to worry about creating complex backends, they're able to go to market more quickly.
 
-5. **Security**: BaaS platforms typically offer built-in security features, including data encryption, authentication, and compliance with various regulatory standards. 
+5. **Security**: BaaS platforms typically offer built-in security features, including data encryption, authentication, and compliance with various regulatory standards.
 
 ## BaaS Spotlight: Appwrite
 
@@ -101,21 +100,15 @@ The second is their Heroes program. [Jason Torres](https://twitter.com/tasonjorr
 
 I really appreciated this particular story that showed how important contributions are to Appwrite.  [Graham](https://twitter.com/GrahamTheDev)- a community member - did a live stream accessibility audit of Appwrite. From that experience, he created issues to improve the accessibility of Appwrite, and they were incredibly receptive and motivated to improve their app.
 
-
 ### [Appwrite](https://github.com/appwrite/appwrite) Repo
 
-- - Stars: 39.3k 
-- - Watching: 370 
-- - Forks: 3.6k 
+- - Stars: 39.3k
+- - Watching: 370
+- - Forks: 3.6k
 - - License: BSD-3-Clause license
 
 ## Takeaways
 
-AppWrite stands out as a powerful Backend as a Service (BaaS) platform that simplifies the process of backend development for web and mobile applications. By offering a wide array of features like database management, user authentication, file storage, cloud functions, and real-time capabilities, Appwrite enables developers to focus on the user experience and building the front end of their applications without getting bogged down by backend infrastructure. 
+AppWrite stands out as a powerful Backend as a Service (BaaS) platform that simplifies the process of backend development for web and mobile applications. By offering a wide array of features like database management, user authentication, file storage, cloud functions, and real-time capabilities, Appwrite enables developers to focus on the user experience and building the front end of their applications without getting bogged down by backend infrastructure.
 
 If you have questions or suggestions for what topic we should cover let us know in the comments below or [sign up for our newsletter](https://news.opensauced.pizza/#/portal/signup).
-
-
-
-
-

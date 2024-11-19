@@ -6,13 +6,14 @@ slug: how-to-be-a-top-contributor-this-hacktoberfest
 description: "Discover how to be a top new contributor this Hacktoberfest. "
 ---
 
-If you’ve read any of my previous posts, you know that I’m a fan of redefining contributions. But during Hacktoberfest, there’s more competition for the magic four pull requests (PRs). If we think of it like [Moneyball for engineers](https://opensauced.pizza/blog/moneyball-for-engineers), except limiting it to Hacktoberfest, we realize it's not about hitting home runs; it's about getting on base consistently and making strategic plays that contribute to the overall win. So, how do you become a top contributor during Hacktoberfest? 
+If you’ve read any of my previous posts, you know that I’m a fan of redefining contributions. But during Hacktoberfest, there’s more competition for the magic four pull requests (PRs). If we think of it like [Moneyball for engineers](https://opensauced.pizza/blog/moneyball-for-engineers), except limiting it to Hacktoberfest, we realize it's not about hitting home runs; it's about getting on base consistently and making strategic plays that contribute to the overall win. So, how do you become a top contributor during Hacktoberfest?
 
 <!-- truncate -->
 
 ![Ham yelling play ball](https://media.giphy.com/media/QtoG24OvehcYUhf7mI/giphy.gif)
 
 ## Five Pillars of Hacktoberfest Contribution
+
 1. Deep Dives Over Quick Fixes
 Take time to look through the repository’s issues. It doesn’t matter if you get a PR in the first week or all four on October 31. Take time to plan your approach and to understand the repository. Look at issues with the `help wanted` tag or issues that are in the backlog. It’s also important to think about the time that you have to devote to Hacktoberfest. If you know that you only have time to dive deeply into one issue, then plan around that. Also, consider submitting to the same open source organization to reduce the cognitive load of navigating different contribution guidelines. Engaging deeply with a project and its codebase will make you stand out.
 
@@ -29,8 +30,9 @@ Avoid changing parts of a project just because you think they could be better. I
 Contributing to open source isn’t just about code. Engage with the community, write insightful issues, or craft blog posts that help others understand the project better. Features like [OpenSauced's highlights](https://insights.opensauced.pizza/feed) can help you showcase these broader contributions.
 
 ## Your Soft Skills Checklist
-- Active Listening: Before diving in, read the project's documentation, understand its goals, and understand the process. 
-- Communication: Take time to check-in with maintainers, especially if you’re struggling or know that there’s a timeline that you can’t make. If you have a question and you’ve been unable to find the answer after looking, ask for help. 
+
+- Active Listening: Before diving in, read the project's documentation, understand its goals, and understand the process.
+- Communication: Take time to check-in with maintainers, especially if you’re struggling or know that there’s a timeline that you can’t make. If you have a question and you’ve been unable to find the answer after looking, ask for help.
 - Receptiveness to Feedback: You’ll likely receive comments on your pull requests. Feedback is a learning opportunity. Make necessary changes and iterate based on the feedback. Check out  [Understanding Why Pull Requests Get Rejected in Open Source Projects](https://dev.to/opensauced/understanding-why-pull-requests-get-rejected-in-open-source-projects-1jd0) and [Writing Your First Pull Request: Tips, Best Practices, and AI-Powered Tools for Success](https://dev.to/opensauced/writing-your-first-pull-request-tips-best-practices-and-ai-powered-tools-for-success-3bg9) for more best practices on submitting PRs.
 
-If there’s one takeaway from becoming a top contributor during Hacktoberfest, it’s that it’s important to be thoughtful as a contributor. Take the time to understand, think through your process, and clearly communicate with maintainers. 
+If there’s one takeaway from becoming a top contributor during Hacktoberfest, it’s that it’s important to be thoughtful as a contributor. Take the time to understand, think through your process, and clearly communicate with maintainers.

@@ -10,11 +10,9 @@ description: "When we look closely at our APIs, we can find issues and solve the
 
 <hr/>
 
-
 APIs, or Application Programming Interfaces, allow for communication between different software systems and services, forming the necessary bridge in applicates used daily in industries ranging from banking to entertainment. Because we depend on technology so much, it's important to make sure we're testing to make sure everything works.
 
 <!-- truncate -->
-
 
 API testing serves four main purposes: functionality, performance, security, and integration. Each category focuses on looking at different parts of the API to make sure it is functioning correctly under normal and extreme circumstances. Using API testing has a lot of benefits, including:
 
@@ -30,7 +28,7 @@ If you're interested in testing out some other open source API tools, you can ch
 
 > Hoppscotch is a lightweight, web-based API development suite. It was built from the ground up with ease of use and accessibility in mind providing all the functionality needed for API developers with minimalist, unobtrusive UI.
 
-Hoppscotch makes it quick and easy to test your APIs. It honestly took me under five minutes to get started with my first request. 
+Hoppscotch makes it quick and easy to test your APIs. It honestly took me under five minutes to get started with my first request.
 
 ![testing API](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ycy5i2sc3jisgb5j4d0o.gif)
 
@@ -62,15 +60,15 @@ Just a note to say that in terms of pricing, Hoppscotch offers free (forever) Co
 
 ### Getting Started with API Testing
 
-Let's walk through an example. First, go to [https://hoppscotch.io/](https://hoppscotch.io/). If you haven't used it before, you'll see their default API there. 
+Let's walk through an example. First, go to [https://hoppscotch.io/](https://hoppscotch.io/). If you haven't used it before, you'll see their default API there.
 
-We're going to test the OpenSauced API to get a list of featured repository insight pages. 
+We're going to test the OpenSauced API to get a list of featured repository insight pages.
 
 For the API endpoint, add:
 
 `https://api.opensauced.pizza/v2/insights/featured`
 
-Next, we're going to need to add some query parameters. 
+Next, we're going to need to add some query parameters.
 
 Parameter 1: `page`, Value 1: `1`
 Parameter 2: `limit`, Value 2: `10`
@@ -188,9 +186,8 @@ Once you've added those Query Parameters, you're ready to hit Send. If your requ
 }
 ```
 
-If you have another API to test, go ahead and see if you can get it working. 
+If you have another API to test, go ahead and see if you can get it working.
 
 [https://github.com/hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-
 
 We'll be back with another post in the 29 Days of OSS Alternatives tomorrow, but if you want to stay up-to-date with OpenSauced and get more valuable information about open source, [sign up for our newsletter](https://oss.fyi/newsletter) today.

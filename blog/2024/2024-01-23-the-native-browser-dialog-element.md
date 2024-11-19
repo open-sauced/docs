@@ -10,7 +10,6 @@ All the major browsers now support the `&lt;dialog%gt;` element. Why add this HT
 
 <!-- truncate -->
 
-
 ## Focus Trapping
 
 What is focus trapping? It's a feature where you do not want focus outside a specific element, and that element typically contains focusable elements.

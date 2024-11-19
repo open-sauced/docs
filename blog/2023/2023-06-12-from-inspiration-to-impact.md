@@ -12,7 +12,7 @@ Welcome back to our final post in this series about Open Source in Science Ficti
 
 ## Collaborative World-Building: Transforming the Science Fiction Landscape
 
-Science fiction has long been a genre of creativity, with authors crafting intricate worlds and universes. But in many cases, it's been a solitary experience. If we apply open source principles, we can open up new worlds together. 
+Science fiction has long been a genre of creativity, with authors crafting intricate worlds and universes. But in many cases, it's been a solitary experience. If we apply open source principles, we can open up new worlds together.
 
 Collaborative platforms like [World Anvil](https://www.worldanvil.com/) allow writers and contributors to collaborate to build shared universes. These platforms allow for crowd-sourced contributions, where writers, artists, and fans collaborate to develop detailed mythologies, create expansive maps, and flesh out the intricate histories of their fictional worlds. Open source storytelling tools like [Twine](https://twinery.org/) provide accessible platforms for interactive storytelling, enabling anyone to contribute to the narrative tapestry. Through open source world-building, science fiction has become a collective endeavor, resulting in richer and more immersive fictional universes.
 
@@ -29,4 +29,3 @@ With the fast-paced technology landscape, we need to be continually mindful abou
 How do creators navigate the fine line between encouraging fan participation and protecting their original work? Open source fan fiction often operates in a legal gray area, and it is essential for creators and fans to respect the boundaries set by copyright laws while finding ways to embrace collaboration.
 
 My past experience as a college English teacher collided with my life in tech for this series, and I couldn't be more excited to see the continued collisions between open source and science fiction in the future. If you're ready to start your own journey into open source and make an impact, get started with [OpenSauced](https://insights.opensauced.pizza/) today.
-

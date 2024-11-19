@@ -6,7 +6,7 @@ slug: take-the-first-step-the-open-source-game
 description: "Getting started in open source is like learning a strategy game. It takes time to get started, but if you start small, you'll make progress."
 ---
 
-There's been a lot of talk recently about how to get into open source. I think part of the challenge of breaking into open source is overthinking it. 
+There's been a lot of talk recently about how to get into open source. I think part of the challenge of breaking into open source is overthinking it.
 
 [https://x.com/BekahHW/status/1742920548353745068?s=20](https://x.com/BekahHW/status/1742920548353745068?s=20)
 
@@ -14,15 +14,11 @@ We need to reframe how we think about starting with contributing. Getting starte
 
 <!-- truncate -->
 
-
 ## Step 1: Reading the Rulebook (Understanding Basics)
 
 Think of it like mastering a new strategy board game. First, you'd read the rules and understand the basic mechanics. In open source, this is like reading the project's README or CONTRIBUTING files. The rulebook guides you on how to play the game, and these files provide share specifics on how to get started, what's expected, and how to contribute effectively.
 
-
 [![open source repos for beginners](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jm20g8x7wy774y0hb52y.png)](https://app.opensauced.pizza/pages/BekahHW/655/dashboard)
-
-
 
 ## Step 2: Setting Up the Board (Environment Setup)
 

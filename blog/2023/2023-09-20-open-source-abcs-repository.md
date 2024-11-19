@@ -16,6 +16,6 @@ Today, we're covering the letter "R" for Repository.
 
 If you want to practice creating your own repository, check out [Practice Contributing with VS Code](https://opensauced.pizza/learn/#/04-tools-to-be-successful?id=practicing-contributing-with-vs-code) in our intro to open source course.
 
-Now, we want to hear from you! What other OSS terms can you think of that start with the letter "R"? 
+Now, we want to hear from you! What other OSS terms can you think of that start with the letter "R"?
 
 Remember to use the hashtag #100DaysOfOSS if you share on social media, and don't forget to tag us [@saucedopen](https://twitter.com/saucedopen) so we can follow along.

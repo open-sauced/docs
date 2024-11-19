@@ -6,7 +6,7 @@ slug: from-messy-to-memorable-shorten-your-links-boost-your-brand
 description: "Tired of clunky link shorteners? Dub.co is here! It's easy to use, packed with features, and totally open source. "
 ---
 
-*Today is day 22 of my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts) or if you're interested in some of the top OSS projects of last year, check out [this list](https://oss.fyi/top-oss-2023). This is in the Content Management and Publishing category.* 
+*Today is day 22 of my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts) or if you're interested in some of the top OSS projects of last year, check out [this list](https://oss.fyi/top-oss-2023). This is in the Content Management and Publishing category.*
 
 I had never really used a link shortener until about a year and a half ago, and didn't realize how convenient they really are. So if you're not sure why you would use one or which to choose, you can check out the rest of this post.
 
@@ -18,7 +18,7 @@ Link shorteners can be really useful for the following reasons:
 
 1. **They can be easier to read**:  Long, complicated URLs can be hard to read, type, and share, especially on platforms with character limits like X/Twitter. Shortened links are easier to remember and take up less space, making them ideal for social media, messaging, and print materials.
 2. **Tracking and Analytics**: Link shorteners often provide detailed analytics about who clicks on your links, where they come from, and what devices they use. This can help you better understand your audience, track campaign performance, and optimize your content strategy.
-3. **Branding and Customization**: With branded link shorteners like Dub.co, you can create links that reflect your brand identity with custom domains and personalized messages. At OpenSauced, you'll notice that our shortened links start with oss.fyi. 
+3. **Branding and Customization**: With branded link shorteners like Dub.co, you can create links that reflect your brand identity with custom domains and personalized messages. At OpenSauced, you'll notice that our shortened links start with oss.fyi.
 4. **QR Code Generation**: Integrating QR codes with your links makes it easier to connect people  to your product through print materials. (Shorteners often have built-in QR code generators.)
 
 At [OpenSauced](https://opensauced.pizza/), we use Dub.co, an open source alternative to Bit.ly.
@@ -29,10 +29,7 @@ At [OpenSauced](https://opensauced.pizza/), we use Dub.co, an open source altern
 
 Dub.co allows you to create custom, branded short links. They also have an analytics dashboard that provides insights into link performance. They also have QR code generation and link personalization. Here's an example of one of our QR codes:
 
-
 ![OpenSacued QR code to newsletter](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r6b35q3mfwb878zh0yvx.png)
-
-
 
 ## Comparison with Bit.ly
 
@@ -44,7 +41,6 @@ Dub.co allows you to create custom, branded short links. They also have an analy
 | **API Access**        | Robust            | Restricted          |
 | **Pricing**           | Competitive       | Free/Paid Plans     |
 
-
 ## Open Source Stats
 
 - Stars: 14.8k
@@ -53,7 +49,7 @@ Dub.co allows you to create custom, branded short links. They also have an analy
 commits: 2.5k+
 total contributors: 42
 
-We can see that there's some strong activity on PRs over the last thirty days with consistent contributions, although the number of contributors both all time and in the last thirty days isn't high. This may be indicative of being a fairly new open source repository, with the first PR being merged in during 2022. 
+We can see that there's some strong activity on PRs over the last thirty days with consistent contributions, although the number of contributors both all time and in the last thirty days isn't high. This may be indicative of being a fairly new open source repository, with the first PR being merged in during 2022.
 
 ![Dub dashboard](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y3ycyw9onk480s98u79m.png)
 

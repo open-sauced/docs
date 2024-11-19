@@ -12,8 +12,8 @@ In July, I participated in a “Build in Public” monthly challenge. My goal wa
 
 ![Jessica's message to me about the issue](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8ntrdpxbrg1ego7a2ibr.png)
 
-
 ## The Repository and the Issue
+
 - [[Feature] - Add ability for users to choose a category](https://github.com/freeCodeCamp/Developer_Quiz_Site/issues/657)
 
 ### Context
@@ -23,8 +23,9 @@ In July, I participated in a “Build in Public” monthly challenge. My goal wa
 Prior to this issue, the questions were generated randomly. Now, because there were enough questions to populate each category, I needed to create a component that allowed the user to choose a category of questions.
 
 The project uses TypeScript, and I’m going to be honest, I’m still pretty new to TypeScript. I’ll talk about some of the challenges I had with it and how I navigated those challenges later though.
- 
+
 ## Approaching a New Codebase
+
 I’ll give an overview of my approach, but I highly recommend Abbey Perini’s [Getting Started in a New Codebase](https://dev.to/abbeyperini/getting-started-in-a-new-codebase-e7b) as a resource for folks new to contributing.
 
 I have to resist the urge to just get started every time I’m in a new codebase. I know, it’s exciting jumping into the code, but it’s important to understand the organization, and repository, and to be able to run the project first.
@@ -36,11 +37,10 @@ Using the instructions in the README, I forked and cloned the repository, and th
 
 **3.Familiarize Myself with the Codebase**
 
-I started exploring the existing codebase to understand the project's structure, components, and overall functionality.  Previously, users would select the number of questions, and a random quiz would be generated. My new component would need to come into the flow before this, so I’d have to figure out how the components were being displayed once a user made a selection. I also learned  that the logic for the user’s flow was all in the `QuizTemplate` Component. 
+I started exploring the existing codebase to understand the project's structure, components, and overall functionality.  Previously, users would select the number of questions, and a random quiz would be generated. My new component would need to come into the flow before this, so I’d have to figure out how the components were being displayed once a user made a selection. I also learned  that the logic for the user’s flow was all in the `QuizTemplate` Component.
 
 **4. Component Implementation**
-I began by creating a new `SelectCategory` component, which alloId users to pick a quiz category. I essentially copied the `SelectQuiz` component, and made updates specific to the categories. Within the `QuizTemplate` component, I import two components: `SelectCategory` and `SelectQuiz`. The `SelectCategory` component allows the user to choose a quiz category, and the `SelectQuiz` component lets the user choose the number of questions for the quiz. 
-
+I began by creating a new `SelectCategory` component, which alloId users to pick a quiz category. I essentially copied the `SelectQuiz` component, and made updates specific to the categories. Within the `QuizTemplate` component, I import two components: `SelectCategory` and `SelectQuiz`. The `SelectCategory` component allows the user to choose a quiz category, and the `SelectQuiz` component lets the user choose the number of questions for the quiz.
 
 **5. Logic & Code**
 Next, I needed to add new state variables to manage the selected category and quiz length:
@@ -68,7 +68,7 @@ const selectQuiz = (category: string, index: number) => {
 
 ```
 
-I also had to modify the rendering logic to include the `SelectCategory` component for category selection. 
+I also had to modify the rendering logic to include the `SelectCategory` component for category selection.
 
 ```jsx
 return (
@@ -107,13 +107,15 @@ return (
   </>
 );
 ```
+
 One of the most important parts of this issue was making sure that the category the user selected was passed to the `SelectQuiz` component. Here’s how I made sure that happened.
 
 In the return statement of the `QuizTemplate` component, I conditionally render the `SelectCategory` component if `showOptions` is `false`. I pass several props to `SelectCategory`:
-   - `selectQuizNumber`: A function that is used when the user selects a category. This function takes two arguments: an event (`e`) and the selected category. It triggers the `selectQuiz` function with the selected category and index `0` (since the first quiz length option is by default).
-   - `category`: The currently selected category.
-   - `selectCategoryArr`: An array containing all the available quiz categories.
-   - `selectQuiz`: A function reference to the `selectQuiz` function defined in the `QuizTemplate`.
+
+- `selectQuizNumber`: A function that is used when the user selects a category. This function takes two arguments: an event (`e`) and the selected category. It triggers the `selectQuiz` function with the selected category and index `0` (since the first quiz length option is by default).
+- `category`: The currently selected category.
+- `selectCategoryArr`: An array containing all the available quiz categories.
+- `selectQuiz`: A function reference to the `selectQuiz` function defined in the `QuizTemplate`.
 
 These prompts are received in the `SelectCategory` component, where they are used to display the category buttons and handle user interactions. When a user clicks on a category button, the `selectQuizNumber` function is called, passing the selected category to it.
 
@@ -125,13 +127,12 @@ So the `selectedCategory` and `selectedQuiz` state variables in the `QuizTemplat
 
 For the full code, you can check out my [Developer_Quiz_Site fork](https://github.com/BekahHW/Developer_Quiz_Site/).
 
-And once I was done, I went to my [OpenSauced profile](https://insights.opensauced.pizza/user/BekahHW/highlights) to create a highlight to showcase my contribution and do some storytelling about the experience. 
-
+And once I was done, I went to my [OpenSauced profile](https://insights.opensauced.pizza/user/BekahHW/highlights) to create a highlight to showcase my contribution and do some storytelling about the experience.
 
 [![Highlight card with story of the experience](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v4wz6exmdbdgwztnhpyi.png)](https://insights.opensauced.pizza/feed/389)
 
-
 ## Challenges Faced
+
 I think it’s always worth talking through the challenges so other contributors know that they aren’t alone if they struggle to contribute to open source.
 
 **1. Time Management**
@@ -141,16 +142,14 @@ Balancing this contribution with my job, community-building activities, and fami
 As a TypeScript beginner, there were sometimes I had no idea what was happening. I’m a big fan of using tools like ChatGPT and GitHub Copilot to help me through the process. I really enjoyed using GitHub Copilot to explain TypeScript code. I learn a lot when I’m doing projects hands-on, and having an AI assistant to help explain what was happening helped me to be more efficient in my learning and coding.
 
 ## Benefits and Takeaways
-It always feels good when I get a PR merged in, and this wasn’t any different. I was actually pretty excited to find my next issue since Jessica’s feedback was positive and considerate. Even though this wasn’t a huge issue, I definitely grew through this contribution. I gained hands-on experience with type-safe code. I also wrote some Jest tests, which I hadn’t done in a couple of years. 
 
-It took me longer than I anticipated, but I’m proud of getting my first PR accepted in the freeCodeCamp repository. 
+It always feels good when I get a PR merged in, and this wasn’t any different. I was actually pretty excited to find my next issue since Jessica’s feedback was positive and considerate. Even though this wasn’t a huge issue, I definitely grew through this contribution. I gained hands-on experience with type-safe code. I also wrote some Jest tests, which I hadn’t done in a couple of years.
 
-If you're considering making your first open-source contribution, I encourage you to get started today. Here are some gentle ways to get started in open source: 
+It took me longer than I anticipated, but I’m proud of getting my first PR accepted in the freeCodeCamp repository.
+
+If you're considering making your first open-source contribution, I encourage you to get started today. Here are some gentle ways to get started in open source:
 
 - Take our [Intro To Open Source Course](https://github.com/open-sauced/intro) to learn more about open source and how to get started.
 - Join [#100DaysOfOSS](https://opensauced.pizza/docs/community/100-days-of-oss/)
 
 If you have any questions or feedback, drop them in the comments below.
-
-
-

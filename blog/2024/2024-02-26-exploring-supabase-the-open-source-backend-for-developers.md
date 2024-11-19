@@ -13,7 +13,6 @@ If your skillset is in front-end but you need to implement a backend for your pr
 
 <!-- truncate -->
 
-
 [https://github.com/supabase](https://github.com/supabase)
 
 Traditional BaaS (Backend as a Service) products are often limited, and there can be concerns with proprietary platforms around transparency, customization, and cost efficiency. As an open source project, Supabase allows you to see its codebase, and you have the opportunity to customize the project in the ways that work for you. They also have clear [pricing guidelines](https://supabase.com/pricing), with a free tier that allows you to test it out.
@@ -32,12 +31,12 @@ Traditional BaaS (Backend as a Service) products are often limited, and there ca
 |------------------|-------------------------|----------------------------------------|----------------------------------------|---------------------------------|
 | Open Source      | Yes                     | No                                     | Limited                                | No                              |
 | Pricing          | Transparent, pay-as-you-go | Free tier, per-usage costs             | Free tier, per-usage costs             | Per-usage costs                 |
-| Database         | Postgres (relational), Supabase Realtime support | Firebase Realtime Database: A NoSQL JSON Database | Amazon DynamoDB (NoSQL) and Amazon Aurora Serverless (relational)| Cosmos DB (multi-model database service) 
+| Database         | Postgres (relational), Supabase Realtime support | Firebase Realtime Database: A NoSQL JSON Database | Amazon DynamoDB (NoSQL) and Amazon Aurora Serverless (relational)| Cosmos DB (multi-model database service)
 | Authentication   | Built-in                | Built-in                  | Built-in                  | Integrates with Azure AD                        |
 
 ### Open Source Strengths
 
-Because transparency can be really important when choosing your backend as a service, checking out the Supabase repository is necessary. We see a lot of healthy levels of contribution and collaboration. The team is very efficient at getting their issues closed and pull requests merged in. Likewise, they have a good star:fork ratio, meaning that people aren't just watching the project, they're contributing to make it better. 
+Because transparency can be really important when choosing your backend as a service, checking out the Supabase repository is necessary. We see a lot of healthy levels of contribution and collaboration. The team is very efficient at getting their issues closed and pull requests merged in. Likewise, they have a good star:fork ratio, meaning that people aren't just watching the project, they're contributing to make it better.
 
 ![Supabase dashboard](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w3lnyab2qy406pxumqde.png)
 

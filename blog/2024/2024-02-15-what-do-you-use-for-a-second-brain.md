@@ -6,7 +6,7 @@ slug: what-do-you-use-for-a-second-brain
 description: "There are many tools out there to use as a second brain. This post highlights the open source appflowy."
 ---
 
-*Today is day 15 of my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts) or if you want more open source to learn-to-code programs, check out [this list](https://oss.fyi/learn-to-code). This is our first post in the Productivity & Collaboration Category.* 
+*Today is day 15 of my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts) or if you want more open source to learn-to-code programs, check out [this list](https://oss.fyi/learn-to-code). This is our first post in the Productivity & Collaboration Category.*
 
 <hr/>
 
@@ -14,9 +14,7 @@ Have you ever heard of the concept of a "second brain"? A "second brain" is an e
 
 <!-- truncate -->
 
-
 I’ve tried Notion, not once, not twice, but more times than I want to admit. I want it to be *the* tool that rules them all, but what happens is that I sink a bunch of time with nothing to show. I’ve been a long-time Obsidian user because I feel that it’s simple to get started and not overcomplicated. But I also dislike dealing with Obsidian Sync to get access across devices. I've also tried Evernote and have checked out Bear and Roam. (It's almost like you need a second brain to keep track of all the second brain apps :zany_face:) It made sense to test out Appflowy, one of the open source apps that I’ve heard people recommend over and over again as an alternative to notion, so I wanted to try it out.
-
 
 > AppFlowy is an AI-powered secure workspace where you achieve more without losing control of your data
 
@@ -62,7 +60,6 @@ The comparison table now includes Evernote and Notion as specific competitors:
 | Offline Mode | Yes | Some editions | No |
 | Free Plan Limitation | None | free tier that bumps up to starting at $10.83/month for more space and features  | starting at $16/mo per team member for teams |
 
-
 ### Open Source Stats
 
 AppFlowy's open source statistics demonstrate its growth and active development:
@@ -88,15 +85,10 @@ One of the reasons I think they're able to build a strong community and consiste
 
 Their tech stack is a little out of the realm of my knowledge, but I'm going to check out their issues to see if I can make a contribution, because they seem like such a great project to contribute to.
 
-
 ![appflowy tech stack](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3yyb79fkqlwc07hynare.png)
-
 
 ## Takeaways
 
 Appflowy doesn't have all the features of Notion, and they admit that. But they're working on it, and they're transparent about their roadmap, while focusing on the user being in charge of their data. That seems like a pretty important feature if you're using it as a "second brain."
 
-
 Is there a tool you're using as a "second brain"? Drop it in the comments.
-
-   

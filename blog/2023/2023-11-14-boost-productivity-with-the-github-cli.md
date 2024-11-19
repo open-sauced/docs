@@ -16,7 +16,6 @@ Let's get started!
 
 <!-- truncate -->
 
-
 ## Install the GitHub CLI
 
 Head on over to the [installation docs to get the GitHub CLI set up](https://cli.github.com/). There are installers for Linux, Windows, and macOS.

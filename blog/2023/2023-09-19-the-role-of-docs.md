@@ -14,7 +14,7 @@ Maybe I’m biased because I spent ten years teaching college English before com
 
 I remember trying out a really popular framework right after graduating bootcamp. The documentation was comprehensive, but it was unwieldy. I had no idea where I had come from or where I was going. There was no clear progression in the docs, which ultimately led to me giving up and moving to a different framework.
 
-> Documentation is an essential resource for developers, acting as a guidebook for understanding project features, APIs, configurations, and usage. 
+> Documentation is an essential resource for developers, acting as a guidebook for understanding project features, APIs, configurations, and usage.
 
 Here's why documentation matters in the context of open source:
 
@@ -28,7 +28,7 @@ Here's why documentation matters in the context of open source:
 
 One of the challenges of documentation–or any form of long writing–is creating a well-organized document that doesn’t give too much information but empowers the user to get started without having a lack of understanding. Here are some tips for creating good documentation:
 
-1. **Keep it Comprehensive:** Cover all aspects of your project, including installation instructions, configuration options, API reference, code examples, and troubleshooting guides. Providing clear and meaningful examples can help the user to better understand the documentation. As part of your documentation, be sure to include a CONTRIBUTING.md file. 
+1. **Keep it Comprehensive:** Cover all aspects of your project, including installation instructions, configuration options, API reference, code examples, and troubleshooting guides. Providing clear and meaningful examples can help the user to better understand the documentation. As part of your documentation, be sure to include a CONTRIBUTING.md file.
 
 :::tip
 Check out [How to make a delicious contributing guide](https://dev.to/opensauced/how-to-make-a-delicious-contributing-guide-4bp3) for more information on creating a contributing guide.

@@ -45,7 +45,7 @@ running one off Kubernetes Jobs gives us the same benefits of using a serverless
 but with reduced cost since we’re managing it all directly on our Kubernetes cluster.
 Jobs also offer alot of flexibility in how they run: they can have long, extended
 timeouts, they can use disk, and like any other Kubernetes paradigm, they can have
-multiple pods doing different tasks. 
+multiple pods doing different tasks.
 
 Let’s break down the individual components of this system and see how they work
 in depth:
@@ -55,7 +55,7 @@ in depth:
 The first and biggest part of this system is the “scorecard-k8s-scheduler”; a Kubernetes
 controller-like microservice that kicks off new jobs on-cluster. While this microservice
 follows many of the principles, patterns, and methods used when building a traditional
-Kubernetes controller or operator, it does not watch for or mutate custom resources 
+Kubernetes controller or operator, it does not watch for or mutate custom resources
 on the cluster. Its function is to simply kick off Kubernetes Jobs that run the Scorecard
 CLI and gather finished job results.
 
@@ -124,7 +124,7 @@ and apis available via “k8s.io” imports and doing it programmatically:
 ```go
 // defines the Kubernetes Job and its spec
 job := &batchv1.Job{
-	// structs and details for the actual Job including metav1.ObjectMeta and batchv1.JobSpec
+ // structs and details for the actual Job including metav1.ObjectMeta and batchv1.JobSpec
 }
 
 // create the actual Job on cluster using the in-cluster config and client
@@ -143,7 +143,7 @@ watch, err := s.clientset.BatchV1().Jobs(ScorecardNamespace).Watch(ctx, metav1.L
 
 // continuously pop off the watch results channel for job status
 for event := range watch.ResultChan() {
-    	// wait for job success, error, or other states
+     // wait for job success, error, or other states
 }
 ```
 

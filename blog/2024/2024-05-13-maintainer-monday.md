@@ -9,7 +9,6 @@ description: It's maintainer month and we're celebrating some of our favorite ma
 Last week, we kicked off Maintainer Month with [Enhancing Support for Open Source Maintainers](https://opensauced.pizza/blog/enhancing-support-for-open-source-maintainers). Now, we're continuing our love of maintainers with our Maintainer Monday post, shouting out some of our favorite maintainers and their projects.
 <!-- truncate -->
 
-
 This week, I'm choosing another two maintainers from the X Spaces I've been doing for OpenSauced. Thank you, Amy Dutton and Nate Wienert for being guests and supporting the open source community.
 
 ## [Amy Dutton](https://oss.fyi/amydutton)
@@ -23,7 +22,7 @@ Amy is a multi-talented Lead Maintainer on the RedwoodJS Core Team. She's kind, 
 
 ## [Nate Wienert](https://oss.fyi/natew)
 
-Nate is the creative force behind Tamagui, a fun and innovative UI kit. He combines his technical skills with a playful approach to design, making Tamagui a delightful experience for users and developers alike. In our chat, Nate discussed the challenges and joys of building and maintaining Tamagui, including finding sponsors for his project. He shared the importance of building something useful, being consistent, and the sharing the interesting things you learn along the way. 
+Nate is the creative force behind Tamagui, a fun and innovative UI kit. He combines his technical skills with a playful approach to design, making Tamagui a delightful experience for users and developers alike. In our chat, Nate discussed the challenges and joys of building and maintaining Tamagui, including finding sponsors for his project. He shared the importance of building something useful, being consistent, and the sharing the interesting things you learn along the way.
 
 - You can still listen to the space [here](https://twitter.com/i/spaces/1ynJOyvNNykKR).
 - You can learn more about Tamagui [here](https://app.opensauced.pizza/s/tamagui/tamagui)
@@ -36,4 +35,3 @@ Thank you Amy and Nate for your support of the open source community!
 **Let us know who your favorite maintainers are so we can feature them this month!**
 
 We have some big events coming up next week with OpenSauced, including a Product Hunt Launch for [StarSearch](https://oss.fyi/starsearch-waitlist). Stay tuned for an exciting Maintainer month!
-

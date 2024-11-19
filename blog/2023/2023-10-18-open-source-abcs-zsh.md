@@ -12,9 +12,8 @@ Today, we're covering the letter "Z."
 
 <!-- truncate -->
 
-
 - **Zsh**: Zsh, also known as the Z Shell, is an interactive login shell for Unix-like operating systems. It includes many features to improve productivity, such as advanced tab completion, spelling correction, and a flexible plugin and theming system. Zsh is often favored by developers for its customization capabilities and is commonly used in open source software development environments.
 
-Now, we want to hear from you! What other OSS terms can you think of that start with the letter "Z"? 
+Now, we want to hear from you! What other OSS terms can you think of that start with the letter "Z"?
 
 Remember to use the hashtag #100DaysOfOSS if you share on social media, and don't forget to tag us [@saucedopen](https://twitter.com/saucedopen) so we can follow along.

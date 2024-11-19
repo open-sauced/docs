@@ -6,12 +6,11 @@ slug: supercharge-your-github-profile
 description: "Learn how to add OpenSauced Dev Cards to your GitHub Profile using GitHub Actions."
 ---
 
-Last week, we launched our brand new Dev Cards with the OSCR (Open Source Contributor Rating) highlighted on the front to make it easier for you to showcase your impact in open source. To make it even easier, I've cooked up a little GitHub Action that'll automatically update your Dev Card on your GitHub profile. 
+Last week, we launched our brand new Dev Cards with the OSCR (Open Source Contributor Rating) highlighted on the front to make it easier for you to showcase your impact in open source. To make it even easier, I've cooked up a little GitHub Action that'll automatically update your Dev Card on your GitHub profile.
 
 <!-- truncate -->
 
-
-In this post, we're gonna dive into what Dev Cards are all about, how this new GitHub Action works, and how you can get it set up. 
+In this post, we're gonna dive into what Dev Cards are all about, how this new GitHub Action works, and how you can get it set up.
 
 ## OpenSauced Dev Cards
 
@@ -96,13 +95,14 @@ If you want to make the most of your dev card on your GitHub profile? Here are s
 ## The Secret Sauce: Understanding Your OSCR Score
 
 Think of the OSCR as your open source score that looks at:
+
 - Your contribution frequency
 - The quality of your contributions
 - Your ability to start and be a part of open source conversations
 
-Your OSCR score provides a quick snapshot of your open source activity and impact. It gives people an idea of how active and influential you are in the open source community. 
+Your OSCR score provides a quick snapshot of your open source activity and impact. It gives people an idea of how active and influential you are in the open source community.
 
-Like any metric, your open source experience is about more than just one number. 
+Like any metric, your open source experience is about more than just one number.
 
 ## Conclusion
 
@@ -113,4 +113,3 @@ Give it a try and let me know what you think!
 Stay saucy peeps!
 
 If you would like to know more about my work in open source, [follow me on OpenSauced](https://oss.fyi/nickytonline).
-

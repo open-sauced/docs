@@ -6,18 +6,17 @@ slug: game-development-and-multimedia-godot-engine-a-game-changer-in-game-develo
 description: "Discover Godot Engine, a free and open source game development platform. Learn about its powerful 2D and 3D capabilities, user-friendly interface, and amazing community."
 ---
 
-*Today starts my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts) or check out my [list of open source games](https://oss.fyi/oss-games).* 
+*Today starts my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts) or check out my [list of open source games](https://oss.fyi/oss-games).*
 
 <hr/>
 
-Last year, we decided to homeschool my 13 year old for a semester. When he told me that he was really interested in game development, I installed all things Unity and tried to get him up and running. 
+Last year, we decided to homeschool my 13 year old for a semester. When he told me that he was really interested in game development, I installed all things Unity and tried to get him up and running.
 
-Narrator: *we never got things up in running.* 
+Narrator: *we never got things up in running.*
 
 <!-- truncate -->
 
-
-We navigated a lot of error messages, challenges, and finally gave up with disappointment. Fast forward six months and I started to hear more and more good things about Godot. Full disclosure: we haven't gotten anything up and running (yet), but we've been navigating a new landscape of game development that has long been dominated by proprietary engines. 
+We navigated a lot of error messages, challenges, and finally gave up with disappointment. Fast forward six months and I started to hear more and more good things about Godot. Full disclosure: we haven't gotten anything up and running (yet), but we've been navigating a new landscape of game development that has long been dominated by proprietary engines.
 
 > Godot is a free and open source, cross-platform game engine that allows you to create both 2D and 3D games.
 
@@ -65,24 +64,21 @@ It's worth noting that Godot's star-to-fork ratio is one of the highest that I'v
 
 ### Building a Community in Game Development with Godot
 
-Behind every great product is a great community, and Godot is no exception. 
+Behind every great product is a great community, and Godot is no exception.
 
 [![Contributor Graph](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bf95k3goycp3h7kdd4re.png)](https://app.opensauced.pizza/pages/BekahHW/1142/activity?range=30)
 
 The engine is supported by an active and welcoming community of developers and enthusiasts. Newcomers to Godot will find in-depth resources, from comprehensive documentation and tutorials to active forums and community groups. This collaborative environment not only helps in troubleshooting and learning but also fosters a sense of belonging and mutual growth. Whether you're a seasoned game developer or a hobbyist, the Godot community is a valuable resource for expanding your skills and connecting with enthusiastic developers.
 
-
 ![Godot Contributors](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1uke1igzq6disn7fsd21.png)
-
 
 ## The Evolving Landscape of Godot: Future Developments and Enhancements
 
 Godot is constantly evolving, with regular updates and enhancements that keep it at the cutting edge of game development technology. The development team is committed to improving and expanding the engine, ensuring it meets the growing and changing needs of the game development community. This commitment to continuous development means that investing time and effort in learning Godot is an investment in a platform that grows with you, adapting to future trends and technologies in the gaming industry.
 
-
 ## Starting Your Game Development Journey with Godot
 
-Godot allows you to step into a world where your creativity is the limit. With its user-friendly interface, robust feature set, and supportive community, Godot is a great platform for anyone looking to break into game development or to find an alternative to proprietary engines. 
+Godot allows you to step into a world where your creativity is the limit. With its user-friendly interface, robust feature set, and supportive community, Godot is a great platform for anyone looking to break into game development or to find an alternative to proprietary engines.
 
 | Feature                         | Godot                                      | Unity                                                  | Unreal Engine                                         |
 |---------------------------------|--------------------------------------------|--------------------------------------------------------|-------------------------------------------------------|

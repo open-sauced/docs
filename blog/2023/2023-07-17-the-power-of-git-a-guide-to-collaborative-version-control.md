@@ -11,6 +11,7 @@ When I started learning to code, no one told me what Git was or why it was impor
 <!-- truncate -->
 
 ## What is Git?
+
 Git is a distributed version control system that allows developers to manage their source code and collaborate on projects. It allows you to track changes made to files over time, and creates a centralized repository and a comprehensive history of changes, which allows for a more seamless teamwork experience and organized code management.
 
 I like to think of Git as a time machine for your code.
@@ -31,65 +32,78 @@ Historically, collaborating on code involved manual file sharing or maintaining 
 
 ### Features and Benefits of Git
 
-1. **Decentralized Development**- With Git, each team member has their own repository on their local machine-also called a local copy-which allowed for independent work without requiring an internet connection. 
+1. **Decentralized Development**- With Git, each team member has their own repository on their local machine-also called a local copy-which allowed for independent work without requiring an internet connection.
 
-2. **Effortless Synchronization**- By cloning repositories, team members can create local copies of the codebase. This means that everyone has their own version to work on and they can use Git to share the changes between repositories. 
+2. **Effortless Synchronization**- By cloning repositories, team members can create local copies of the codebase. This means that everyone has their own version to work on and they can use Git to share the changes between repositories.
 
 ## Getting Started with Git
+
 If you want to get some hands-on experience using git, check out OpenSauced's [Intro to Open Source Course](https://github.com/open-sauced/intro) or sign-up for one of our workshops that are listed on the bottom of our [#100DaysOfOSS Challenge docs](https://opensauced.pizza/docs/community/100-days-of-oss/).
 
 ### Remote Repositories and Collaboration
-Git allows for collaboration by enabling developers to work on the same codebase from remote locations. 
+
+Git allows for collaboration by enabling developers to work on the same codebase from remote locations.
 
 #### Cloning a Repository
+
 Cloning is the process of creating a copy of a remote repository onto your local machine. When you clone a repository, you create a local version that includes the entire codebase, commit history, branches, and other repository-related information.
 
 ```
 To clone a remote repository:
 $ git clone <repository-url>
 ```
-### Branching 
-Branching and merging allows multiple developers to be working on the same code base at the same time and reduces the incidence of conflicts. 
+
+### Branching
+
+Branching and merging allows multiple developers to be working on the same code base at the same time and reduces the incidence of conflicts.
 
 ```
 To create a new branch:
 $ git branch <branch-name>
 ```
+
 You should replace `<branch-name>` with the name for your new branch. For example, if you want to create a branch called "feature-x", you would use the following command:
 
 ```
-$ git branch feature-x
+git branch feature-x
 ```
 
 ### Committing Changes
+
 Committing changes is part of Git's core functionality. Remember, committing is like capturing a snapshot of what the codebase looks like at that moment. A commit message is a description of what changes you’ve made. Here's an example:
 
 ```
 To commit changes:
 $ git commit -m "Your commit message"
 ```
+
 **Scenario**: Imagine you've added a new feature and want to save your progress. By committing your changes, you create a snapshot of the code at that specific point, making it easy to track and revert if needed.
 
 ### Pushing Changes
+
 When you push changes, that means that you send your local code changes, commits, and branches to a remote repository. You’re updating the remote repository with your local commits and making them accessible to others who have access to the same repository.
 
 ```
 To push changes to a remote repository:
 $ git push origin <branch-name>
 ```
+
 By pushing changes, your saved local changes are shared with others. Other team members can then fetch and merge your changes into their local repositories, creating an up-to-date version of the project.
 
 ### Merging and Fetching
-**Merging**: Merging is the process of combining changes from one branch or commit into another branch. 
+
+**Merging**: Merging is the process of combining changes from one branch or commit into another branch.
 
 The command `git merge <branch-name>` is used to merge changes from one branch into another. In this case, replace `<branch-name>` with the name of the branch you want to merge into your current branch. For example, if you want to merge changes from a branch named "main" into your current branch, you would use the following command:
 
 ```
-$ git merge main
+git merge main
 ```
+
 **Scenario**: You're working on a team project and need to develop a new feature without interfering with the main codebase. By creating a branch, you can isolate your work, commit changes, and merge them back into the main branch when you’re ready. If updates have been made to the main branch that you need to add to your branch, you can merge those in as well.
 
 **Fetching**: The process of retrieving changes from a remote repository without automatically merging them into your local branch. When you fetch, Git compares the commit history between your local repository and the remote repository, identifying any new commits or branches in the remote repository that you don't have locally.
+
 ```
 To fetch changes from a remote repository:
 $ git fetch <remote>
@@ -100,63 +114,81 @@ Sometimes there are merge conflicts (for example, changes to the same lines of c
 To resolve merge conflicts you’ll need to look at the conflicting sections, edit the files remove the conflict, and then commit the new changes.
 
 If you want to fetch and merge at the same time-which is convenient but allows for less flexibility-you can run this command:
+
 ```
-$ git pull origin <branch-name>
+git pull origin <branch-name>
 ```
 
 ### Git Stash
+
 Imagine you’re in the middle of working on a feature branch, but you suddenly need to switch to another branch for a bug fix. Instead of committing unfinished changes or losing them, you can use Git stash to temporarily save your modifications. This lets you to switch to the bug fix branch, address the issue, and then return to your feature branch and apply the saved stash to continue working from where you left off.
 
  To stash your changes, run the following command:
+
 ```
- $ git stash save "Stash message"
+ git stash save "Stash message"
 ```
+
 To see a list of your stashes, you can use the command:
 
 ```
-$ git stash list
+git stash list
 ```
+
 When you're ready to apply your stashed changes back to your working directory, use the command:
+
 ```
-$ git stash apply
+git stash apply
 ```
+
 If you have multiple stashes, you can specify a specific stash using its ID or index (`git stash apply stash@{2}`).
 
 If you no longer need a stash, you can remove it from your stash list by running:
+
 ```
-$ git stash drop
+git stash drop
 ```
+
 To apply a stash and remove it from the stash list in one step, you can use the command:
+
 ```
-$ git stash pop
+git stash pop
 ```
+
 This is equivalent to running git stash apply followed by git stash drop for the most recent stash.
 
 ### Git Rebase
+
 Say you have been working on a feature branch for a while, but during that time, the main branch has had several new commits. Before merging your feature branch, you can use Git rebase to incorporate the latest changes from the main branch into your branch. This makes sure your feature branch is up to date and avoids potential conflicts during the merge process.
 
 Here's an overview of how to use Git rebase:
 
 1. **Start a Rebase**: To start a rebase, make sure you are on the branch that you want to apply the changes to (the target branch). Then, run the following command:
+
    ```
-   $ git rebase <branch-name>
+   git rebase <branch-name>
    ```
+
 Make sure you replace `<branch-name>` with the name of the branch containing the commits you want to apply onto the target branch.
 
 2. **Resolve Conflicts**: During the rebase process, Git may encounter conflicts if there are conflicting changes between the commits being applied and the existing commits on the target branch. Git will pause the rebase and ask you to resolve these conflicts manually. You can use Git's conflict resolution tools, such as editing the conflicting files, selecting the desired changes, and using `git add` to mark the conflicts as resolved.
 
 3. **Continue the Rebase**: After resolving conflicts for a particular commit, you can continue the rebase process by running:
+
    ```
-   $ git rebase --continue
+   git rebase --continue
    ```
+
  This will apply the resolved commit and proceed with the remaining commits in the sequence.
 
 4. **Abort the Rebase**: If you decide to cancel the rebase, you can abort the rebase by running:
+
    ```
-   $ git rebase --abort
+   git rebase --abort
    ```
+
 This will revert your branch to its state before the rebase started.
 
-It's important to note that Git rebase rewrites the commit history by applying the changes from one branch on top of another branch. 
+It's important to note that Git rebase rewrites the commit history by applying the changes from one branch on top of another branch.
 
-There’s a lot more that you can do with Git, and I know it might seem overwhelming, but think of it like a toolbox. There’s lots of different tools in there and you might only know how to use the screwdriver in the hammer, but as you progress through different projects, you can continue to learn how to use the other tools in there. And when you do, you’ll find that collaborating on projects becomes easier because you’re using the right tools. 
+There’s a lot more that you can do with Git, and I know it might seem overwhelming, but think of it like a toolbox. There’s lots of different tools in there and you might only know how to use the screwdriver in the hammer, but as you progress through different projects, you can continue to learn how to use the other tools in there. And when you do, you’ll find that collaborating on projects becomes easier because you’re using the right tools.

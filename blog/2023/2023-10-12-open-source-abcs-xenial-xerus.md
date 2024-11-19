@@ -12,9 +12,8 @@ Today, we're covering the letter "X" for Xenial Xerus.
 
 <!-- truncate -->
 
+**Xenial Xerus**: Ubuntu versions are named alphabetically with an adjective and an animal, and "Xenial Xerus" is the name for the 16.04 release.
 
-**Xenial Xerus**: Ubuntu versions are named alphabetically with an adjective and an animal, and "Xenial Xerus" is the name for the 16.04 release. 
-
-This was a hard one! Now, we want to hear from you! What other OSS terms can you think of that start with the letter "X"? 
+This was a hard one! Now, we want to hear from you! What other OSS terms can you think of that start with the letter "X"?
 
 Remember to use the hashtag #100DaysOfOSS if you share on social media, and don't forget to tag us [@saucedopen](https://twitter.com/saucedopen) so we can follow along.

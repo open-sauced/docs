@@ -6,14 +6,13 @@ slug: development-tools-and-platforms-create-your-devto-pipedream-automation-in-
 description: "Learn how to use Pipedream to automate a post in Discord when you've created a new Dev post!"
 ---
 
-*Today is day 6 of my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts) or check out my bonus lists:  [open source games](https://oss.fyi/oss-games) and [API Development Tools](https://oss.fyi/api-tools).* 
+*Today is day 6 of my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts) or check out my bonus lists:  [open source games](https://oss.fyi/oss-games) and [API Development Tools](https://oss.fyi/api-tools).*
 
 <hr/>
 
-A couple of years ago, I was working with a university doctoral student who was recording oral histories. One of the biggest challenges she faced was taking the videos and transcribing them, which was required by the doctoral committee. We came up with a low-code way to solve her problem: the solution was Pipedream. 
+A couple of years ago, I was working with a university doctoral student who was recording oral histories. One of the biggest challenges she faced was taking the videos and transcribing them, which was required by the doctoral committee. We came up with a low-code way to solve her problem: the solution was Pipedream.
 
 <!-- truncate -->
-
 
 > Pipedream is the fastest way to automate any process that connects APIs. Build and run workflows with code-level control when you need it, and no code when you don't.
 
@@ -58,7 +57,6 @@ In the next step, you'll need to identify how often you want the automation to r
 
 Lastly, you'll need to connect your Dev Account. You'll need to generate an API key by going to [https://dev.to/settings/extensions](https://dev.to/settings/extensions). Scroll all the way to the bottom, until you see this:
 
-
 ![dev generate API key](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ersl0jrbk3nvxcwq9ssm.png)
 
 Now, you should be able to test your workflow. Once you've been successful, you can proceed to the next step.
@@ -68,14 +66,13 @@ Now, you should be able to test your workflow. Once you've been successful, you 
 Select the plus sign to add a new step. We're going to search for Discord, and select it. From there, we'll be offered three options. Go ahead and select "Send Message." (Now, we're going to keep it simple this time around, but there's more you can do to drop the actual link in Discord.)
 ![Send Message](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nvnep8gy9pja1x6i3s10.png)
 
-You'll be prompted to connect your Discord account. Once that's activated, you must select a channel to send the message. 
+You'll be prompted to connect your Discord account. Once that's activated, you must select a channel to send the message.
 
-Lastly, you'll need to enter the message you'd like to send. For this example, I wrote "I have a new post on Dev! https://dev.to/opensauced".
+Lastly, you'll need to enter the message you'd like to send. For this example, I wrote `I have a new post on Dev! https://dev.to/opensauced`.
 
 Go ahead and test your workflow. This is what it looks like in the discord channel I selected:
 
 ![message in discord](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q72udp93hj39b6akx7p3.png)
-
 
 ## Comparison with Zapier and Automate.io
 
@@ -94,10 +91,6 @@ Notes: *integrations refer to the total count of supported third-party applicati
 
 ****unique features highlight the aspects where each platform excels or distinguishes itself from competitors.
 
-Pipedream offers a lot for a little. The learning curve might be a little bit steeper than other no-code tools, but that also gives it more power once you know what you're doing with it. 
+Pipedream offers a lot for a little. The learning curve might be a little bit steeper than other no-code tools, but that also gives it more power once you know what you're doing with it.
 
-What automations are you currently using or want to test out? I always like to collect lists of interesting ways to be more efficient. 
-
-
-
-
+What automations are you currently using or want to test out? I always like to collect lists of interesting ways to be more efficient.

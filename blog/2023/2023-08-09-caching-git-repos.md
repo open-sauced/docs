@@ -16,7 +16,7 @@ The hot path on the server would include this Go code which clones the git repo 
 
 ```go
 inMemRepo, err := git.Clone(memory.NewStorage(), nil, &git.CloneOptions{
-   URL:      	URL,
+   URL:       URL,
    SingleBranch: true,
 })
 ```
@@ -35,11 +35,11 @@ In Go, we can use the standard library `list.List` as the doubly linked list and
 
 ```go
 type GitRepoLRUCache struct {
-	// a doubly linked list to support the LRU cache behavior
-	dll *list.List
+ // a doubly linked list to support the LRU cache behavior
+ dll *list.List
 
-	// a hashmap to support the LRU cache behavior
-	hm map[string]*list.Element
+ // a hashmap to support the LRU cache behavior
+ hm map[string]*list.Element
 }
 ```
 
@@ -150,7 +150,7 @@ Now, when elements are returned from the cache operations, they themselves can b
 
 ```go
 func (c *GitRepoLRUCache) Get(key string) *GitRepoFilePath {
-	// Lock (and unlock when done) the cache's mutex
+ // Lock (and unlock when done) the cache's mutex
     c.lock.Lock()
     defer c.lock.Unlock()
 
@@ -178,8 +178,6 @@ func (g *GitRepoFilePath) Done() {
 
 A similar structuring of locking and unlocking these mutexes in "Put" and during the eviction process, all working together, allows for the cache and its elements to be thread safe and concurrently operated on.
 
-At scale, using this LRU caching method, we can prevent the re-cloning of frequently queried git repos and speed up the service drastically. Make sure to check out  the open source code for this service and all the details on this implementation of an LRU cache!
-
-https://github.com/open-sauced/pizza
+At scale, using this LRU caching method, we can prevent the re-cloning of frequently queried git repos and speed up the service drastically. Make sure to check out [the open source code](https://github.com/open-sauced/pizza) for this service and all the details on this implementation of an LRU cache!
 
 Stay Saucy! 🍕

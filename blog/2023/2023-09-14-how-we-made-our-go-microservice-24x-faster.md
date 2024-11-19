@@ -21,28 +21,28 @@ Before we can go too much further, let’s make sure the database connection is 
 
 ```go
 import (
-	"database/sql"
-	"log"
+ "database/sql"
+ "log"
 
-	_ "github.com/lib/pq"
+ _ "github.com/lib/pq"
 )
 
 func main() {
-	// In a real world scenario, use good password handling practices
-	// to handle connecting to the Postgres cluster!
-	connectString := "host=my_host port=54321 user=my_postgres_user sslmode=require"
+ // In a real world scenario, use good password handling practices
+ // to handle connecting to the Postgres cluster!
+ connectString := "host=my_host port=54321 user=my_postgres_user sslmode=require"
 
-	// Acquire the *sql.DB instance
-	db, err := sql.Open("postgres", connectString)
-	if err != nil {
-		log.Fatalf("Could not open database connection: %s", err)
-	}
+ // Acquire the *sql.DB instance
+ db, err := sql.Open("postgres", connectString)
+ if err != nil {
+  log.Fatalf("Could not open database connection: %s", err)
+ }
 
-	// ping once to ensure the database connection is working
-	err = db.Ping()
-	if err != nil {
-		log.Fatalf("Could not ping database: %s", err)
-	}
+ // ping once to ensure the database connection is working
+ err = db.Ping()
+ if err != nil {
+  log.Fatalf("Could not ping database: %s", err)
+ }
 }
 ```
 
@@ -54,7 +54,7 @@ When first written, the `pizza` micro-service would process each individual piec
 
 ```go
 for _, v := range data {
-	err := db.Exec("INSERT INTO my_table(my_data) VALUES($1)", v)
+ err := db.Exec("INSERT INTO my_table(my_data) VALUES($1)", v)
 }
 ```
 
@@ -68,9 +68,9 @@ In theory, if you never really needed to handle conflicts within the database or
 
 ```go
 for _, v := range data {
-	go func(d string) {
-		db.Exec("INSERT INTO my_table(my_data) VALUES($1)", d)
-	}(v)
+ go func(d string) {
+  db.Exec("INSERT INTO my_table(my_data) VALUES($1)", d)
+ }(v)
 }
 ```
 
@@ -88,7 +88,7 @@ Let’s take a quick look at how you would implement this and how it works:
 // Start a psql transaction.
 txn, err := p.db.Begin()
 if err != nil {
-		log.Fatalf("Could not start psql transaction: %s", err.Error())
+  log.Fatalf("Could not start psql transaction: %s", err.Error())
 }
 
 // Make a "statement" to use for the psql transaction. The "CopyIn" takes
@@ -98,27 +98,27 @@ if err != nil {
 // problem with preparing the statement.
 stmt, err := txn.Prepare(pq.CopyIn("my_table", "my_data"))
 if err != nil {
-	txn.Rollback()
-	log.Fatalf("Could not prepare psql statement: %s", err.Error())
+ txn.Rollback()
+ log.Fatalf("Could not prepare psql statement: %s", err.Error())
 }
 
 // Iterate the data and add the data to the psql statement
 for _, v := range data {
-	err := stmt.Exec(v)
+ err := stmt.Exec(v)
       if err != nil {
-	    log.Fatalf("Could not execute the statement: %s", err.Error())
+     log.Fatalf("Could not execute the statement: %s", err.Error())
       }
 }
 
 // Execute, commit, and close the transaction
 err = stmt.Close()
 if err != nil {
-	log.Fatalf("Could not close the psql statement: %s", err.Error())
+ log.Fatalf("Could not close the psql statement: %s", err.Error())
 }
 
 err = txn.Commit()
 if err != nil {
-	log.Fatalf("Could not commit the psql transaction: %s", err.Error())
+ log.Fatalf("Could not commit the psql transaction: %s", err.Error())
 }
 ```
 
@@ -140,7 +140,7 @@ _, err := p.db.Exec(fmt.Sprintf("CREATE TEMPORARY TABLE %s AS SELECT * FROM my_t
 
 
 if err != nil {
-	log.Fatalf("Could not create temporary table: %s", err.Error())
+ log.Fatalf("Could not create temporary table: %s", err.Error())
 }
 ```
 
@@ -150,31 +150,31 @@ Now that we have a temporary table, we can use that in our CopyIn to do a mass i
 // Start a psql transaction.
 txn, err := p.db.Begin()
 if err != nil {
-		log.Fatalf("Could not start psql transaction: %s", err.Error())
+  log.Fatalf("Could not start psql transaction: %s", err.Error())
 }
 
 // Make a "statement" to use for the psql transaction.
 // Notice the "my_tmp_table" as the table name
 stmt, err := txn.Prepare(pq.CopyIn("my_tmp_table", "my_data"))
 if err != nil {
-	txn.Rollback()
-	log.Fatalf("Could not prepare psql statement: %s", err.Error())
+ txn.Rollback()
+ log.Fatalf("Could not prepare psql statement: %s", err.Error())
 }
 
 // Iterate the data, add the data to the psql statement
 for _, v := range data {
-	err := stmt.Exec(v)
+ err := stmt.Exec(v)
 }
 
 // Execute, commit, and close the transaction
 err = stmt.Close()
 if err != nil {
-	log.Fatalf("Could not close the psql statement: %s", err.Error())
+ log.Fatalf("Could not close the psql statement: %s", err.Error())
 }
 
 err = txn.Commit()
 if err != nil {
-	log.Fatalf("Could not commit the psql transaction: %s", err.Error())
+ log.Fatalf("Could not commit the psql transaction: %s", err.Error())
 }
 ```
 
@@ -183,19 +183,19 @@ Now, we can attempt to pivot the data from the temporary table into the real tab
 
 ```go
 _, err := p.db.Exec(`
-	INSERT INTO my_table(my_data)
-	SELECT my_data FROM my_tmp_table
-	ON CONFLICT (my_data)
-	DO NOTHING
+ INSERT INTO my_table(my_data)
+ SELECT my_data FROM my_tmp_table
+ ON CONFLICT (my_data)
+ DO NOTHING
 `)
 if err != nil {
-	log.Fatalf("Could not pivot temporary table data: %s", err.Error())
+ log.Fatalf("Could not pivot temporary table data: %s", err.Error())
 }
 
 // Drop the temporary table now that we're done pivoting the data
 _, err = p.db.Exec(fmt.Sprintf("DROP TABLE %s", tmpTableName))
 if err != nil {
-	log.Fatalf("Could not drop temporary table: %s", err.Error())
+ log.Fatalf("Could not drop temporary table: %s", err.Error())
 }
 ```
 
@@ -219,8 +219,6 @@ If you’re going to horizontally scale out your service to many additional inst
 
 Overall, using batch inserts and table pivots in Postgres are a really powerful way to optimize your Go backends. Compared to the arbitrary, brute force approach, we found that this generally improved performance 24x. When processing a git repository with over 30,000 commits, using the standard “one by one” approach, processing would take about 1 minute. But, using the batch approach laid out above, this now only takes about 3 seconds. Wow! What an improvement!!
 
-If you’re interested in diving in deeper on these methodologies and how we implemented them at OpenSauced, check out the original PR for this here!
-
-https://insights.opensauced.pizza/feed/471
+If you’re interested in diving in deeper on these methodologies and how we implemented them at OpenSauced, check out the original PR for this [here!](https://insights.opensauced.pizza/feed/471/)
 
 Stay saucy friends!!

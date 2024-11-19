@@ -12,10 +12,9 @@ I haven't used Audacity myself, but anytime I ask a content creator what tools t
 
 <!-- truncate -->
 
-
 (Sidenote: I may even be related to someone who used to record rap songs using Audacity when they were in college. (Unfortunately, those are all hidden in a vault somewhere for us to never hear.) But if you have your old songs that you've edited in Audacity, please, please drop them in the comments for us to enjoy.)
 
-> Audacity is the world’s most popular free software for recording and editing audio. So if you're producing music, a podcast, or just playing around with audio, Audacity is for you. 
+> Audacity is the world’s most popular free software for recording and editing audio. So if you're producing music, a podcast, or just playing around with audio, Audacity is for you.
 
 ![audacity gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lyZWlwbzBmcnRlbjduZGN4cTZjdXpoczU1c3oxeThrNnlveTV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n5ZZfTd3cBLoj2E/giphy.gif)
 
@@ -34,6 +33,7 @@ From what I've heard, Audacity is like a magic wand for your audio files. With i
 
 ⭐ 10.8k
 👀 264
+
 - Forks: 2.2k
 - License: GPLv3
 
@@ -41,9 +41,7 @@ Although they've only had 11 contributors to their main repository in the last 3
 
 [![Contributor Chart](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tpb369j8bbcfryqie2yj.png)](https://app.opensauced.pizza/pages/BekahHW/1171/activity?range=30)
 
-
 ## Comparison with Proprietary Software
-
 
 | Feature                          | Audacity (Free)                                  | Adobe Audition (Subscription/Creative Cloud) | Logic Pro (One-time purchase)      |
 |----------------------------------|--------------------------------------------------|----------------------------------------------|------------------------------------|
@@ -64,11 +62,11 @@ Although they've only had 11 contributors to their main repository in the last 3
 | Customer Support                 | Online community forums and tutorials            | Paid customer support                        | Paid customer support             |
 | Platform                         | Windows, macOS, Linux                            | Windows, macOS                               | macOS                              |
 
-Something else worth noting is the recent announcement that OpenVINO AI is available for an Audacity plugin now, which enables noise suppression, transcription, Music generation and remix, and music separation. 
+Something else worth noting is the recent announcement that OpenVINO AI is available for an Audacity plugin now, which enables noise suppression, transcription, Music generation and remix, and music separation.
 
 ## Pros and Cons for Game Developers and Multimedia Creators
 
-### Pros:
+### Pros
 
 - **Free and open-source**: You can download and use Audacity free for any purpose, including commercial use, without subscriptions or license fees. This makes it a great option for individuals, small studios, and educational institutions.
 - **Intuitive interface and simple learning curve**: Audacity's interface is known to be user-friendly and easy to navigate. Basic recording, cutting, and editing functions are straightforward.
@@ -77,12 +75,12 @@ Something else worth noting is the recent announcement that OpenVINO AI is avail
 - **Cross-platform compatibility**: Whether you work on Windows, macOS, or Linux, Audacity runs smoothly on various operating systems, offering flexibility and accessibility.
 - **OpenVINO AI plugin**: This recent addition unlocks exciting possibilities like noise suppression, voice transcription, music generation and remixing, and music separation, potentially streamlining specific development tasks.
 
-### Cons:
+### Cons
 
-- **Limited advanced features**: While Audacity is great in basic editing and manipulation, it lacks some advanced features found in professional audio editors. 
+- **Limited advanced features**: While Audacity is great in basic editing and manipulation, it lacks some advanced features found in professional audio editors.
 - **Steeper learning curve for advanced features**: While the basics are easy to grasp, mastering some of Audacity's advanced features and plugins can require effort and additional learning resources.
 - **Limited customer support**: As an open-source project, Audacity relies primarily on online communities and tutorials for support. While they provide a lot of resources, direct technical assistance from developers might be unavailable.
-- **Potential stability issues**: Some users report occasional crashes or unexpected behavior, particularly when working with large files or complex projects. 
+- **Potential stability issues**: Some users report occasional crashes or unexpected behavior, particularly when working with large files or complex projects.
 
 ## Takeaways
 

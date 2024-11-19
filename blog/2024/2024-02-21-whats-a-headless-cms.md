@@ -6,14 +6,13 @@ slug: whats-a-headless-cms
 description: "Go Headless, Go Open Source! Discover the flexibility, freedom, and community support of choosing the right headless CMS."
 ---
 
-*Today is day 21 of my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts) or if you're interested in exploring a longer list of open source headless CMS, check out [this list](https://oss.fyi/headless-cms). This post is in the Content Management and Publishing category.* 
+*Today is day 21 of my 29 Days of Open Source Alternatives series, where I'll be exploring open source alternatives to proprietary software in the categories of Game Development and Multimedia, Development Tools and Platforms, Productivity and Collaboration Tools, and more. If you'd like to see the list of the open source alternatives I'll be covering this month, head over to my [29 Days of Open Source Alts Page](https://oss.fyi/oss-alts) or if you're interested in exploring a longer list of open source headless CMS, check out [this list](https://oss.fyi/headless-cms). This post is in the Content Management and Publishing category.*
 
 <hr/>
 
 Imagine managing your website's content directly where it lives – on the live site itself, without code or technical jargon. That's the idea of headless CMS. So, what exactly is a headless CMS, and why should you care?
 
 <!-- truncate -->
-
 
 ## What is Headless?
 
@@ -23,13 +22,13 @@ Headless CMS systems separate content (the body) from presentation (the head). T
 
 Imagine you're an architect, designing your dream building. Traditional CMS would be like working with pre-built Lego sets. You'd be confined to their designs, with limited flexibility. Sure, you could choose from various sets like castles, spaceships, or houses, but customizing them significantly is nearly impossible. Each piece serves a specific purpose, locked into the overall structure.
 
-The world of headless CMS is like a giant box overflowing with different kinds of Legos. The bricks aren't for a specific set; there's a variety of shape, size, and color for you to use as you please. 
+The world of headless CMS is like a giant box overflowing with different kinds of Legos. The bricks aren't for a specific set; there's a variety of shape, size, and color for you to use as you please.
 
 #### Bricks Represent Content
 
 Think of each Lego brick as a piece of your website's content – text, images, videos, you name it. Each brick holds its unique value and meaning, just like your content elements. Whether it's a captivating headline brick or a supporting information brick, they all contribute to the overall experience.
 
-#### Flexibility 
+#### Flexibility
 
 The benefit of headless CMS is its separation of content (bricks) from presentation (building instructions). You can assemble these content bricks in any way you see fit, just like building with Legos. Want a modern, minimalist website? Stack the bricks sleekly and efficiently. A whimsical, interactive design? Combine bricks in unexpected ways.
 
@@ -58,7 +57,7 @@ Let's talk about Gutenberg, the new editing experience from WordPress. Gutenberg
 - **Ease of Use**: The block-based editing experience is generally considered user-friendly, so creators can manage and modify content without a lot of coding knowledge.
 - **Headless-Lite Functionality**: While it's not exactly headless, you still have the ability to use APIs to produce content on a variety of front-end applications.
 - **Large Community & Resources**: WordPress is known for its large community and there are plugins for additional functionalities and support.
- 
+
 #### Cons
 
 - **Flexibility**: Compared to true headless CMS like Strapi and Contentful, you have less control over design and customization.
@@ -72,6 +71,7 @@ Gutenberg within WordPress might be a good fit for:
 - Small projects or personal websites: It's a platform that's easy for non-developers to use and without extensive customization.
 - Existing WordPress users: For users who want to experiment with headless-like functionality and are already familiar with WordPress.
 - Content-first projects: If the main focus is on managing and publishing without complex design needs.
+
 #### Open Source Support
 
 The popularity of WordPress isn't lost on Gutenberg, with a great starts to forks ratio, a large number of contributors with a high activity rate. This definitely indicates a strong community supporting the project.
@@ -102,7 +102,6 @@ The popularity of WordPress isn't lost on Gutenberg, with a great starts to fork
 - Teams who have technical expertise and want to leverage Strapi's open source offerings.
 - Projects that prioritize flexibility and need to integrate with a variety of technologies.
 
-
 #### Open Source Support
 
 Strapi has solid activity supporting the open source project, with a steady cadence of contributors and velocity. The stars to forks ratio indicates a good ratio of outside contributors as well.
@@ -111,14 +110,13 @@ Strapi has solid activity supporting the open source project, with a steady cade
 
 ### Contentful
 
-Contentful caters to both technical and non-technical users. It allows for cross-team collaboration, focuses on scalability, and supports integrations. 
+Contentful caters to both technical and non-technical users. It allows for cross-team collaboration, focuses on scalability, and supports integrations.
 
 #### Strengths
 
 - **Scalability and Security**: Contentful makes sure your website remains stable and secure as it grows.
 - **Pre-Built Components**: If you need to streamline development, you can use their  content models and integrations.
 - **Broad Audience**: Contentful is built for every contributor, allowing more users to update and manage content.
-
 
 #### Cons
 
@@ -131,7 +129,7 @@ Contentful caters to both technical and non-technical users. It allows for cross
 - Teams that need pre-built components and content management support.
 
 #### Open Source Support
- 
+
 ![Contentful OpenSauced Dashboard](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x4hi2nwd4r2up5nddnh9.png)
 
 ### Takeaways

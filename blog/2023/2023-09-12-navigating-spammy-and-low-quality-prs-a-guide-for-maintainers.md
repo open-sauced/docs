@@ -12,10 +12,13 @@ Open source maintainers are the ultimate utility players, reviewing code, managi
 <!-- truncate -->
 
 ## The Cost of Poor-Quality & Spammy PRs
+
 ### Poor-Quality PRs
+>
 > Poor-quality PRs may have good intentions but lack the necessary quality, completeness, or adherence to project guidelines. These PRs often require substantial revisions and are not immediately mergeable.
 
 **Examples of poor-quality PRs include:**
+
 - Incomplete: The PR may contain code that isn’t fully implemented or is broken, leading to failed tests. It also may not follow the contributing guidelines, leading to necessary steps being skipped.
 - Lack of Documentation: The PR lacks comments, README updates, or inline documentation to explain the changes.
 - Code Style Violations: The submitted code doesn’t adhere to the project's coding standards or style guide.
@@ -24,9 +27,11 @@ Open source maintainers are the ultimate utility players, reviewing code, managi
 - Large and Unfocused: The PR tries to address multiple issues at once, making it difficult to review and test.
 
 ### Spammy PRs
+>
 > Spammy PRs appear to be made with little to no genuine intent to contribute to the project meaningfully. These are often created to take advantage of programs like Hacktoberfest or to simply gain contributor credits.
 
 **Examples of Spammy PRs include:**
+
 - "Hello, World!" Contributions: The PR adds a "Hello, World!" print statement or comment that has no relevance to the project.
 - Whitespace Changes: The PR consists only of whitespace changes like adding/removing blank lines or spaces, without any meaningful code changes.
 - Duplicate PRs: The same PR is submitted multiple times without any new changes.
@@ -38,6 +43,7 @@ Each PR requires time and effort to review, and when they aren’t up to standar
 [![OpenSauced Insights page](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tuaahg2yptfdvblybto0.png)](https://insights.opensauced.pizza/pages/BekahHW/230/dashboard)
 
 ## Best Practices for Maintainers
+
 1. Set Clear Guidelines
 One of the first lines of defense against poor-quality PRs is to set clear contribution guidelines. Make sure to outline what you expect in a PR, including coding standards, commit messages, and documentation. Think of this as a filter, discouraging those who are not willing to meet basic requirements. Along with this, having a clear Code of Conduct can help to prevent repeat or malicious PRs and communication.
 
@@ -59,11 +65,3 @@ Encourage peer reviews among contributors before the PR reaches you. This can ac
 Maintain an open line of communication with your contributors. If you find that a particular contributor is consistently submitting poor-quality PRs, a direct conversation may be more effective than repeated written feedback.
 
 By setting clear guidelines, leveraging automation, and fostering a culture of quality, you can reduce the time and effort spent on poor-quality PRs. Remember, the goal is not just to reduce spam but to elevate the quality of contributions to your project and to encourage repeat contributions from valued community members.
-
-
-
-
-
-
-
-

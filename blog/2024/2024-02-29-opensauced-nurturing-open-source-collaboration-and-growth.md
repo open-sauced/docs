@@ -12,11 +12,9 @@ It's been almost a year since I started at OpenSauced. It's incredible how much 
 
 <!-- truncate -->
 
-
 > OpenSauced is a platform dedicated to empowering maintainers and teams and redefining the meaning of open source contributions. We believe that every contribution, big or small, is valuable and deserves to be recognized. Our platform provides a way to track contributions through a GitHub-powered dashboard, allowing users to showcase their contributions and gain insights into their open source projects.
 
-
-## Key Features 
+## Key Features
 
 Our features allow you to:
 
@@ -25,15 +23,15 @@ Our features allow you to:
 - [**Highlight success**](https://opensauced.pizza/docs/features/highlights.md): Showcase your contributions with our shareable Highlights, inspiring others to embark on their open source journey.
 - [**Unlock Insights**](https://opensauced.pizza/features/repo-insights.md): Understand the health of your project, track contributions, and make data-driven decisions with OpenSauced Insights.
 
-## Our Repositories 
+## Our Repositories
 
-While we have quite a few repositories in our organization, these are the primary public repositories. For a small team, we maintain momentum across most of the repositories. 
+While we have quite a few repositories in our organization, these are the primary public repositories. For a small team, we maintain momentum across most of the repositories.
 
 ![OpenSauced Repo Dashboard](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yit148k7ged2yxu263th.png)
 
 ## Our Contributors
 
-Over the last thirty days, we've seen thirty-nine contributors across the OpenSauced repositories. 
+Over the last thirty days, we've seen thirty-nine contributors across the OpenSauced repositories.
 
 ![dashboard metrics](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4thfazrmwmgpp2u73cu3.png)
 
@@ -57,10 +55,9 @@ As one of the docs maintainers for OpenSauced, I find it helpful to track our do
 
 ![Docs Team](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aqjcxhyxl4g1bowsvfub.png)
 
-
 ## Takeaways
 
-At OpenSauced, we champion creating an open source environment that supports and recognizes contributors, maintainers, and teams. As we wrap up this series, it's clear that there's a variety of open source software that offer many opportunities for innovation, collaboration, and growth. 
+At OpenSauced, we champion creating an open source environment that supports and recognizes contributors, maintainers, and teams. As we wrap up this series, it's clear that there's a variety of open source software that offer many opportunities for innovation, collaboration, and growth.
 
 **What are your thoughts on OpenSauced? Have you used it to contribute to open source projects, or are you planning to? Share your experiences and insights in the comments below.**
 
