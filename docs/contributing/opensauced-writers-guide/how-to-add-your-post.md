@@ -22,6 +22,7 @@ Please be sure to add  `page: true` to your author entry to generate your author
 :::
 
 **Example:**
+
 ```yaml
 BekahHW:
   name: Bekah Hawrot Weigel
@@ -50,13 +51,11 @@ All authors should include their name and an image URL. The title, URL, and emai
 
 If you do want to include a URL, you can include your OpenSauced profile, X, LinkedIn, personal website, etc.
 
-
 ## Adding Blog Posts
 
 To publish in the blog, create a Markdown file within the blog directory. Note that we have subdirectories for each year, so writers should add their posts to the folder that corresponds with the year.
 
 **Example Path:** `/blog/2024/06-03-welcome-opensauced.md`
-
 
 :::info
 
@@ -65,6 +64,7 @@ You'll notice that many of the files include the year. These were created before
 :::
 
 **Markdown Example:**
+
 ```markdown
 docs/blog/2024/06-03-welcome-opensauced.md
 ---
@@ -99,6 +99,7 @@ The front matter is the metadata at the top of the Markdown file. It includes th
 authors:[BekahHW, nickytonline]
 ---
 ```
+
 - **tags:** Tags are used to categorize the blog post. They should be lowercase and separated by commas and highlight the main topics of the blog post.
 - **hide_table_of_contents:** This is a boolean value that determines whether the table of contents will be displayed. If you want to hide the table of contents, set it to `true`.
 
@@ -106,9 +107,10 @@ authors:[BekahHW, nickytonline]
 
 The blog's index page (a custom path for OpenSauced at `/community-resources`) is the blog list page, where all blog posts are collectively displayed.
 
-Use the `<!--truncate-->` marker in your blog post to represent what will be shown as the summary when viewing all published blog posts. Anything above `<!--truncate-->` will be part of the summary. Note that the portion above the truncate marker must be standalone renderable Markdown. 
+Use the `<!--truncate-->` marker in your blog post to represent what will be shown as the summary when viewing all published blog posts. Anything above `<!--truncate-->` will be part of the summary. Note that the portion above the truncate marker must be standalone renderable Markdown.
 
 **Markdown Example:**
+
 ```markdown
 website/blog/my-post.md
 ---
@@ -124,7 +126,7 @@ But anything from here on down will not be.
 
 ### Image Usage
 
-We are not going to use images in the front matter. The rest of the post should be in markdown format. 
+We are not going to use images in the front matter. The rest of the post should be in markdown format.
 
 If you want to include images within your post, please use only images that directly relate to the content of the post. If you need to add an image to the repository (rather than linking from somewhere else), you can add it to the `/static` directory in the `gif` or `img` subdirectory.
 

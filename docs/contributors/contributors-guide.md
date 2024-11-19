@@ -42,7 +42,7 @@ Your profile is a great resource for showcasing your contributions and sharing y
 
 On your profile, you will see the "Highlights" tab, which you can learn more about [in this section](#highlights-connecting-and-recognizing-contributions), and two other tabs:
 
-- **Contributions**: This tab includes a graph showing the number of PRs you have opened, [the velocity of your PRs](../welcome/glossary.md#pr-velocity), and the number of repositories you have contributed to. 
+- **Contributions**: This tab includes a graph showing the number of PRs you have opened, [the velocity of your PRs](../welcome/glossary.md#pr-velocity), and the number of repositories you have contributed to.
 
 Underneath the graph is a "Latest PRs" chart, which shows a list of current and recent PRs. There is also an option to view the user's latest issue comments. The contributions tab is helpful if you want to showcase a steady and consistent open source contribution experience.
 

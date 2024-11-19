@@ -44,7 +44,7 @@ Your profile is a great resource for showcasing your contributions and sharing y
 
 ![your profile](../../../static/img/profile.png)
 
-On your profile, you will see the "Highlights" tab, which you can learn more about [in this section](#highlights-connecting-and-recognizing-contributions). Other tabs you may find useful on your profile are: 
+On your profile, you will see the "Highlights" tab, which you can learn more about [in this section](#highlights-connecting-and-recognizing-contributions). Other tabs you may find useful on your profile are:
 
 - **Contributions**: This tab includes a graph showing the number of PRs you have opened, [the velocity of your PRs](../../welcome/glossary.md#pr-velocity), and the number of repositories you have contributed to in the last thirty days. Underneath the graph is a "Latest PRs" chart, which shows a list of current and recent PRs. This tab is helpful if you want to showcase a steady and consistent open source contribution experience.
 - **Recommendations**: This tab includes a list of open source projects that are chosen based on the programming languages you picked in the "Interests" section of your public profile. It is useful if you're looking for new projects to contribute to.
@@ -57,10 +57,9 @@ To get the full benefit of your profile, share it on social media, include a lin
 
 ### Your Dev Card
 
-Another fun way to share your open source contributions is through your [Dev Card](../../features/dev-card.md). Your Dev Card is a visual representation of your open source contributions. It includes your [OSCR](../../welcome/glossary.md#oscr), profile picture, name, bio, and the number of your latest contributions. 
+Another fun way to share your open source contributions is through your [Dev Card](../../features/dev-card.md). Your Dev Card is a visual representation of your open source contributions. It includes your [OSCR](../../welcome/glossary.md#oscr), profile picture, name, bio, and the number of your latest contributions.
 
 ![dev card](../../../static/img/DevCard.png)
-
 
 ## Explore: Finding Your Next Open Source Project
 
@@ -174,7 +173,6 @@ Within the repositories dashboard, you can view the following metrics, which are
 - **Issues**: This includes the total number of opened and closed issues for the repositories in your workspace and the velocity of issues being closed.
 - **Engagement**: This includes the total number of stars, forks, and activity ratio for the repositories in your workspace.
 
-
 ### Why Create a Workspace?
 
 There are many reasons to create a workspace. Here are a few:
@@ -188,7 +186,6 @@ There are many reasons to create a workspace. Here are a few:
 4. **Skill-Specific Exploration**: You can use workspaces to follow repositories that help you build specific skills or understand certain technologies, creating a tailored learning environment that aligns with your career path or focus.
 
 5. **Community Engagement Tracking**: By adding repositories you're interested in, you can monitor and engage with the communities behind them. This allows you to understand the dynamics of open source collaboration, which is invaluable for both personal and professional networking.
-
 
 ## Repository Insights: Connecting Your Repositories
 

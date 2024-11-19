@@ -37,13 +37,13 @@ A contributor who has not been active on a project in the last 30 days.
 
 Contributor Confidence is a metric that estimates the likelihood of users who star or fork a repository returning to make contributions within a specified time range. It is calculated by analyzing the contribution patterns of these users, considering both their activity in other repositories and their direct contributions to the repository in question. Forks are weighted more heavily than stars, and users who do return to contribute significantly influence the confidence score. This metric helps contributors gauge the activity level of a repository and assists maintainers in understanding user engagement, thereby providing insights into the overall health and vibrancy of the project.
 
-## Contributor Insights 
+## Contributor Insights
 
 The Contributor Insights feature enables you to categorize, monitor, and analyze different groups of contributors within open source projects. With the Contributor Insights feature, gain granular insights into each contributor's activity and contributions.
 
 ## Lottery Factor
 
-The Lottery Factor is a metric that identifies how at risk a project is if a key contributor leaves. It is calculated by the percentage of pull request (PR) contributions made by the top contributors. If 50% of the PR contributions come from two or fewer contributors, the lottery factor is high. 
+The Lottery Factor is a metric that identifies how at risk a project is if a key contributor leaves. It is calculated by the percentage of pull request (PR) contributions made by the top contributors. If 50% of the PR contributions come from two or fewer contributors, the lottery factor is high.
 
 The name "Lottery Factor" comes from the idea that if a key contributor wins the lottery and leaves, the project is at risk. This is sometimes known as the [bus factor](https://en.wikipedia.org/wiki/Bus_factor).
 

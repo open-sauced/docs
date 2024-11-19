@@ -25,7 +25,7 @@ There are a couple of ways to access a repository page:
 
 1. **From Repository Insights Pages**: If you're already on the Repository Insights Page, you can click on the repository name to view the repository page.
 2. **From the search bar**: You can search for a repository by entering the repository name in the search bar. Once you find the repository you're looking for, click on the repository name to view the repository page.
-3. **Directly from the URL**: You can also access a repository page directly by entering the URL in your web browser: 
+3. **Directly from the URL**: You can also access a repository page directly by entering the URL in your web browser:
 
     ```text
     https://app.opensauced.pizza/s/{org}/{repo}
@@ -47,7 +47,7 @@ The charts on our repository pages offer a visual representation of key project 
 
 - **Contributors Overview**: Our bar chart shows contributions by internal, new, and recurring contributors, exibiting the distribution of contributions and the project's ability to attract new contributors.
 - **[Lottery Factor](../welcome/glossary.md#lottery-factor)**: This unique metric highlights the dependency on key contributors. A project is considered vulnerable if 2 or fewer contributors account for 50% or more of the project's contributions. This indicates a potential risk if one of these contributors leaves the project.
-- **[YOLO Coders](../welcome/glossary.md#yolo-coders)**: This metric identifies contributors who push changes directly to the default branch without creating a pull request or seeking community feedback. 
+- **[YOLO Coders](../welcome/glossary.md#yolo-coders)**: This metric identifies contributors who push changes directly to the default branch without creating a pull request or seeking community feedback.
 - **Contributor Confidence**: This metric predicts the likelihood that users who star or fork a repository will return to make contributions. A higher confidence score indicates a greater probability of these users actively engaging with the repository.
 - **OSSF Scorecard**: A standardized metric developed by the Open Source Security Foundation to evaluate the security practices of open source projects based on a set of security criteria. These criteria cover various aspects of project maintenance and security practices. The resulting score provides a quick overview of the project's adherence to security best practices.
 - **Issue Resolution Trends**: Our line graphs display the number of issues opened versus those closed within specified periods, offering insights into the effectiveness of problem resolution and how issue volume changes over time.
@@ -55,7 +55,6 @@ The charts on our repository pages offer a visual representation of key project 
 - **Stars and Forks Over Time**: The number of stars and forks the project receives over time, illustrating the project's growth in popularity and its spread within the developer community.
 
 You can use the time range filter to view the number of stars and forks over different periods, such as the last 7 days, month, or the last year.
-
 
 ### Insights into Contributor Confidence
 
@@ -66,19 +65,19 @@ You can use the time range filter to view the number of stars and forks over dif
 
 We calculate Contributor Confidence as a percentage over a specific time period (usually 30 days). Here’s what we look at:
 
-	- **Starred Repositories**: We check if people who starred a repository have contributed to other repositories during the same timeframe. If they have, we see if they also contributed to the starred repository itself.
-	- **Forked Repositories**: Similar to starred repositories, we check if people who forked a repository have contributed elsewhere recently. We then see if they made a pull request or other contribution to the forked repository.
+ - **Starred Repositories**: We check if people who starred a repository have contributed to other repositories during the same timeframe. If they have, we see if they also contributed to the starred repository itself.
+ - **Forked Repositories**: Similar to starred repositories, we check if people who forked a repository have contributed elsewhere recently. We then see if they made a pull request or other contribution to the forked repository.
 
 #### Weighting the Score
 
-	- **Forks**: Forking a repository generally indicates a stronger intent to contribute compared to just starring it. So forks tend to have a slightly higher weighting in the confidence score.
-	- **Direct Contributions**: If someone actually makes a contribution to the repository in question, their confidence score for that specific repository becomes 100% (the highest weight).
+ - **Forks**: Forking a repository generally indicates a stronger intent to contribute compared to just starring it. So forks tend to have a slightly higher weighting in the confidence score.
+ - **Direct Contributions**: If someone actually makes a contribution to the repository in question, their confidence score for that specific repository becomes 100% (the highest weight).
 
 #### Why is it Useful?
 
 Understanding Contributor Confidence can help you gauge the health of a repository and its community. Here are a few ways you can interpret the score:
 
-	- A **high Contributor Confidence score (e.g., 37-50%)** suggests a welcoming and active repository where your contributions are likely to be seen and valued. 
+ - A **high Contributor Confidence score (e.g., 37-50%)** suggests a welcoming and active repository where your contributions are likely to be seen and valued. 
     - A **low score (e.g., 1-3%)** might indicate it’s harder for outside contributors to contribute. 
     - A **score in the range of 30-50%** often indicates a healthy and active project. 
     - An **exceptionally high score (above 40%)** could have different interpretations depending on the project. For very popular repositories, it might still reflect a strong community. For smaller projects, it could suggest a lower barrier to entry that might lead to a high volume of low-quality contributions or unfinished work.
@@ -100,21 +99,20 @@ You can find out more about how the OSSF Scorecard works and how to interpret th
 
 The Contributor Dashboard offers a comprehensive view of all contributors, showcasing the frequency and size of each person’s contributions. It also includes each active contributors [OSCR](../welcome/glossary.md#oscr).
 
-
 ### The OSCR
 
 <details>
   <summary>The Open Source Contributor Rating (OSCR) is a metric designed to evaluate the quality, confidence, and sway of a contributor's work in open source projects.</summary>
 
-#### How it works:
+#### How it works
 
 The OSCR is calculated using a combination of factors, including:
 
-  - **Contributor Confidence**: Assesses how likely a contributor is to continue engaging with projects.
-  - **Contributor Quality**: Evaluates the overall quality of contributions.
-  - **Sway**: Measures the contributor's ability to engage with and influence the community through conversations.
+- **Contributor Confidence**: Assesses how likely a contributor is to continue engaging with projects.
+- **Contributor Quality**: Evaluates the overall quality of contributions.
+- **Sway**: Measures the contributor's ability to engage with and influence the community through conversations.
 
-##### How it can be used:
+##### How it can be used
 
 - **For maintainers**: Identify key contributors and potential collaborators.
 - **For contributors**: Gauge your impact and areas for improvement as well as track your progress in open source projects.
@@ -122,8 +120,6 @@ The OSCR is calculated using a combination of factors, including:
 - **For companies**: Identify impactful contributors to sponsor or engage with based on their open source contributions.
 
 </details>
-
-
 
 Currently, only publicly available repositories on GitHub can be viewed through repository pages.
 
@@ -148,7 +144,7 @@ Currently, this feature is only available for projects with a package.json file.
 
 <details>
 <summary>
-SBOM Workspaces offer significant benefits for managing and securing software projects by providing a detailed inventory of all software components. By leveraging SBOM workspaces, organizations can enhance their software supply chain security and ensure compliance with industry standards. 
+SBOM Workspaces offer significant benefits for managing and securing software projects by providing a detailed inventory of all software components. By leveraging SBOM workspaces, organizations can enhance their software supply chain security and ensure compliance with industry standards.
 </summary>
 
 Here are the key advantages of using SBOM workspaces:
@@ -172,6 +168,8 @@ Tracking SBOMs through OpenSauced workspaces offers several advantages:
 By leveraging the Workspace from SBOM feature, you can streamline your software development process, enhance security, and maintain better control over your project's dependencies.
 
 For a comprehensive understanding of SBOMs and their importance in software security and supply chain risk management, please refer to the following authoritative sources:
+
 - [National Institute of Standards and Technology (NIST)](https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity/software-security-supply-chains-software-1)
 - [Cybersecurity and Infrastructure Security Agency (CISA)](https://www.cisa.gov/sbom)
+
 </details>

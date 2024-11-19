@@ -72,9 +72,9 @@ Your OpenSauced Profile, includes your DevCard, which is a great way to track yo
 
 #### How to check your OSCR
 
-Go to your OpenSauced Profile. For example, https://app.opensauced.pizza/u/bekahhw. You can also check out [this contributor insight page](https://app.opensauced.pizza/workspaces/cff3f17b-f052-4686-85af-72971009136b/contributor-insights/545c756a-39e0-4361-b516-9610cb413959/overview) to see the members of our 2024 cohort. 
+Go to your OpenSauced Profile. For [example](https://app.opensauced.pizza/u/bekahhw). You can also check out [this contributor insight page](https://app.opensauced.pizza/workspaces/cff3f17b-f052-4686-85af-72971009136b/contributor-insights/545c756a-39e0-4361-b516-9610cb413959/overview) to see the members of our 2024 cohort.
 
-Remember, there's value in knowing the story behind the numbers. When you share your DevCard, tell the story behind your number. 
+Remember, there's value in knowing the story behind the numbers. When you share your DevCard, tell the story behind your number.
 
 [![DevCard](../../static/img/DevCard.png)](https://app.opensauced.pizza/u/bekahhw/card)
 
@@ -94,7 +94,7 @@ To make the most of your #100DaysOfOSS journey, here are some additional resourc
 
 If you're ready to start your #100DaysOfOSS journey, here are some tips to help you get started:
 
-- **Find a project:** Explore the [OpenSauced](https://opensauced.pizza/) website to find a project that interests you. 
+- **Find a project:** Explore the [OpenSauced](https://opensauced.pizza/) website to find a project that interests you.
 - **Take our Intro To Open Source course:** If you're new to open source, we recommend taking our [Intro to Open Source course](https://opensauced.pizza/learn/#/) to learn more about open source and how to get started.
 - **Record your journey:** You will learn a lot as you navigate this challenge, so we highly recommend using our [#100DaysOfOSS journal template](https://github.com/open-sauced/100-days-of-oss-template) on GitHub or [Notion](https://www.notion.so/a0m0rajab/100-Days-Of-Open-Source-2615e66772e14152897002e348c5f1bc?pvs=13) to help you reflect. Remember, this is _your_ journey, so feel free to customize them however you like.
 - **Check our Contributors Guide:** If you're new to contributing to open source, we recommend checking out our [Contributors Guide to OpenSauced](https://opensauced.pizza/docs/contributors/contributors-guide-to-open-sauced/) to learn more about the process and best practices.

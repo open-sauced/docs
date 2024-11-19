@@ -18,7 +18,7 @@ keywords:
 - "Highlighted Insights" 
 ---
 
-If you're in GitHub, you can use the OpenSauced Chrome Extension to post a [highlight](highlights.md) of your pull requests to the OpenSauced website. 
+If you're in GitHub, you can use the OpenSauced Chrome Extension to post a [highlight](highlights.md) of your pull requests to the OpenSauced website.
 
 You can access the post to highlight it from the popup window in the extension. When you click it, it will automatically, populate the PR title and you can provide the summary.
 

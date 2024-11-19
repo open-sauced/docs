@@ -48,13 +48,13 @@ keywords:
 ### FAQs
 
 - **Can I continue conversations with StarSearch?**
-   - Not yet, but stay tuned!
+  - Not yet, but stay tuned!
 - **Can I access my search history?**
-   - This feature is currently not available, but we plan to include it in future updates.
+  - This feature is currently not available, but we plan to include it in future updates.
 - **What time range does StarSearch cover?**
-   - StarSearch is most accurate from March 1, 2024.
+  - StarSearch is most accurate from March 1, 2024.
 - **Is StarSearch always right?**
-    - StarSearch is an AI tool and may not always be accurate. We recommend verifying the information.
+  - StarSearch is an AI tool and may not always be accurate. We recommend verifying the information.
 
 ## Feedback
 

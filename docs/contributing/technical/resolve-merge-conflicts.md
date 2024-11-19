@@ -46,6 +46,7 @@ cd project-name
 ```bash
 git remote add upstream https://github.com/upstream-username/upstream-repository.git
 ```
+
 3. Pull the latest changes from the `upstream`.
 
 ```bash

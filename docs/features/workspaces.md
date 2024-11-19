@@ -54,7 +54,7 @@ Within the repositories dashboard, you can view the following metrics, which are
 
 #### Activity Dashboard
 
-The Activity Dashboard provides a centralized view of recent activity across repositories, including detailed tables for Pull Requests (PRs) and Issues. These tables offer insights into ongoing contributions, bug fixes, feature requests, and more. 
+The Activity Dashboard provides a centralized view of recent activity across repositories, including detailed tables for Pull Requests (PRs) and Issues. These tables offer insights into ongoing contributions, bug fixes, feature requests, and more.
 
 ##### Pull Requests Table
 
@@ -108,12 +108,11 @@ When you use StarSearch within a Workspace, you're essentially treating that Wor
 
 <details>
   <summary>Workspace Prompt Suggestions</summary>
-- What are the types of pull requests @contributor has worked on? 
+- What are the types of pull requests @contributor has worked on?
 - Who is writing issues in these repositories?
 - Who commits directly to the main branch?
 - Who are my top pull request contributors?
 </details>
-
 
 ## How to Share a Workspace
 
@@ -123,7 +122,7 @@ You can share your Workspace with others by copying the URL and sending it to th
 
 Team Workspaces are designed to help teams collaborate on and understand open source projects. Team Workspaces are public by default. However, you can switch it to private in your settings so only team members can view the Workspace.
 
-By upgrading to a team Workspace, you'll have unlimited Contributor and Repository Insights, as well as the ability to toggle between private and public visibility. 
+By upgrading to a team Workspace, you'll have unlimited Contributor and Repository Insights, as well as the ability to toggle between private and public visibility.
 
 :::info
 

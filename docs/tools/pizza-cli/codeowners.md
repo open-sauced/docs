@@ -29,6 +29,7 @@ pizza generate config /path/to/local/git/repo
 ```
 
 **This command will:**
+
 - Iterate through the git ref-log
 - Inspect email signatures for commits
 - In interactive mode, ask you to attribute those users with GitHub handles
@@ -44,16 +45,19 @@ The resulting `.sauced.yaml` file can be used to attribute owners in a `CODEOWNE
 ### Configuration Generation Examples
 
 1. Generate a config file in the current directory:
+
    ```sh
    pizza generate config ./
    ```
 
 2. Generate a config file interactively:
+
    ```sh
    pizza generate config ./ -i
    ```
 
 3. Generate a config file from the current directory and place resulting `.sauced.yaml` in a specific output directory:
+
    ```sh
    pizza generate config ./ -o /path/to/directory
    ```
@@ -163,6 +167,7 @@ Without fallback, the codeowners generation might create a CODEOWNERS file like 
 /file/with/codeowner @jpmcb
 /file/without/codeowner @open-sauced/engineering
 ```
+
 This ensures that all files have an assigned owner, even if there were no commits in the specified time range for certain files.
 
 ## Codeowners Command
@@ -178,11 +183,13 @@ If you're already in your repository's root directory, you can use:
 ```bash
 pizza generate codeowners .
 ```
+
 :::info
 
 - Ensure you have the necessary permissions to read the repository and write the CODEOWNERS file.
 - The command requires a `.sauced.yaml` file in the repository root for accurate attribution (as described in the previous section).
 - If you encounter any errors, double-check that you've provided the correct path to your repository.
+
 :::
 
 The codeowners command will analyze your repository's commit history and generate a CODEOWNERS file based on contributors' activity in the last 90 days.
