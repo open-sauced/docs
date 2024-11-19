@@ -1,3 +1,4 @@
+// https://docusaurus.io/docs/configuration
 // https://docusaurus.io/docs/typescript-support
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
