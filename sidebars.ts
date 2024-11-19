@@ -1,15 +1,6 @@
-/**
- * Creating a sidebar enables you to:
- - create an ordered group of docs
- - render a sidebar for each doc of that group
- - provide next/previous navigation
+import type { SidebarsConfig } from "@docusaurus/plugin-content-docs";
 
- The sidebars can be generated from the filesystem, or explicitly defined here.
-
- Create as many sidebars as you want.
- */
-
-module.exports = {
+const sidebars: SidebarsConfig = {
   docs: [
     "introduction",
     {
@@ -113,13 +104,11 @@ module.exports = {
               label: "Using the Chrome Extension",
               items: [
                 {
-                  type: "file",
                   label: "feature 3",
                   type: "doc",
                   id: "tools/chrome-extension/highlights",
                 },
                 {
-                  type: "file",
                   label: "feature 6",
                   type: "doc",
                   id: "tools/chrome-extension/viewing-insights-and-invitations",
@@ -174,3 +163,5 @@ module.exports = {
     },
   ],
 };
+
+export default sidebars;

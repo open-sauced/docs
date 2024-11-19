@@ -1,11 +1,14 @@
-const { themes } = require('prism-react-renderer');
+// https://docusaurus.io/docs/typescript-support
+import type { Config } from "@docusaurus/types";
+import type * as Preset from "@docusaurus/preset-classic";
+import { themes } from "prism-react-renderer";
+
 const lightCodeTheme = themes.github;
 const darkCodeTheme = themes.dracula;
 // This is defined in the Netlify environment variables on the Netlify UI
 const { ADD_SLASH_DOCS_TO_URL } = process.env;
 
-/** @type {import('@docusaurus/types').DocusaurusConfig} */
-module.exports = {
+const config: Config = {
   title: "OpenSauced",
   tagline: "The path to your next Open Source contribution",
   url: ADD_SLASH_DOCS_TO_URL ? "https://opensauced.pizza" : "https://docs.opensauced.pizza",
@@ -17,14 +20,11 @@ module.exports = {
   projectName: "docs.opensauced.pizza", // Usually your repo name.
   trailingSlash: true,
   themeConfig: {
-    metadata: [{name: 'keywords', content: 'open source, open source insights, OSS'}],
+    metadata: [{ name: "keywords", content: "open source, open source insights, OSS" }],
     algolia: {
       appId: "RH1WG3CUDK",
       apiKey: "ea723aba7d69f2f36feac9292f2d2fe9",
       indexName: "dev_docs_index",
-      algoliaOptions: { facetFilters: ["type:$TYPE"] },
-      debug: false,
-      placeholder: "Search OpenSauced Docs",
     },
     navbar: {
       logo: {
@@ -66,9 +66,9 @@ module.exports = {
           position: "right",
         },
         {
-         to: "community-resources",
-         label: "Community Resources",
-         position: "left"
+          to: "community-resources",
+          label: "Community Resources",
+          position: "left",
         },
       ],
     },
@@ -125,9 +125,8 @@ module.exports = {
             },
             {
               label: "Watch our feature demos",
-              href: "https://www.youtube.com/playlist?list=PLHyZ0Wz_A44VRlE-YS9me5qxDNRgK5T3H"
-             }
-
+              href: "https://www.youtube.com/playlist?list=PLHyZ0Wz_A44VRlE-YS9me5qxDNRgK5T3H",
+            },
           ],
         },
       ],
@@ -137,7 +136,7 @@ module.exports = {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
     },
-  },
+  } satisfies Preset.ThemeConfig,
   presets: [
     [
       "@docusaurus/preset-classic",
@@ -151,21 +150,21 @@ module.exports = {
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
-          blog: {
-            blogSidebarTitle: 'All posts',
-            blogSidebarCount: 'ALL',
-            showReadingTime: true,
-            routeBasePath: '/community-resources',
-            path: './blog',
-            },
-            theme: {
-            customCss: require.resolve("./src/css/custom.css"),
+        blog: {
+          blogSidebarTitle: "All posts",
+          blogSidebarCount: "ALL",
+          showReadingTime: true,
+          routeBasePath: "/community-resources",
+          path: "./blog",
+        },
+        theme: {
+          customCss: require.resolve("./src/css/custom.css"),
         },
         sitemap: {
           changefreq: "weekly",
           priority: 0.5,
         },
-      },
+      } satisfies Preset.Options,
     ],
   ],
   plugins: [
@@ -228,8 +227,10 @@ module.exports = {
       "posthog-docusaurus",
       {
         apiKey: "phc_Uxc9yqu1fvo0DmTMYxWAHUmh8vEzvYcB1UV3xbzUG6I",
-        enableInDevelopment: true
-      }
-    ]
+        enableInDevelopment: true,
+      },
+    ],
   ],
 };
+
+export default config;

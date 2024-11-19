@@ -3,7 +3,8 @@
 
   [![OpenSauced](https://github.com/open-sauced/assets/blob/main/logos/logo-on-dark.png)](https://opensauced.pizza)
 
-  # 🍕 OpenSauced Docs 🍕
+# 🍕 OpenSauced Docs 🍕
+  >
   > The path to your next Open Source contribution
 
   [![Code Size](https://img.shields.io/github/languages/code-size/open-sauced/docs.opensauced.pizza?style=flat)](https://github.com/open-sauced/docs.opensauced.pizza/pulse)
@@ -12,7 +13,6 @@
   [![Releases](https://img.shields.io/github/v/release/open-sauced/docs.opensauced.pizza.svg?style=flat)](https://github.com/open-sauced/docs.opensauced.pizza/releases)
   [![Twitter](https://img.shields.io/twitter/follow/saucedopen?label=Follow&style=social)](https://twitter.com/saucedopen)
 </div>
-
 
 ## 🤝 Contributing
 
